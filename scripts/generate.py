@@ -87,6 +87,27 @@ LANGUAGES = {
         "result": "Resultado",
         "reminder": "A partida começa em 30 minutos",
     },
+    "fr": {
+        "calendar_name": "Coupe du Monde FIFA 2026",
+        "calendar_desc": (
+            "Tous les matches de la Coupe du Monde FIFA 2026 — "
+            "États-Unis, Canada et Mexique"
+        ),
+        "phase": {
+            "Matchday": "Jour de match",
+            "Round of 32": "1/16ème de finale",
+            "Round of 16": "1/8ème de finale",
+            "Quarter-final": "1/4 de finale",
+            "Semi-final": "Demie Finale",
+            "Match for third place": "Match pour la 3ème place",
+            "Final": "Finale",
+        },
+        "group": "Groupe",
+        "venue": "Stade",
+        "vs": "vs",
+        "result": "Résultat",
+        "reminder": "Match commence dans 30 minutes",
+    },
 }
 
 # ---------------------------------------------------------------------------
