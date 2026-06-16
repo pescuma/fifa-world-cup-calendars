@@ -509,7 +509,10 @@ def create_event(match: dict, lang: str, state: dict) -> Event:
     ground = match.get("ground", "TBD")
     score = format_score(match)
 
-    summary = f"{team1} {t['vs']} {team2}"
+    if score:
+        summary = f"{team1} {score} {team2}"
+    else:
+        summary = f"{team1} {t['vs']} {team2}"
 
     desc_lines = [phase_localized]
     if group:
