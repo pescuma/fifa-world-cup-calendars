@@ -3,6 +3,7 @@
 
 import json
 import hashlib
+import os
 import re
 import unicodedata
 import urllib.request
@@ -366,6 +367,7 @@ COUNTRY_CODES = {
     "Wales": "WLS",
 }
 
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -447,6 +449,7 @@ def localize_phase(phase_key: str, lang: str) -> str:
         return f"{t['Matchday']} {num}"
     return t.get(phase_key, phase_key)
 
+
 def localize_team(team: str, lang: str) -> str:
     """Translate a team name using its country code."""
     if team not in COUNTRY_CODES:
@@ -456,6 +459,7 @@ def localize_team(team: str, lang: str) -> str:
     name = LANGUAGES[lang]["countries"].get(code, team)
     flag = country_code_to_flag(code)
     return f"{flag} {name}"
+
 
 def country_code_to_flag(country_code: str) -> str:
     """Convert a 2-letter country code into a Unicode flag emoji."""
@@ -475,6 +479,7 @@ def country_code_to_flag(country_code: str) -> str:
 
     return ''.join(chr(ord(char) + 127397) for char in country_code)
 
+
 def format_score(match: dict) -> str | None:
     """Extract full-time score if available."""
     score = match.get("score")
@@ -487,12 +492,12 @@ def format_score(match: dict) -> str | None:
 
 
 def event_content_hash(
-    summary: str,
-    description: str,
-    location: str,
-    dtstart: datetime,
-    dtend: datetime,
-    score: str | None,
+        summary: str,
+        description: str,
+        location: str,
+        dtstart: datetime,
+        dtend: datetime,
+        score: str | None,
 ) -> str:
     """Create a hash of event content to detect changes."""
     payload = "|".join(
@@ -513,7 +518,7 @@ def event_content_hash(
 # ---------------------------------------------------------------------------
 
 
-def create_event(match: dict, lang: str, state: dict) -> Event:
+def create_event(match: dict, lang: str, state: dict, now: datetime) -> Event:
     """Create an icalendar Event for a single match."""
     t = LANGUAGES[lang]
 
@@ -528,7 +533,7 @@ def create_event(match: dict, lang: str, state: dict) -> Event:
     phase_key = match.get("round", "")
     phase_localized = localize_phase(phase_key, lang)
     group = match.get("group")
-    ground = match.get("ground", "TBD")
+    venue = match.get("ground", "TBD")
     score = format_score(match)
 
     if score:
@@ -539,31 +544,32 @@ def create_event(match: dict, lang: str, state: dict) -> Event:
     desc_lines = [phase_localized]
     if group:
         desc_lines.append(f"{t['group']}: {group}")
-    desc_lines.append(f"{t['venue']}: {ground}")
+    desc_lines.append(f"{t['venue']}: {venue}")
     if score:
         desc_lines.append(f"{t['result']}: {score}")
     description = "\n".join(desc_lines)
 
-    location = ground
-
     content_hash = event_content_hash(
-        summary, description, location, dt_start, dt_end, score
+        summary, description, venue, dt_start, dt_end, score
     )
+
     prev = state.get(uid, {})
     if prev.get("hash") != content_hash:
         sequence = prev.get("sequence", -1) + 1
-        state[uid] = {"sequence": sequence, "hash": content_hash, "score": score}
+        dtstamp = now
+        state[uid] = {"hash": content_hash, "sequence": sequence, "dtstamp": dtstamp.isoformat()}
     else:
         sequence = prev.get("sequence", 0)
+        dtstamp = datetime.fromisoformat(prev.get("dtstamp", ""))
 
     event = Event()
     event.add("uid", uid)
-    event.add("dtstamp", datetime.now(timezone.utc))
+    event.add("dtstamp", dtstamp)
     event.add("dtstart", dt_start)
     event.add("dtend", dt_end)
     event.add("summary", summary)
     event.add("description", description)
-    event.add("location", vText(location))
+    event.add("location", vText(venue))
     event.add("sequence", sequence)
     event.add("status", "CONFIRMED")
     event.add("transp", "OPAQUE")
@@ -579,11 +585,12 @@ def create_event(match: dict, lang: str, state: dict) -> Event:
 
 
 def generate_calendar(
-    matches: list[dict],
-    lang: str,
-    state: dict,
-    calendar_name: str | None = None,
-    calendar_desc: str | None = None,
+        matches: list[dict],
+        lang: str,
+        state: dict,
+        now: datetime,
+        calendar_name: str | None = None,
+        calendar_desc: str | None = None
 ) -> Calendar:
     """Generate a complete Calendar for a given language."""
     t = LANGUAGES[lang]
@@ -598,7 +605,7 @@ def generate_calendar(
     cal.add("x-wr-timezone", "UTC")
 
     for match in matches:
-        event = create_event(match, lang, state)
+        event = create_event(match, lang, state, now)
         cal.add_component(event)
 
     return cal
@@ -653,11 +660,15 @@ def main() -> None:
 
     state = load_state()
 
+    now = datetime.now(timezone.utc)
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
     # --- Generate "all matches" calendars ---
     for lang in LANGUAGES:
         print(f"Generating {lang}.ics ...")
         lang_state = state["all"].get(lang, {})
-        cal = generate_calendar(matches, lang, lang_state)
+        cal = generate_calendar(matches, lang, lang_state, now)
         state["all"][lang] = lang_state
         with open(OUTPUT_DIR / f"{lang}.ics", "wb") as f:
             f.write(cal.to_ical())
@@ -688,10 +699,7 @@ def main() -> None:
             cal_desc = f"{t['calendar_desc']} — {team_name} matches only"
 
             lang_state = state["teams"].setdefault(team_slug, {}).get(lang, {})
-            cal = generate_calendar(
-                team_matches, lang, lang_state,
-                calendar_name=cal_name, calendar_desc=cal_desc
-            )
+            cal = generate_calendar(team_matches, lang, lang_state, now, cal_name, cal_desc)
             state["teams"].setdefault(team_slug, {})[lang] = lang_state
 
             with open(team_dir / f"{lang}.ics", "wb") as f:
