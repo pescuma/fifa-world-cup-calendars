@@ -1,22 +1,23 @@
 #!/usr/bin/env python3
-"""Generate FIFA World Cup 2026 .ics calendar files — all matches + per-team."""
+"""Generate FIFA World Cup .ics calendar files — all matches + per-team."""
 
 import json
 import hashlib
-import os
 import re
 import unicodedata
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, date, timedelta, timezone
 from pathlib import Path
+from babel import Locale
 
 from icalendar import Alarm, Calendar, Event, vText
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-DATA_URL = "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json"
-STATE_FILE = Path("data/state.json")
+YEARS = [2002, 2006, 2010, 2014, 2018, 2022, 2026]
+DATA_URL = "https://raw.githubusercontent.com/openfootball/worldcup.json/master/{year}/worldcup.json"
+STATE_DIR = Path("state")
 OUTPUT_DIR = Path("calendars")
 MATCH_DURATION = timedelta(hours=2)
 UID_DOMAIN = "worldcup-calendar"
@@ -26,61 +27,15 @@ UID_DOMAIN = "worldcup-calendar"
 # ---------------------------------------------------------------------------
 LANGUAGES = {
     "en": {
-        "calendar_name": "FIFA World Cup 2026",
+        "calendar_name": "FIFA World Cup {year}",
         "calendar_desc": (
-            "All matches of the FIFA World Cup 2026 — "
-            "United States, Canada & Mexico"
+            "All matches of the FIFA World Cup {year}"
         ),
         "countries": {
-            "AR": "Argentina",
-            "AT": "Austria",
-            "AU": "Australia",
-            "BA": "Bosnia & Herzegovina",
-            "BE": "Belgium",
-            "BR": "Brazil",
-            "CA": "Canada",
-            "CD": "DR Congo",
-            "CH": "Switzerland",
-            "CI": "Ivory Coast",
-            "CO": "Colombia",
-            "CV": "Cape Verde",
-            "CW": "Curaçao",
-            "CZ": "Czech Republic",
-            "DE": "Germany",
-            "DZ": "Algeria",
-            "EC": "Ecuador",
-            "EG": "Egypt",
+            "CS": "Serbia and Montenegro",
             "ENG": "England",
-            "ES": "Spain",
-            "FR": "France",
-            "GB": "United Kingdom",
-            "GH": "Ghana",
-            "HR": "Croatia",
-            "HT": "Haiti",
-            "IQ": "Iraq",
-            "IR": "Iran",
-            "JO": "Jordan",
-            "JP": "Japan",
-            "KR": "South Korea",
-            "MA": "Morocco",
-            "MX": "Mexico",
-            "NL": "Netherlands",
-            "NO": "Norway",
-            "NZ": "New Zealand",
-            "PA": "Panama",
-            "PT": "Portugal",
-            "PY": "Paraguay",
-            "QA": "Qatar",
-            "SA": "Saudi Arabia",
             "SCT": "Scotland",
-            "SE": "Sweden",
-            "SN": "Senegal",
-            "TR": "Turkey",
-            "US": "USA",
-            "UY": "Uruguay",
-            "UZ": "Uzbekistan",
             "WLS": "Wales",
-            "ZA": "South Africa",
         },
         "phase": {
             "Matchday": "Matchday",
@@ -98,61 +53,15 @@ LANGUAGES = {
         "reminder": "Match starts in 30 minutes",
     },
     "es": {
-        "calendar_name": "Copa Mundial de la FIFA 2026",
+        "calendar_name": "Copa Mundial de la FIFA {year}",
         "calendar_desc": (
-            "Todos los partidos de la Copa Mundial de la FIFA 2026 — "
-            "Estados Unidos, Canadá y México"
+            "Todos los partidos de la Copa Mundial de la FIFA {year}"
         ),
         "countries": {
-            "AR": "Argentina",
-            "AT": "Austria",
-            "AU": "Australia",
-            "BA": "Bosnia y Herzegovina",
-            "BE": "Bélgica",
-            "BR": "Brasil",
-            "CA": "Canadá",
-            "CD": "RD Congo",
-            "CH": "Suiza",
-            "CI": "Costa de Marfil",
-            "CO": "Colombia",
-            "CV": "Cabo Verde",
-            "CW": "Curazao",
-            "CZ": "República Checa",
-            "DE": "Alemania",
-            "DZ": "Argelia",
-            "EC": "Ecuador",
-            "EG": "Egipto",
+            "CS": "Serbia y Montenegro",
             "ENG": "Inglaterra",
-            "ES": "España",
-            "FR": "Francia",
-            "GB": "Reino Unido",
-            "GH": "Ghana",
-            "HR": "Croacia",
-            "HT": "Haití",
-            "IQ": "Irak",
-            "IR": "Irán",
-            "JO": "Jordania",
-            "JP": "Japón",
-            "KR": "Corea del Sur",
-            "MA": "Marruecos",
-            "MX": "México",
-            "NL": "Países Bajos",
-            "NO": "Noruega",
-            "NZ": "Nueva Zelanda",
-            "PA": "Panamá",
-            "PT": "Portugal",
-            "PY": "Paraguay",
-            "QA": "Catar",
-            "SA": "Arabia Saudita",
             "SCT": "Escocia",
-            "SE": "Suecia",
-            "SN": "Senegal",
-            "TR": "Turquía",
-            "US": "Estados Unidos",
-            "UY": "Uruguay",
-            "UZ": "Uzbekistán",
             "WLS": "Gales",
-            "ZA": "Sudáfrica",
         },
         "phase": {
             "Matchday": "Jornada",
@@ -170,61 +79,15 @@ LANGUAGES = {
         "reminder": "El partido comienza en 30 minutos",
     },
     "pt": {
-        "calendar_name": "Copa do Mundo FIFA 2026",
+        "calendar_name": "Copa do Mundo FIFA {year}",
         "calendar_desc": (
-            "Todas as partidas da Copa do Mundo FIFA 2026 — "
-            "Estados Unidos, Canadá e México"
+            "Todas as partidas da Copa do Mundo FIFA {year}"
         ),
         "countries": {
-            "AR": "Argentina",
-            "AT": "Áustria",
-            "AU": "Austrália",
-            "BA": "Bósnia e Herzegovina",
-            "BE": "Bélgica",
-            "BR": "Brasil",
-            "CA": "Canadá",
-            "CD": "RD Congo",
-            "CH": "Suíça",
-            "CI": "Costa do Marfim",
-            "CO": "Colômbia",
-            "CV": "Cabo Verde",
-            "CW": "Curaçao",
-            "CZ": "República Tcheca",
-            "DE": "Alemanha",
-            "DZ": "Argélia",
-            "EC": "Equador",
-            "EG": "Egito",
+            "CS": "Sérvia e Montenegro",
             "ENG": "Inglaterra",
-            "ES": "Espanha",
-            "FR": "França",
-            "GB": "Reino Unido",
-            "GH": "Gana",
-            "HR": "Croácia",
-            "HT": "Haiti",
-            "IQ": "Iraque",
-            "IR": "Irã",
-            "JO": "Jordânia",
-            "JP": "Japão",
-            "KR": "Coreia do Sul",
-            "MA": "Marrocos",
-            "MX": "México",
-            "NL": "Países Baixos",
-            "NO": "Noruega",
-            "NZ": "Nova Zelândia",
-            "PA": "Panamá",
-            "PT": "Portugal",
-            "PY": "Paraguai",
-            "QA": "Catar",
-            "SA": "Arábia Saudita",
             "SCT": "Escócia",
-            "SE": "Suécia",
-            "SN": "Senegal",
-            "TR": "Turquia",
-            "US": "Estados Unidos",
-            "UY": "Uruguai",
-            "UZ": "Uzbequistão",
             "WLS": "País de Gales",
-            "ZA": "África do Sul",
         },
         "phase": {
             "Matchday": "Rodada",
@@ -242,61 +105,15 @@ LANGUAGES = {
         "reminder": "A partida começa em 30 minutos",
     },
     "fr": {
-        "calendar_name": "Coupe du Monde FIFA 2026",
+        "calendar_name": "Coupe du Monde FIFA {year}",
         "calendar_desc": (
-            "Tous les matches de la Coupe du Monde FIFA 2026 — "
-            "États-Unis, Canada et Mexique"
+            "Tous les matches de la Coupe du Monde FIFA {year}"
         ),
         "countries": {
-            "AR": "Argentine",
-            "AT": "Autriche",
-            "AU": "Australie",
-            "BA": "Bosnie-Herzégovine",
-            "BE": "Belgique",
-            "BR": "Brésil",
-            "CA": "Canada",
-            "CD": "RD Congo",
-            "CH": "Suisse",
-            "CI": "Côte d'Ivoire",
-            "CO": "Colombie",
-            "CV": "Cap-Vert",
-            "CW": "Curaçao",
-            "CZ": "République tchèque",
-            "DE": "Allemagne",
-            "DZ": "Algérie",
-            "EC": "Équateur",
-            "EG": "Égypte",
+            "CS": "Serbie-et-Monténégro",
             "ENG": "Angleterre",
-            "ES": "Espagne",
-            "FR": "France",
-            "GB": "Royaume-Uni",
-            "GH": "Ghana",
-            "HR": "Croatie",
-            "HT": "Haïti",
-            "IQ": "Irak",
-            "IR": "Iran",
-            "JO": "Jordanie",
-            "JP": "Japon",
-            "KR": "Corée du Sud",
-            "MA": "Maroc",
-            "MX": "Mexique",
-            "NL": "Pays-Bas",
-            "NO": "Norvège",
-            "NZ": "Nouvelle-Zélande",
-            "PA": "Panama",
-            "PT": "Portugal",
-            "PY": "Paraguay",
-            "QA": "Qatar",
-            "SA": "Arabie saoudite",
             "SCT": "Écosse",
-            "SE": "Suède",
-            "SN": "Sénégal",
-            "TR": "Turquie",
-            "US": "États-Unis",
-            "UY": "Uruguay",
-            "UZ": "Ouzbékistan",
             "WLS": "Pays de Galles",
-            "ZA": "Afrique du Sud",
         },
         "phase": {
             "Matchday": "Jour de match",
@@ -316,55 +133,407 @@ LANGUAGES = {
 }
 
 COUNTRY_CODES = {
+    "Afghanistan": "AF",
+    "Albania": "AL",
     "Algeria": "DZ",
+    "Andorra": "AD",
+    "Angola": "AO",
+    "Antigua and Barbuda": "AG",
     "Argentina": "AR",
+    "Armenia": "AM",
     "Australia": "AU",
     "Austria": "AT",
+    "Azerbaijan": "AZ",
+    "Bahamas": "BS",
+    "Bahrain": "BH",
+    "Bangladesh": "BD",
+    "Barbados": "BB",
+    "Belarus": "BY",
     "Belgium": "BE",
+    "Belize": "BZ",
+    "Benin": "BJ",
+    "Bhutan": "BT",
+    "Bolivia": "BO",
     "Bosnia & Herzegovina": "BA",
+    "Bosnia-Herzegovina": "BA",
+    "Botswana": "BW",
     "Brazil": "BR",
+    "Brunei": "BN",
+    "Bulgaria": "BG",
+    "Burkina Faso": "BF",
+    "Burundi": "BI",
+    "Cambodia": "KH",
+    "Cameroon": "CM",
     "Canada": "CA",
     "Cape Verde": "CV",
+    "Central African Republic": "CF",
+    "Chad": "TD",
+    "Chile": "CL",
+    "China": "CN",
     "Colombia": "CO",
+    "Comoros": "KM",
+    "Congo": "CG",
+    "Costa Rica": "CR",
     "Croatia": "HR",
     "Curaçao": "CW",
+    "Cyprus": "CY",
     "Czech Republic": "CZ",
+    "Côte d'Ivoire": "CI",
     "DR Congo": "CD",
+    "Denmark": "DK",
+    "Djibouti": "DJ",
+    "Dominica": "DM",
+    "Dominican Republic": "DO",
     "Ecuador": "EC",
     "Egypt": "EG",
+    "El Salvador": "SV",
     "England": "ENG",
+    "Equatorial Guinea": "GQ",
+    "Eritrea": "ER",
+    "Estonia": "EE",
+    "Eswatini": "SZ",
+    "Ethiopia": "ET",
+    "Fiji": "FJ",
+    "Finland": "FI",
     "France": "FR",
+    "Gabon": "GA",
+    "Gambia": "GM",
+    "Georgia": "GE",
     "Germany": "DE",
     "Ghana": "GH",
+    "Greece": "GR",
+    "Grenada": "GD",
+    "Guatemala": "GT",
+    "Guinea": "GN",
+    "Guinea-Bissau": "GW",
+    "Guyana": "GY",
     "Haiti": "HT",
+    "Honduras": "HN",
+    "Iceland": "IS",
+    "India": "IN",
+    "Indonesia": "ID",
     "Iran": "IR",
     "Iraq": "IQ",
+    "Ireland": "IE",
+    "Israel": "IL",
+    "Italy": "IT",
     "Ivory Coast": "CI",
+    "Jamaica": "JM",
     "Japan": "JP",
     "Jordan": "JO",
+    "Kazakhstan": "KZ",
+    "Kenya": "KE",
+    "Kiribati": "KI",
+    "Kosovo": "XK",
+    "Kuwait": "KW",
+    "Kyrgyzstan": "KG",
+    "Laos": "LA",
+    "Latvia": "LV",
+    "Lebanon": "LB",
+    "Lesotho": "LS",
+    "Liberia": "LR",
+    "Libya": "LY",
+    "Liechtenstein": "LI",
+    "Lithuania": "LT",
+    "Luxembourg": "LU",
+    "Madagascar": "MG",
+    "Malawi": "MW",
+    "Malaysia": "MY",
+    "Maldives": "MV",
+    "Mali": "ML",
+    "Malta": "MT",
+    "Marshall Islands": "MH",
+    "Mauritania": "MR",
+    "Mauritius": "MU",
     "Mexico": "MX",
+    "Micronesia": "FM",
+    "Moldova": "MD",
+    "Monaco": "MC",
+    "Mongolia": "MN",
+    "Montenegro": "ME",
     "Morocco": "MA",
+    "Mozambique": "MZ",
+    "Myanmar": "MM",
+    "Namibia": "NA",
+    "Nauru": "NR",
+    "Nepal": "NP",
     "Netherlands": "NL",
     "New Zealand": "NZ",
+    "Nicaragua": "NI",
+    "Niger": "NE",
+    "Nigeria": "NG",
+    "North Korea": "KP",
+    "North Macedonia": "MK",
     "Norway": "NO",
+    "Oman": "OM",
+    "Pakistan": "PK",
+    "Palau": "PW",
+    "Palestine": "PS",
     "Panama": "PA",
+    "Papua New Guinea": "PG",
     "Paraguay": "PY",
+    "Peru": "PE",
+    "Philippines": "PH",
+    "Poland": "PL",
     "Portugal": "PT",
     "Qatar": "QA",
+    "Romania": "RO",
+    "Russia": "RU",
+    "Rwanda": "RW",
+    "Saint Kitts and Nevis": "KN",
+    "Saint Lucia": "LC",
+    "Saint Vincent and the Grenadines": "VC",
+    "Samoa": "WS",
+    "San Marino": "SM",
+    "Sao Tome and Principe": "ST",
     "Saudi Arabia": "SA",
     "Scotland": "SCT",
     "Senegal": "SN",
+    "Serbia and Montenegro": "CS",
+    "Serbia": "RS",
+    "Seychelles": "SC",
+    "Sierra Leone": "SL",
+    "Singapore": "SG",
+    "Slovakia": "SK",
+    "Slovenia": "SI",
+    "Solomon Islands": "SB",
+    "Somalia": "SO",
     "South Africa": "ZA",
     "South Korea": "KR",
+    "South Sudan": "SS",
     "Spain": "ES",
+    "Sri Lanka": "LK",
+    "Sudan": "SD",
+    "Suriname": "SR",
     "Sweden": "SE",
     "Switzerland": "CH",
+    "Syria": "SY",
+    "Tajikistan": "TJ",
+    "Tanzania": "TZ",
+    "Thailand": "TH",
+    "Timor-Leste": "TL",
+    "Togo": "TG",
+    "Trinidad and Tobago": "TT",
     "Tunisia": "TN",
     "Turkey": "TR",
+    "Turkmenistan": "TM",
+    "Tuvalu": "TV",
     "USA": "US",
+    "Uganda": "UG",
+    "Ukraine": "UA",
+    "United Arab Emirates": "AE",
+    "United Kingdom": "GB",
     "Uruguay": "UY",
     "Uzbekistan": "UZ",
+    "Vanuatu": "VU",
+    "Vatican City": "VA",
+    "Venezuela": "VE",
+    "Vietnam": "VN",
     "Wales": "WLS",
+    "Yemen": "YE",
+    "Zambia": "ZM",
+    "Zimbabwe": "ZW",
+}
+
+COUNTRY_FLAGS = {
+    "AD": "🇦🇩",
+    "AE": "🇦🇪",
+    "AF": "🇦🇫",
+    "AG": "🇦🇬",
+    "AL": "🇦🇱",
+    "AM": "🇦🇲",
+    "AO": "🇦🇴",
+    "AR": "🇦🇷",
+    "AT": "🇦🇹",
+    "AU": "🇦🇺",
+    "AZ": "🇦🇿",
+    "BA": "🇧🇦",
+    "BB": "🇧🇧",
+    "BD": "🇧🇩",
+    "BE": "🇧🇪",
+    "BF": "🇧🇫",
+    "BG": "🇧🇬",
+    "BH": "🇧🇭",
+    "BI": "🇧🇮",
+    "BJ": "🇧🇯",
+    "BN": "🇧🇳",
+    "BO": "🇧🇴",
+    "BR": "🇧🇷",
+    "BS": "🇧🇸",
+    "BT": "🇧🇹",
+    "BW": "🇧🇼",
+    "BY": "🇧🇾",
+    "BZ": "🇧🇿",
+    "CA": "🇨🇦",
+    "CD": "🇨🇩",
+    "CF": "🇨🇫",
+    "CG": "🇨🇬",
+    "CH": "🇨🇭",
+    "CI": "🇨🇮",
+    "CL": "🇨🇱",
+    "CM": "🇨🇲",
+    "CN": "🇨🇳",
+    "CO": "🇨🇴",
+    "CR": "🇨🇷",
+    "CS": "🇷🇸🇲🇪",
+    "CV": "🇨🇻",
+    "CW": "🇨🇼",
+    "CY": "🇨🇾",
+    "CZ": "🇨🇿",
+    "DE": "🇩🇪",
+    "DJ": "🇩🇯",
+    "DK": "🇩🇰",
+    "DM": "🇩🇲",
+    "DO": "🇩🇴",
+    "DZ": "🇩🇿",
+    "EC": "🇪🇨",
+    "EE": "🇪🇪",
+    "EG": "🇪🇬",
+    "ENG": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "ER": "🇪🇷",
+    "ES": "🇪🇸",
+    "ET": "🇪🇹",
+    "FI": "🇫🇮",
+    "FJ": "🇫🇯",
+    "FM": "🇫🇲",
+    "FR": "🇫🇷",
+    "GA": "🇬🇦",
+    "GB": "🇬🇧",
+    "GD": "🇬🇩",
+    "GE": "🇬🇪",
+    "GH": "🇬🇭",
+    "GM": "🇬🇲",
+    "GN": "🇬🇳",
+    "GQ": "🇬🇶",
+    "GR": "🇬🇷",
+    "GT": "🇬🇹",
+    "GW": "🇬🇼",
+    "GY": "🇬🇾",
+    "HN": "🇭🇳",
+    "HR": "🇭🇷",
+    "HT": "🇭🇹",
+    "ID": "🇮🇩",
+    "IE": "🇮🇪",
+    "IL": "🇮🇱",
+    "IN": "🇮🇳",
+    "IQ": "🇮🇶",
+    "IR": "🇮🇷",
+    "IS": "🇮🇸",
+    "IT": "🇮🇹",
+    "JM": "🇯🇲",
+    "JO": "🇯🇴",
+    "JP": "🇯🇵",
+    "KE": "🇰🇪",
+    "KG": "🇰🇬",
+    "KH": "🇰🇭",
+    "KI": "🇰🇮",
+    "KM": "🇰🇲",
+    "KN": "🇰🇳",
+    "KP": "🇰🇵",
+    "KR": "🇰🇷",
+    "KW": "🇰🇼",
+    "KZ": "🇰🇿",
+    "LA": "🇱🇦",
+    "LB": "🇱🇧",
+    "LC": "🇱🇨",
+    "LI": "🇱🇮",
+    "LK": "🇱🇰",
+    "LR": "🇱🇷",
+    "LS": "🇱🇸",
+    "LT": "🇱🇹",
+    "LU": "🇱🇺",
+    "LV": "🇱🇻",
+    "LY": "🇱🇾",
+    "MA": "🇲🇦",
+    "MC": "🇲🇨",
+    "MD": "🇲🇩",
+    "ME": "🇲🇪",
+    "MG": "🇲🇬",
+    "MH": "🇲🇭",
+    "MK": "🇲🇰",
+    "ML": "🇲🇱",
+    "MM": "🇲🇲",
+    "MN": "🇲🇳",
+    "MR": "🇲🇷",
+    "MT": "🇲🇹",
+    "MU": "🇲🇺",
+    "MV": "🇲🇻",
+    "MW": "🇲🇼",
+    "MX": "🇲🇽",
+    "MY": "🇲🇾",
+    "MZ": "🇲🇿",
+    "NA": "🇳🇦",
+    "NE": "🇳🇪",
+    "NG": "🇳🇬",
+    "NI": "🇳🇮",
+    "NL": "🇳🇱",
+    "NO": "🇳🇴",
+    "NP": "🇳🇵",
+    "NR": "🇳🇷",
+    "NZ": "🇳🇿",
+    "OM": "🇴🇲",
+    "PA": "🇵🇦",
+    "PE": "🇵🇪",
+    "PG": "🇵🇬",
+    "PH": "🇵🇭",
+    "PK": "🇵🇰",
+    "PL": "🇵🇱",
+    "PS": "🇵🇸",
+    "PT": "🇵🇹",
+    "PW": "🇵🇼",
+    "PY": "🇵🇾",
+    "QA": "🇶🇦",
+    "RO": "🇷🇴",
+    "RS": "🇷🇸",
+    "RU": "🇷🇺",
+    "RW": "🇷🇼",
+    "SA": "🇸🇦",
+    "SB": "🇸🇧",
+    "SC": "🇸🇨",
+    "SCT": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "SD": "🇸🇩",
+    "SE": "🇸🇪",
+    "SG": "🇸🇬",
+    "SI": "🇸🇮",
+    "SK": "🇸🇰",
+    "SL": "🇸🇱",
+    "SM": "🇸🇲",
+    "SN": "🇸🇳",
+    "SO": "🇸🇴",
+    "SR": "🇸🇷",
+    "SS": "🇸🇸",
+    "ST": "🇸🇹",
+    "SV": "🇸🇻",
+    "SY": "🇸🇾",
+    "SZ": "🇸🇿",
+    "TD": "🇹🇩",
+    "TG": "🇹🇬",
+    "TH": "🇹🇭",
+    "TJ": "🇹🇯",
+    "TL": "🇹🇱",
+    "TM": "🇹🇲",
+    "TN": "🇹🇳",
+    "TR": "🇹🇷",
+    "TT": "🇹🇹",
+    "TV": "🇹🇻",
+    "TZ": "🇹🇿",
+    "UA": "🇺🇦",
+    "UG": "🇺🇬",
+    "US": "🇺🇸",
+    "UY": "🇺🇾",
+    "UZ": "🇺🇿",
+    "VA": "🇻🇦",
+    "VC": "🇻🇨",
+    "VE": "🇻🇪",
+    "VN": "🇻🇳",
+    "VU": "🇻🇺",
+    "WLS": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "WS": "🇼🇸",
+    "XK": "🇽🇰",
+    "YE": "🇾🇪",
+    "ZA": "🇿🇦",
+    "ZM": "🇿🇲",
+    "ZW": "🇿🇼",
 }
 
 
@@ -387,6 +556,17 @@ def slugify(name: str) -> str:
     return s
 
 
+def is_placeholder(name: str) -> bool:
+    """Check if a team name is a placeholder like W74, L101, 1A, 2B, 3A/B/C, etc."""
+    if re.match(r"^[WL]\d+$", name):
+        return True
+    if re.match(r"^\d[A-Z]$", name):
+        return True
+    if "/" in name:
+        return True
+    return False
+
+
 def extract_teams(matches: list[dict]) -> dict[str, str]:
     """Extract real team names and return {name: slug} mapping."""
     teams = set()
@@ -395,12 +575,7 @@ def extract_teams(matches: list[dict]) -> dict[str, str]:
             t = m.get(key, "")
             if not t:
                 continue
-            # Skip placeholders like W74, L101, 1A, 2B, 3A/B/C, etc.
-            if re.match(r"^[WL]\d+$", t):
-                continue
-            if re.match(r"^\d[A-Z]$", t):
-                continue
-            if "/" in t:
+            if is_placeholder(t):
                 continue
             teams.add(t)
     return {t: slugify(t) for t in sorted(teams)}
@@ -432,13 +607,18 @@ def parse_match_datetime(date_str: str, time_str: str) -> datetime:
     return dt.astimezone(timezone.utc)
 
 
-def stable_uid(match: dict) -> str:
+def parse_match_date(date_str: str) -> date:
+    """Parse a match date into a UTC datetime."""
+    return date.strptime(f"{date_str}", "%Y-%m-%d")
+
+
+def stable_uid(year: int, match: dict) -> str:
     """Generate a stable UID for a match based on immutable properties."""
     key = "|".join(
         str(match.get(k, "")) for k in ("date", "time", "round", "ground")
     )
     digest = hashlib.sha256(key.encode("utf-8")).hexdigest()[:12]
-    return f"fifa-wc-2026-{digest}@{UID_DOMAIN}"
+    return f"fifa-wc-{year}-{digest}@{UID_DOMAIN}"
 
 
 def localize_phase(phase_key: str, lang: str) -> str:
@@ -452,32 +632,31 @@ def localize_phase(phase_key: str, lang: str) -> str:
 
 def localize_team(team: str, lang: str) -> str:
     """Translate a team name using its country code."""
+
+    if is_placeholder(team):
+        return team
+
     if team not in COUNTRY_CODES:
+        print(f"[WARN] Unknown team: {team}")
         return team
 
     code = COUNTRY_CODES[team]
-    name = LANGUAGES[lang]["countries"].get(code, team)
-    flag = country_code_to_flag(code)
-    return f"{flag} {name}"
 
+    name = LANGUAGES[lang]["countries"].get(code)
+    if not name:
+        locale = Locale.parse(lang)
+        name = locale.territories.get(code)
 
-def country_code_to_flag(country_code: str) -> str:
-    """Convert a 2-letter country code into a Unicode flag emoji."""
-    country_code = country_code.upper()
+    if not name:
+        print(f"[WARN] Unknown translation: {code} in {lang}")
+        return team
 
-    special = {
-        "SCT": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-        "ENG": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "WLS": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-    }
+    if code not in COUNTRY_FLAGS:
+        print(f"[WARN] Unknown flag: {code}")
+        return name
 
-    if country_code in special:
-        return special[country_code]
-
-    if len(country_code) != 2 or not country_code.isalpha():
-        raise ValueError("Country code must be two letters")
-
-    return ''.join(chr(ord(char) + 127397) for char in country_code)
+    name = f"{COUNTRY_FLAGS[code]} {name}"
+    return name
 
 
 def format_score(match: dict) -> str | None:
@@ -495,8 +674,8 @@ def event_content_hash(
         summary: str,
         description: str,
         location: str,
-        dtstart: datetime,
-        dtend: datetime,
+        dtstart: datetime | date,
+        dtend: datetime | date,
         score: str | None,
 ) -> str:
     """Create a hash of event content to detect changes."""
@@ -518,13 +697,17 @@ def event_content_hash(
 # ---------------------------------------------------------------------------
 
 
-def create_event(match: dict, lang: str, state: dict, now: datetime) -> Event:
+def create_event(year: int, match: dict, lang: str, state: dict, now: datetime) -> Event:
     """Create an icalendar Event for a single match."""
     t = LANGUAGES[lang]
 
-    uid = stable_uid(match)
-    dt_start = parse_match_datetime(match["date"], match["time"])
-    dt_end = dt_start + MATCH_DURATION
+    uid = stable_uid(year, match)
+    if "time" in match:
+        dt_start = parse_match_datetime(match["date"], match["time"])
+        dt_end = dt_start + MATCH_DURATION
+    else:
+        dt_start = parse_match_date(match["date"])
+        dt_end = dt_start + timedelta(days=1)
 
     team1 = match.get("team1", "TBD")
     team1 = localize_team(team1, lang)
@@ -585,6 +768,7 @@ def create_event(match: dict, lang: str, state: dict, now: datetime) -> Event:
 
 
 def generate_calendar(
+        year: int,
         matches: list[dict],
         lang: str,
         state: dict,
@@ -596,16 +780,16 @@ def generate_calendar(
     t = LANGUAGES[lang]
 
     cal = Calendar()
-    cal.add("prodid", f"-//worldcup-calendar//FIFA WC 2026 {lang.upper()}//EN")
+    cal.add("prodid", f"-//worldcup-calendar//FIFA WORLD CUP {year} {lang.upper()}//EN")
     cal.add("version", "2.0")
     cal.add("method", "PUBLISH")
     cal.add("calscale", "GREGORIAN")
-    cal.add("x-wr-calname", calendar_name or t["calendar_name"])
-    cal.add("x-wr-caldesc", calendar_desc or t["calendar_desc"])
+    cal.add("x-wr-calname", calendar_name or t["calendar_name"].format(year=year))
+    cal.add("x-wr-caldesc", calendar_desc or t["calendar_desc"].format(year=year))
     cal.add("x-wr-timezone", "UTC")
 
     for match in matches:
-        event = create_event(match, lang, state, now)
+        event = create_event(year, match, lang, state, now)
         cal.add_component(event)
 
     return cal
@@ -616,31 +800,32 @@ def generate_calendar(
 # ---------------------------------------------------------------------------
 
 
-def load_state() -> dict:
+def load_state(year: int) -> dict:
     """Load persistent state from disk.
 
     Returns a dict with keys 'all' and 'teams'.
     Migrates legacy format (flat per-language) automatically.
     """
-    if not STATE_FILE.exists():
+
+    file = STATE_DIR / f"{year}-state.json"
+
+    if not file.exists():
         return {"all": {}, "teams": {}}
 
-    with open(STATE_FILE, "r", encoding="utf-8") as f:
+    with open(file, "r", encoding="utf-8") as f:
         state = json.load(f)
-
-    # Migrate legacy format (pre-per-team)
-    if "all" not in state and any(lang in state for lang in LANGUAGES):
-        state = {"all": state, "teams": {}}
 
     state.setdefault("all", {})
     state.setdefault("teams", {})
     return state
 
 
-def save_state(state: dict) -> None:
+def save_state(year: int, state: dict) -> None:
     """Save persistent state to disk."""
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    file = STATE_DIR / f"{year}-state.json"
+    file.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, indent=2, ensure_ascii=False)
 
 
@@ -650,31 +835,39 @@ def save_state(state: dict) -> None:
 
 
 def main() -> None:
-    print(f"Fetching data from {DATA_URL} ...")
-    data = fetch_data(DATA_URL)
+    for year in YEARS:
+        generate_year(year)
+
+
+def generate_year(year: int) -> None:
+    data_url = DATA_URL.format(year=year)
+
+    print(f"{year}: Fetching data from {data_url} ...")
+    data = fetch_data(data_url)
     matches = data.get("matches", [])
-    print(f"Loaded {len(matches)} total matches.")
+    print(f"{year}: Loaded {len(matches)} total matches.")
 
     teams = extract_teams(matches)
-    print(f"Found {len(teams)} teams.")
+    print(f"{year}: Found {len(teams)} teams.")
 
-    state = load_state()
+    state = load_state(year)
 
     now = datetime.now(timezone.utc)
 
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    year_dir = OUTPUT_DIR / str(year)
+    year_dir.mkdir(parents=True, exist_ok=True)
 
     # --- Generate "all matches" calendars ---
     for lang in LANGUAGES:
         print(f"Generating {lang}.ics ...")
         lang_state = state["all"].get(lang, {})
-        cal = generate_calendar(matches, lang, lang_state, now)
+        cal = generate_calendar(year, matches, lang, lang_state, now)
         state["all"][lang] = lang_state
-        with open(OUTPUT_DIR / f"{lang}.ics", "wb") as f:
+        with open(year_dir / f"{lang}.ics", "wb") as f:
             f.write(cal.to_ical())
 
     # --- Generate per-team calendars ---
-    teams_dir = OUTPUT_DIR / "teams"
+    teams_dir = year_dir / "teams"
     teams_dir.mkdir(parents=True, exist_ok=True)
 
     # Clean up old team directories to prevent stale files
@@ -695,18 +888,19 @@ def main() -> None:
 
         for lang in LANGUAGES:
             t = LANGUAGES[lang]
-            cal_name = f"{team_name} — {t['calendar_name']}"
-            cal_desc = f"{t['calendar_desc']} — {team_name} matches only"
+            team_name_localized = localize_team(team_name, lang)
+            cal_name = f"{team_name_localized} — {t['calendar_name'].format(year=year)}"
+            cal_desc = f"{t['calendar_desc'].format(year=year)} — {team_name_localized} matches only"
 
             lang_state = state["teams"].setdefault(team_slug, {}).get(lang, {})
-            cal = generate_calendar(team_matches, lang, lang_state, now, cal_name, cal_desc)
+            cal = generate_calendar(year, team_matches, lang, lang_state, now, cal_name, cal_desc)
             state["teams"].setdefault(team_slug, {})[lang] = lang_state
 
             with open(team_dir / f"{lang}.ics", "wb") as f:
                 f.write(cal.to_ical())
 
-    save_state(state)
-    print("Done.")
+    save_state(year, state)
+    print(f"{year}: Done.")
 
 
 if __name__ == "__main__":
