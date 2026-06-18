@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2018 — 🇸🇦 
+ Arabie saoudite matches only
+X-WR-CALNAME:🇸🇦 Arabie saoudite — Coupe du Monde FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇺 Russie 5-0 🇸🇦 Arabie saoudite
+DTSTART:20180614T150000Z
+DTEND:20180614T170000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-825c5a014391@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Luzhniki Stadium\, Mo
+ scow\nRésultat: 5-0
+LOCATION:Luzhniki Stadium\, Moscow
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇾 Uruguay 1-0 🇸🇦 Arabie saoudite
+DTSTART:20180620T150000Z
+DTEND:20180620T170000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-e1e7b9e7977d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 7\nGroupe: Group A\nStade: Rostov Arena\, Rostov
+ -on-Don\nRésultat: 1-0
+LOCATION:Rostov Arena\, Rostov-on-Don
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇦 Arabie saoudite 2-1 🇪🇬 Égypte
+DTSTART:20180625T140000Z
+DTEND:20180625T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-db649afc79db@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 12\nGroupe: Group A\nStade: Volgograd Arena\, Vo
+ lgograd\nRésultat: 2-1
+LOCATION:Volgograd Arena\, Volgograd
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

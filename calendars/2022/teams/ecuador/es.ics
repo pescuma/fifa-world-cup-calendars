@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2022 — 
+ 🇪🇨 Ecuador matches only
+X-WR-CALNAME:🇪🇨 Ecuador — Copa Mundial de la FIFA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇶🇦 Catar 0-2 🇪🇨 Ecuador
+DTSTART:20221120T190000Z
+DTEND:20221120T210000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Al Bayt Stadium\, Al Khor\
+ nResultado: 0-2
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Países Bajos 1-1 🇪🇨 Ecuador
+DTSTART:20221125T190000Z
+DTEND:20221125T210000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Khalifa International Stad
+ ium\, Al Rayyan\nResultado: 1-1
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇪🇨 Ecuador 1-2 🇸🇳 Senegal
+DTSTART:20221129T180000Z
+DTEND:20221129T200000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 10\nGrupo: Group A\nEstadio: Khalifa International Sta
+ dium\, Al Rayyan\nResultado: 1-2
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2010 — 
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa Mundial de l
+ a FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇺🇸 Estados Unido
+ s
+DTSTART:20100612T203000Z
+DTEND:20100612T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-b981b5e0fdf9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: Royal Bafokeng Stadium\, R
+ ustenburg\nResultado: 1-1
+LOCATION:Royal Bafokeng Stadium\, Rustenburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇩🇿 Argelia
+DTSTART:20100618T203000Z
+DTEND:20100618T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-bcdd917f7f33@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Cape Town Stadium\, Cape T
+ own\nResultado: 0-0
+LOCATION:Cape Town Stadium\, Cape Town
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇮 Eslovenia 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20100623T160000Z
+DTEND:20100623T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-fb936ff30c6a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Nelson Mandela Bay Stadiu
+ m\, Port Elizabeth\nResultado: 0-1
+LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Alemania 4-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20100627T160000Z
+DTEND:20100627T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-a87e891ce02e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Free State Stadium\, Bloemfontein\n
+ Resultado: 4-1
+LOCATION:Free State Stadium\, Bloemfontein
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

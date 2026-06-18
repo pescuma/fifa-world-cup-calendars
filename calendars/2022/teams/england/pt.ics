@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 — 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
+ A 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-2 🇮🇷 Irã
+DTSTART:20221121T160000Z
+DTEND:20221121T180000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-ef37bc342d49@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Khalifa International Stad
+ ium\, Al Rayyan\nResultado: 6-2
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇺🇸 Estados Unido
+ s
+DTSTART:20221125T220000Z
+DTEND:20221126T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-f06ca107ca89@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 6\nGrupo: Group B\nEstádio: Al Bayt Stadium\, Al Khor\
+ nResultado: 0-0
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales 0-3 🏴󠁧󠁢󠁥
+ 󠁮󠁧󠁿 Inglaterra
+DTSTART:20221129T220000Z
+DTEND:20221130T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 10\nGrupo: Group B\nEstádio: Ahmad bin Ali Stadium\, A
+ l Rayyan\nResultado: 0-3
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-0 🇸🇳 Senegal
+DTSTART:20221204T220000Z
+DTEND:20221205T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-65722f336345@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Oitavas de Final\nEstádio: Al Bayt Stadium\, Al Khor\nResulta
+ do: 3-0
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇫🇷 França
+DTSTART:20221210T220000Z
+DTEND:20221211T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-648d650d7895@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nEstádio: Al Bayt Stadium\, Al Khor\nResultado
+ : 1-2
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

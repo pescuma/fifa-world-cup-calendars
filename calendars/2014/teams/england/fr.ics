@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2014 — 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿 Angleterre matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre — Coupe du Monde FI
+ FA 2014
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-2 🇮🇹 Italie
+DTSTART:20140614T220000Z
+DTEND:20140615T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-26077c70a97b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Arena Amazônia\, Man
+ aus\nRésultat: 1-2
+LOCATION:Arena Amazônia\, Manaus
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇾 Uruguay 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+DTSTART:20140619T190000Z
+DTEND:20140619T210000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-b2446f0709ac@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 8\nGroupe: Group D\nStade: Arena de São Paulo\,
+  São Paulo\nRésultat: 2-1
+LOCATION:Arena de São Paulo\, São Paulo
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+DTSTART:20140624T160000Z
+DTEND:20140624T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-d3b38c95a20a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Estádio Mineirão\,
+  Belo Horizonte\nRésultat: 0-0
+LOCATION:Estádio Mineirão\, Belo Horizonte
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

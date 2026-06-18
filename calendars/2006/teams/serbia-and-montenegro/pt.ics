@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2006 — 🇷🇸🇲
+ 🇪 Sérvia e Montenegro matches only
+X-WR-CALNAME:🇷🇸🇲🇪 Sérvia e Montenegro — Copa do Mundo FIFA 
+ 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸🇲🇪 Sérvia e Montenegro 0-1 🇳🇱 Países Baixos
+DTSTART;VALUE=DATE:20060611
+DTEND;VALUE=DATE:20060612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Zentralstadion\, Leipzig\n
+ Resultado: 0-1
+LOCATION:Zentralstadion\, Leipzig
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Sérvia e Montenegro
+DTSTART;VALUE=DATE:20060616
+DTEND;VALUE=DATE:20060617
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-2188068146c6@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 8\nGrupo: Group C\nEstádio: Veltins-Arena\, Gelsenkirc
+ hen\nResultado: 6-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇮 Costa do Marfim 3-2 🇷🇸🇲🇪 Sérvia e Montenegro
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Allianz Arena\, München\
+ nResultado: 3-2
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

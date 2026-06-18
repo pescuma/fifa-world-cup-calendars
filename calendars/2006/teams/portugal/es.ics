@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
+ 🇵🇹 Portugal matches only
+X-WR-CALNAME:🇵🇹 Portugal — Copa Mundial de la FIFA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇦🇴 Angola 0-1 🇵🇹 Portugal
+DTSTART;VALUE=DATE:20060611
+DTEND;VALUE=DATE:20060612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-4b9deb994220@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: RheinEnergieStadion\, Köl
+ n\nResultado: 0-1
+LOCATION:RheinEnergieStadion\, Köln
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 2-0 🇮🇷 Irán
+DTSTART;VALUE=DATE:20060617
+DTEND;VALUE=DATE:20060618
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-ca4d71a6ade0@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Commerzbank-Arena\, Frankf
+ urt\nResultado: 2-0
+LOCATION:Commerzbank-Arena\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 2-1 🇲🇽 México
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-0842add326ad@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Veltins-Arena\, Gelsenkir
+ chen\nResultado: 2-1
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 1-0 🇳🇱 Países Bajos
+DTSTART;VALUE=DATE:20060625
+DTEND;VALUE=DATE:20060626
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-727ca7b4ee6d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Frankenstadion\, Nürnberg\nResulta
+ do: 1-0
+LOCATION:Frankenstadion\, Nürnberg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇵🇹 Portugal
+DTSTART;VALUE=DATE:20060701
+DTEND;VALUE=DATE:20060702
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarterfinals\nEstadio: Veltins-Arena\, Gelsenkirchen\nResulta
+ do: 0-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 0-1 🇫🇷 Francia
+DTSTART;VALUE=DATE:20060705
+DTEND;VALUE=DATE:20060706
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-bdc57d55c25d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Semifinals\nEstadio: Allianz Arena\, München\nResultado: 0-1
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Alemania 3-1 🇵🇹 Portugal
+DTSTART;VALUE=DATE:20060708
+DTEND;VALUE=DATE:20060709
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-0c78f94d6891@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Third-place play-off\nEstadio: Gottlieb-Daimler-Stadion\, Stut
+ tgart\nResultado: 3-1
+LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

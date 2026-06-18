@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2018 — 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
+ A 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇹🇳 Tunísia 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20180618T180000Z
+DTEND:20180618T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-e5ea05124043@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Volgograd Arena\, Volgogra
+ d\nResultado: 1-2
+LOCATION:Volgograd Arena\, Volgograd
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-1 🇵🇦 Panamá
+DTSTART:20180624T120000Z
+DTEND:20180624T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-ce3d47cd8dcc@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 11\nGrupo: Group G\nEstádio: Nizhny Novgorod Stadium\,
+  Nizhny Novgorod\nResultado: 6-1
+LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-1 🇧🇪 Bélgica
+DTSTART:20180628T180000Z
+DTEND:20180628T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-a731a660ece1@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: Kaliningrad Stadium\, Kal
+ iningrad\nResultado: 0-1
+LOCATION:Kaliningrad Stadium\, Kaliningrad
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇴 Colômbia 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20180703T180000Z
+DTEND:20180703T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Oitavas de Final\nEstádio: Spartak Stadium\, Moscow\nResultad
+ o: 1-1
+LOCATION:Spartak Stadium\, Moscow
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suécia 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20180707T140000Z
+DTEND:20180707T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-e0104da7519b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nEstádio: Samara Arena\, Samara\nResultado: 0-
+ 2
+LOCATION:Samara Arena\, Samara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇭🇷 Croácia 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20180711T180000Z
+DTEND:20180711T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Semi-finals\nEstádio: Luzhniki Stadium\, Moscow\nResultado: 1
+ -1
+LOCATION:Luzhniki Stadium\, Moscow
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇪 Bélgica 2-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20180714T140000Z
+DTEND:20180714T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-f9ee57e56f7e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Disputa pelo Terceiro Lugar\nEstádio: Saint Petersburg Stadiu
+ m\, St. Petersburg\nResultado: 2-0
+LOCATION:Saint Petersburg Stadium\, St. Petersburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

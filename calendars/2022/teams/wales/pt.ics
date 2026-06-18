@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 — 🏴󠁧󠁢
+ 󠁷󠁬󠁳󠁿 País de Gales matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales — Copa do Mundo
+  FIFA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇺🇸 Estados Unidos 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de 
+ Gales
+DTSTART:20221121T220000Z
+DTEND:20221122T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Ahmad bin Ali Stadium\, Al
+  Rayyan\nResultado: 1-1
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales 0-2 🇮🇷 Irã
+DTSTART:20221125T130000Z
+DTEND:20221125T150000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 6\nGrupo: Group B\nEstádio: Ahmad bin Ali Stadium\, Al
+  Rayyan\nResultado: 0-2
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales 0-3 🏴󠁧󠁢󠁥
+ 󠁮󠁧󠁿 Inglaterra
+DTSTART:20221129T220000Z
+DTEND:20221130T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 10\nGrupo: Group B\nEstádio: Ahmad bin Ali Stadium\, A
+ l Rayyan\nResultado: 0-3
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

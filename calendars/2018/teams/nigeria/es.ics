@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2018 — 
+ 🇳🇬 Nigeria matches only
+X-WR-CALNAME:🇳🇬 Nigeria — Copa Mundial de la FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇭🇷 Croacia 2-0 🇳🇬 Nigeria
+DTSTART:20180616T190000Z
+DTEND:20180616T210000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-e6dfea62b091@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Kaliningrad Stadium\, Kali
+ ningrad\nResultado: 2-0
+LOCATION:Kaliningrad Stadium\, Kaliningrad
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇬 Nigeria 2-0 🇮🇸 Islandia
+DTSTART:20180622T150000Z
+DTEND:20180622T170000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-9c4226825d2b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Volgograd Arena\, Volgogra
+ d\nResultado: 2-0
+LOCATION:Volgograd Arena\, Volgograd
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇬 Nigeria 1-2 🇦🇷 Argentina
+DTSTART:20180626T180000Z
+DTEND:20180626T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-544782225f84@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Saint Petersburg Stadium\
+ , Saint Petersburg\nResultado: 1-2
+LOCATION:Saint Petersburg Stadium\, Saint Petersburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

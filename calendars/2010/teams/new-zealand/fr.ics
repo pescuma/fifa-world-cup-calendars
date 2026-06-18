@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2010 — 🇳🇿 
+ Nouvelle-Zélande matches only
+X-WR-CALNAME:🇳🇿 Nouvelle-Zélande — Coupe du Monde FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇳🇿 Nouvelle-Zélande 1-1 🇸🇰 Slovaquie
+DTSTART:20100615T133000Z
+DTEND:20100615T153000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-208f12bf82b6@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 5\nGroupe: Group F\nStade: Royal Bafokeng Stadiu
+ m\, Rustenburg\nRésultat: 1-1
+LOCATION:Royal Bafokeng Stadium\, Rustenburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Italie 1-1 🇳🇿 Nouvelle-Zélande
+DTSTART:20100620T160000Z
+DTEND:20100620T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-3edb1aa55dee@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Mbombela Stadium\, N
+ elspruit\nRésultat: 1-1
+LOCATION:Mbombela Stadium\, Nelspruit
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇾 Paraguay 0-0 🇳🇿 Nouvelle-Zélande
+DTSTART:20100624T160000Z
+DTEND:20100624T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-c0b1a28e3e98@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Peter Mokaba Stadium
+ \, Polokwane\nRésultat: 0-0
+LOCATION:Peter Mokaba Stadium\, Polokwane
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

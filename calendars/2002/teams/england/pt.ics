@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2002 — 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
+ A 2002
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇸🇪 Suécia
+DTSTART;VALUE=DATE:20020602
+DTEND;VALUE=DATE:20020603
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-a8f4be77c3e9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Saitama Stadium\, Saitama\
+ nResultado: 1-1
+LOCATION:Saitama Stadium\, Saitama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART;VALUE=DATE:20020607
+DTEND;VALUE=DATE:20020608
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-e309bfcb3599@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Sapporo Dome\, Sapporo\nRe
+ sultado: 0-1
+LOCATION:Sapporo Dome\, Sapporo
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇬 Nigéria 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART;VALUE=DATE:20020612
+DTEND;VALUE=DATE:20020613
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-bc63136ad9c1@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Nagai Stadium\, Osaka\nRes
+ ultado: 0-0
+LOCATION:Nagai Stadium\, Osaka
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇰 Dinamarca 0-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART;VALUE=DATE:20020615
+DTEND;VALUE=DATE:20020616
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-453018737ad5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Oitavas de Final\nEstádio: Niigata Stadium\, Niigata\nResulta
+ do: 0-3
+LOCATION:Niigata Stadium\, Niigata
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇧🇷 Brasil
+DTSTART;VALUE=DATE:20020621
+DTEND;VALUE=DATE:20020622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-6b8d20274ef3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nEstádio: Shizuoka Stadium\, Shizuoka\nResulta
+ do: 1-2
+LOCATION:Shizuoka Stadium\, Shizuoka
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

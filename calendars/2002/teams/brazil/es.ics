@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 — 
+ 🇧🇷 Brasil matches only
+X-WR-CALNAME:🇧🇷 Brasil — Copa Mundial de la FIFA 2002
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 2-1 🇹🇷 Turquía
+DTSTART;VALUE=DATE:20020603
+DTEND;VALUE=DATE:20020604
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-461c86068484@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 1\nGrupo: Group C\nEstadio: Munsu Cup Stadium\, Ulsan\
+ nResultado: 2-1
+LOCATION:Munsu Cup Stadium\, Ulsan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 4-0 🇨🇳 China
+DTSTART;VALUE=DATE:20020608
+DTEND;VALUE=DATE:20020609
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-1cb0c726d71e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: Jeju World Cup Stadium\, J
+ eju\nResultado: 4-0
+LOCATION:Jeju World Cup Stadium\, Jeju
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 2-5 🇧🇷 Brasil
+DTSTART;VALUE=DATE:20020613
+DTEND;VALUE=DATE:20020614
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-694998fe46f6@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Suwon World Cup Stadium\, 
+ Suwon\nResultado: 2-5
+LOCATION:Suwon World Cup Stadium\, Suwon
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 2-0 🇧🇪 Bélgica
+DTSTART;VALUE=DATE:20020617
+DTEND;VALUE=DATE:20020618
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-83fc3a66310a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Kobe Wing Stadium\, Kobe\nResultado
+ : 2-0
+LOCATION:Kobe Wing Stadium\, Kobe
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇧🇷 Brasil
+DTSTART;VALUE=DATE:20020621
+DTEND;VALUE=DATE:20020622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-6b8d20274ef3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nEstadio: Shizuoka Stadium\, Shizuoka\nResultad
+ o: 1-2
+LOCATION:Shizuoka Stadium\, Shizuoka
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 1-0 🇹🇷 Turquía
+DTSTART;VALUE=DATE:20020626
+DTEND;VALUE=DATE:20020627
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-df21374c6dee@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Semi-finals\nEstadio: Saitama Stadium\, Saitama\nResultado: 1-
+ 0
+LOCATION:Saitama Stadium\, Saitama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Alemania 0-2 🇧🇷 Brasil
+DTSTART;VALUE=DATE:20020630
+DTEND;VALUE=DATE:20020701
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-f213066188a4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Final\nEstadio: International Stadium Yokohama\, Yokohama\nRes
+ ultado: 0-2
+LOCATION:International Stadium Yokohama\, Yokohama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

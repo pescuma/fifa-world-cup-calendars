@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2018 — 
+ 🇰🇷 Corea del Sur matches only
+X-WR-CALNAME:🇰🇷 Corea del Sur — Copa Mundial de la FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suecia 1-0 🇰🇷 Corea del Sur
+DTSTART:20180618T120000Z
+DTEND:20180618T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Nizhny Novgorod Stadium\, 
+ Nizhny Novgorod\nResultado: 1-0
+LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇰🇷 Corea del Sur 1-2 🇲🇽 México
+DTSTART:20180623T150000Z
+DTEND:20180623T170000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-5cfd82941e73@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Rostov Arena\, Rostov-on-
+ Don\nResultado: 1-2
+LOCATION:Rostov Arena\, Rostov-on-Don
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇰🇷 Corea del Sur 2-0 🇩🇪 Alemania
+DTSTART:20180627T140000Z
+DTEND:20180627T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-d28ab2fcbf1e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Kazan Arena\, Kazan\nResu
+ ltado: 2-0
+LOCATION:Kazan Arena\, Kazan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

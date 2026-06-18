@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2018 — 🇰🇷 
+ Corée du Sud matches only
+X-WR-CALNAME:🇰🇷 Corée du Sud — Coupe du Monde FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suède 1-0 🇰🇷 Corée du Sud
+DTSTART:20180618T120000Z
+DTEND:20180618T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 5\nGroupe: Group F\nStade: Nizhny Novgorod Stadi
+ um\, Nizhny Novgorod\nRésultat: 1-0
+LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇰🇷 Corée du Sud 1-2 🇲🇽 Mexique
+DTSTART:20180623T150000Z
+DTEND:20180623T170000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-5cfd82941e73@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Rostov Arena\, Rosto
+ v-on-Don\nRésultat: 1-2
+LOCATION:Rostov Arena\, Rostov-on-Don
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇰🇷 Corée du Sud 2-0 🇩🇪 Allemagne
+DTSTART:20180627T140000Z
+DTEND:20180627T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-d28ab2fcbf1e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Kazan Arena\, Kazan\
+ nRésultat: 2-0
+LOCATION:Kazan Arena\, Kazan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

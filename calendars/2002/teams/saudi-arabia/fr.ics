@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2002 — 🇸🇦 
+ Arabie saoudite matches only
+X-WR-CALNAME:🇸🇦 Arabie saoudite — Coupe du Monde FIFA 2002
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Allemagne 8-0 🇸🇦 Arabie saoudite
+DTSTART;VALUE=DATE:20020601
+DTEND;VALUE=DATE:20020602
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-3616b6ee1736@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Sapporo Dome\, Sappor
+ o\nRésultat: 8-0
+LOCATION:Sapporo Dome\, Sapporo
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇲 Cameroun 1-0 🇸🇦 Arabie saoudite
+DTSTART;VALUE=DATE:20020606
+DTEND;VALUE=DATE:20020607
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-ab7bd4c77113@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Saitama Stadium\, Sai
+ tama\nRésultat: 1-0
+LOCATION:Saitama Stadium\, Saitama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇦 Arabie saoudite 0-3 🇮🇪 Irlande
+DTSTART;VALUE=DATE:20020611
+DTEND;VALUE=DATE:20020612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-e4d0fb993a09@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: International Stadium
+  Yokohama\, Yokohama\nRésultat: 0-3
+LOCATION:International Stadium Yokohama\, Yokohama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

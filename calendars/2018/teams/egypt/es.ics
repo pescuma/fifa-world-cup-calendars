@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2018 — 
+ 🇪🇬 Egipto matches only
+X-WR-CALNAME:🇪🇬 Egipto — Copa Mundial de la FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇪🇬 Egipto 0-1 🇺🇾 Uruguay
+DTSTART:20180615T120000Z
+DTEND:20180615T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-be39861dd5d9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Ekaterinburg Arena\, Ekate
+ rinburg\nResultado: 0-1
+LOCATION:Ekaterinburg Arena\, Ekaterinburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇷🇺 Rusia 3-1 🇪🇬 Egipto
+DTSTART:20180619T180000Z
+DTEND:20180619T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-310ebf37e625@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Saint Petersburg Stadium\,
+  Saint Petersburg\nResultado: 3-1
+LOCATION:Saint Petersburg Stadium\, Saint Petersburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇦 Arabia Saudí 2-1 🇪🇬 Egipto
+DTSTART:20180625T140000Z
+DTEND:20180625T160000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-db649afc79db@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Volgograd Arena\, Volgogr
+ ad\nResultado: 2-1
+LOCATION:Volgograd Arena\, Volgograd
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

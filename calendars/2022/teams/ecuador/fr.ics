@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🇪🇨 
+ Équateur matches only
+X-WR-CALNAME:🇪🇨 Équateur — Coupe du Monde FIFA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇶🇦 Qatar 0-2 🇪🇨 Équateur
+DTSTART:20221120T190000Z
+DTEND:20221120T210000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Al Bayt Stadium\, Al 
+ Khor\nRésultat: 0-2
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Pays-Bas 1-1 🇪🇨 Équateur
+DTSTART:20221125T190000Z
+DTEND:20221125T210000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 6\nGroupe: Group A\nStade: Khalifa International
+  Stadium\, Al Rayyan\nRésultat: 1-1
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇪🇨 Équateur 1-2 🇸🇳 Sénégal
+DTSTART:20221129T180000Z
+DTEND:20221129T200000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 10\nGroupe: Group A\nStade: Khalifa Internationa
+ l Stadium\, Al Rayyan\nRésultat: 1-2
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

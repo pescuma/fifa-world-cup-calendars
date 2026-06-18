@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 — 🏴󠁧󠁢
+ 󠁳󠁣󠁴󠁿 Escócia matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia — Copa do Mundo FIFA 
+ 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-ec4c7885a3a4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Boston (Foxborough)\nResul
+ tado: 0-1
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia x 🇲🇦 Marrocos
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 9\nGrupo: Group C\nEstádio: Boston (Foxborough)
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia x 🇧🇷 Brasil
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-9b6ddb137374@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 14\nGrupo: Group C\nEstádio: Miami (Miami Gardens)
+LOCATION:Miami (Miami Gardens)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

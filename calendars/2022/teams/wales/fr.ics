@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🏴󠁧
+ 󠁢󠁷󠁬󠁳󠁿 Pays de Galles matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles — Coupe du Mond
+ e FIFA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇺🇸 États-Unis 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Gall
+ es
+DTSTART:20221121T220000Z
+DTEND:20221122T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Ahmad bin Ali Stadium
+ \, Al Rayyan\nRésultat: 1-1
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles 0-2 🇮🇷 Iran
+DTSTART:20221125T130000Z
+DTEND:20221125T150000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 6\nGroupe: Group B\nStade: Ahmad bin Ali Stadium
+ \, Al Rayyan\nRésultat: 0-2
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles 0-3 🏴󠁧󠁢󠁥
+ 󠁮󠁧󠁿 Angleterre
+DTSTART:20221129T220000Z
+DTEND:20221130T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 10\nGroupe: Group B\nStade: Ahmad bin Ali Stadiu
+ m\, Al Rayyan\nRésultat: 0-3
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

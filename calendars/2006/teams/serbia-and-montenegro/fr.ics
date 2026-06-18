@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 — 🇷🇸
+ 🇲🇪 Serbie-et-Monténégro matches only
+X-WR-CALNAME:🇷🇸🇲🇪 Serbie-et-Monténégro — Coupe du Monde FI
+ FA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸🇲🇪 Serbie-et-Monténégro 0-1 🇳🇱 Pays-Bas
+DTSTART;VALUE=DATE:20060611
+DTEND;VALUE=DATE:20060612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Zentralstadion\, Leip
+ zig\nRésultat: 0-1
+LOCATION:Zentralstadion\, Leipzig
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentine 6-0 🇷🇸🇲🇪 Serbie-et-Monténégro
+DTSTART;VALUE=DATE:20060616
+DTEND;VALUE=DATE:20060617
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-2188068146c6@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Veltins-Arena\, Gelse
+ nkirchen\nRésultat: 6-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇮 Côte d’Ivoire 3-2 🇷🇸🇲🇪 Serbie-et-Monténé
+ gro
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Allianz Arena\, Mün
+ chen\nRésultat: 3-2
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

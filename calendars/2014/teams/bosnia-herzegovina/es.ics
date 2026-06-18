@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2014 — 
+ 🇧🇦 Bosnia y Herzegovina matches only
+X-WR-CALNAME:🇧🇦 Bosnia y Herzegovina — Copa Mundial de la FIFA 201
+ 4
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-1 🇧🇦 Bosnia y Herzegovina
+DTSTART:20140615T220000Z
+DTEND:20140616T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Estádio do Maracanã\, Ri
+ o de Janeiro\nResultado: 2-1
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇬 Nigeria 1-0 🇧🇦 Bosnia y Herzegovina
+DTSTART:20140621T220000Z
+DTEND:20140622T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-d78502c82e91@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Arena Pantanal\, Cuiabá\
+ nResultado: 1-0
+LOCATION:Arena Pantanal\, Cuiabá
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇦 Bosnia y Herzegovina 3-1 🇮🇷 Irán
+DTSTART:20140625T160000Z
+DTEND:20140625T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-a9fcea379e83@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Arena Fonte Nova\, Salvad
+ or\nResultado: 3-1
+LOCATION:Arena Fonte Nova\, Salvador
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

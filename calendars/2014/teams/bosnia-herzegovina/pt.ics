@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2014 — 🇧🇦 Bó
+ snia e Herzegovina matches only
+X-WR-CALNAME:🇧🇦 Bósnia e Herzegovina — Copa do Mundo FIFA 2014
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-1 🇧🇦 Bósnia e Herzegovina
+DTSTART:20140615T220000Z
+DTEND:20140616T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 4\nGrupo: Group F\nEstádio: Estádio do Maracanã\, Ri
+ o de Janeiro\nResultado: 2-1
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇬 Nigéria 1-0 🇧🇦 Bósnia e Herzegovina
+DTSTART:20140621T220000Z
+DTEND:20140622T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-d78502c82e91@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 10\nGrupo: Group F\nEstádio: Arena Pantanal\, Cuiabá\
+ nResultado: 1-0
+LOCATION:Arena Pantanal\, Cuiabá
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇦 Bósnia e Herzegovina 3-1 🇮🇷 Irã
+DTSTART:20140625T160000Z
+DTEND:20140625T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-a9fcea379e83@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 14\nGrupo: Group F\nEstádio: Arena Fonte Nova\, Salvad
+ or\nResultado: 3-1
+LOCATION:Arena Fonte Nova\, Salvador
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2022 — 
+ 🇺🇸 Estados Unidos matches only
+X-WR-CALNAME:🇺🇸 Estados Unidos — Copa Mundial de la FIFA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇺🇸 Estados Unidos 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales
+DTSTART:20221121T220000Z
+DTEND:20221122T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Ahmad bin Ali Stadium\, Al
+  Rayyan\nResultado: 1-1
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇺🇸 Estados Unido
+ s
+DTSTART:20221125T220000Z
+DTEND:20221126T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-f06ca107ca89@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 6\nGrupo: Group B\nEstadio: Al Bayt Stadium\, Al Khor\
+ nResultado: 0-0
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇷 Irán 0-1 🇺🇸 Estados Unidos
+DTSTART:20221129T220000Z
+DTEND:20221130T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-5f6ec45ed700@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 10\nGrupo: Group B\nEstadio: Al Thumama Stadium\, Doha
+ \nResultado: 0-1
+LOCATION:Al Thumama Stadium\, Doha
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Países Bajos 3-1 🇺🇸 Estados Unidos
+DTSTART:20221203T180000Z
+DTEND:20221203T200000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-9a8c9002c42b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Khalifa International Stadium\, Al 
+ Rayyan\nResultado: 3-1
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

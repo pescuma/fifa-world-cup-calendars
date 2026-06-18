@@ -1,0 +1,4174 @@
+{
+  "all": {
+    "en": {
+      "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+        "hash": "86e48fb199ad59e96a34b1d7d704148cad1695855417a3d85cb020bd5366929b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+        "hash": "92ff76a44d61f57765d2ed1ff0ce83914097dce8378d30db7b696cd07461a3c0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+        "hash": "175310830bd8895683baecf163bbc324585f18121231ac0aec0cbaa988600756",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+        "hash": "30f410823fd95beb0dd844434e1d3ba82b1787eb6ab8e218eb7b25a69d02a15f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+        "hash": "fdb98ff376a6dc01bb7980d30f3ba550f536ae264ec4f795c6269d4877db9a01",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+        "hash": "996356131b7b233afb4d869b16cbdc477437ca045210231907e35ece78502664",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+        "hash": "2a2778a10b7fa2a8637fd102f40ecb58a8a0fd4caecccb013d31e0f4a2776647",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+        "hash": "4f7caa234baf61013be34f29d5cc267374c9d49b262a7f7abe9fd122cf91e2a3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+        "hash": "573389f91ab1b3be5e5e4a7bba1656818cd0e5f0b7b99549b44c48a22f847578",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+        "hash": "7e3a65a54fa946d155501f472a183dc4b75ad1364b9dc2f7ca4f3950c1b210b8",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+        "hash": "1c8c06884e80cf0598fc47480f534fa1161a62c3eda10f3b839a291575f59483",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+        "hash": "739c08f54eed1896ed062b1741ace53796336c207a9ef9833f3a7130623125c5",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-98897760a664@worldcup-calendar": {
+        "hash": "e33a8ceecc2c68b0229989634dd16803fe0b9aaec77aa870e9ff9915d499bf23",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+        "hash": "18fbfa4822d56e0e19b9cea4f9bf82d9f39ff03cc12445740c29df3b6c1ac717",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+        "hash": "a26b917ef6871f5e13c0efe04ee36cf2fbec29b0af417a9d8f7c1734e3410ccf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-990102950604@worldcup-calendar": {
+        "hash": "40170ff52c4dd70765f6e6ae8550bdcf0a331c7631a53a2019025655a1fb3469",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+        "hash": "81ee13f1afcb95891df531a9d1ff0879d8e52394bdebca9f4d779c18f0232d70",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+        "hash": "c5ea328c7de53c9bf6882f5fc3e93adb7a6e4acaac5e18995d0f6d58ce11e5d4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+        "hash": "feeca1ee00d04c04c780c29015dd09631c024098046a02b5aef058c49a1b4704",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+        "hash": "e058ede3ed2a89c36319983a6e20ac5f537b706d9d58bb527d904c4ed9ed1022",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+        "hash": "a4f099314061eb14750024b7ee9669f32afc98cb0c041a46e0943a821f5cc3c6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+        "hash": "88367635021cad5c63ac27cf2d19a138f77ee9a86ceca31000d614046a41e80a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+        "hash": "3bbb39733f6d6493c6a712a5f493ab5f9dfdda3b569dc4b1f00b38839b2c541e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+        "hash": "6a2404b92c11a3c37a164d902cf06f92d9f4ee5d3cf9f8623f6fc6d564222b1a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+        "hash": "906e8762496ceaead12d01ca6863cd301ee4c0b3f6bfc310de8673b03fab170c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+        "hash": "1002cfc9e9388f89ac5106f2bfbc1af4770c02ffa5c0da10f4198710648fadde",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+        "hash": "0e82f7c5b3ae748bb76443bb3cd4b217b8bf01070042bebb1f184ad9445a0db4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+        "hash": "f82c86a4859e57ca8f2c4087e7e150b480627627da194595cea99f1d93f48202",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+        "hash": "eb9b7741ba044a30820d405f177ec65464c29082852eb531cd96621c800ac056",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+        "hash": "4135d7c6b5ec66f8222f59d963dcc776bb5b4099bdd41b5c9337f450d3f97dbf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+        "hash": "9c1ce51f3e84650af788d8b0170caf1ac973090edff1853cc8abbd8a8e1b5ff0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+        "hash": "62b49bd481bbd23e639330c0bc5d9907467c2a0ab8376dd410e12efd77be814d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+        "hash": "db0c42cfc6261f4810636f95aa753deff83a809ced0260006d45cc1e222ad884",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+        "hash": "1c97afa7e1ad36940a04a9342ee69fbeeaf7ee9dc200e64914611ed03319ce47",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+        "hash": "5fa4467e944333858cb6cdcafdbf083b0917359aa40ed937e1f8b2b212d18527",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+        "hash": "ce83e93f78ccaca32803cd96d1ec306d470124f762a5ac171287016643886c1e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+        "hash": "a891501bfb57335bbd96a53bfc8b26212583927385428775d1f74508e6429548",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+        "hash": "4ebe512554c4e6a478744558189b02b75a7fab21adf75d3fc2cf5036ac6f5b4e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+        "hash": "75dfcf08c593677bb2297d11c47ab29d30dab7e61f0a44fd1c6281eed9a1851f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+        "hash": "6d8a3578e980a56626b8ca7e9b5aec38989399284e6944ff1069673bfd3df1bc",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+        "hash": "9c675fc75581b8413666ee5a65a4c367d787ec35eef1ac477efea1202f61bb81",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+        "hash": "c97a1258dc093cbbda0920de8ade18f3fe36dc34f0869b041542faeb8cb5c2bd",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+        "hash": "3ca390f5b682787b097c4c30571e09e8f198167f598833fa9a38b43c9f357c8b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+        "hash": "c8b9e0d4a783599f59f62e171c4af707667fa974818a9b38688a402370ed9ecc",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+        "hash": "1a011c4531297b765fec27b725fba2a7adfb9b1e0d668ff8be67651853944a28",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+        "hash": "fb562ad2af6c916df0ef1419aa75891cce00dd7b01ab9b48fd040e3b0bae55cb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+        "hash": "e7ffbb3a0dbb4482c11d5c71c51acd2f4ec20d1a4c215a1b37e13c7db29d31ed",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+        "hash": "de7c879dc565f86db83a27530a46bf2121a876e0a81bf752f517544f8513ab79",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+        "hash": "eb1094bf28d459539c2d2c883c99d1627b0ad131a5a0ccc322a371aabcd5cfc6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+        "hash": "9a75f34a7a7455ad2dbec8242918775dd82f3287b7549d15a9f637ecd10aeff6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+        "hash": "af1858b394ff4900a29ffd2db6226476b2d1dc190e60b23ccc672be50ce31fbf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-65722f336345@worldcup-calendar": {
+        "hash": "cdd5bec6a83c1fb4ee1b3d92466b1a4f20591d36a6cfb1af6daf1d8743092f5d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+        "hash": "b153424ae569614fb71e9df4da99aca63791e65aec3964cc768402b5ca5e8527",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+        "hash": "4f8f86700658003d680e93445b962623320d42073502b84fa62380993dfff2d6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+        "hash": "f6a04f3084911dc19b9a4270a554d33b12b24bf0c6bb6b438bb6a2035ad06819",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+        "hash": "8233fdcd92683a3acf730e945b858e2bffe3ce94e354f24e2b01f22cb8ebf228",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+        "hash": "6537e831c6bb6f210da5e1ffc8f03e4907a49856afbf631bc8e8475a9d82bf76",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+        "hash": "757380da44b153348d3d5615d53a52cadb20d4f1b5857d1e643c78251ebd3a38",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+        "hash": "b1c8a841dc49d054e3b8237a89b2f896e4e94f4d0944fccab2758f17e22f5f25",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+        "hash": "35a27bb7470e5ddc5b2ed1460a7f6aefc3e50b52f99c0ca550567e5712cb636f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+        "hash": "5339a2d557cc3a6c430f3411b75649ce99c80aa674c0fd21f4bca6b3a939e600",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+        "hash": "3852ea94d65d4d0322c45af01b1534f7029af641d8d57be46efdeee29313e5a1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+        "hash": "8157b819846f52f3ff31484b6800de27fe0ade457b1236b0a0ff07d5e588fb6d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34577768497f@worldcup-calendar": {
+        "hash": "c280c14d3352d87f577c30ea44e5095d29b31a8076b4ab476a2042acf40a30a0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      }
+    },
+    "es": {
+      "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+        "hash": "dc06762aac8a20083ab07cc2bbabb9fc01ad2224c2d2b3cc57290b40df0ae858",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+        "hash": "ae4ef372bd9549a73adf51155eef6a74b353929db6ef134861e1af6eeae09a4c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+        "hash": "5129fb4cfdf44ba60e3e2cb016ea51f7c56f7a269051a31aaf49fb4fbbd0411c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+        "hash": "cb2994bb1e8fb0e1b43bf75c4ca140344cab95a5450da1f333379332e51f33aa",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+        "hash": "c1ecd5c9be69240dcd55215da0c1146dc19cafc51a540c6f44039a5b98be9848",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+        "hash": "1fe405c023107b491682b8103a8871f4ea0d48977b111abb7b14fb331c78af37",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+        "hash": "d69b9e81ca628e79de0ad735fd140baafdbc9c4bba43d87ee849b403420c46fd",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+        "hash": "4643a6539a718963f0cc493ec6e7ffece1b5b36c643ebdbbdaeec13c124b32a4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+        "hash": "f365bcd7b59a1c62e0e134cdeda29616e13bb85db4590e9e75810703ce8247ec",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+        "hash": "030d5b170ca14c83d0dbbb9151a9a3a7498c121a5c7d5d44dc0ede63883aee1c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+        "hash": "4f038ad21323cdb98a8b71dad3b7c22da4aa8c6ed9b0c5193332a42f56a9fa24",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+        "hash": "f768af019196f422cefa0ff344848da937b85e75acd46fe82c703e9e8981954d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-98897760a664@worldcup-calendar": {
+        "hash": "5ca9c953d02c127d860536ed9b7513b14b473a4d0fe132f14ff19e833bde11e7",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+        "hash": "2a282dc664eef7c841d7dd2064b4abe21e1c274ee74a56cd98ac571d0b8b34d1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+        "hash": "ac6a84cf4a1d6565ed5f4e294a31d0f89c75c260e40a1e9767adc942f8f6e5ec",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-990102950604@worldcup-calendar": {
+        "hash": "099fd226189723afee77c35c93cd3111d406f4dd1b8f2e60b938a404b100cd1b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+        "hash": "c5e72cf98ce0bd050caae692f43fd41377940adc3b5486001bfcdaf542eabc91",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+        "hash": "2ece7245117d99310d4fe02446f3ec526999d0e901d8872c99d33b24e76556f1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+        "hash": "638efc44a539cd5aa10b9025da1632f7b68e773ee59bdcc9e4bdc37983de7a78",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+        "hash": "5aed4d33f260bb252b5370683c27a96a018a0fae1ac7738e3d12045785129f11",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+        "hash": "5beee782bc4f82ea51cc402fa34231bc4c37ba3257c5eb71f7a23064c344b064",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+        "hash": "baec32d1a642e8f993418b8d9e2ad3642552a89bbb6288ec5505cb797a765bbe",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+        "hash": "b71541f409eb239bd8b262e4c41408e91be88e05c3dec0681871d7d24b8260f6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+        "hash": "47d5e48bc82970c6d101d507dc21f2403b16888af67e656934ec27a4c6351057",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+        "hash": "55db8c42bb8f00038e64f680d3f3e7f8926c5f11a5641ba7fe61b16f75ff2e8a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+        "hash": "264f651ac8fc841a63d2bea813d1782ecc857fd894c992df2cd99621dbb148e4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+        "hash": "e5f269cef519d1ae6b36e9c578a14b8b0f684d1ae94b153724f05dcbf046cabf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+        "hash": "72764983891fd2af57bce4f389811bf41d31880c31eed5448045ee4c0763b3b1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+        "hash": "a89bec200131dbb728ed9b09e22e31ca3636932affff5e533b967152f4c9d752",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+        "hash": "66e48c50d996622cde1e1aaec5a73a5db5d3c2496f051d76d4cecd712d70eb9f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+        "hash": "99f9e4bdb46f7c38e917a41ec0ab36c171557ca3d6006b27f16a77f0dfb66b1c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+        "hash": "db818aed63a485c90212e7af45471ee42946339f31bb8463bcf7aea6027debc9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+        "hash": "7d7d3cb195d6339fdf1db2d45b93f58a0aa5aab3d535ec660cd76e208137a470",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+        "hash": "6f7712d23803951a0cd71d3bde561ff18d4b9cb540b6bddd66a02b6804aa9a50",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+        "hash": "60b655fa491d079ec98fd4125c2933530bb503fb6800ba8bf8ba6750e5ffb265",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+        "hash": "fc9200df2e76b53b812bb87dde4957c0e5c14e4bc2fa9d9bd05c2eda63b3820c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+        "hash": "3cc7bb42638abfa8642c8da40a219f70ffc59f86419663d8f964080a70a5eedf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+        "hash": "1468808ed686f4dd3206e03722a68f05d0b7c06b48e4524157a7e00284d85b39",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+        "hash": "09fe3a903259897659bd96801031a026b6dd764942d1f31eefa5025b7e235f4f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+        "hash": "0ea91d3c6028ca2260c50adf9675348eee384e4e301cb725a2c56ff903c29e62",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+        "hash": "9b0481abcec583731a46bdcf772aa62ca8cf6062778827cafa1e7199b750ffc4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+        "hash": "e7fc6c409d69034f4551e63e1e630dc5679b5e432036f79edb19e63dec81ad0b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+        "hash": "8b7795dbc7d321fd3195a43e4bfce84a06e18840c221ece14b4c7c13aa38a326",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+        "hash": "ac63b53e9ae5e2155f44a1b17fa6ca6c837048ffca10bafcffdeab2406b6992c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+        "hash": "5e1d6e582c50c7dd9641131e783b45c7e8c789f063b7994e742a3b41751f4a39",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+        "hash": "dfebe5d41e36aa4390286a3b92ae57da843a9d1d142c548dc47a5a517ab754bd",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+        "hash": "1d3f961c1dd37f3152cf76d11652c30763c7e090dec571e232257ae518446ac0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+        "hash": "4eb8c4a98758f1dc80fd98dd70cda6197e719aa6d7042b0086aa2f8bcb19db7f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+        "hash": "378797a4f8c42445b8e5953c5d46240ad4db445ee21af4af17d38f5459290954",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+        "hash": "6bc8c80732511d73268b889912361e7e2278f7915573ea648d35267615f22276",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+        "hash": "5f22b07959225b49eda270b8ebe6a65f8d6718d8f5595cb5a8a6002842f8ad61",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-65722f336345@worldcup-calendar": {
+        "hash": "98a3185fcdca953ccb712f690ca000fe4b8e415e0db4ba1c9299cc17df74a078",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+        "hash": "cebfd07064b679fe0b41a1855c16d9da5b811976c5e4b90d668229e80046ef71",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+        "hash": "9299b73947f57ae14977fcf72c6ea1508dbe3c435ff8f9f4fc9345ced9ec8c16",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+        "hash": "30fffb2a91e489a4acafa20ed4b82b1a527d5c04dfe1a42ce2c5b0eafed459b1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+        "hash": "3f1a7b8798ec3b55c6591da82affc41cf1ef074bf03e475c8158b9208133f953",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+        "hash": "3ddadf0672f41c4be50d9c963767caddd0c895092523dc6f791c32f88c381c46",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+        "hash": "37eb412547b62ad78eb481ee0c7702a43bdeefe2f89fdf8f38e820c269c66eea",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+        "hash": "898df05d484dbba66e48d4a87c02a3fd4dd12ebb5a62eee2d1c24f39ba3c6a74",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+        "hash": "6fbf4c45a41ebdd612f9afa92dc39c919155be6223ff271a09b3d5ba12d0736b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+        "hash": "244853aba60b8ca87609d7f221d8c3761eee84a812ce62137214062326c9c345",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+        "hash": "cdb46b4c2051d5a5acba8fad0f05fcf1dc1f39d482946b635d76e042099e9059",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+        "hash": "996f8688a47f44a43175a6a11ad2e15457c4db1d8f7fe9d04546f666e7e7a622",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34577768497f@worldcup-calendar": {
+        "hash": "a125d75f7de20f22ef87ece64a9f157796074673f4e0f0b160719c2a45fd4d81",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      }
+    },
+    "pt": {
+      "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+        "hash": "f3eded4aaee7ba4c87756bc5144cf725cb76cae6e1a991b77532c775824dc014",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+        "hash": "08a7521d03d53deb002ec48b9a73fd1928b0108a82bd3d71b5bec925bf2c0292",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+        "hash": "b79854e9a88eae8405fc3438aeb364fe891bd9379dfe1e762f3cf5c2c600ccbd",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+        "hash": "c9d5a630d463a74f414383bf9919ea66fa378868eaa1aa2a12f321b0ec68bd1c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+        "hash": "6741b1448f718377157bb71f55d670f98305586b892696fb96b8026c5f7e712a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+        "hash": "92a57f8f7697835d81d384a21a5bce1b6ceef5eb94810d9c21b4d6cb1734aeee",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+        "hash": "44b51c9d699c07fff210f5754ad9ff1efa59f8c89042211421139fc33186811f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+        "hash": "a4ab6a2d65ebe313599b9397027ad3bc3d7f3d950bafdc05b42449bed8189853",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+        "hash": "35b77a05f55aa7b3e1aaefbe7f2f4372209f7de39d42334489db914b934145a5",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+        "hash": "95d4d9c05de4fdbe642f36f76377cc449131d97cf6c9c3f8207dc930ae60c844",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+        "hash": "88c78902ef79881636289b5d9de058075341efa0391c9cafabe6da38972f434e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+        "hash": "a637a7d3892622c4b66647a96dfda80d0c2142ebe40794667684bf37b3eb5dfb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-98897760a664@worldcup-calendar": {
+        "hash": "e88409d9147b6f7233a2bda7fd0cdaceb563cf84a6f9c983a302dcddd5ff51b2",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+        "hash": "4ec7bf998f8bf84e177f156136c6c860d19476a127b5625b2c7e9854741ec145",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+        "hash": "fec67d9b808f145053894f303ae432237187be008a1d5bd9a89e18e76b2fc550",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-990102950604@worldcup-calendar": {
+        "hash": "96545a946f75cb959099bd8023b32bea7532249c32e721a5494785ffdaf406d0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+        "hash": "e3782096988defb195054eb00ce5cd448dc13de2a236b4b9dd2aeef40f7b9cd2",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+        "hash": "d37101a63f58414a0dd3b705df558d058620aece8989bb947a3513ba625f8d6d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+        "hash": "f6e87bbc019b547db2a87becd966e87c6eb4b0d5d22d69d2e23701dc9ab107e4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+        "hash": "018f680796b52062d243462c35b980d49bf3c4e45724b49d1e774b16a8f34077",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+        "hash": "813e454bc084c0498d7c764230afc3a2f9b0ef4decc168e7209482cf8fc4526c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+        "hash": "7421fea3680c969e7837295ae6b37d2c974e48ba13a348249ac9092e130e1fc4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+        "hash": "bd3ad19759057298a705a926e8569f3bf2bcd960673a90103cee397ed57fcc82",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+        "hash": "b5e9b961a9ffa653503d0c6c657a7f742a2eb83bdba9656dd30f545c54840229",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+        "hash": "ebacf239f57e6f0e90b2e1cdd6235b01d8b78f4f6ac541c2404e369fddc7d1eb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+        "hash": "1e595855f342cdfa53e77af7beb4be816703bd2507e3fe926b656231b3d269d5",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+        "hash": "41f4ec3bcf780abf412033976afba79ad2c7fb1d53c58ae5e25159afdde7ac42",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+        "hash": "73ace021e447d6f2ef2542a47a0341ef29c6ae7ac071a3a02500cc93d19bac5b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+        "hash": "24150df8ab59838777ad0628be005c41fb382d99ef99ec7a94aec999fc04c4c9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+        "hash": "036f676cb294a575d319fcc729cec533da13735962d4ee7b66dfb6c0beca5cf0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+        "hash": "ba05d0eacf915bdd559699f94072f66085732cd054b8c4bd829e74912066d622",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+        "hash": "b8de3b24197f2b1f4bc100266f80ee5813dfe27ed64ffd1fbcff42b2ad5b901e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+        "hash": "ab6f347229e1f16872a2b37ef822f230c82f5b28c00f7b99a61a975b072f5320",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+        "hash": "81cf290557ae3cb6ce2b602b255e6fec8504bc1734b8c0885cd833aabe335b3d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+        "hash": "454f9d27cc42c295fda16165c6df3bcee1fb5ec4ff73605ad4363f8cccc80182",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+        "hash": "a2276ff61f764750fb8bf6c824e60c159c14237bc8e3eda475cebbca578f699d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+        "hash": "7057b84b6e18419295d4406c5a55bc1e2b8cbcd5865c0a8b7cc3549ae3965316",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+        "hash": "dd9f8c6cab5798db6e59f23ef1a314fd41783ecac255d8b31289a463f0fe08bc",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+        "hash": "f7fa4562c49fdf96b6badfc4cdc33208b560fdd31e35840b563f96ebec6c75f3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+        "hash": "34e936f04c3a37e0ada354be33a0c3fe272129c9dea93c4ddc495f38ca59189f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+        "hash": "a9a7686bcf318ee0d04c1e12c2170e951e3ae79001f057c787539db303c7e44d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+        "hash": "eb89c8f8e9cf5c7299a3a7294ee76e47d09d609e0fbe799b7b6482ec564e5831",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+        "hash": "829872d6a74f4cdabdfc4c64f624057b1ecb8557ec964d34dda5c3263e816317",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+        "hash": "bc00776ea70db9a56d8b46b48eae180e407800bffe3b14c26b83bc30ffe96fe3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+        "hash": "01ea09b579c2e83dffd8ba7b89a7c65fde0fcddd690db95b97f9eab381fd78f2",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+        "hash": "319664362cf424bc2eec08d7f7ad56bfec07f1169035841107b5a3a7ede51b71",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+        "hash": "55cfb30d221543ca5e344073bd5b081fccaec7e969310a4a21da84a7b5cf227d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+        "hash": "4e70b207cd85c939ed988d4a201564dbb5cbb45760ad56313342d79cd604379a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+        "hash": "4c3d92f414bcc09949cde760bc810e7fb1579402644097fb4040668950b55aa3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+        "hash": "964bd056144d4dc6f562be24872448a813b14f0e7a565e0c0ad6ae2a75f25314",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+        "hash": "78a66706708f35cc39f5c2c7efb5967edf1cef92309fdcb83d600e7aa8292a80",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-65722f336345@worldcup-calendar": {
+        "hash": "437e2a871cc5a6198e3dc9c432f40fcfc3bfb305184d06440ceaa33acff4d9f9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+        "hash": "1c9468108465b711b673559fe2566afb00edf4837b03bcf080a17a28bc6b7efb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+        "hash": "b1840dc5e0e5ad5c359937d71990244a3b2b4cd45d64fadad036ccf3cb8b9e42",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+        "hash": "d6e0e13443aa9a861392fb11ebcf624e7f1801d97a0d75ea8328527e64cd3224",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+        "hash": "aefb41deda1c8867857d6295e8d75ecae62772bfe5a81fa9d5289e5aefc8acba",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+        "hash": "a04f3ac31de8b4fd582bb0c1aa8f20707b74ceab9c71d1fba31bac868127bfa1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+        "hash": "a77194294015af6ae4b408aa3a3ff9f15d0bc4a0fa9a29e3a9edd7d47e807a6a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+        "hash": "7464c90021fd765dbdb83dae968242958d0bc00ca775714a67d0db2045a786ac",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+        "hash": "024a2f3af1e0f23ac681dd767ed78cef23af9d645bf2cc2a782fd6dec4fb4ffe",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+        "hash": "aec5c6f735cdcc5f652d8d20c4e65cfc6a9d3abf6152f61fd41f6624b14958c9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+        "hash": "f95800cb5b78bf310105d62b9e32f2d34357a6300a59c54d08e724fb1ede4ccf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+        "hash": "2ee113f402264af142bdde50f0abfe20e9dab21b1172f3c610f9d71d04c58c85",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34577768497f@worldcup-calendar": {
+        "hash": "57ea9f3b6496b486fe071d43945fa2eb0046ccd39c96d7a0430d52ac376c87f2",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      }
+    },
+    "fr": {
+      "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+        "hash": "6262b66b565b69f7893d4b62b56d0615f8a3f155ef08e2eec19b3bb68ae9c46a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+        "hash": "2638ee227c1473b3948b44eb2532cd704eedee90a1f75bd582dcecaa9e742008",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+        "hash": "7eda6e714c18361109bb0b726202c91de1e8d4fd467e2923f25ed53359da72fb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+        "hash": "075e57fd31526be1ffb6d5cf7dcf6c0b4cd6fc7a76176e47a645e8ce8f6e772c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+        "hash": "95b3a00b79b157575a58a8ef50d4bc7b934a7d6d4bdc6e6418e36dc88ddbb07c",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+        "hash": "588faabd7283f3a9e4d49cd252bdd1e08e4695db349d8d8168c1b451b9dcc2e0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+        "hash": "7872cd0621ddca3ae22ecfea7fc53886655d5a2de4b81c74147ad79fdeee2701",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+        "hash": "a63778714e732909e01b232e1c39bbed5e8853c86528a08a503c8123e9569cf3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+        "hash": "eb15198e16b6732caaee54f37a076bc46cdd37db9195ea1d7473cc9856f7de27",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+        "hash": "c6a608cef09d59498478e5a3c09545e1c6b9a550690f7c33722b16da472cc77a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+        "hash": "643c58bb933f4d7c7195161d4d4d05566107ea7830176d262fdf55a290939d49",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+        "hash": "614bc8ff333797f3d2ed197b8e2e7c5ebf1e1067d623f1994374449bcea208b4",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-98897760a664@worldcup-calendar": {
+        "hash": "a39622e0b1d220e6360335efba230dbac6d7b679fde0cf22273e3ee2792173c3",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+        "hash": "ce44a68cf9f9d7dd3677e4f2cb98b7233dc263453db4df4638d7cb6f0428f9b9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+        "hash": "1b9c6879b877ab2b35e131c207565a4efc4948176860e1bec7c8d0c8c3b5402e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-990102950604@worldcup-calendar": {
+        "hash": "880eb5f87f0753c22992b46b7c53f5010d7bdd0496f833fd27832dfe8591ec52",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+        "hash": "0d618407ce5b77c06cba046693cb8c9d16f27cc8931f3faa9145f73a4280e9f9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+        "hash": "9056c96af043d5ff33fce94254bded2c4243ed17120a26d5861d27fda89e4ffe",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+        "hash": "6045f30a0869cac94d1883350939898303223850eefc3a506f9be70653a0a9da",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+        "hash": "a74e40feaa684d75055e604427d7e15ed59fec3604987980a149d87906b0c778",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+        "hash": "1886b7895629132118cde913e8151f9b82e976dc98324b79b8daca4f2b4422fa",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+        "hash": "34c51d74f5af1d432bfd8ffa8d6449e8dbb63af610df112ce2b29ad1055d5ada",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+        "hash": "4a1dfc85906e8d8b1a5099a221ef49626f7ed4520f5df3772a7100c0f8e37f04",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+        "hash": "ab6939d3bfb3d56a4c9594d0125996cd18cb3984ddf0d49b510666403ca26655",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+        "hash": "889c76026706a65eb9687f9f74a7109a71b7b932035d6f76e2fdd9f981743dcd",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+        "hash": "a3c2068085eabd2b53e2649900fab6e8f8643b9fa728972841d1136f34305814",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+        "hash": "b8b0f196056903a0a733d2453f97e35ecb150c7517122727d134b6d81457868d",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+        "hash": "e87645acd3916235158bd0dd2b18f0ca4172d6d6b2bedc0c6c831f86c968ba09",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+        "hash": "79eb39b7900994c2ebb5be14f6b87afa6b1911488e2b5a426b657cfcab8499d0",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+        "hash": "2606cc03f83c1710b2cbcc0fec202e637ccdd68bff5bfd2121c2badbbbedd874",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+        "hash": "df4879d507038ebc9dfc420a57272cd72be214d59d396ca732358592125cf8ae",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+        "hash": "71669614702f60ab2eb9d6c39cefb0bba81686b7a4f2c0b4706ec0b3b151028b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+        "hash": "7ec5cb240bd227fcd90faee3ac82dc591831db0cff6a18425f37ea33c7fdddae",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+        "hash": "30e031270538b33556ade83b340f1071ef40ca6651d6a933767eafba2dd87df6",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+        "hash": "380bc4e20d724f8fc60482b38c309c030f2aeb108ade6aeb97b90bfceee3be68",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+        "hash": "c347dee25fbd7df54f29b1978766572e93f7efa9b8862148f5c26fcec1a8d1ec",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+        "hash": "aa28fbb71914b0f072962f09330d9935b5e21773e7b9af41d934c300c2731310",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+        "hash": "ff55d2a179d34f07a897b0983489980c08260a5dbab9cf0d131187b31c2d9ee8",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+        "hash": "998e1896402272a7e32da52cf4e072d089de9cbb690321ae36bb0101a3a40ab1",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+        "hash": "b5b69cf78133ea51b362cab8ea7c47380bf85216f429bbbe4df407af9c00e588",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+        "hash": "350784810f97abef7605283200880c995e96dee49db6fe0b42a7d3e2445e5c5a",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+        "hash": "1e41310fddf4e7354b18cff60b53076138c947be1a2fa5aa9ef8f6d85d0b3e9f",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+        "hash": "66644a11e8be36f58a6f89c57c651ad294c00e252327714bc8be03f51cf571fb",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+        "hash": "a5c8386fe9c01c31962d057185314d21a5a7465cd7da1df5b512f2869943c0f5",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+        "hash": "1320e0ded135088650d4c35810f1ec187b6e55c969ef90b8b9fb4167b31f5282",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+        "hash": "e53dfd6c90914366c253c3fda5cf45e0388329d6a02445bb89766262aec9e313",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+        "hash": "0b5dd908cf4668c8e16c0fd7cfb07146fd5aec1506432723b15f727255261205",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+        "hash": "5b54833c89a6e3cd2c4624e4b78a5207430fd81da782dbf2d2914caacae2d40b",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+        "hash": "1f1493ecad68ad85128a4b3e2b174cdff79d9ccd91574ae7d5719c10afc1c8c7",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+        "hash": "2a5e453aa63c5784eac3a1bfa1621b208c95cacc1ba22e91ada9c0fd98db9fbe",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+        "hash": "4a488c189aa991ab99535a60653f5aaaf870a267657479352829716764e62785",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-65722f336345@worldcup-calendar": {
+        "hash": "bc1fa44269643f6d24ad1cc9a450accceeb2380fec2392b52014e8f9f2e4fff8",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+        "hash": "e3601ff7104832d8841caa9eb5b2838161234a7acd2b80d60c44470f63a84b4e",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+        "hash": "2238fbf692b70a5d2df17b5251226f704020f29beb185eba0c97a3d011e2de07",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+        "hash": "52fed996ed4644dde26178c4b6b6547953d81ac0b347306c15f2a07403d36dd2",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+        "hash": "54088d9325f625de81a4d89e583f10eee5c4d2c9e0ff18ca5f35a63b160001cf",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+        "hash": "f9132da7fdf775bb168a2aba7189b243c52e4c4d1067ae5f06b417c3fe4f5054",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+        "hash": "9f55455572ab6be422541d7c73f21aaae846a8f2524028378d5454fe50ac7f10",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+        "hash": "a1148428c7f62361d47489570b71e05ca26290c558c73bb89bab643f89ae3c14",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+        "hash": "4f9b5393df414cf4f2e2f2f5ee96c24b17a5286f9bff19a2d9fd0277e6a88d38",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+        "hash": "01177e2451430130d48fab9359ab34986aa22fd3a9221102b2c8facd76d16c11",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+        "hash": "3c5527b650ee71156a2a02f61bbe30a85106207d23ded46265856f07085127f9",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+        "hash": "f6aa3f106f54c8a0403e9f8ac559b6d9713bd0b0c6f6c95462e484129525cae5",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      },
+      "fifa-wc-2022-34577768497f@worldcup-calendar": {
+        "hash": "b4a4eefc2be16fdbb78ceaa08cc3aa37f750af393902a3401f1d23c2371c3e08",
+        "sequence": 0,
+        "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+      }
+    }
+  },
+  "teams": {
+    "argentina": {
+      "en": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "e33a8ceecc2c68b0229989634dd16803fe0b9aaec77aa870e9ff9915d499bf23",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "40170ff52c4dd70765f6e6ae8550bdcf0a331c7631a53a2019025655a1fb3469",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "81ee13f1afcb95891df531a9d1ff0879d8e52394bdebca9f4d779c18f0232d70",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "9a75f34a7a7455ad2dbec8242918775dd82f3287b7549d15a9f637ecd10aeff6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "757380da44b153348d3d5615d53a52cadb20d4f1b5857d1e643c78251ebd3a38",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "5339a2d557cc3a6c430f3411b75649ce99c80aa674c0fd21f4bca6b3a939e600",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "c280c14d3352d87f577c30ea44e5095d29b31a8076b4ab476a2042acf40a30a0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "5ca9c953d02c127d860536ed9b7513b14b473a4d0fe132f14ff19e833bde11e7",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "099fd226189723afee77c35c93cd3111d406f4dd1b8f2e60b938a404b100cd1b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "c5e72cf98ce0bd050caae692f43fd41377940adc3b5486001bfcdaf542eabc91",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "6bc8c80732511d73268b889912361e7e2278f7915573ea648d35267615f22276",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "37eb412547b62ad78eb481ee0c7702a43bdeefe2f89fdf8f38e820c269c66eea",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "244853aba60b8ca87609d7f221d8c3761eee84a812ce62137214062326c9c345",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "a125d75f7de20f22ef87ece64a9f157796074673f4e0f0b160719c2a45fd4d81",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "e88409d9147b6f7233a2bda7fd0cdaceb563cf84a6f9c983a302dcddd5ff51b2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "96545a946f75cb959099bd8023b32bea7532249c32e721a5494785ffdaf406d0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "e3782096988defb195054eb00ce5cd448dc13de2a236b4b9dd2aeef40f7b9cd2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "964bd056144d4dc6f562be24872448a813b14f0e7a565e0c0ad6ae2a75f25314",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "a77194294015af6ae4b408aa3a3ff9f15d0bc4a0fa9a29e3a9edd7d47e807a6a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "aec5c6f735cdcc5f652d8d20c4e65cfc6a9d3abf6152f61fd41f6624b14958c9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "57ea9f3b6496b486fe071d43945fa2eb0046ccd39c96d7a0430d52ac376c87f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "a39622e0b1d220e6360335efba230dbac6d7b679fde0cf22273e3ee2792173c3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "880eb5f87f0753c22992b46b7c53f5010d7bdd0496f833fd27832dfe8591ec52",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "0d618407ce5b77c06cba046693cb8c9d16f27cc8931f3faa9145f73a4280e9f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "2a5e453aa63c5784eac3a1bfa1621b208c95cacc1ba22e91ada9c0fd98db9fbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "9f55455572ab6be422541d7c73f21aaae846a8f2524028378d5454fe50ac7f10",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "01177e2451430130d48fab9359ab34986aa22fd3a9221102b2c8facd76d16c11",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "b4a4eefc2be16fdbb78ceaa08cc3aa37f750af393902a3401f1d23c2371c3e08",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "australia": {
+      "en": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "e058ede3ed2a89c36319983a6e20ac5f537b706d9d58bb527d904c4ed9ed1022",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "a4f099314061eb14750024b7ee9669f32afc98cb0c041a46e0943a821f5cc3c6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "3bbb39733f6d6493c6a712a5f493ab5f9dfdda3b569dc4b1f00b38839b2c541e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "9a75f34a7a7455ad2dbec8242918775dd82f3287b7549d15a9f637ecd10aeff6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "5aed4d33f260bb252b5370683c27a96a018a0fae1ac7738e3d12045785129f11",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "5beee782bc4f82ea51cc402fa34231bc4c37ba3257c5eb71f7a23064c344b064",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "b71541f409eb239bd8b262e4c41408e91be88e05c3dec0681871d7d24b8260f6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "6bc8c80732511d73268b889912361e7e2278f7915573ea648d35267615f22276",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "018f680796b52062d243462c35b980d49bf3c4e45724b49d1e774b16a8f34077",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "813e454bc084c0498d7c764230afc3a2f9b0ef4decc168e7209482cf8fc4526c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "bd3ad19759057298a705a926e8569f3bf2bcd960673a90103cee397ed57fcc82",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "964bd056144d4dc6f562be24872448a813b14f0e7a565e0c0ad6ae2a75f25314",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "a74e40feaa684d75055e604427d7e15ed59fec3604987980a149d87906b0c778",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "1886b7895629132118cde913e8151f9b82e976dc98324b79b8daca4f2b4422fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "4a1dfc85906e8d8b1a5099a221ef49626f7ed4520f5df3772a7100c0f8e37f04",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1d09764bb8ad@worldcup-calendar": {
+          "hash": "2a5e453aa63c5784eac3a1bfa1621b208c95cacc1ba22e91ada9c0fd98db9fbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "belgium": {
+      "en": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "62b49bd481bbd23e639330c0bc5d9907467c2a0ab8376dd410e12efd77be814d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "db0c42cfc6261f4810636f95aa753deff83a809ced0260006d45cc1e222ad884",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "5fa4467e944333858cb6cdcafdbf083b0917359aa40ed937e1f8b2b212d18527",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "db818aed63a485c90212e7af45471ee42946339f31bb8463bcf7aea6027debc9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "7d7d3cb195d6339fdf1db2d45b93f58a0aa5aab3d535ec660cd76e208137a470",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "60b655fa491d079ec98fd4125c2933530bb503fb6800ba8bf8ba6750e5ffb265",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "b8de3b24197f2b1f4bc100266f80ee5813dfe27ed64ffd1fbcff42b2ad5b901e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "ab6f347229e1f16872a2b37ef822f230c82f5b28c00f7b99a61a975b072f5320",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "454f9d27cc42c295fda16165c6df3bcee1fb5ec4ff73605ad4363f8cccc80182",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "71669614702f60ab2eb9d6c39cefb0bba81686b7a4f2c0b4706ec0b3b151028b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "7ec5cb240bd227fcd90faee3ac82dc591831db0cff6a18425f37ea33c7fdddae",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "380bc4e20d724f8fc60482b38c309c030f2aeb108ade6aeb97b90bfceee3be68",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "brazil": {
+      "en": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "4ebe512554c4e6a478744558189b02b75a7fab21adf75d3fc2cf5036ac6f5b4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "6d8a3578e980a56626b8ca7e9b5aec38989399284e6944ff1069673bfd3df1bc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "c97a1258dc093cbbda0920de8ade18f3fe36dc34f0869b041542faeb8cb5c2bd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "4f8f86700658003d680e93445b962623320d42073502b84fa62380993dfff2d6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "6537e831c6bb6f210da5e1ffc8f03e4907a49856afbf631bc8e8475a9d82bf76",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "1468808ed686f4dd3206e03722a68f05d0b7c06b48e4524157a7e00284d85b39",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "0ea91d3c6028ca2260c50adf9675348eee384e4e301cb725a2c56ff903c29e62",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "e7fc6c409d69034f4551e63e1e630dc5679b5e432036f79edb19e63dec81ad0b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "9299b73947f57ae14977fcf72c6ea1508dbe3c435ff8f9f4fc9345ced9ec8c16",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "3ddadf0672f41c4be50d9c963767caddd0c895092523dc6f791c32f88c381c46",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "dd9f8c6cab5798db6e59f23ef1a314fd41783ecac255d8b31289a463f0fe08bc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "34e936f04c3a37e0ada354be33a0c3fe272129c9dea93c4ddc495f38ca59189f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "eb89c8f8e9cf5c7299a3a7294ee76e47d09d609e0fbe799b7b6482ec564e5831",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "b1840dc5e0e5ad5c359937d71990244a3b2b4cd45d64fadad036ccf3cb8b9e42",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "a04f3ac31de8b4fd582bb0c1aa8f20707b74ceab9c71d1fba31bac868127bfa1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "ff55d2a179d34f07a897b0983489980c08260a5dbab9cf0d131187b31c2d9ee8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "b5b69cf78133ea51b362cab8ea7c47380bf85216f429bbbe4df407af9c00e588",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "1e41310fddf4e7354b18cff60b53076138c947be1a2fa5aa9ef8f6d85d0b3e9f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "2238fbf692b70a5d2df17b5251226f704020f29beb185eba0c97a3d011e2de07",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "f9132da7fdf775bb168a2aba7189b243c52e4c4d1067ae5f06b417c3fe4f5054",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "cameroon": {
+      "en": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "a891501bfb57335bbd96a53bfc8b26212583927385428775d1f74508e6429548",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "75dfcf08c593677bb2297d11c47ab29d30dab7e61f0a44fd1c6281eed9a1851f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "c97a1258dc093cbbda0920de8ade18f3fe36dc34f0869b041542faeb8cb5c2bd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "3cc7bb42638abfa8642c8da40a219f70ffc59f86419663d8f964080a70a5eedf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "09fe3a903259897659bd96801031a026b6dd764942d1f31eefa5025b7e235f4f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "e7fc6c409d69034f4551e63e1e630dc5679b5e432036f79edb19e63dec81ad0b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "7057b84b6e18419295d4406c5a55bc1e2b8cbcd5865c0a8b7cc3549ae3965316",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "f7fa4562c49fdf96b6badfc4cdc33208b560fdd31e35840b563f96ebec6c75f3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "eb89c8f8e9cf5c7299a3a7294ee76e47d09d609e0fbe799b7b6482ec564e5831",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "aa28fbb71914b0f072962f09330d9935b5e21773e7b9af41d934c300c2731310",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "998e1896402272a7e32da52cf4e072d089de9cbb690321ae36bb0101a3a40ab1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34fda74f7ea4@worldcup-calendar": {
+          "hash": "1e41310fddf4e7354b18cff60b53076138c947be1a2fa5aa9ef8f6d85d0b3e9f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "canada": {
+      "en": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "62b49bd481bbd23e639330c0bc5d9907467c2a0ab8376dd410e12efd77be814d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "1c97afa7e1ad36940a04a9342ee69fbeeaf7ee9dc200e64914611ed03319ce47",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "ce83e93f78ccaca32803cd96d1ec306d470124f762a5ac171287016643886c1e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "db818aed63a485c90212e7af45471ee42946339f31bb8463bcf7aea6027debc9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "6f7712d23803951a0cd71d3bde561ff18d4b9cb540b6bddd66a02b6804aa9a50",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "fc9200df2e76b53b812bb87dde4957c0e5c14e4bc2fa9d9bd05c2eda63b3820c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "b8de3b24197f2b1f4bc100266f80ee5813dfe27ed64ffd1fbcff42b2ad5b901e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "81cf290557ae3cb6ce2b602b255e6fec8504bc1734b8c0885cd833aabe335b3d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "a2276ff61f764750fb8bf6c824e60c159c14237bc8e3eda475cebbca578f699d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-c7008efe8b1f@worldcup-calendar": {
+          "hash": "71669614702f60ab2eb9d6c39cefb0bba81686b7a4f2c0b4706ec0b3b151028b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "30e031270538b33556ade83b340f1071ef40ca6651d6a933767eafba2dd87df6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "c347dee25fbd7df54f29b1978766572e93f7efa9b8862148f5c26fcec1a8d1ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "costa-rica": {
+      "en": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "1002cfc9e9388f89ac5106f2bfbc1af4770c02ffa5c0da10f4198710648fadde",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "0e82f7c5b3ae748bb76443bb3cd4b217b8bf01070042bebb1f184ad9445a0db4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "4135d7c6b5ec66f8222f59d963dcc776bb5b4099bdd41b5c9337f450d3f97dbf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "264f651ac8fc841a63d2bea813d1782ecc857fd894c992df2cd99621dbb148e4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "e5f269cef519d1ae6b36e9c578a14b8b0f684d1ae94b153724f05dcbf046cabf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "66e48c50d996622cde1e1aaec5a73a5db5d3c2496f051d76d4cecd712d70eb9f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "1e595855f342cdfa53e77af7beb4be816703bd2507e3fe926b656231b3d269d5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "41f4ec3bcf780abf412033976afba79ad2c7fb1d53c58ae5e25159afdde7ac42",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "036f676cb294a575d319fcc729cec533da13735962d4ee7b66dfb6c0beca5cf0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "a3c2068085eabd2b53e2649900fab6e8f8643b9fa728972841d1136f34305814",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "b8b0f196056903a0a733d2453f97e35ecb150c7517122727d134b6d81457868d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "2606cc03f83c1710b2cbcc0fec202e637ccdd68bff5bfd2121c2badbbbedd874",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "croatia": {
+      "en": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "9c1ce51f3e84650af788d8b0170caf1ac973090edff1853cc8abbd8a8e1b5ff0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "1c97afa7e1ad36940a04a9342ee69fbeeaf7ee9dc200e64914611ed03319ce47",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "5fa4467e944333858cb6cdcafdbf083b0917359aa40ed937e1f8b2b212d18527",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "b153424ae569614fb71e9df4da99aca63791e65aec3964cc768402b5ca5e8527",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "6537e831c6bb6f210da5e1ffc8f03e4907a49856afbf631bc8e8475a9d82bf76",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "5339a2d557cc3a6c430f3411b75649ce99c80aa674c0fd21f4bca6b3a939e600",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "8157b819846f52f3ff31484b6800de27fe0ade457b1236b0a0ff07d5e588fb6d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "99f9e4bdb46f7c38e917a41ec0ab36c171557ca3d6006b27f16a77f0dfb66b1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "6f7712d23803951a0cd71d3bde561ff18d4b9cb540b6bddd66a02b6804aa9a50",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "60b655fa491d079ec98fd4125c2933530bb503fb6800ba8bf8ba6750e5ffb265",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "cebfd07064b679fe0b41a1855c16d9da5b811976c5e4b90d668229e80046ef71",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "3ddadf0672f41c4be50d9c963767caddd0c895092523dc6f791c32f88c381c46",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "244853aba60b8ca87609d7f221d8c3761eee84a812ce62137214062326c9c345",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "996f8688a47f44a43175a6a11ad2e15457c4db1d8f7fe9d04546f666e7e7a622",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "ba05d0eacf915bdd559699f94072f66085732cd054b8c4bd829e74912066d622",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "81cf290557ae3cb6ce2b602b255e6fec8504bc1734b8c0885cd833aabe335b3d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "454f9d27cc42c295fda16165c6df3bcee1fb5ec4ff73605ad4363f8cccc80182",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "1c9468108465b711b673559fe2566afb00edf4837b03bcf080a17a28bc6b7efb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "a04f3ac31de8b4fd582bb0c1aa8f20707b74ceab9c71d1fba31bac868127bfa1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "aec5c6f735cdcc5f652d8d20c4e65cfc6a9d3abf6152f61fd41f6624b14958c9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "2ee113f402264af142bdde50f0abfe20e9dab21b1172f3c610f9d71d04c58c85",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "df4879d507038ebc9dfc420a57272cd72be214d59d396ca732358592125cf8ae",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e21c44e46e94@worldcup-calendar": {
+          "hash": "30e031270538b33556ade83b340f1071ef40ca6651d6a933767eafba2dd87df6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5384aef4467b@worldcup-calendar": {
+          "hash": "380bc4e20d724f8fc60482b38c309c030f2aeb108ade6aeb97b90bfceee3be68",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "e3601ff7104832d8841caa9eb5b2838161234a7acd2b80d60c44470f63a84b4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-459a33c9e8f8@worldcup-calendar": {
+          "hash": "f9132da7fdf775bb168a2aba7189b243c52e4c4d1067ae5f06b417c3fe4f5054",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2eacdca76ea1@worldcup-calendar": {
+          "hash": "01177e2451430130d48fab9359ab34986aa22fd3a9221102b2c8facd76d16c11",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "f6aa3f106f54c8a0403e9f8ac559b6d9713bd0b0c6f6c95462e484129525cae5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "denmark": {
+      "en": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "feeca1ee00d04c04c780c29015dd09631c024098046a02b5aef058c49a1b4704",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "88367635021cad5c63ac27cf2d19a138f77ee9a86ceca31000d614046a41e80a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "3bbb39733f6d6493c6a712a5f493ab5f9dfdda3b569dc4b1f00b38839b2c541e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "638efc44a539cd5aa10b9025da1632f7b68e773ee59bdcc9e4bdc37983de7a78",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "baec32d1a642e8f993418b8d9e2ad3642552a89bbb6288ec5505cb797a765bbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "b71541f409eb239bd8b262e4c41408e91be88e05c3dec0681871d7d24b8260f6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "f6e87bbc019b547db2a87becd966e87c6eb4b0d5d22d69d2e23701dc9ab107e4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "7421fea3680c969e7837295ae6b37d2c974e48ba13a348249ac9092e130e1fc4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "bd3ad19759057298a705a926e8569f3bf2bcd960673a90103cee397ed57fcc82",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "6045f30a0869cac94d1883350939898303223850eefc3a506f9be70653a0a9da",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "34c51d74f5af1d432bfd8ffa8d6449e8dbb63af610df112ce2b29ad1055d5ada",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-924d296c03de@worldcup-calendar": {
+          "hash": "4a1dfc85906e8d8b1a5099a221ef49626f7ed4520f5df3772a7100c0f8e37f04",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "ecuador": {
+      "en": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "86e48fb199ad59e96a34b1d7d704148cad1695855417a3d85cb020bd5366929b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "30f410823fd95beb0dd844434e1d3ba82b1787eb6ab8e218eb7b25a69d02a15f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "fdb98ff376a6dc01bb7980d30f3ba550f536ae264ec4f795c6269d4877db9a01",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "dc06762aac8a20083ab07cc2bbabb9fc01ad2224c2d2b3cc57290b40df0ae858",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "cb2994bb1e8fb0e1b43bf75c4ca140344cab95a5450da1f333379332e51f33aa",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "c1ecd5c9be69240dcd55215da0c1146dc19cafc51a540c6f44039a5b98be9848",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "f3eded4aaee7ba4c87756bc5144cf725cb76cae6e1a991b77532c775824dc014",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "c9d5a630d463a74f414383bf9919ea66fa378868eaa1aa2a12f321b0ec68bd1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "6741b1448f718377157bb71f55d670f98305586b892696fb96b8026c5f7e712a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "6262b66b565b69f7893d4b62b56d0615f8a3f155ef08e2eec19b3bb68ae9c46a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "075e57fd31526be1ffb6d5cf7dcf6c0b4cd6fc7a76176e47a645e8ce8f6e772c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "95b3a00b79b157575a58a8ef50d4bc7b934a7d6d4bdc6e6418e36dc88ddbb07c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "england": {
+      "en": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "2a2778a10b7fa2a8637fd102f40ecb58a8a0fd4caecccb013d31e0f4a2776647",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "7e3a65a54fa946d155501f472a183dc4b75ad1364b9dc2f7ca4f3950c1b210b8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "1c8c06884e80cf0598fc47480f534fa1161a62c3eda10f3b839a291575f59483",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "cdd5bec6a83c1fb4ee1b3d92466b1a4f20591d36a6cfb1af6daf1d8743092f5d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "35a27bb7470e5ddc5b2ed1460a7f6aefc3e50b52f99c0ca550567e5712cb636f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "d69b9e81ca628e79de0ad735fd140baafdbc9c4bba43d87ee849b403420c46fd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "030d5b170ca14c83d0dbbb9151a9a3a7498c121a5c7d5d44dc0ede63883aee1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "4f038ad21323cdb98a8b71dad3b7c22da4aa8c6ed9b0c5193332a42f56a9fa24",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "98a3185fcdca953ccb712f690ca000fe4b8e415e0db4ba1c9299cc17df74a078",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "6fbf4c45a41ebdd612f9afa92dc39c919155be6223ff271a09b3d5ba12d0736b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "44b51c9d699c07fff210f5754ad9ff1efa59f8c89042211421139fc33186811f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "95d4d9c05de4fdbe642f36f76377cc449131d97cf6c9c3f8207dc930ae60c844",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "88c78902ef79881636289b5d9de058075341efa0391c9cafabe6da38972f434e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "437e2a871cc5a6198e3dc9c432f40fcfc3bfb305184d06440ceaa33acff4d9f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "024a2f3af1e0f23ac681dd767ed78cef23af9d645bf2cc2a782fd6dec4fb4ffe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "7872cd0621ddca3ae22ecfea7fc53886655d5a2de4b81c74147ad79fdeee2701",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "c6a608cef09d59498478e5a3c09545e1c6b9a550690f7c33722b16da472cc77a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "643c58bb933f4d7c7195161d4d4d05566107ea7830176d262fdf55a290939d49",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "bc1fa44269643f6d24ad1cc9a450accceeb2380fec2392b52014e8f9f2e4fff8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "4f9b5393df414cf4f2e2f2f5ee96c24b17a5286f9bff19a2d9fd0277e6a88d38",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "france": {
+      "en": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "e058ede3ed2a89c36319983a6e20ac5f537b706d9d58bb527d904c4ed9ed1022",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "88367635021cad5c63ac27cf2d19a138f77ee9a86ceca31000d614046a41e80a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "6a2404b92c11a3c37a164d902cf06f92d9f4ee5d3cf9f8623f6fc6d564222b1a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "af1858b394ff4900a29ffd2db6226476b2d1dc190e60b23ccc672be50ce31fbf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "35a27bb7470e5ddc5b2ed1460a7f6aefc3e50b52f99c0ca550567e5712cb636f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "3852ea94d65d4d0322c45af01b1534f7029af641d8d57be46efdeee29313e5a1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "c280c14d3352d87f577c30ea44e5095d29b31a8076b4ab476a2042acf40a30a0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "5aed4d33f260bb252b5370683c27a96a018a0fae1ac7738e3d12045785129f11",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "baec32d1a642e8f993418b8d9e2ad3642552a89bbb6288ec5505cb797a765bbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "47d5e48bc82970c6d101d507dc21f2403b16888af67e656934ec27a4c6351057",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "5f22b07959225b49eda270b8ebe6a65f8d6718d8f5595cb5a8a6002842f8ad61",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "6fbf4c45a41ebdd612f9afa92dc39c919155be6223ff271a09b3d5ba12d0736b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "cdb46b4c2051d5a5acba8fad0f05fcf1dc1f39d482946b635d76e042099e9059",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "a125d75f7de20f22ef87ece64a9f157796074673f4e0f0b160719c2a45fd4d81",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "018f680796b52062d243462c35b980d49bf3c4e45724b49d1e774b16a8f34077",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "7421fea3680c969e7837295ae6b37d2c974e48ba13a348249ac9092e130e1fc4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "b5e9b961a9ffa653503d0c6c657a7f742a2eb83bdba9656dd30f545c54840229",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "78a66706708f35cc39f5c2c7efb5967edf1cef92309fdcb83d600e7aa8292a80",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "024a2f3af1e0f23ac681dd767ed78cef23af9d645bf2cc2a782fd6dec4fb4ffe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "f95800cb5b78bf310105d62b9e32f2d34357a6300a59c54d08e724fb1ede4ccf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "57ea9f3b6496b486fe071d43945fa2eb0046ccd39c96d7a0430d52ac376c87f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-bda352d41357@worldcup-calendar": {
+          "hash": "a74e40feaa684d75055e604427d7e15ed59fec3604987980a149d87906b0c778",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-de478cb342f1@worldcup-calendar": {
+          "hash": "34c51d74f5af1d432bfd8ffa8d6449e8dbb63af610df112ce2b29ad1055d5ada",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "ab6939d3bfb3d56a4c9594d0125996cd18cb3984ddf0d49b510666403ca26655",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "4a488c189aa991ab99535a60653f5aaaf870a267657479352829716764e62785",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-648d650d7895@worldcup-calendar": {
+          "hash": "4f9b5393df414cf4f2e2f2f5ee96c24b17a5286f9bff19a2d9fd0277e6a88d38",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "3c5527b650ee71156a2a02f61bbe30a85106207d23ded46265856f07085127f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-34577768497f@worldcup-calendar": {
+          "hash": "b4a4eefc2be16fdbb78ceaa08cc3aa37f750af393902a3401f1d23c2371c3e08",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "germany": {
+      "en": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "906e8762496ceaead12d01ca6863cd301ee4c0b3f6bfc310de8673b03fab170c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "f82c86a4859e57ca8f2c4087e7e150b480627627da194595cea99f1d93f48202",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "4135d7c6b5ec66f8222f59d963dcc776bb5b4099bdd41b5c9337f450d3f97dbf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "55db8c42bb8f00038e64f680d3f3e7f8926c5f11a5641ba7fe61b16f75ff2e8a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "72764983891fd2af57bce4f389811bf41d31880c31eed5448045ee4c0763b3b1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "66e48c50d996622cde1e1aaec5a73a5db5d3c2496f051d76d4cecd712d70eb9f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "ebacf239f57e6f0e90b2e1cdd6235b01d8b78f4f6ac541c2404e369fddc7d1eb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "73ace021e447d6f2ef2542a47a0341ef29c6ae7ac071a3a02500cc93d19bac5b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "036f676cb294a575d319fcc729cec533da13735962d4ee7b66dfb6c0beca5cf0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "889c76026706a65eb9687f9f74a7109a71b7b932035d6f76e2fdd9f981743dcd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "e87645acd3916235158bd0dd2b18f0ca4172d6d6b2bedc0c6c831f86c968ba09",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-62fabdb24963@worldcup-calendar": {
+          "hash": "2606cc03f83c1710b2cbcc0fec202e637ccdd68bff5bfd2121c2badbbbedd874",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "ghana": {
+      "en": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "c8b9e0d4a783599f59f62e171c4af707667fa974818a9b38688a402370ed9ecc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "1a011c4531297b765fec27b725fba2a7adfb9b1e0d668ff8be67651853944a28",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "e7ffbb3a0dbb4482c11d5c71c51acd2f4ec20d1a4c215a1b37e13c7db29d31ed",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "ac63b53e9ae5e2155f44a1b17fa6ca6c837048ffca10bafcffdeab2406b6992c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "5e1d6e582c50c7dd9641131e783b45c7e8c789f063b7994e742a3b41751f4a39",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "1d3f961c1dd37f3152cf76d11652c30763c7e090dec571e232257ae518446ac0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "bc00776ea70db9a56d8b46b48eae180e407800bffe3b14c26b83bc30ffe96fe3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "01ea09b579c2e83dffd8ba7b89a7c65fde0fcddd690db95b97f9eab381fd78f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "55cfb30d221543ca5e344073bd5b081fccaec7e969310a4a21da84a7b5cf227d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "a5c8386fe9c01c31962d057185314d21a5a7465cd7da1df5b512f2869943c0f5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "1320e0ded135088650d4c35810f1ec187b6e55c969ef90b8b9fb4167b31f5282",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "0b5dd908cf4668c8e16c0fd7cfb07146fd5aec1506432723b15f727255261205",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "iran": {
+      "en": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "2a2778a10b7fa2a8637fd102f40ecb58a8a0fd4caecccb013d31e0f4a2776647",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "573389f91ab1b3be5e5e4a7bba1656818cd0e5f0b7b99549b44c48a22f847578",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "739c08f54eed1896ed062b1741ace53796336c207a9ef9833f3a7130623125c5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "d69b9e81ca628e79de0ad735fd140baafdbc9c4bba43d87ee849b403420c46fd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "f365bcd7b59a1c62e0e134cdeda29616e13bb85db4590e9e75810703ce8247ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "f768af019196f422cefa0ff344848da937b85e75acd46fe82c703e9e8981954d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "44b51c9d699c07fff210f5754ad9ff1efa59f8c89042211421139fc33186811f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "35b77a05f55aa7b3e1aaefbe7f2f4372209f7de39d42334489db914b934145a5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "a637a7d3892622c4b66647a96dfda80d0c2142ebe40794667684bf37b3eb5dfb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-ef37bc342d49@worldcup-calendar": {
+          "hash": "7872cd0621ddca3ae22ecfea7fc53886655d5a2de4b81c74147ad79fdeee2701",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "eb15198e16b6732caaee54f37a076bc46cdd37db9195ea1d7473cc9856f7de27",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "614bc8ff333797f3d2ed197b8e2e7c5ebf1e1067d623f1994374449bcea208b4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "japan": {
+      "en": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "906e8762496ceaead12d01ca6863cd301ee4c0b3f6bfc310de8673b03fab170c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "0e82f7c5b3ae748bb76443bb3cd4b217b8bf01070042bebb1f184ad9445a0db4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "eb9b7741ba044a30820d405f177ec65464c29082852eb531cd96621c800ac056",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "b153424ae569614fb71e9df4da99aca63791e65aec3964cc768402b5ca5e8527",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "55db8c42bb8f00038e64f680d3f3e7f8926c5f11a5641ba7fe61b16f75ff2e8a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "e5f269cef519d1ae6b36e9c578a14b8b0f684d1ae94b153724f05dcbf046cabf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "a89bec200131dbb728ed9b09e22e31ca3636932affff5e533b967152f4c9d752",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "cebfd07064b679fe0b41a1855c16d9da5b811976c5e4b90d668229e80046ef71",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "ebacf239f57e6f0e90b2e1cdd6235b01d8b78f4f6ac541c2404e369fddc7d1eb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "41f4ec3bcf780abf412033976afba79ad2c7fb1d53c58ae5e25159afdde7ac42",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "24150df8ab59838777ad0628be005c41fb382d99ef99ec7a94aec999fc04c4c9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "1c9468108465b711b673559fe2566afb00edf4837b03bcf080a17a28bc6b7efb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-abdb323efea6@worldcup-calendar": {
+          "hash": "889c76026706a65eb9687f9f74a7109a71b7b932035d6f76e2fdd9f981743dcd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-1691092f6459@worldcup-calendar": {
+          "hash": "b8b0f196056903a0a733d2453f97e35ecb150c7517122727d134b6d81457868d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "79eb39b7900994c2ebb5be14f6b87afa6b1911488e2b5a426b657cfcab8499d0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5e5998b06e42@worldcup-calendar": {
+          "hash": "e3601ff7104832d8841caa9eb5b2838161234a7acd2b80d60c44470f63a84b4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "mexico": {
+      "en": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "18fbfa4822d56e0e19b9cea4f9bf82d9f39ff03cc12445740c29df3b6c1ac717",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "40170ff52c4dd70765f6e6ae8550bdcf0a331c7631a53a2019025655a1fb3469",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "c5ea328c7de53c9bf6882f5fc3e93adb7a6e4acaac5e18995d0f6d58ce11e5d4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "2a282dc664eef7c841d7dd2064b4abe21e1c274ee74a56cd98ac571d0b8b34d1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "099fd226189723afee77c35c93cd3111d406f4dd1b8f2e60b938a404b100cd1b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "2ece7245117d99310d4fe02446f3ec526999d0e901d8872c99d33b24e76556f1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "4ec7bf998f8bf84e177f156136c6c860d19476a127b5625b2c7e9854741ec145",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "96545a946f75cb959099bd8023b32bea7532249c32e721a5494785ffdaf406d0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "d37101a63f58414a0dd3b705df558d058620aece8989bb947a3513ba625f8d6d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "ce44a68cf9f9d7dd3677e4f2cb98b7233dc263453db4df4638d7cb6f0428f9b9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-990102950604@worldcup-calendar": {
+          "hash": "880eb5f87f0753c22992b46b7c53f5010d7bdd0496f833fd27832dfe8591ec52",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "9056c96af043d5ff33fce94254bded2c4243ed17120a26d5861d27fda89e4ffe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "morocco": {
+      "en": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "9c1ce51f3e84650af788d8b0170caf1ac973090edff1853cc8abbd8a8e1b5ff0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "db0c42cfc6261f4810636f95aa753deff83a809ced0260006d45cc1e222ad884",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "ce83e93f78ccaca32803cd96d1ec306d470124f762a5ac171287016643886c1e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "f6a04f3084911dc19b9a4270a554d33b12b24bf0c6bb6b438bb6a2035ad06819",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "b1c8a841dc49d054e3b8237a89b2f896e4e94f4d0944fccab2758f17e22f5f25",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "3852ea94d65d4d0322c45af01b1534f7029af641d8d57be46efdeee29313e5a1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "8157b819846f52f3ff31484b6800de27fe0ade457b1236b0a0ff07d5e588fb6d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "99f9e4bdb46f7c38e917a41ec0ab36c171557ca3d6006b27f16a77f0dfb66b1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "7d7d3cb195d6339fdf1db2d45b93f58a0aa5aab3d535ec660cd76e208137a470",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "fc9200df2e76b53b812bb87dde4957c0e5c14e4bc2fa9d9bd05c2eda63b3820c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "30fffb2a91e489a4acafa20ed4b82b1a527d5c04dfe1a42ce2c5b0eafed459b1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "898df05d484dbba66e48d4a87c02a3fd4dd12ebb5a62eee2d1c24f39ba3c6a74",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "cdb46b4c2051d5a5acba8fad0f05fcf1dc1f39d482946b635d76e042099e9059",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "996f8688a47f44a43175a6a11ad2e15457c4db1d8f7fe9d04546f666e7e7a622",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "ba05d0eacf915bdd559699f94072f66085732cd054b8c4bd829e74912066d622",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "ab6f347229e1f16872a2b37ef822f230c82f5b28c00f7b99a61a975b072f5320",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "a2276ff61f764750fb8bf6c824e60c159c14237bc8e3eda475cebbca578f699d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "d6e0e13443aa9a861392fb11ebcf624e7f1801d97a0d75ea8328527e64cd3224",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "7464c90021fd765dbdb83dae968242958d0bc00ca775714a67d0db2045a786ac",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "f95800cb5b78bf310105d62b9e32f2d34357a6300a59c54d08e724fb1ede4ccf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "2ee113f402264af142bdde50f0abfe20e9dab21b1172f3c610f9d71d04c58c85",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-eb2ab8c7201f@worldcup-calendar": {
+          "hash": "df4879d507038ebc9dfc420a57272cd72be214d59d396ca732358592125cf8ae",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c8d638d21a1d@worldcup-calendar": {
+          "hash": "7ec5cb240bd227fcd90faee3ac82dc591831db0cff6a18425f37ea33c7fdddae",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8396fc7fc2cf@worldcup-calendar": {
+          "hash": "c347dee25fbd7df54f29b1978766572e93f7efa9b8862148f5c26fcec1a8d1ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "52fed996ed4644dde26178c4b6b6547953d81ac0b347306c15f2a07403d36dd2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "a1148428c7f62361d47489570b71e05ca26290c558c73bb89bab643f89ae3c14",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9740fb87a50f@worldcup-calendar": {
+          "hash": "3c5527b650ee71156a2a02f61bbe30a85106207d23ded46265856f07085127f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-2b68a6c6f639@worldcup-calendar": {
+          "hash": "f6aa3f106f54c8a0403e9f8ac559b6d9713bd0b0c6f6c95462e484129525cae5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "netherlands": {
+      "en": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "92ff76a44d61f57765d2ed1ff0ce83914097dce8378d30db7b696cd07461a3c0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "30f410823fd95beb0dd844434e1d3ba82b1787eb6ab8e218eb7b25a69d02a15f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "996356131b7b233afb4d869b16cbdc477437ca045210231907e35ece78502664",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "eb1094bf28d459539c2d2c883c99d1627b0ad131a5a0ccc322a371aabcd5cfc6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "757380da44b153348d3d5615d53a52cadb20d4f1b5857d1e643c78251ebd3a38",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "ae4ef372bd9549a73adf51155eef6a74b353929db6ef134861e1af6eeae09a4c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "cb2994bb1e8fb0e1b43bf75c4ca140344cab95a5450da1f333379332e51f33aa",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "1fe405c023107b491682b8103a8871f4ea0d48977b111abb7b14fb331c78af37",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "378797a4f8c42445b8e5953c5d46240ad4db445ee21af4af17d38f5459290954",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "37eb412547b62ad78eb481ee0c7702a43bdeefe2f89fdf8f38e820c269c66eea",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "08a7521d03d53deb002ec48b9a73fd1928b0108a82bd3d71b5bec925bf2c0292",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "c9d5a630d463a74f414383bf9919ea66fa378868eaa1aa2a12f321b0ec68bd1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "92a57f8f7697835d81d384a21a5bce1b6ceef5eb94810d9c21b4d6cb1734aeee",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "4c3d92f414bcc09949cde760bc810e7fb1579402644097fb4040668950b55aa3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "a77194294015af6ae4b408aa3a3ff9f15d0bc4a0fa9a29e3a9edd7d47e807a6a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "2638ee227c1473b3948b44eb2532cd704eedee90a1f75bd582dcecaa9e742008",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-fb5085e4fe54@worldcup-calendar": {
+          "hash": "075e57fd31526be1ffb6d5cf7dcf6c0b4cd6fc7a76176e47a645e8ce8f6e772c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "588faabd7283f3a9e4d49cd252bdd1e08e4695db349d8d8168c1b451b9dcc2e0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "1f1493ecad68ad85128a4b3e2b174cdff79d9ccd91574ae7d5719c10afc1c8c7",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2931a53c4b3@worldcup-calendar": {
+          "hash": "9f55455572ab6be422541d7c73f21aaae846a8f2524028378d5454fe50ac7f10",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "poland": {
+      "en": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "18fbfa4822d56e0e19b9cea4f9bf82d9f39ff03cc12445740c29df3b6c1ac717",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "a26b917ef6871f5e13c0efe04ee36cf2fbec29b0af417a9d8f7c1734e3410ccf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "81ee13f1afcb95891df531a9d1ff0879d8e52394bdebca9f4d779c18f0232d70",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "af1858b394ff4900a29ffd2db6226476b2d1dc190e60b23ccc672be50ce31fbf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "2a282dc664eef7c841d7dd2064b4abe21e1c274ee74a56cd98ac571d0b8b34d1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "ac6a84cf4a1d6565ed5f4e294a31d0f89c75c260e40a1e9767adc942f8f6e5ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "c5e72cf98ce0bd050caae692f43fd41377940adc3b5486001bfcdaf542eabc91",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "5f22b07959225b49eda270b8ebe6a65f8d6718d8f5595cb5a8a6002842f8ad61",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "4ec7bf998f8bf84e177f156136c6c860d19476a127b5625b2c7e9854741ec145",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "fec67d9b808f145053894f303ae432237187be008a1d5bd9a89e18e76b2fc550",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "e3782096988defb195054eb00ce5cd448dc13de2a236b4b9dd2aeef40f7b9cd2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "78a66706708f35cc39f5c2c7efb5967edf1cef92309fdcb83d600e7aa8292a80",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-d05ea8a379af@worldcup-calendar": {
+          "hash": "ce44a68cf9f9d7dd3677e4f2cb98b7233dc263453db4df4638d7cb6f0428f9b9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "1b9c6879b877ab2b35e131c207565a4efc4948176860e1bec7c8d0c8c3b5402e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ca151d0b9301@worldcup-calendar": {
+          "hash": "0d618407ce5b77c06cba046693cb8c9d16f27cc8931f3faa9145f73a4280e9f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7b001d5cd6ad@worldcup-calendar": {
+          "hash": "4a488c189aa991ab99535a60653f5aaaf870a267657479352829716764e62785",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "portugal": {
+      "en": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "c8b9e0d4a783599f59f62e171c4af707667fa974818a9b38688a402370ed9ecc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "fb562ad2af6c916df0ef1419aa75891cce00dd7b01ab9b48fd040e3b0bae55cb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "de7c879dc565f86db83a27530a46bf2121a876e0a81bf752f517544f8513ab79",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "8233fdcd92683a3acf730e945b858e2bffe3ce94e354f24e2b01f22cb8ebf228",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "b1c8a841dc49d054e3b8237a89b2f896e4e94f4d0944fccab2758f17e22f5f25",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "ac63b53e9ae5e2155f44a1b17fa6ca6c837048ffca10bafcffdeab2406b6992c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "dfebe5d41e36aa4390286a3b92ae57da843a9d1d142c548dc47a5a517ab754bd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "4eb8c4a98758f1dc80fd98dd70cda6197e719aa6d7042b0086aa2f8bcb19db7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "3f1a7b8798ec3b55c6591da82affc41cf1ef074bf03e475c8158b9208133f953",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "898df05d484dbba66e48d4a87c02a3fd4dd12ebb5a62eee2d1c24f39ba3c6a74",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "bc00776ea70db9a56d8b46b48eae180e407800bffe3b14c26b83bc30ffe96fe3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "319664362cf424bc2eec08d7f7ad56bfec07f1169035841107b5a3a7ede51b71",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "4e70b207cd85c939ed988d4a201564dbb5cbb45760ad56313342d79cd604379a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "aefb41deda1c8867857d6295e8d75ecae62772bfe5a81fa9d5289e5aefc8acba",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "7464c90021fd765dbdb83dae968242958d0bc00ca775714a67d0db2045a786ac",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-db3a777222c6@worldcup-calendar": {
+          "hash": "a5c8386fe9c01c31962d057185314d21a5a7465cd7da1df5b512f2869943c0f5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "e53dfd6c90914366c253c3fda5cf45e0388329d6a02445bb89766262aec9e313",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "5b54833c89a6e3cd2c4624e4b78a5207430fd81da782dbf2d2914caacae2d40b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "54088d9325f625de81a4d89e583f10eee5c4d2c9e0ff18ca5f35a63b160001cf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b90e10cc33c1@worldcup-calendar": {
+          "hash": "a1148428c7f62361d47489570b71e05ca26290c558c73bb89bab643f89ae3c14",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "qatar": {
+      "en": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "86e48fb199ad59e96a34b1d7d704148cad1695855417a3d85cb020bd5366929b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "175310830bd8895683baecf163bbc324585f18121231ac0aec0cbaa988600756",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "996356131b7b233afb4d869b16cbdc477437ca045210231907e35ece78502664",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "dc06762aac8a20083ab07cc2bbabb9fc01ad2224c2d2b3cc57290b40df0ae858",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "5129fb4cfdf44ba60e3e2cb016ea51f7c56f7a269051a31aaf49fb4fbbd0411c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "1fe405c023107b491682b8103a8871f4ea0d48977b111abb7b14fb331c78af37",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "f3eded4aaee7ba4c87756bc5144cf725cb76cae6e1a991b77532c775824dc014",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "b79854e9a88eae8405fc3438aeb364fe891bd9379dfe1e762f3cf5c2c600ccbd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "92a57f8f7697835d81d384a21a5bce1b6ceef5eb94810d9c21b4d6cb1734aeee",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-da66d6c11197@worldcup-calendar": {
+          "hash": "6262b66b565b69f7893d4b62b56d0615f8a3f155ef08e2eec19b3bb68ae9c46a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "7eda6e714c18361109bb0b726202c91de1e8d4fd467e2923f25ed53359da72fb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8e677b3e10bf@worldcup-calendar": {
+          "hash": "588faabd7283f3a9e4d49cd252bdd1e08e4695db349d8d8168c1b451b9dcc2e0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "saudi-arabia": {
+      "en": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "e33a8ceecc2c68b0229989634dd16803fe0b9aaec77aa870e9ff9915d499bf23",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "a26b917ef6871f5e13c0efe04ee36cf2fbec29b0af417a9d8f7c1734e3410ccf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "c5ea328c7de53c9bf6882f5fc3e93adb7a6e4acaac5e18995d0f6d58ce11e5d4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "5ca9c953d02c127d860536ed9b7513b14b473a4d0fe132f14ff19e833bde11e7",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "ac6a84cf4a1d6565ed5f4e294a31d0f89c75c260e40a1e9767adc942f8f6e5ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "2ece7245117d99310d4fe02446f3ec526999d0e901d8872c99d33b24e76556f1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "e88409d9147b6f7233a2bda7fd0cdaceb563cf84a6f9c983a302dcddd5ff51b2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "fec67d9b808f145053894f303ae432237187be008a1d5bd9a89e18e76b2fc550",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "d37101a63f58414a0dd3b705df558d058620aece8989bb947a3513ba625f8d6d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-98897760a664@worldcup-calendar": {
+          "hash": "a39622e0b1d220e6360335efba230dbac6d7b679fde0cf22273e3ee2792173c3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-68d36c41ec17@worldcup-calendar": {
+          "hash": "1b9c6879b877ab2b35e131c207565a4efc4948176860e1bec7c8d0c8c3b5402e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-23d2420bc054@worldcup-calendar": {
+          "hash": "9056c96af043d5ff33fce94254bded2c4243ed17120a26d5861d27fda89e4ffe",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "senegal": {
+      "en": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "92ff76a44d61f57765d2ed1ff0ce83914097dce8378d30db7b696cd07461a3c0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "175310830bd8895683baecf163bbc324585f18121231ac0aec0cbaa988600756",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "fdb98ff376a6dc01bb7980d30f3ba550f536ae264ec4f795c6269d4877db9a01",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "cdd5bec6a83c1fb4ee1b3d92466b1a4f20591d36a6cfb1af6daf1d8743092f5d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "ae4ef372bd9549a73adf51155eef6a74b353929db6ef134861e1af6eeae09a4c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "5129fb4cfdf44ba60e3e2cb016ea51f7c56f7a269051a31aaf49fb4fbbd0411c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "c1ecd5c9be69240dcd55215da0c1146dc19cafc51a540c6f44039a5b98be9848",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "98a3185fcdca953ccb712f690ca000fe4b8e415e0db4ba1c9299cc17df74a078",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "08a7521d03d53deb002ec48b9a73fd1928b0108a82bd3d71b5bec925bf2c0292",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "b79854e9a88eae8405fc3438aeb364fe891bd9379dfe1e762f3cf5c2c600ccbd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "6741b1448f718377157bb71f55d670f98305586b892696fb96b8026c5f7e712a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "437e2a871cc5a6198e3dc9c432f40fcfc3bfb305184d06440ceaa33acff4d9f9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-8ec508d85bba@worldcup-calendar": {
+          "hash": "2638ee227c1473b3948b44eb2532cd704eedee90a1f75bd582dcecaa9e742008",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e19f40290081@worldcup-calendar": {
+          "hash": "7eda6e714c18361109bb0b726202c91de1e8d4fd467e2923f25ed53359da72fb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-bc9e60bbfbce@worldcup-calendar": {
+          "hash": "95b3a00b79b157575a58a8ef50d4bc7b934a7d6d4bdc6e6418e36dc88ddbb07c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-65722f336345@worldcup-calendar": {
+          "hash": "bc1fa44269643f6d24ad1cc9a450accceeb2380fec2392b52014e8f9f2e4fff8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "serbia": {
+      "en": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "4ebe512554c4e6a478744558189b02b75a7fab21adf75d3fc2cf5036ac6f5b4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "75dfcf08c593677bb2297d11c47ab29d30dab7e61f0a44fd1c6281eed9a1851f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "9c675fc75581b8413666ee5a65a4c367d787ec35eef1ac477efea1202f61bb81",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "1468808ed686f4dd3206e03722a68f05d0b7c06b48e4524157a7e00284d85b39",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "09fe3a903259897659bd96801031a026b6dd764942d1f31eefa5025b7e235f4f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "9b0481abcec583731a46bdcf772aa62ca8cf6062778827cafa1e7199b750ffc4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "dd9f8c6cab5798db6e59f23ef1a314fd41783ecac255d8b31289a463f0fe08bc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "f7fa4562c49fdf96b6badfc4cdc33208b560fdd31e35840b563f96ebec6c75f3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "a9a7686bcf318ee0d04c1e12c2170e951e3ae79001f057c787539db303c7e44d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-5a853ec81239@worldcup-calendar": {
+          "hash": "ff55d2a179d34f07a897b0983489980c08260a5dbab9cf0d131187b31c2d9ee8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7179e50afb70@worldcup-calendar": {
+          "hash": "998e1896402272a7e32da52cf4e072d089de9cbb690321ae36bb0101a3a40ab1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "350784810f97abef7605283200880c995e96dee49db6fe0b42a7d3e2445e5c5a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "south-korea": {
+      "en": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "3ca390f5b682787b097c4c30571e09e8f198167f598833fa9a38b43c9f357c8b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "1a011c4531297b765fec27b725fba2a7adfb9b1e0d668ff8be67651853944a28",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "de7c879dc565f86db83a27530a46bf2121a876e0a81bf752f517544f8513ab79",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "4f8f86700658003d680e93445b962623320d42073502b84fa62380993dfff2d6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "8b7795dbc7d321fd3195a43e4bfce84a06e18840c221ece14b4c7c13aa38a326",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "5e1d6e582c50c7dd9641131e783b45c7e8c789f063b7994e742a3b41751f4a39",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "4eb8c4a98758f1dc80fd98dd70cda6197e719aa6d7042b0086aa2f8bcb19db7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "9299b73947f57ae14977fcf72c6ea1508dbe3c435ff8f9f4fc9345ced9ec8c16",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "829872d6a74f4cdabdfc4c64f624057b1ecb8557ec964d34dda5c3263e816317",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "01ea09b579c2e83dffd8ba7b89a7c65fde0fcddd690db95b97f9eab381fd78f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "4e70b207cd85c939ed988d4a201564dbb5cbb45760ad56313342d79cd604379a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "b1840dc5e0e5ad5c359937d71990244a3b2b4cd45d64fadad036ccf3cb8b9e42",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "66644a11e8be36f58a6f89c57c651ad294c00e252327714bc8be03f51cf571fb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-67f2a40645f5@worldcup-calendar": {
+          "hash": "1320e0ded135088650d4c35810f1ec187b6e55c969ef90b8b9fb4167b31f5282",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar": {
+          "hash": "5b54833c89a6e3cd2c4624e4b78a5207430fd81da782dbf2d2914caacae2d40b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-7e28ad6bf928@worldcup-calendar": {
+          "hash": "2238fbf692b70a5d2df17b5251226f704020f29beb185eba0c97a3d011e2de07",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "spain": {
+      "en": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "1002cfc9e9388f89ac5106f2bfbc1af4770c02ffa5c0da10f4198710648fadde",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "f82c86a4859e57ca8f2c4087e7e150b480627627da194595cea99f1d93f48202",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "eb9b7741ba044a30820d405f177ec65464c29082852eb531cd96621c800ac056",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "f6a04f3084911dc19b9a4270a554d33b12b24bf0c6bb6b438bb6a2035ad06819",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "264f651ac8fc841a63d2bea813d1782ecc857fd894c992df2cd99621dbb148e4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "72764983891fd2af57bce4f389811bf41d31880c31eed5448045ee4c0763b3b1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "a89bec200131dbb728ed9b09e22e31ca3636932affff5e533b967152f4c9d752",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "30fffb2a91e489a4acafa20ed4b82b1a527d5c04dfe1a42ce2c5b0eafed459b1",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "1e595855f342cdfa53e77af7beb4be816703bd2507e3fe926b656231b3d269d5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "73ace021e447d6f2ef2542a47a0341ef29c6ae7ac071a3a02500cc93d19bac5b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "24150df8ab59838777ad0628be005c41fb382d99ef99ec7a94aec999fc04c4c9",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "d6e0e13443aa9a861392fb11ebcf624e7f1801d97a0d75ea8328527e64cd3224",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-14985b75f55a@worldcup-calendar": {
+          "hash": "a3c2068085eabd2b53e2649900fab6e8f8643b9fa728972841d1136f34305814",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar": {
+          "hash": "e87645acd3916235158bd0dd2b18f0ca4172d6d6b2bedc0c6c831f86c968ba09",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-b67df2625a0b@worldcup-calendar": {
+          "hash": "79eb39b7900994c2ebb5be14f6b87afa6b1911488e2b5a426b657cfcab8499d0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-82a16d487fa6@worldcup-calendar": {
+          "hash": "52fed996ed4644dde26178c4b6b6547953d81ac0b347306c15f2a07403d36dd2",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "switzerland": {
+      "en": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "a891501bfb57335bbd96a53bfc8b26212583927385428775d1f74508e6429548",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "6d8a3578e980a56626b8ca7e9b5aec38989399284e6944ff1069673bfd3df1bc",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "9c675fc75581b8413666ee5a65a4c367d787ec35eef1ac477efea1202f61bb81",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "8233fdcd92683a3acf730e945b858e2bffe3ce94e354f24e2b01f22cb8ebf228",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "3cc7bb42638abfa8642c8da40a219f70ffc59f86419663d8f964080a70a5eedf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "0ea91d3c6028ca2260c50adf9675348eee384e4e301cb725a2c56ff903c29e62",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "9b0481abcec583731a46bdcf772aa62ca8cf6062778827cafa1e7199b750ffc4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "3f1a7b8798ec3b55c6591da82affc41cf1ef074bf03e475c8158b9208133f953",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "7057b84b6e18419295d4406c5a55bc1e2b8cbcd5865c0a8b7cc3549ae3965316",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "34e936f04c3a37e0ada354be33a0c3fe272129c9dea93c4ddc495f38ca59189f",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "a9a7686bcf318ee0d04c1e12c2170e951e3ae79001f057c787539db303c7e44d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "aefb41deda1c8867857d6295e8d75ecae62772bfe5a81fa9d5289e5aefc8acba",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-efa61aae2696@worldcup-calendar": {
+          "hash": "aa28fbb71914b0f072962f09330d9935b5e21773e7b9af41d934c300c2731310",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f358c22e3ccd@worldcup-calendar": {
+          "hash": "b5b69cf78133ea51b362cab8ea7c47380bf85216f429bbbe4df407af9c00e588",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-c65273d1ae7d@worldcup-calendar": {
+          "hash": "350784810f97abef7605283200880c995e96dee49db6fe0b42a7d3e2445e5c5a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-8a09684fe96e@worldcup-calendar": {
+          "hash": "54088d9325f625de81a4d89e583f10eee5c4d2c9e0ff18ca5f35a63b160001cf",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "tunisia": {
+      "en": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "feeca1ee00d04c04c780c29015dd09631c024098046a02b5aef058c49a1b4704",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "a4f099314061eb14750024b7ee9669f32afc98cb0c041a46e0943a821f5cc3c6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "6a2404b92c11a3c37a164d902cf06f92d9f4ee5d3cf9f8623f6fc6d564222b1a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "638efc44a539cd5aa10b9025da1632f7b68e773ee59bdcc9e4bdc37983de7a78",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "5beee782bc4f82ea51cc402fa34231bc4c37ba3257c5eb71f7a23064c344b064",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "47d5e48bc82970c6d101d507dc21f2403b16888af67e656934ec27a4c6351057",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "f6e87bbc019b547db2a87becd966e87c6eb4b0d5d22d69d2e23701dc9ab107e4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "813e454bc084c0498d7c764230afc3a2f9b0ef4decc168e7209482cf8fc4526c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "b5e9b961a9ffa653503d0c6c657a7f742a2eb83bdba9656dd30f545c54840229",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-4c42a4f59f5a@worldcup-calendar": {
+          "hash": "6045f30a0869cac94d1883350939898303223850eefc3a506f9be70653a0a9da",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-a343b14fe509@worldcup-calendar": {
+          "hash": "1886b7895629132118cde913e8151f9b82e976dc98324b79b8daca4f2b4422fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b1588c7b79c@worldcup-calendar": {
+          "hash": "ab6939d3bfb3d56a4c9594d0125996cd18cb3984ddf0d49b510666403ca26655",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "usa": {
+      "en": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "4f7caa234baf61013be34f29d5cc267374c9d49b262a7f7abe9fd122cf91e2a3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "7e3a65a54fa946d155501f472a183dc4b75ad1364b9dc2f7ca4f3950c1b210b8",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "739c08f54eed1896ed062b1741ace53796336c207a9ef9833f3a7130623125c5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "eb1094bf28d459539c2d2c883c99d1627b0ad131a5a0ccc322a371aabcd5cfc6",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "4643a6539a718963f0cc493ec6e7ffece1b5b36c643ebdbbdaeec13c124b32a4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "030d5b170ca14c83d0dbbb9151a9a3a7498c121a5c7d5d44dc0ede63883aee1c",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "f768af019196f422cefa0ff344848da937b85e75acd46fe82c703e9e8981954d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "378797a4f8c42445b8e5953c5d46240ad4db445ee21af4af17d38f5459290954",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "a4ab6a2d65ebe313599b9397027ad3bc3d7f3d950bafdc05b42449bed8189853",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "95d4d9c05de4fdbe642f36f76377cc449131d97cf6c9c3f8207dc930ae60c844",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "a637a7d3892622c4b66647a96dfda80d0c2142ebe40794667684bf37b3eb5dfb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "4c3d92f414bcc09949cde760bc810e7fb1579402644097fb4040668950b55aa3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "a63778714e732909e01b232e1c39bbed5e8853c86528a08a503c8123e9569cf3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-f06ca107ca89@worldcup-calendar": {
+          "hash": "c6a608cef09d59498478e5a3c09545e1c6b9a550690f7c33722b16da472cc77a",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-5f6ec45ed700@worldcup-calendar": {
+          "hash": "614bc8ff333797f3d2ed197b8e2e7c5ebf1e1067d623f1994374449bcea208b4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-9a8c9002c42b@worldcup-calendar": {
+          "hash": "1f1493ecad68ad85128a4b3e2b174cdff79d9ccd91574ae7d5719c10afc1c8c7",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "uruguay": {
+      "en": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "3ca390f5b682787b097c4c30571e09e8f198167f598833fa9a38b43c9f357c8b",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "fb562ad2af6c916df0ef1419aa75891cce00dd7b01ab9b48fd040e3b0bae55cb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "e7ffbb3a0dbb4482c11d5c71c51acd2f4ec20d1a4c215a1b37e13c7db29d31ed",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "8b7795dbc7d321fd3195a43e4bfce84a06e18840c221ece14b4c7c13aa38a326",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "dfebe5d41e36aa4390286a3b92ae57da843a9d1d142c548dc47a5a517ab754bd",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "1d3f961c1dd37f3152cf76d11652c30763c7e090dec571e232257ae518446ac0",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "829872d6a74f4cdabdfc4c64f624057b1ecb8557ec964d34dda5c3263e816317",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "319664362cf424bc2eec08d7f7ad56bfec07f1169035841107b5a3a7ede51b71",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "55cfb30d221543ca5e344073bd5b081fccaec7e969310a4a21da84a7b5cf227d",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-03614cc8c07b@worldcup-calendar": {
+          "hash": "66644a11e8be36f58a6f89c57c651ad294c00e252327714bc8be03f51cf571fb",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-e20eb73fecbe@worldcup-calendar": {
+          "hash": "e53dfd6c90914366c253c3fda5cf45e0388329d6a02445bb89766262aec9e313",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-d7f37ca31cc0@worldcup-calendar": {
+          "hash": "0b5dd908cf4668c8e16c0fd7cfb07146fd5aec1506432723b15f727255261205",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    },
+    "wales": {
+      "en": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "4f7caa234baf61013be34f29d5cc267374c9d49b262a7f7abe9fd122cf91e2a3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "573389f91ab1b3be5e5e4a7bba1656818cd0e5f0b7b99549b44c48a22f847578",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "1c8c06884e80cf0598fc47480f534fa1161a62c3eda10f3b839a291575f59483",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "4643a6539a718963f0cc493ec6e7ffece1b5b36c643ebdbbdaeec13c124b32a4",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "f365bcd7b59a1c62e0e134cdeda29616e13bb85db4590e9e75810703ce8247ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "4f038ad21323cdb98a8b71dad3b7c22da4aa8c6ed9b0c5193332a42f56a9fa24",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "a4ab6a2d65ebe313599b9397027ad3bc3d7f3d950bafdc05b42449bed8189853",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "35b77a05f55aa7b3e1aaefbe7f2f4372209f7de39d42334489db914b934145a5",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "88c78902ef79881636289b5d9de058075341efa0391c9cafabe6da38972f434e",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-2022-eaa8297f26be@worldcup-calendar": {
+          "hash": "a63778714e732909e01b232e1c39bbed5e8853c86528a08a503c8123e9569cf3",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-44b4bb405d13@worldcup-calendar": {
+          "hash": "eb15198e16b6732caaee54f37a076bc46cdd37db9195ea1d7473cc9856f7de27",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        },
+        "fifa-wc-2022-6b5f00201ab5@worldcup-calendar": {
+          "hash": "643c58bb933f4d7c7195161d4d4d05566107ea7830176d262fdf55a290939d49",
+          "sequence": 0,
+          "dtstamp": "2026-06-18T15:36:33.121971+00:00"
+        }
+      }
+    }
+  }
+}

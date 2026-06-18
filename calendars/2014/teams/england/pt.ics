@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2014 — 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
+ A 2014
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇮🇹 Itália
+DTSTART:20140614T220000Z
+DTEND:20140615T000000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-26077c70a97b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Arena Amazônia\, Manaus\n
+ Resultado: 1-2
+LOCATION:Arena Amazônia\, Manaus
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇾 Uruguai 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20140619T190000Z
+DTEND:20140619T210000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-b2446f0709ac@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 8\nGrupo: Group D\nEstádio: Arena de São Paulo\, São
+  Paulo\nResultado: 2-1
+LOCATION:Arena de São Paulo\, São Paulo
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20140624T160000Z
+DTEND:20140624T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-d3b38c95a20a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 13\nGrupo: Group D\nEstádio: Estádio Mineirão\, Belo
+  Horizonte\nResultado: 0-0
+LOCATION:Estádio Mineirão\, Belo Horizonte
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

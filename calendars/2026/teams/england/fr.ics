@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿 Angleterre matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre — Coupe du Monde FI
+ FA 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 4-2 🇭🇷 Croatie
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-1d9bf69d0e64@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 7\nGroupe: Group L\nStade: Dallas (Arlington)\nR
+ ésultat: 4-2
+LOCATION:Dallas (Arlington)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre vs 🇬🇭 Ghana
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-0d9bbef5c913@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 13\nGroupe: Group L\nStade: Boston (Foxborough)
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-e855fd4f1a2f@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 17\nGroupe: Group L\nStade: New York/New Jersey 
+ (East Rutherford)
+LOCATION:New York/New Jersey (East Rutherford)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

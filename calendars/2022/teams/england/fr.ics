@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿 Angleterre matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre — Coupe du Monde FI
+ FA 2022
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 6-2 🇮🇷 Iran
+DTSTART:20221121T160000Z
+DTEND:20221121T180000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-ef37bc342d49@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Khalifa International
+  Stadium\, Al Rayyan\nRésultat: 6-2
+LOCATION:Khalifa International Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇺🇸 États-Unis
+DTSTART:20221125T220000Z
+DTEND:20221126T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-f06ca107ca89@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 6\nGroupe: Group B\nStade: Al Bayt Stadium\, Al 
+ Khor\nRésultat: 0-0
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles 0-3 🏴󠁧󠁢󠁥
+ 󠁮󠁧󠁿 Angleterre
+DTSTART:20221129T220000Z
+DTEND:20221130T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 10\nGroupe: Group B\nStade: Ahmad bin Ali Stadiu
+ m\, Al Rayyan\nRésultat: 0-3
+LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 3-0 🇸🇳 Sénégal
+DTSTART:20221204T220000Z
+DTEND:20221205T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-65722f336345@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:1/8ème de finale\nStade: Al Bayt Stadium\, Al Khor\nRésultat
+ : 3-0
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-2 🇫🇷 France
+DTSTART:20221210T220000Z
+DTEND:20221211T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2022-648d650d7895@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nStade: Al Bayt Stadium\, Al Khor\nRésultat: 1
+ -2
+LOCATION:Al Bayt Stadium\, Al Khor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

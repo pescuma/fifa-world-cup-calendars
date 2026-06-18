@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2018 — 🇨🇷 
+ Costa Rica matches only
+X-WR-CALNAME:🇨🇷 Costa Rica — Coupe du Monde FIFA 2018
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 0-1 🇷🇸 Serbie
+DTSTART:20180617T120000Z
+DTEND:20180617T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-eb206a7210f5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Samara Arena\, Samara
+ \nRésultat: 0-1
+LOCATION:Samara Arena\, Samara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brésil 2-0 🇨🇷 Costa Rica
+DTSTART:20180622T120000Z
+DTEND:20180622T140000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-64946d609187@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Saint Petersburg Stad
+ ium\, Saint Petersburg\nRésultat: 2-0
+LOCATION:Saint Petersburg Stadium\, Saint Petersburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇭 Suisse 2-2 🇨🇷 Costa Rica
+DTSTART:20180627T180000Z
+DTEND:20180627T200000Z
+DTSTAMP:20260618T153632Z
+UID:fifa-wc-2018-1aee2f477d5c@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Nizhny Novgorod Stad
+ ium\, Nizhny Novgorod\nRésultat: 2-2
+LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

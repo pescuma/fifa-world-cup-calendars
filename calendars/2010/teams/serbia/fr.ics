@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2010 — 🇷🇸 
+ Serbie matches only
+X-WR-CALNAME:🇷🇸 Serbie — Coupe du Monde FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸 Serbie 0-1 🇬🇭 Ghana
+DTSTART:20100613T160000Z
+DTEND:20100613T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-e98d792b3c76@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Loftus Versfeld Stadi
+ um\, Pretoria\nRésultat: 0-1
+LOCATION:Loftus Versfeld Stadium\, Pretoria
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Allemagne 0-1 🇷🇸 Serbie
+DTSTART:20100618T133000Z
+DTEND:20100618T153000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-6d6b0d3b9014@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 8\nGroupe: Group D\nStade: Nelson Mandela Bay St
+ adium\, Port Elizabeth\nRésultat: 0-1
+LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇺 Australie 2-1 🇷🇸 Serbie
+DTSTART:20100623T203000Z
+DTEND:20100623T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-7d2d86d6fadb@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Mbombela Stadium\, N
+ elspruit\nRésultat: 2-1
+LOCATION:Mbombela Stadium\, Nelspruit
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

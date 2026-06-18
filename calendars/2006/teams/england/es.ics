@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa Mundial de l
+ a FIFA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇵🇾 Paraguay
+DTSTART;VALUE=DATE:20060610
+DTEND;VALUE=DATE:20060611
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Commerzbank-Arena\, Frankf
+ urt\nResultado: 1-0
+LOCATION:Commerzbank-Arena\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-0 🇹🇹 Trinidad y To
+ bago
+DTSTART;VALUE=DATE:20060615
+DTEND;VALUE=DATE:20060616
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Frankenstadion\, Nürnberg
+ \nResultado: 2-0
+LOCATION:Frankenstadion\, Nürnberg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suecia 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART;VALUE=DATE:20060620
+DTEND;VALUE=DATE:20060621
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-ed2a3f5f965b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: RheinEnergieStadion\, Kö
+ ln\nResultado: 2-2
+LOCATION:RheinEnergieStadion\, Köln
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇪🇨 Ecuador
+DTSTART;VALUE=DATE:20060625
+DTEND;VALUE=DATE:20060626
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Gottlieb-Daimler-Stadion\, Stuttgar
+ t\nResultado: 1-0
+LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇵🇹 Portugal
+DTSTART;VALUE=DATE:20060701
+DTEND;VALUE=DATE:20060702
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarterfinals\nEstadio: Veltins-Arena\, Gelsenkirchen\nResulta
+ do: 0-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

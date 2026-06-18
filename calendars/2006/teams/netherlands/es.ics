@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
+ 🇳🇱 Países Bajos matches only
+X-WR-CALNAME:🇳🇱 Países Bajos — Copa Mundial de la FIFA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸🇲🇪 Serbia y Montenegro 0-1 🇳🇱 Países Bajos
+DTSTART;VALUE=DATE:20060611
+DTEND;VALUE=DATE:20060612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Zentralstadion\, Leipzig\n
+ Resultado: 0-1
+LOCATION:Zentralstadion\, Leipzig
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Países Bajos 2-1 🇨🇮 Côte d’Ivoire
+DTSTART;VALUE=DATE:20060616
+DTEND;VALUE=DATE:20060617
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-d8423462c6d4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Gottlieb-Daimler-Stadion\,
+  Stuttgart\nResultado: 2-1
+LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Países Bajos 0-0 🇦🇷 Argentina
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-aff9fc967487@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Commerzbank-Arena\, Frank
+ furt\nResultado: 0-0
+LOCATION:Commerzbank-Arena\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 1-0 🇳🇱 Países Bajos
+DTSTART;VALUE=DATE:20060625
+DTEND;VALUE=DATE:20060626
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-727ca7b4ee6d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Octavos de Final\nEstadio: Frankenstadion\, Nürnberg\nResulta
+ do: 1-0
+LOCATION:Frankenstadion\, Nürnberg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

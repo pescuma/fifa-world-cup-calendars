@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 — 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
+ A 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 🇭🇷 Croácia
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-1d9bf69d0e64@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 7\nGrupo: Group L\nEstádio: Dallas (Arlington)\nResult
+ ado: 4-2
+LOCATION:Dallas (Arlington)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra x 🇬🇭 Gana
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-0d9bbef5c913@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 13\nGrupo: Group L\nEstádio: Boston (Foxborough)
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇦 Panamá x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-e855fd4f1a2f@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 17\nGrupo: Group L\nEstádio: New York/New Jersey (East
+  Rutherford)
+LOCATION:New York/New Jersey (East Rutherford)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

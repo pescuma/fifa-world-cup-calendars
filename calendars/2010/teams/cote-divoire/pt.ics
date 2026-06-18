@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2010 — 🇨🇮 Cos
+ ta do Marfim matches only
+X-WR-CALNAME:🇨🇮 Costa do Marfim — Copa do Mundo FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇮 Costa do Marfim 0-0 🇵🇹 Portugal
+DTSTART:20100615T160000Z
+DTEND:20100615T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-7f1d1c061950@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Nelson Mandela Bay Stadium
+ \, Port Elizabeth\nResultado: 0-0
+LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 3-1 🇨🇮 Costa do Marfim
+DTSTART:20100620T203000Z
+DTEND:20100620T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-d713c8630cb7@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 10\nGrupo: Group G\nEstádio: Soccer City\, Johannesbur
+ g\nResultado: 3-1
+LOCATION:Soccer City\, Johannesburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇰🇵 Coreia do Norte 0-3 🇨🇮 Costa do Marfim
+DTSTART:20100625T160000Z
+DTEND:20100625T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-24363c8d0cfe@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: Mbombela Stadium\, Nelspr
+ uit\nResultado: 0-3
+LOCATION:Mbombela Stadium\, Nelspruit
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

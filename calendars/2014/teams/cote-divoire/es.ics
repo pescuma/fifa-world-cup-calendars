@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2014 — 
+ 🇨🇮 Côte d’Ivoire matches only
+X-WR-CALNAME:🇨🇮 Côte d’Ivoire — Copa Mundial de la FIFA 2014
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇮 Côte d’Ivoire 2-1 🇯🇵 Japón
+DTSTART:20140615T010000Z
+DTEND:20140615T030000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-7c037b289cf9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Arena Pernambuco\, Recife\
+ nResultado: 2-1
+LOCATION:Arena Pernambuco\, Recife
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇴 Colombia 2-1 🇨🇮 Côte d’Ivoire
+DTSTART:20140619T160000Z
+DTEND:20140619T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-4ca520e68e65@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Estádio Nacional Mané Ga
+ rrincha\, Brasília\nResultado: 2-1
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇬🇷 Grecia 2-1 🇨🇮 Côte d’Ivoire
+DTSTART:20140624T200000Z
+DTEND:20140624T220000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2014-f2c1ffdd986b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Estádio Castelão\, Fort
+ aleza\nResultado: 2-1
+LOCATION:Estádio Castelão\, Fortaleza
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 — 
+ 🇿🇦 Sudáfrica matches only
+X-WR-CALNAME:🇿🇦 Sudáfrica — Copa Mundial de la FIFA 2002
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇵🇾 Paraguay 2-2 🇿🇦 Sudáfrica
+DTSTART;VALUE=DATE:20020602
+DTEND;VALUE=DATE:20020603
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-665e455327e0@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 1\nGrupo: Group B\nEstadio: Asiad Main Stadium\, Busan
+ \nResultado: 2-2
+LOCATION:Asiad Main Stadium\, Busan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇿🇦 Sudáfrica 1-0 🇸🇮 Eslovenia
+DTSTART;VALUE=DATE:20020608
+DTEND;VALUE=DATE:20020609
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-fb7b5f3c98ff@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Daegu World Cup Stadium\, 
+ Daegu\nResultado: 1-0
+LOCATION:Daegu World Cup Stadium\, Daegu
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇿🇦 Sudáfrica 2-3 🇪🇸 España
+DTSTART;VALUE=DATE:20020612
+DTEND;VALUE=DATE:20020613
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2002-1162725bcfdd@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 3\nGrupo: Group B\nEstadio: Daejeon World Cup Stadium\
+ , Daejeon\nResultado: 2-3
+LOCATION:Daejeon World Cup Stadium\, Daejeon
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
+ 🇵🇾 Paraguay matches only
+X-WR-CALNAME:🇵🇾 Paraguay — Copa Mundial de la FIFA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇵🇾 Paraguay
+DTSTART;VALUE=DATE:20060610
+DTEND;VALUE=DATE:20060611
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Commerzbank-Arena\, Frankf
+ urt\nResultado: 1-0
+LOCATION:Commerzbank-Arena\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suecia 1-0 🇵🇾 Paraguay
+DTSTART;VALUE=DATE:20060615
+DTEND;VALUE=DATE:20060616
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-a8570a1b6812@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Olympiastadion\, Berlin\nR
+ esultado: 1-0
+LOCATION:Olympiastadion\, Berlin
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇾 Paraguay 2-0 🇹🇹 Trinidad y Tobago
+DTSTART;VALUE=DATE:20060620
+DTEND;VALUE=DATE:20060621
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-d44e7ed4399b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Fritz-Walter-Stadion\, Ka
+ iserslautern\nResultado: 2-0
+LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

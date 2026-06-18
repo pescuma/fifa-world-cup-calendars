@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
+ 🇺🇸 Estados Unidos matches only
+X-WR-CALNAME:🇺🇸 Estados Unidos — Copa Mundial de la FIFA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇺🇸 Estados Unidos 0-3 🇨🇿 Chequia
+DTSTART;VALUE=DATE:20060612
+DTEND;VALUE=DATE:20060613
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-07fb0fd40dca@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Veltins-Arena\, Gelsenkirc
+ hen\nResultado: 0-3
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Italia 1-1 🇺🇸 Estados Unidos
+DTSTART;VALUE=DATE:20060617
+DTEND;VALUE=DATE:20060618
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-9bc1eb535532@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Fritz-Walter-Stadion\, Kai
+ serslautern\nResultado: 1-1
+LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇬🇭 Ghana 2-1 🇺🇸 Estados Unidos
+DTSTART;VALUE=DATE:20060622
+DTEND;VALUE=DATE:20060623
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-8ea213d2c02b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Frankenstadion\, Nürnber
+ g\nResultado: 2-1
+LOCATION:Frankenstadion\, Nürnberg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 — 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿 Angleterre matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre — Coupe du Monde FI
+ FA 2006
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇵🇾 Paraguay
+DTSTART;VALUE=DATE:20060610
+DTEND;VALUE=DATE:20060611
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Commerzbank-Arena\, F
+ rankfurt\nRésultat: 1-0
+LOCATION:Commerzbank-Arena\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2-0 🇹🇹 Trinité-et-T
+ obago
+DTSTART;VALUE=DATE:20060615
+DTEND;VALUE=DATE:20060616
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Frankenstadion\, Nür
+ nberg\nRésultat: 2-0
+LOCATION:Frankenstadion\, Nürnberg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suède 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+DTSTART;VALUE=DATE:20060620
+DTEND;VALUE=DATE:20060621
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-ed2a3f5f965b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: RheinEnergieStadion\
+ , Köln\nRésultat: 2-2
+LOCATION:RheinEnergieStadion\, Köln
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇪🇨 Équateur
+DTSTART;VALUE=DATE:20060625
+DTEND;VALUE=DATE:20060626
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:1/8ème de finale\nStade: Gottlieb-Daimler-Stadion\, Stuttgart
+ \nRésultat: 1-0
+LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇵🇹 Portugal
+DTSTART;VALUE=DATE:20060701
+DTEND;VALUE=DATE:20060702
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nRésultat
+ : 0-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

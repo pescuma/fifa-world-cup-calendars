@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 ES//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2010 — 
+ 🇩🇰 Dinamarca matches only
+X-WR-CALNAME:🇩🇰 Dinamarca — Copa Mundial de la FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Países Bajos 2-0 🇩🇰 Dinamarca
+DTSTART:20100614T133000Z
+DTEND:20100614T153000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-38b9fa62842b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Soccer City\, Johannesburg
+ \nResultado: 2-0
+LOCATION:Soccer City\, Johannesburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇲 Camerún 1-2 🇩🇰 Dinamarca
+DTSTART:20100619T203000Z
+DTEND:20100619T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-9ca49b2ac7c9@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Loftus Versfeld Stadium\, 
+ Pretoria\nResultado: 1-2
+LOCATION:Loftus Versfeld Stadium\, Pretoria
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇰 Dinamarca 1-3 🇯🇵 Japón
+DTSTART:20100624T203000Z
+DTEND:20100624T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-646dd64794ca@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Royal Bafokeng Stadium\, 
+ Rustenburg\nResultado: 1-3
+LOCATION:Royal Bafokeng Stadium\, Rustenburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:El partido comienza en 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

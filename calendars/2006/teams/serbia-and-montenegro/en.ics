@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 EN//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All matches of the FIFA World Cup 2006 — 🇷🇸🇲🇪 S
+ erbia and Montenegro matches only
+X-WR-CALNAME:🇷🇸🇲🇪 Serbia and Montenegro — FIFA World Cup 200
+ 6
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸🇲🇪 Serbia and Montenegro 0-1 🇳🇱 Netherlands
+DTSTART;VALUE=DATE:20060611
+DTEND;VALUE=DATE:20060612
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Zentralstadion\, Leipzig\nR
+ esult: 0-1
+LOCATION:Zentralstadion\, Leipzig
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Serbia and Montenegro
+DTSTART;VALUE=DATE:20060616
+DTEND;VALUE=DATE:20060617
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-2188068146c6@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Veltins-Arena\, Gelsenkirch
+ en\nResult: 6-0
+LOCATION:Veltins-Arena\, Gelsenkirchen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇮 Côte d’Ivoire 3-2 🇷🇸🇲🇪 Serbia and Monteneg
+ ro
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+DTSTAMP:20260618T153630Z
+UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Allianz Arena\, München\n
+ Result: 3-2
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

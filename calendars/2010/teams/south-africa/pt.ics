@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2010 — 🇿🇦 Áf
+ rica do Sul matches only
+X-WR-CALNAME:🇿🇦 África do Sul — Copa do Mundo FIFA 2010
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇿🇦 África do Sul 1-1 🇲🇽 México
+DTSTART:20100611T160000Z
+DTEND:20100611T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-77089d2db205@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Soccer City\, Johannesburg
+ \nResultado: 1-1
+LOCATION:Soccer City\, Johannesburg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇿🇦 África do Sul 0-3 🇺🇾 Uruguai
+DTSTART:20100616T203000Z
+DTEND:20100616T223000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-dfb226cf51df@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 6\nGrupo: Group A\nEstádio: Loftus Versfeld Stadium\, 
+ Pretoria\nResultado: 0-3
+LOCATION:Loftus Versfeld Stadium\, Pretoria
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇫🇷 França 1-2 🇿🇦 África do Sul
+DTSTART:20100622T160000Z
+DTEND:20100622T180000Z
+DTSTAMP:20260618T153631Z
+UID:fifa-wc-2010-d31f2cb4f71a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: Free State Stadium\, Bloe
+ mfontein\nResultado: 1-2
+LOCATION:Free State Stadium\, Bloemfontein
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

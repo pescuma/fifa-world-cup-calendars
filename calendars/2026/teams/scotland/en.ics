@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 EN//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 — 🏴󠁧󠁢󠁳
+ 󠁣󠁴󠁿 Scotland matches only
+X-WR-CALNAME:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland — FIFA World Cup 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-ec4c7885a3a4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Boston (Foxborough)\nResult
+ : 0-1
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 9\nGroup: Group C\nVenue: Boston (Foxborough)
+LOCATION:Boston (Foxborough)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+DTSTAMP:20260618T153633Z
+UID:fifa-wc-2026-9b6ddb137374@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 14\nGroup: Group C\nVenue: Miami (Miami Gardens)
+LOCATION:Miami (Miami Gardens)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
