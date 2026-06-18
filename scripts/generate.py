@@ -84,6 +84,7 @@ LANGUAGES = {
             "Todas as partidas da Copa do Mundo FIFA {year}"
         ),
         "countries": {
+            "NL": "Holanda",
             "CS": "Sérvia e Montenegro",
             "ENG": "Inglaterra",
             "SCT": "Escócia",
@@ -889,8 +890,8 @@ def generate_year(year: int) -> None:
         for lang in LANGUAGES:
             t = LANGUAGES[lang]
             team_name_localized = localize_team(team_name, lang)
-            cal_name = f"{team_name_localized} — {t['calendar_name'].format(year=year)}"
-            cal_desc = f"{t['calendar_desc'].format(year=year)} — {team_name_localized} matches only"
+            cal_name = f"{t['calendar_name'].format(year=year)} - {team_name_localized}"
+            cal_desc = f"{t['calendar_desc'].format(year=year)} - {team_name_localized} matches only"
 
             lang_state = state["teams"].setdefault(team_slug, {}).get(lang, {})
             cal = generate_calendar(year, team_matches, lang, lang_state, now, cal_name, cal_desc)
