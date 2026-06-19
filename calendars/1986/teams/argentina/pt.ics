@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1986 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 1986 - 🇦🇷 Argen
+ tina matches only
+X-WR-CALNAME:Copa do Mundo FIFA 1986 - 🇦🇷 Argentina
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 3-1 🇰🇷 Coreia do Sul
+DTSTART;VALUE=DATE:19860602
+DTEND;VALUE=DATE:19860603
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-9e4307156406@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Estadio Olímpico Universi
+ tario\, Mexico City\nResultado: 3-1
+LOCATION:Estadio Olímpico Universitario\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Itália 1-1 🇦🇷 Argentina
+DTSTART;VALUE=DATE:19860605
+DTEND;VALUE=DATE:19860606
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-4324e2b97cf4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Estadio Cuauhtémoc\, Pueb
+ la\nResultado: 1-1
+LOCATION:Estadio Cuauhtémoc\, Puebla
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-0 🇧🇬 Bulgária
+DTSTART;VALUE=DATE:19860610
+DTEND;VALUE=DATE:19860611
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Estadio Olímpico Universi
+ tario\, Mexico City\nResultado: 2-0
+LOCATION:Estadio Olímpico Universitario\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 1-0 🇺🇾 Uruguai
+DTSTART;VALUE=DATE:19860616
+DTEND;VALUE=DATE:19860617
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-9ae5111bef7d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Cuauhtémoc\, Puebla\nResu
+ ltado: 1-0
+LOCATION:Estadio Cuauhtémoc\, Puebla
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DTSTART;VALUE=DATE:19860622
+DTEND;VALUE=DATE:19860623
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-f942458386fd@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nEstádio: Estadio Azteca\, Mexico City\nResult
+ ado: 2-1
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-0 🇧🇪 Bélgica
+DTSTART;VALUE=DATE:19860625
+DTEND;VALUE=DATE:19860626
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-184110389620@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Semi-finals\nEstádio: Estadio Azteca\, Mexico City\nResultado
+ : 2-0
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 3-2 🇩🇪 Alemanha Ocidental
+DTSTART;VALUE=DATE:19860629
+DTEND;VALUE=DATE:19860630
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-0a02259b7ed5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Final\nEstádio: Estadio Azteca\, Mexico City\nResultado: 3-2
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

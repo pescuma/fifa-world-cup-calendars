@@ -1,0 +1,3374 @@
+{
+  "all": {
+    "en": {
+      "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+        "hash": "3a99f4e44cdcacc7a1740ef932d13759e01a6239d652e80e4b2a19023b6c5efc",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+        "hash": "4c5275c4eb0459e5a29c448a43efe8e0a1b7cbe13dd8b5e798463e2d4f2d095d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+        "hash": "744f6502d9f94cea9cdda6cf235a4f900a8a71efe1a34b31dc05f55c9aae7a8f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+        "hash": "d84d50cb135a063a3b7cb9426a9abe387904d2358b36a8e58268f53c9a879ccb",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+        "hash": "d743f638049c482c55a170584f660f1b3a44f4194c168113259be1aca24151f1",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+        "hash": "2e755fc40f5ba2b1dcbfe779d4022716e8995b696f04af6cdcb0e8bc96e89eaf",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+        "hash": "772d22fac190f38c7babbf4922d8dc8dd8abc2392a5b598873dea1fdbf549dc7",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+        "hash": "4e2e3b1a2d66bfb21eb78b2def8872d656118d050681079a040e2cb33f674a0a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+        "hash": "9f66e806d70680e7f5c49581d9d00ed2750ef1a8ebaac61d352692163964c3af",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+        "hash": "f0a2f79d4f97a6ea0299c0363a87c3cb3e8676be5d3231e5ce3093a282ab4821",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+        "hash": "bf9dc1177082171e9028a536f0f7c6aee14bce342cad030f1e8a6068d9db75ff",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+        "hash": "ad3e592ea0a1983bcc23fcda37e23681225e98e5a06f9acd67a653b7f2ec21c1",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+        "hash": "009cbf658d77d25425daf723657fb684f6e7fe2edccfd9d5504ed29d27887fdd",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+        "hash": "3bc3e8c3eaa3ee0023e596d4600b6b8151daaac40c6ed71af3b6be4c053f1a3c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+        "hash": "28c24c0494b4c4a19be40e6bcf95592a3680d3b826cd280473ace3f05cfcf799",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+        "hash": "638f1d607e2b974c785ec79da57c44a083389d1730e7987862603ea4c65a8291",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+        "hash": "9fbcd8f917fd2fdfcc6e0395a370c986266711770090bc79255b884427faea03",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+        "hash": "09a5b36b9b36a810af0792616639af64f448d644507e40c2286b4785ad9688fa",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+        "hash": "a8247cbb78e30fd4091df7fb9c41701a332fef43e0e68c3201be4fa24283e666",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+        "hash": "ce93814406f2c82371444fbea4c61b4da9985263356ce17f20b3ce4957157a40",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+        "hash": "7e2b5010cbc01bf791b552834219e370d8d3e5c9496308bd703687fe70024300",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+        "hash": "4d0134635ee3c447ac7e7a960059f77bde6523fbe880b97aadb4f612c9ef4bc6",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+        "hash": "01b51cc73033b003ad55b0550344e1fb63aa68cd70e70e74ffb0432b9708d011",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+        "hash": "5f114c115fa6ed37c3aae7da51deb79ed273e414472da1ccd80fbac30551a21d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+        "hash": "7ace34db5f4fda87cc16e398d6779969590073780dc42a29f2aa6800c8c55e66",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+        "hash": "94db976e24f5eb16b863310fe0d1111887213d87cebc74f1ca5335a82c6c0945",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+        "hash": "f728cd611bc30eabf6cc8f116b60134282189157673ba0e048384584a3f58575",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+        "hash": "07a7138f9a72d8c7442d96cc4ab0352abf8e8664c0e1facb5f7c0cfca478f004",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+        "hash": "02ad24ec5706e6307342d4de4231be36c1649df5e14e7d7244fb3beaae04e6df",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+        "hash": "9f8301784dfa1c713e0c754349877e925281719f4b198277f87c5fb5eecf810b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+        "hash": "8a9514f2b9f0a4975ea23f2629368995c95881f2a85cc0daeefbd730478673dd",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+        "hash": "d59559429dcebd3dbf6c32c9d45abbaa66129fa203dd0e45864bba7b472db442",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+        "hash": "875909772b7942c2300768194a06e1711531cd1a6333a1b7f7a93e750efc8c42",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+        "hash": "68b840f827e3e869595cf1bfa46ca6fbad9f88ae25def15d95c40b92aa1035ee",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+        "hash": "688741e7b259f0bec8f97f82dbdb174c64f4db0b2344986ef54aa635b2960b0d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+        "hash": "aafcbddceda34a7b7a69eccb0f3c2b7dd2bccf44ea6f012737476c2f1ecd2253",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+        "hash": "6a9da1d19595eb920c93bccceab0d5f6bcc34aa659e522863a636a3630ea98ed",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+        "hash": "6dc5315b6a25c15c5d4d6614ea0cbb2eac1d2df9b142f5530d4a2b1e4b07f4e8",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+        "hash": "163e66a33da4380af0d722d49bfa5db96e8dc55ffff49eabc97a09e79b3094be",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+        "hash": "cffa7c122a585fd4cafe5aa7a8df5181f8f93e05b95625a2560449e74732b5c0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+        "hash": "be3dbd4717e50edcc40e7a14efcd3fa95f46cc8cc656201e926b597c767022f0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-af578e548031@worldcup-calendar": {
+        "hash": "f1d9679935afc3681e9318446836ea9af513bca6e53dc7deacf9a9304108a341",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+        "hash": "c6a57b3fb3d8d284334c9779b038e27f72e471bf396cb1b5fd0a84c160e91152",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-43357c038825@worldcup-calendar": {
+        "hash": "112941c8e7a3de33da0f776f454260c28bdde9d1878b61e15896f5da0702c8bf",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+        "hash": "2db245a504f5a1950d485bfe77457970e19b5c3b41edfa94b7b1c6f4504aaab5",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+        "hash": "dba5de85d652d2b7efe9688188e67e9ad00ef44c82f2c9c41e607ce1d4d402e6",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+        "hash": "a37149f2b540d55ecec20c606af496b91176e1db40337f75a099267555c830cb",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+        "hash": "714b341a0433b224e0c41834fb6b032f4ef764fc569497b7196f57f25dcac9c3",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-184110389620@worldcup-calendar": {
+        "hash": "b16b5fb62240538f2ff9342e21ac2a16ee8e671a29008542c042adf71b3f0b90",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+        "hash": "ddf58fc8f541fed7d187284deaf74c89b3182db1a1f215fae3af1d802c7675cf",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+        "hash": "2a9ab5d94f2c307c543079b1cd5658318a221d4adb769b2f8fc044864c01ff72",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+        "hash": "07933ba4edd2de0d3a26ad48a187d0c99da4cd0bcd8d5182d5bb9d5590fb4635",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      }
+    },
+    "es": {
+      "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+        "hash": "9d29b4c194eb8dc3ce6a37d2a04678e4abc9340dee93f332fa0bce57b7af2ff5",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+        "hash": "be8c5763d0ccbb1f5dec938ecd28b3eb3fecd71300b3c7c2676711d4d982362f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+        "hash": "724969c57dda5bbd217d318445a50447ed1e33a8c19503393cceedc4da32362a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+        "hash": "3fdd7c1c3f84346cf01be4fbaace735357a0e6fdd6724bc973ea7afea5f5e75e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+        "hash": "2e6a366625c3577b0e95fd755aab94ad9e43b3dd1080ef1cbcae2004ff0cc247",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+        "hash": "ecc7fb453de3e011eebc58139c3df82cedb279213e6a8c2adc82cefd4ae5a846",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+        "hash": "c36be6570b062fdb80bfb0211898f796d8f30dff5fa633284913ab5a777f35af",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+        "hash": "91ad309e960e7fa541903c29cc58288067b3dc5f5c9c0a5ea9417419b30f1321",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+        "hash": "c30b56fc89d2bec957b24d0a9eb1ac02954471bd1ef90d643528894b88fb4ee6",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+        "hash": "5637fdfc32febeca305a3169335d6dc54780963b56a91e6bb461638ab6cfeacf",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+        "hash": "ee29011c81a0788c2e0bb8a8326b0da3e508cd067f966375006a51d68ba605fa",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+        "hash": "1bc452da96cc27458ac819a4ace0465941fa524f669ad97d68af4740f06910b4",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+        "hash": "056f4f5fd7789c4f9430b12dcd51ad613ae0919f73ab5368da544b12e03d999c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+        "hash": "64cd7b42400aca75bb7a1e484ff1d572b26ed1758ce33710f623f379c71a9e7f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+        "hash": "e5b206ee961226f32be434399dfd66e475f2e5319c3068d7d37b9d4e0ec53450",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+        "hash": "cd3a849600135c40b804f8bab8e0a90215018fc74c0fab6922172e7e69c91df4",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+        "hash": "84158f370c5cb3849e0d68540924382a308f82eb367ca4e58759e85474267675",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+        "hash": "f3f929ff05629604209b38d438cdf84b77fc4aabd67f02425202a9b2e8adcf36",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+        "hash": "d1aed2db4d0c74f57d6243863459ea09e02f406236468cfa9479425aa43e7f46",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+        "hash": "8f08e08b91854f712884d82c281292ee88b03c7a012bf7f688a956798fda8bb8",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+        "hash": "b48759731e7ff1f36bc7404576c9a97c030863dbc38cc08a45f96b3b43a7044d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+        "hash": "ba9a3a6ad912726f0d09e6a9b8ff6b88fd7464dc831dd585722a1fbe9ad655c7",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+        "hash": "87625deb2a76dcd406d483b92f462e155a8526e39336556553337ce128aabfc0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+        "hash": "c3c2c01d2ed1f0a8a771a64e1e348d0a0faa2555641a64c101b3d1d47806e513",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+        "hash": "ba43077fc5ddd72d9740250fc77bd57da3fc60271b9319ac77bc18ea0e14df0d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+        "hash": "91a0dbb1b7d392d2dfb1ef364f7096a11b4f8692a3bd66d9fd72ca0c19e11116",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+        "hash": "2290c49886924bfb511afd75e966cb7f1b66bbfc38c600c938b73b255b4d4519",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+        "hash": "d7fd40b36fdaadf779815ada16053d018a5cfaf258eb3f0809df06041b81a606",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+        "hash": "28c033fdc2360cdda7c2133441cbec5827a65b33d4e21fe3652d577e3e43cfff",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+        "hash": "33dc32adc089c2facfd019ada1cce44ad4ade5a94789638afad4226f26fd6ea0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+        "hash": "d05adde50f9153fe032f4cd8467c75eb21b39d2ed720a60223ccfa8bbc97603f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+        "hash": "63d5be11bdd24e68929bfc7c9419e1feef588fbe4e266df68e0aa0fd19120bac",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+        "hash": "7918a32f605633a425760a555c579e82893c1dbf64d86136255730aef56699ee",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+        "hash": "ec1d7e3cbca82b92264a39a02b1a09df08ea72c6178e616acc5dd47a173633c2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+        "hash": "6fe6df5feba46bed2642cf0e31b3180b0133185da56c0cc4f5861af36e91905c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+        "hash": "43cded7132241bc8fec913525e4c3239583852bbe337af04c9f1cf1cb23ce957",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+        "hash": "93047eb6b6ece9527cc8dbc5b3fa1bedf0bc95650fe822aa1962890673026a18",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+        "hash": "0d2ed3b32702aa8fd20bd6db9c65b880abefbb42e5bf2b7de5c1b596b1a652ac",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+        "hash": "75296844d4b1a2d6fd99233bd26cd9b04d8e8d94710676b1974f6544b29815ff",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+        "hash": "2d515b51cf168ae3858b4eb0edc12f4955e136652023abd2cb947496d42ee5a5",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+        "hash": "4d469bd803315a11ba8f857c0ca6b9a64ac1821b0ee356a55a215d245e76e670",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-af578e548031@worldcup-calendar": {
+        "hash": "78f88df583269c571a9eb4164ab3d38ed361dd9b5746271cdf975d7b280968e0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+        "hash": "eee6dd4ed3a7ec22144670c132b80b594213358ef189ad0a2c26d64a8a792a0e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-43357c038825@worldcup-calendar": {
+        "hash": "ac854b45dd2c1cf1b31da7e64a5fd739af5d8fbbbe6069dcb8f371a7adc02336",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+        "hash": "eeacd10022afe5a2bdd3325d00306fb1b4eaf5da6caa28cfd43ab5d7a5afc320",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+        "hash": "ef46f8d438db2256546033c1739173fdd9f3cb2b985cef7cd8db2a1617224b75",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+        "hash": "4fa808959da6570c6848fdd85c73e72db700e9d497626efa00493f1285bb6ece",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+        "hash": "bf489fac410b789976dad30319ede7cda04cb2683e7bba59fcf99dfdce65eef9",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-184110389620@worldcup-calendar": {
+        "hash": "c0307ef83f45d6e0ff3d35b4418d5cc64fd50d3ee0847cd21e06495f8f6591c2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+        "hash": "9132f50707acceb0a0c188023f99fd155eb2dca5de0ec6d44f8c28747978670a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+        "hash": "8bbdd59133dc4b7bff616d18a0e49314d0a7c355897a2f45e5e56e5249ec2162",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+        "hash": "d6b99c305568eda704874b5baadbf34b2735dd0c28c26595cd91fcee1df971dd",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      }
+    },
+    "pt": {
+      "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+        "hash": "677aa303fe246ca9d6deb84ef2833a7476b1dc11366646724c821498cea45657",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+        "hash": "fbf47f0dc8d5671bd70419e8e83ed3676e621dcd02460c180192da22dc8c35a8",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+        "hash": "c8f77009128b62cfe4f570ec14349678cc2f9e4aed2a68d1b57b8ddcc13de847",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+        "hash": "cffb677891e0c6455f896adfe3ff15cb7bcf37207b79f55b844b5b901fb4dc4f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+        "hash": "1e6a8eebaf42e7ae1d1c8c257dba85df4d748379c85df81e0192ffe15294dc7f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+        "hash": "b3e759d412587c0a2d0fadbb5dcff3da7698744084a4e7c0d9372695be3c163b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+        "hash": "b562051190def2e24b33aae90cf7fabcb38d527b7a0c1b7f7381eb9a604492b2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+        "hash": "1950d7ba0cb20637c81cdf0445798bea6ffbe3dbffddd45b15afe38b6d87a562",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+        "hash": "561a5e01040b63a70bbafcad795245f1fddfb0c54099d576865bc2d1d8763a7a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+        "hash": "2a9c9f3369e02f766baebd8b346c8a696d9459f47e3c61fc77167efda4544663",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+        "hash": "7ee362d00a5495f6853816a1fbab6b131a11b88edf676abaf2aa7f3092fe771c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+        "hash": "6731f560ddb3b00665c98685e9986d9179ea4907c96775dad82e1ee113de8f67",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+        "hash": "d0e04b5f77b1d33bc2555040415ee0b9de3820640ddf398e3f1709cecdc4cab0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+        "hash": "6d64bf1b20c3a61914c8e7b480224ee7e4649da155cb0a9f9ca54143f9336e76",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+        "hash": "83c7330d3bc59a140264c60722a5a5b32fd87dd4796183f917d57e851e176c0b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+        "hash": "887d527b37a7db5bd1b75562c0a981f91c1d9976bb20c119cf5d8f3a5acaca9d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+        "hash": "ef9b1873e2d0b977f409223a43a63c7bedb0fbf979d99b1159ca959da8f6bd36",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+        "hash": "bf2fa23b1190c7c156b67ede1f46fd0b4ce50587360cfa96d57006e6d2167fe3",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+        "hash": "e8c823235a17763787c318bed7b3d771d10ccd6336e24f3f06454510fba6831c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+        "hash": "356c7a2f164e432903910dd6b01a4d020e6c3dd339c5af2696d353106d0e1a35",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+        "hash": "ba8ebaf102437722a653aded4b1a4c6f90959e43d08c3569316413095f09dcca",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+        "hash": "ceb19badb56c79cb837c705c8882b2152478703838a0ee643b0faa55508e08ec",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+        "hash": "c6a34fe1f6a6d53c92ab8f4405c91c3b5de2ef2c3f85f986fed16fde482d58bf",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+        "hash": "b680f63055ebd9db49bbe3ad471a690e46f31cc2df8ba8d12c081d8806be0bb0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+        "hash": "616190e9a260efb5b4f24bfe142e36f5ed7036ff293e4cc73d5c5e92083c796c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+        "hash": "0a7745f34ef0596ebd24a93d129df0ec8fc3f88ff24fe5a1b6fc8a64681f7015",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+        "hash": "5b1f37bc4e60d701946c082a0464a6a0ebd12e13889cb51ace504e3a231fa01b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+        "hash": "c94513676a45a654113618865c197a0953123c6fb8a70ab25a2cef7c421c43a7",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+        "hash": "5e9ffa4f6704988bf55c4e2ef0b28b3a0be77e37dde36a5f8eeaaedd6083dee7",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+        "hash": "0919ab886edf87891d814a56eb42aee2d62d822414e6336649af21a490dc0794",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+        "hash": "5c51f56709e0f527c38b3c09f0b91898553b660a11ae231f18c77291ccc53b05",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+        "hash": "75b9c30529dc6ce4a389a101edd09e02609698ce809a8e687fdb89e1d7225e5a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+        "hash": "1b1427dee4936fc501ea7b955f7216db586ba6371ab085ac1290a50d40c9f7ff",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+        "hash": "79af0c7d7219c6379b7cc4cf0a6c79ffa0f6aa5137373b54012f81324a87e5af",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+        "hash": "d9b597093078b4e53f29e9cec0b861e485106c992478be790fde8624d2989914",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+        "hash": "5398206c4e1062978249e901a4db1512fe32a2ec46853807ddaa2d27cfc0ef4e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+        "hash": "347a2faa718b94294c733cdbd7ca8fa3bb85328d4103c7b8a9388aa29e723be8",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+        "hash": "9e56a3a668db6aafbf777f79799cf2e4bf4c179508b1e65fd622797bc449f6ce",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+        "hash": "8568e5e88deb3f71b15fd174711ea24c334d0d8c0a99a9349c08cad5e8dfc976",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+        "hash": "0eb9855481eb7b2f57a28e5928c1e205e2d33c8fa56c6f2c88f88a18740157f5",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+        "hash": "c8d44993e162174fc6192af6fd23c0834c23cb84c6a8fb9fb36eea94c0d0a8df",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-af578e548031@worldcup-calendar": {
+        "hash": "9dff839c3fe3cc79c4166b10716feaa8526880e69044d4f53bf9f3a204138b44",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+        "hash": "2bdbabd373ab11fcb3eff756c4930e3ff4bb0fa3e0bea6df7c27eb489986220a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-43357c038825@worldcup-calendar": {
+        "hash": "88078e234ea812e7ad283319a1693971cd1e4461294a78a5496d99c51a8b4b46",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+        "hash": "e00c4fff3c65dde4ed6c4fedb8e3bb3682d708f09ddc134b1b75bef87dc46240",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+        "hash": "da33d316472fb7f63b7add3b93e5d22bfa9045497590269e484ce664ff848b1b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+        "hash": "54b196140b1ec3c6b962ec93114bd1489418d4396c097d4cab0db15587d51be6",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+        "hash": "41bfae3011c3ee76b09b29d323ae9d3addc89f9fadc69194cfe21313c359f91d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-184110389620@worldcup-calendar": {
+        "hash": "c86ce6f3e9a4ce0a436d8df7e871699f3f5de16b9f1b2a270a13175b0fcf6d11",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+        "hash": "920e2ee18d79d2a5ca1028af5b665138ebcf100059a67f977002d1b3d514359e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+        "hash": "c17cf776aacc4a721b6763ca6687cd543139d5d3117f3a8f6827742e236c193c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+        "hash": "15d6f4defafd73a32d3fba4d986159348521bdc8e54d17481fcd8944e7c479c2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      }
+    },
+    "fr": {
+      "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+        "hash": "a5d48aa0a0c6faa2f4121a3ecfde38b6cc78752473f84b230c0074f71f1411f2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+        "hash": "3d2f6e112539c11fb78673934d28e86842e6141e6b8d24c09f57bf3f0713a82d",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+        "hash": "26497fb015a957d5a3a1ba66ea9a7b1f272c6272c857d412b4e7194cd72e5e84",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+        "hash": "4f68c3380f2d810820924ff10f7c8f5639d981dffb825ec4f2c7c4d6256195a2",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+        "hash": "0c1e08c796ad92ab4efb85721a21302bc0dba551fa1e271f901a71dcca9ee814",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+        "hash": "4a558130760f281f617077507e9298d9e3a3427b3d0d833e641ba3f4e7212161",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+        "hash": "1538f2fbc3ff153da10b89d37d4b1dabb37c02ab02c877ba8e2f9914dbfab04c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+        "hash": "a9172fa3066e4f6c594bdd916f2f7cbe2326a325dccf0b1a817fa2aadc03e44b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+        "hash": "1ce55becdd39ebac4d799bcbfa8965fed1b6edb8e52cd7add24fa7e44c4a0a65",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+        "hash": "4482983253bdf239a6acba106b37592cd560812efcf99bbb43e617ec164c8bb0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+        "hash": "f930512e1fbe03297c29e9db4164025493eafdb0bfca18968c06923822ceea5f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+        "hash": "49d04ca11f679bd0a0236e32cfcc1a321f21870502bc6639d569db687433034a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+        "hash": "48923b809e34c50782c78a9182ba60110d5855058ce76269111d3035e4ed9774",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+        "hash": "842b41749f8ea6e59d13f31391b0f92b54cc8c24779c694c31d60597539c0a03",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+        "hash": "4793b10bcee8ab764e1e3f7680d9e4bbbddc1f1ac4cf5a3f9f7eaeb5f445c4de",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+        "hash": "38dc0df78e13ddfd0e5246736b10764cc5d69a3fdc508d1c1fbef661d806c5da",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+        "hash": "a7050d0c6f1ce832bd4d8e1e8a0a940f8410ef7ff87253b48b1ba8c1e890bc0e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+        "hash": "0083094b306548d3fbf4a97f1de6f23503d527f532189cf770f31997a8db5ca8",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+        "hash": "41a628f02a0ffc1eb7abee749c0a45a5208b6927eaceb6cca83c5b4672a80eac",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+        "hash": "03838c6fdb3ecb9c93c6b420270adbe5b94afa76efa8a88a3f385996517fb978",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+        "hash": "c64ca824fb3ecb24b12bee951110745369897dafcef913c6ca2c2438e617e7f6",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+        "hash": "3ec00566b4f0aa9db3fb0e29a61f46ad1048ae9a9af4dab8eff5f01890d8718c",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+        "hash": "4f887a9d3b9d6e86c107d482c931fad53fc3278918a7c4715bba9f01b7e99bbd",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+        "hash": "3a06ccd86228cc81b5602990013b822a230884558154978336f1709a567b0a02",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+        "hash": "3da2afb35f8e823d2f54b0c713e8d4b778aeeb552b3c0d21c9a6e3ade359dbfc",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+        "hash": "7a375b6c2178cb0c4332c7cc79d2750766abbf868997f6d3bc0e07524842a6fe",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+        "hash": "cae4c10816bc73f8932dc02153404a409c8f4344023d94c9f85040850c3fd130",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+        "hash": "a7900eef284c66c5e5a4e0b0af98e39fdb61621af7316f9be5ef53a6d3d424ae",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+        "hash": "24551e69b23e3f8eae11f01e7c55770b5bd873f7e711c375fd43a03d195100d7",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+        "hash": "3b6befa3ffecf9eb01751401ee91f7117cec7e8c5f5cd8b85c601b009bce0970",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+        "hash": "3f2b2135a968de5fb8ab1322e18ba46905c7e2806e0ea339f4c39ebf0a44a9d1",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+        "hash": "ebf4beab3a83ba5929ae5290b2584d504a8edb7c9d0ab4ab462107099a6b6b25",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+        "hash": "b9aaa2a47483318296b00abb3a6dc90d4cfa1493ba702de776da98e71f6eb1a9",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+        "hash": "fde0e7330ab56761f7e124f34f5884d035bbfe6de362db89d8145b30ebdec05f",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+        "hash": "a4748bfddc88be1d00af46979d17ef8e737b5c20d69e9900e401a84c333e8c9b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+        "hash": "e3920e0ea5b094c7f96dc08bc4af198e65a333bf1ca8cf5c12f37216da60e35a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+        "hash": "f5cb71c8acbf9855a2cf3ecc8ab1389e44cd5115c62eccefce1ae1a9608b18b3",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+        "hash": "c5bd8e9556d2f34c5cdb7f20c122fc747e5e1e948710a1c2884544c7e5a9b10a",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+        "hash": "5bb132132c82c4389092baa74b7a1ecb50d1afce7ceccfb7bb56b5a66a02537e",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+        "hash": "d6fed4e094973420973dd1dd929bd8c0f9803d1238ec5fa443dfe808c5489ea5",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+        "hash": "52cc181532b61cb5b77b85c385b20dfc0b9c66a6f3e1a3e9a56750829331196b",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-af578e548031@worldcup-calendar": {
+        "hash": "14795fbdcc470c69bd5ce1625c89063caa4c3c1262c50144863fd1d7611961ff",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+        "hash": "a53401c55d4282d33a9c0a7f1ef2b9f2e9cae560b92daf61a3874b3c52141541",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-43357c038825@worldcup-calendar": {
+        "hash": "c814e8722cea95b7ffaa9e209efb894d7347549e68f2281bdc06babfc2035583",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+        "hash": "e1eb274b063b152d13f330e29ca1543377ebbd6e8f78ad89218a5704d65c0cbe",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+        "hash": "154ce48cd97c20034a115774c18294985961d30fc4efb9afb6ab6d5650f26cad",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+        "hash": "0d03a8765b8854271166bb0fa1ab9a8798adbfe7b6cd2f78c7a1e9166af90703",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+        "hash": "ac7c3b26a7838f7447cac1a76d4bba09e316e1f460d021f06d13c93ae56553f0",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-184110389620@worldcup-calendar": {
+        "hash": "1b41337d78baf3eecf5a6980da17171cd029b66dea96db17f79e852d021a5e95",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+        "hash": "e8fb51ba7501c60d42a0a3b9b3ee290023b4e6ac1e3d36a46f93c269c34b3dab",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+        "hash": "7ef4c3a35923a06bae6def09f0b306347ac4e8b69acc88ac12c158ca95bf6109",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      },
+      "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+        "hash": "95da18c4cea8c364c0a6f78574b02110982774533d3a1afbccc509fbfab5c875",
+        "sequence": 0,
+        "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+      }
+    }
+  },
+  "teams": {
+    "algeria": {
+      "en": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "ce93814406f2c82371444fbea4c61b4da9985263356ce17f20b3ce4957157a40",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "7e2b5010cbc01bf791b552834219e370d8d3e5c9496308bd703687fe70024300",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "5f114c115fa6ed37c3aae7da51deb79ed273e414472da1ccd80fbac30551a21d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "8f08e08b91854f712884d82c281292ee88b03c7a012bf7f688a956798fda8bb8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "b48759731e7ff1f36bc7404576c9a97c030863dbc38cc08a45f96b3b43a7044d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "c3c2c01d2ed1f0a8a771a64e1e348d0a0faa2555641a64c101b3d1d47806e513",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "356c7a2f164e432903910dd6b01a4d020e6c3dd339c5af2696d353106d0e1a35",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "ba8ebaf102437722a653aded4b1a4c6f90959e43d08c3569316413095f09dcca",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "b680f63055ebd9db49bbe3ad471a690e46f31cc2df8ba8d12c081d8806be0bb0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "03838c6fdb3ecb9c93c6b420270adbe5b94afa76efa8a88a3f385996517fb978",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "c64ca824fb3ecb24b12bee951110745369897dafcef913c6ca2c2438e617e7f6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "3a06ccd86228cc81b5602990013b822a230884558154978336f1709a567b0a02",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "argentina": {
+      "en": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "4c5275c4eb0459e5a29c448a43efe8e0a1b7cbe13dd8b5e798463e2d4f2d095d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "744f6502d9f94cea9cdda6cf235a4f900a8a71efe1a34b31dc05f55c9aae7a8f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "2e755fc40f5ba2b1dcbfe779d4022716e8995b696f04af6cdcb0e8bc96e89eaf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "163e66a33da4380af0d722d49bfa5db96e8dc55ffff49eabc97a09e79b3094be",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "714b341a0433b224e0c41834fb6b032f4ef764fc569497b7196f57f25dcac9c3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "b16b5fb62240538f2ff9342e21ac2a16ee8e671a29008542c042adf71b3f0b90",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "07933ba4edd2de0d3a26ad48a187d0c99da4cd0bcd8d5182d5bb9d5590fb4635",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "be8c5763d0ccbb1f5dec938ecd28b3eb3fecd71300b3c7c2676711d4d982362f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "724969c57dda5bbd217d318445a50447ed1e33a8c19503393cceedc4da32362a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "ecc7fb453de3e011eebc58139c3df82cedb279213e6a8c2adc82cefd4ae5a846",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "75296844d4b1a2d6fd99233bd26cd9b04d8e8d94710676b1974f6544b29815ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "bf489fac410b789976dad30319ede7cda04cb2683e7bba59fcf99dfdce65eef9",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "c0307ef83f45d6e0ff3d35b4418d5cc64fd50d3ee0847cd21e06495f8f6591c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "d6b99c305568eda704874b5baadbf34b2735dd0c28c26595cd91fcee1df971dd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "fbf47f0dc8d5671bd70419e8e83ed3676e621dcd02460c180192da22dc8c35a8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "c8f77009128b62cfe4f570ec14349678cc2f9e4aed2a68d1b57b8ddcc13de847",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "b3e759d412587c0a2d0fadbb5dcff3da7698744084a4e7c0d9372695be3c163b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "8568e5e88deb3f71b15fd174711ea24c334d0d8c0a99a9349c08cad5e8dfc976",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "41bfae3011c3ee76b09b29d323ae9d3addc89f9fadc69194cfe21313c359f91d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "c86ce6f3e9a4ce0a436d8df7e871699f3f5de16b9f1b2a270a13175b0fcf6d11",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "15d6f4defafd73a32d3fba4d986159348521bdc8e54d17481fcd8944e7c479c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "3d2f6e112539c11fb78673934d28e86842e6141e6b8d24c09f57bf3f0713a82d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "26497fb015a957d5a3a1ba66ea9a7b1f272c6272c857d412b4e7194cd72e5e84",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "4a558130760f281f617077507e9298d9e3a3427b3d0d833e641ba3f4e7212161",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "5bb132132c82c4389092baa74b7a1ecb50d1afce7ceccfb7bb56b5a66a02537e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "ac7c3b26a7838f7447cac1a76d4bba09e316e1f460d021f06d13c93ae56553f0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "1b41337d78baf3eecf5a6980da17171cd029b66dea96db17f79e852d021a5e95",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "95da18c4cea8c364c0a6f78574b02110982774533d3a1afbccc509fbfab5c875",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "belgium": {
+      "en": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "772d22fac190f38c7babbf4922d8dc8dd8abc2392a5b598873dea1fdbf549dc7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "f0a2f79d4f97a6ea0299c0363a87c3cb3e8676be5d3231e5ce3093a282ab4821",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "ad3e592ea0a1983bcc23fcda37e23681225e98e5a06f9acd67a653b7f2ec21c1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "6dc5315b6a25c15c5d4d6614ea0cbb2eac1d2df9b142f5530d4a2b1e4b07f4e8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "a37149f2b540d55ecec20c606af496b91176e1db40337f75a099267555c830cb",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "b16b5fb62240538f2ff9342e21ac2a16ee8e671a29008542c042adf71b3f0b90",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "2a9ab5d94f2c307c543079b1cd5658318a221d4adb769b2f8fc044864c01ff72",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "c36be6570b062fdb80bfb0211898f796d8f30dff5fa633284913ab5a777f35af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "5637fdfc32febeca305a3169335d6dc54780963b56a91e6bb461638ab6cfeacf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "1bc452da96cc27458ac819a4ace0465941fa524f669ad97d68af4740f06910b4",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "0d2ed3b32702aa8fd20bd6db9c65b880abefbb42e5bf2b7de5c1b596b1a652ac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "4fa808959da6570c6848fdd85c73e72db700e9d497626efa00493f1285bb6ece",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "c0307ef83f45d6e0ff3d35b4418d5cc64fd50d3ee0847cd21e06495f8f6591c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "8bbdd59133dc4b7bff616d18a0e49314d0a7c355897a2f45e5e56e5249ec2162",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "b562051190def2e24b33aae90cf7fabcb38d527b7a0c1b7f7381eb9a604492b2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "2a9c9f3369e02f766baebd8b346c8a696d9459f47e3c61fc77167efda4544663",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "6731f560ddb3b00665c98685e9986d9179ea4907c96775dad82e1ee113de8f67",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "9e56a3a668db6aafbf777f79799cf2e4bf4c179508b1e65fd622797bc449f6ce",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "54b196140b1ec3c6b962ec93114bd1489418d4396c097d4cab0db15587d51be6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "c86ce6f3e9a4ce0a436d8df7e871699f3f5de16b9f1b2a270a13175b0fcf6d11",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "c17cf776aacc4a721b6763ca6687cd543139d5d3117f3a8f6827742e236c193c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "1538f2fbc3ff153da10b89d37d4b1dabb37c02ab02c877ba8e2f9914dbfab04c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "4482983253bdf239a6acba106b37592cd560812efcf99bbb43e617ec164c8bb0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "49d04ca11f679bd0a0236e32cfcc1a321f21870502bc6639d569db687433034a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "c5bd8e9556d2f34c5cdb7f20c122fc747e5e1e948710a1c2884544c7e5a9b10a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "0d03a8765b8854271166bb0fa1ab9a8798adbfe7b6cd2f78c7a1e9166af90703",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-184110389620@worldcup-calendar": {
+          "hash": "1b41337d78baf3eecf5a6980da17171cd029b66dea96db17f79e852d021a5e95",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "7ef4c3a35923a06bae6def09f0b306347ac4e8b69acc88ac12c158ca95bf6109",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "brazil": {
+      "en": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "a8247cbb78e30fd4091df7fb9c41701a332fef43e0e68c3201be4fa24283e666",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "7e2b5010cbc01bf791b552834219e370d8d3e5c9496308bd703687fe70024300",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "01b51cc73033b003ad55b0550344e1fb63aa68cd70e70e74ffb0432b9708d011",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "cffa7c122a585fd4cafe5aa7a8df5181f8f93e05b95625a2560449e74732b5c0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "2db245a504f5a1950d485bfe77457970e19b5c3b41edfa94b7b1c6f4504aaab5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "d1aed2db4d0c74f57d6243863459ea09e02f406236468cfa9479425aa43e7f46",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "b48759731e7ff1f36bc7404576c9a97c030863dbc38cc08a45f96b3b43a7044d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "87625deb2a76dcd406d483b92f462e155a8526e39336556553337ce128aabfc0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "2d515b51cf168ae3858b4eb0edc12f4955e136652023abd2cb947496d42ee5a5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "eeacd10022afe5a2bdd3325d00306fb1b4eaf5da6caa28cfd43ab5d7a5afc320",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "e8c823235a17763787c318bed7b3d771d10ccd6336e24f3f06454510fba6831c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "ba8ebaf102437722a653aded4b1a4c6f90959e43d08c3569316413095f09dcca",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "c6a34fe1f6a6d53c92ab8f4405c91c3b5de2ef2c3f85f986fed16fde482d58bf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "0eb9855481eb7b2f57a28e5928c1e205e2d33c8fa56c6f2c88f88a18740157f5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "e00c4fff3c65dde4ed6c4fedb8e3bb3682d708f09ddc134b1b75bef87dc46240",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "41a628f02a0ffc1eb7abee749c0a45a5208b6927eaceb6cca83c5b4672a80eac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-1c16f7b54d80@worldcup-calendar": {
+          "hash": "c64ca824fb3ecb24b12bee951110745369897dafcef913c6ca2c2438e617e7f6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "4f887a9d3b9d6e86c107d482c931fad53fc3278918a7c4715bba9f01b7e99bbd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "d6fed4e094973420973dd1dd929bd8c0f9803d1238ec5fa443dfe808c5489ea5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "e1eb274b063b152d13f330e29ca1543377ebbd6e8f78ad89218a5704d65c0cbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "bulgaria": {
+      "en": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "3a99f4e44cdcacc7a1740ef932d13759e01a6239d652e80e4b2a19023b6c5efc",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "d84d50cb135a063a3b7cb9426a9abe387904d2358b36a8e58268f53c9a879ccb",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "2e755fc40f5ba2b1dcbfe779d4022716e8995b696f04af6cdcb0e8bc96e89eaf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "6a9da1d19595eb920c93bccceab0d5f6bcc34aa659e522863a636a3630ea98ed",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "9d29b4c194eb8dc3ce6a37d2a04678e4abc9340dee93f332fa0bce57b7af2ff5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "3fdd7c1c3f84346cf01be4fbaace735357a0e6fdd6724bc973ea7afea5f5e75e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "ecc7fb453de3e011eebc58139c3df82cedb279213e6a8c2adc82cefd4ae5a846",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "93047eb6b6ece9527cc8dbc5b3fa1bedf0bc95650fe822aa1962890673026a18",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "677aa303fe246ca9d6deb84ef2833a7476b1dc11366646724c821498cea45657",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "cffb677891e0c6455f896adfe3ff15cb7bcf37207b79f55b844b5b901fb4dc4f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "b3e759d412587c0a2d0fadbb5dcff3da7698744084a4e7c0d9372695be3c163b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "347a2faa718b94294c733cdbd7ca8fa3bb85328d4103c7b8a9388aa29e723be8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "a5d48aa0a0c6faa2f4121a3ecfde38b6cc78752473f84b230c0074f71f1411f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "4f68c3380f2d810820924ff10f7c8f5639d981dffb825ec4f2c7c4d6256195a2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar": {
+          "hash": "4a558130760f281f617077507e9298d9e3a3427b3d0d833e641ba3f4e7212161",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "f5cb71c8acbf9855a2cf3ecc8ab1389e44cd5115c62eccefce1ae1a9608b18b3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "canada": {
+      "en": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "009cbf658d77d25425daf723657fb684f6e7fe2edccfd9d5504ed29d27887fdd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "638f1d607e2b974c785ec79da57c44a083389d1730e7987862603ea4c65a8291",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "09a5b36b9b36a810af0792616639af64f448d644507e40c2286b4785ad9688fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "056f4f5fd7789c4f9430b12dcd51ad613ae0919f73ab5368da544b12e03d999c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "cd3a849600135c40b804f8bab8e0a90215018fc74c0fab6922172e7e69c91df4",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "f3f929ff05629604209b38d438cdf84b77fc4aabd67f02425202a9b2e8adcf36",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "d0e04b5f77b1d33bc2555040415ee0b9de3820640ddf398e3f1709cecdc4cab0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "887d527b37a7db5bd1b75562c0a981f91c1d9976bb20c119cf5d8f3a5acaca9d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "bf2fa23b1190c7c156b67ede1f46fd0b4ce50587360cfa96d57006e6d2167fe3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "48923b809e34c50782c78a9182ba60110d5855058ce76269111d3035e4ed9774",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "38dc0df78e13ddfd0e5246736b10764cc5d69a3fdc508d1c1fbef661d806c5da",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "0083094b306548d3fbf4a97f1de6f23503d527f532189cf770f31997a8db5ca8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "denmark": {
+      "en": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "94db976e24f5eb16b863310fe0d1111887213d87cebc74f1ca5335a82c6c0945",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "07a7138f9a72d8c7442d96cc4ab0352abf8e8664c0e1facb5f7c0cfca478f004",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "02ad24ec5706e6307342d4de4231be36c1649df5e14e7d7244fb3beaae04e6df",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "112941c8e7a3de33da0f776f454260c28bdde9d1878b61e15896f5da0702c8bf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "91a0dbb1b7d392d2dfb1ef364f7096a11b4f8692a3bd66d9fd72ca0c19e11116",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "d7fd40b36fdaadf779815ada16053d018a5cfaf258eb3f0809df06041b81a606",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "28c033fdc2360cdda7c2133441cbec5827a65b33d4e21fe3652d577e3e43cfff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "ac854b45dd2c1cf1b31da7e64a5fd739af5d8fbbbe6069dcb8f371a7adc02336",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "0a7745f34ef0596ebd24a93d129df0ec8fc3f88ff24fe5a1b6fc8a64681f7015",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "c94513676a45a654113618865c197a0953123c6fb8a70ab25a2cef7c421c43a7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "5e9ffa4f6704988bf55c4e2ef0b28b3a0be77e37dde36a5f8eeaaedd6083dee7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "88078e234ea812e7ad283319a1693971cd1e4461294a78a5496d99c51a8b4b46",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "7a375b6c2178cb0c4332c7cc79d2750766abbf868997f6d3bc0e07524842a6fe",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "a7900eef284c66c5e5a4e0b0af98e39fdb61621af7316f9be5ef53a6d3d424ae",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "24551e69b23e3f8eae11f01e7c55770b5bd873f7e711c375fd43a03d195100d7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "c814e8722cea95b7ffaa9e209efb894d7347549e68f2281bdc06babfc2035583",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "england": {
+      "en": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "d59559429dcebd3dbf6c32c9d45abbaa66129fa203dd0e45864bba7b472db442",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "875909772b7942c2300768194a06e1711531cd1a6333a1b7f7a93e750efc8c42",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "aafcbddceda34a7b7a69eccb0f3c2b7dd2bccf44ea6f012737476c2f1ecd2253",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "c6a57b3fb3d8d284334c9779b038e27f72e471bf396cb1b5fd0a84c160e91152",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "714b341a0433b224e0c41834fb6b032f4ef764fc569497b7196f57f25dcac9c3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "63d5be11bdd24e68929bfc7c9419e1feef588fbe4e266df68e0aa0fd19120bac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "7918a32f605633a425760a555c579e82893c1dbf64d86136255730aef56699ee",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "43cded7132241bc8fec913525e4c3239583852bbe337af04c9f1cf1cb23ce957",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "eee6dd4ed3a7ec22144670c132b80b594213358ef189ad0a2c26d64a8a792a0e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "bf489fac410b789976dad30319ede7cda04cb2683e7bba59fcf99dfdce65eef9",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "75b9c30529dc6ce4a389a101edd09e02609698ce809a8e687fdb89e1d7225e5a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "1b1427dee4936fc501ea7b955f7216db586ba6371ab085ac1290a50d40c9f7ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "5398206c4e1062978249e901a4db1512fe32a2ec46853807ddaa2d27cfc0ef4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "2bdbabd373ab11fcb3eff756c4930e3ff4bb0fa3e0bea6df7c27eb489986220a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "41bfae3011c3ee76b09b29d323ae9d3addc89f9fadc69194cfe21313c359f91d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "ebf4beab3a83ba5929ae5290b2584d504a8edb7c9d0ab4ab462107099a6b6b25",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "b9aaa2a47483318296b00abb3a6dc90d4cfa1493ba702de776da98e71f6eb1a9",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "e3920e0ea5b094c7f96dc08bc4af198e65a333bf1ca8cf5c12f37216da60e35a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "a53401c55d4282d33a9c0a7f1ef2b9f2e9cae560b92daf61a3874b3c52141541",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f942458386fd@worldcup-calendar": {
+          "hash": "ac7c3b26a7838f7447cac1a76d4bba09e316e1f460d021f06d13c93ae56553f0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "france": {
+      "en": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "009cbf658d77d25425daf723657fb684f6e7fe2edccfd9d5504ed29d27887fdd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "28c24c0494b4c4a19be40e6bcf95592a3680d3b826cd280473ace3f05cfcf799",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "9fbcd8f917fd2fdfcc6e0395a370c986266711770090bc79255b884427faea03",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "be3dbd4717e50edcc40e7a14efcd3fa95f46cc8cc656201e926b597c767022f0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "2db245a504f5a1950d485bfe77457970e19b5c3b41edfa94b7b1c6f4504aaab5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "ddf58fc8f541fed7d187284deaf74c89b3182db1a1f215fae3af1d802c7675cf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "2a9ab5d94f2c307c543079b1cd5658318a221d4adb769b2f8fc044864c01ff72",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "056f4f5fd7789c4f9430b12dcd51ad613ae0919f73ab5368da544b12e03d999c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "e5b206ee961226f32be434399dfd66e475f2e5319c3068d7d37b9d4e0ec53450",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "84158f370c5cb3849e0d68540924382a308f82eb367ca4e58759e85474267675",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "4d469bd803315a11ba8f857c0ca6b9a64ac1821b0ee356a55a215d245e76e670",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "eeacd10022afe5a2bdd3325d00306fb1b4eaf5da6caa28cfd43ab5d7a5afc320",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "9132f50707acceb0a0c188023f99fd155eb2dca5de0ec6d44f8c28747978670a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "8bbdd59133dc4b7bff616d18a0e49314d0a7c355897a2f45e5e56e5249ec2162",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "d0e04b5f77b1d33bc2555040415ee0b9de3820640ddf398e3f1709cecdc4cab0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "83c7330d3bc59a140264c60722a5a5b32fd87dd4796183f917d57e851e176c0b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "ef9b1873e2d0b977f409223a43a63c7bedb0fbf979d99b1159ca959da8f6bd36",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "c8d44993e162174fc6192af6fd23c0834c23cb84c6a8fb9fb36eea94c0d0a8df",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "e00c4fff3c65dde4ed6c4fedb8e3bb3682d708f09ddc134b1b75bef87dc46240",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "920e2ee18d79d2a5ca1028af5b665138ebcf100059a67f977002d1b3d514359e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "c17cf776aacc4a721b6763ca6687cd543139d5d3117f3a8f6827742e236c193c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-7ca2299840c9@worldcup-calendar": {
+          "hash": "48923b809e34c50782c78a9182ba60110d5855058ce76269111d3035e4ed9774",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "4793b10bcee8ab764e1e3f7680d9e4bbbddc1f1ac4cf5a3f9f7eaeb5f445c4de",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "a7050d0c6f1ce832bd4d8e1e8a0a940f8410ef7ff87253b48b1ba8c1e890bc0e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "52cc181532b61cb5b77b85c385b20dfc0b9c66a6f3e1a3e9a56750829331196b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a06ec1f07a88@worldcup-calendar": {
+          "hash": "e1eb274b063b152d13f330e29ca1543377ebbd6e8f78ad89218a5704d65c0cbe",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "e8fb51ba7501c60d42a0a3b9b3ee290023b4e6ac1e3d36a46f93c269c34b3dab",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3736a0b375e8@worldcup-calendar": {
+          "hash": "7ef4c3a35923a06bae6def09f0b306347ac4e8b69acc88ac12c158ca95bf6109",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "hungary": {
+      "en": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "3bc3e8c3eaa3ee0023e596d4600b6b8151daaac40c6ed71af3b6be4c053f1a3c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "638f1d607e2b974c785ec79da57c44a083389d1730e7987862603ea4c65a8291",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "9fbcd8f917fd2fdfcc6e0395a370c986266711770090bc79255b884427faea03",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "64cd7b42400aca75bb7a1e484ff1d572b26ed1758ce33710f623f379c71a9e7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "cd3a849600135c40b804f8bab8e0a90215018fc74c0fab6922172e7e69c91df4",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "84158f370c5cb3849e0d68540924382a308f82eb367ca4e58759e85474267675",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "6d64bf1b20c3a61914c8e7b480224ee7e4649da155cb0a9f9ca54143f9336e76",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "887d527b37a7db5bd1b75562c0a981f91c1d9976bb20c119cf5d8f3a5acaca9d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "ef9b1873e2d0b977f409223a43a63c7bedb0fbf979d99b1159ca959da8f6bd36",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "842b41749f8ea6e59d13f31391b0f92b54cc8c24779c694c31d60597539c0a03",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3780f6c8ee0a@worldcup-calendar": {
+          "hash": "38dc0df78e13ddfd0e5246736b10764cc5d69a3fdc508d1c1fbef661d806c5da",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-238d4f10e45d@worldcup-calendar": {
+          "hash": "a7050d0c6f1ce832bd4d8e1e8a0a940f8410ef7ff87253b48b1ba8c1e890bc0e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "iraq": {
+      "en": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "4e2e3b1a2d66bfb21eb78b2def8872d656118d050681079a040e2cb33f674a0a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "f0a2f79d4f97a6ea0299c0363a87c3cb3e8676be5d3231e5ce3093a282ab4821",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "bf9dc1177082171e9028a536f0f7c6aee14bce342cad030f1e8a6068d9db75ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "91ad309e960e7fa541903c29cc58288067b3dc5f5c9c0a5ea9417419b30f1321",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "5637fdfc32febeca305a3169335d6dc54780963b56a91e6bb461638ab6cfeacf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "ee29011c81a0788c2e0bb8a8326b0da3e508cd067f966375006a51d68ba605fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "1950d7ba0cb20637c81cdf0445798bea6ffbe3dbffddd45b15afe38b6d87a562",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "2a9c9f3369e02f766baebd8b346c8a696d9459f47e3c61fc77167efda4544663",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "7ee362d00a5495f6853816a1fbab6b131a11b88edf676abaf2aa7f3092fe771c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "a9172fa3066e4f6c594bdd916f2f7cbe2326a325dccf0b1a817fa2aadc03e44b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-f008d87774b3@worldcup-calendar": {
+          "hash": "4482983253bdf239a6acba106b37592cd560812efcf99bbb43e617ec164c8bb0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "f930512e1fbe03297c29e9db4164025493eafdb0bfca18968c06923822ceea5f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "italy": {
+      "en": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "3a99f4e44cdcacc7a1740ef932d13759e01a6239d652e80e4b2a19023b6c5efc",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "744f6502d9f94cea9cdda6cf235a4f900a8a71efe1a34b31dc05f55c9aae7a8f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "d743f638049c482c55a170584f660f1b3a44f4194c168113259be1aca24151f1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "be3dbd4717e50edcc40e7a14efcd3fa95f46cc8cc656201e926b597c767022f0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "9d29b4c194eb8dc3ce6a37d2a04678e4abc9340dee93f332fa0bce57b7af2ff5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "724969c57dda5bbd217d318445a50447ed1e33a8c19503393cceedc4da32362a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "2e6a366625c3577b0e95fd755aab94ad9e43b3dd1080ef1cbcae2004ff0cc247",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "4d469bd803315a11ba8f857c0ca6b9a64ac1821b0ee356a55a215d245e76e670",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "677aa303fe246ca9d6deb84ef2833a7476b1dc11366646724c821498cea45657",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "c8f77009128b62cfe4f570ec14349678cc2f9e4aed2a68d1b57b8ddcc13de847",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "1e6a8eebaf42e7ae1d1c8c257dba85df4d748379c85df81e0192ffe15294dc7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "c8d44993e162174fc6192af6fd23c0834c23cb84c6a8fb9fb36eea94c0d0a8df",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-ee8805a22c63@worldcup-calendar": {
+          "hash": "a5d48aa0a0c6faa2f4121a3ecfde38b6cc78752473f84b230c0074f71f1411f2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4324e2b97cf4@worldcup-calendar": {
+          "hash": "26497fb015a957d5a3a1ba66ea9a7b1f272c6272c857d412b4e7194cd72e5e84",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "0c1e08c796ad92ab4efb85721a21302bc0dba551fa1e271f901a71dcca9ee814",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-a6fd874bf7dc@worldcup-calendar": {
+          "hash": "52cc181532b61cb5b77b85c385b20dfc0b9c66a6f3e1a3e9a56750829331196b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "mexico": {
+      "en": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "772d22fac190f38c7babbf4922d8dc8dd8abc2392a5b598873dea1fdbf549dc7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "9f66e806d70680e7f5c49581d9d00ed2750ef1a8ebaac61d352692163964c3af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "bf9dc1177082171e9028a536f0f7c6aee14bce342cad030f1e8a6068d9db75ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "6a9da1d19595eb920c93bccceab0d5f6bcc34aa659e522863a636a3630ea98ed",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "dba5de85d652d2b7efe9688188e67e9ad00ef44c82f2c9c41e607ce1d4d402e6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "c36be6570b062fdb80bfb0211898f796d8f30dff5fa633284913ab5a777f35af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "c30b56fc89d2bec957b24d0a9eb1ac02954471bd1ef90d643528894b88fb4ee6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "ee29011c81a0788c2e0bb8a8326b0da3e508cd067f966375006a51d68ba605fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "93047eb6b6ece9527cc8dbc5b3fa1bedf0bc95650fe822aa1962890673026a18",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "ef46f8d438db2256546033c1739173fdd9f3cb2b985cef7cd8db2a1617224b75",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "b562051190def2e24b33aae90cf7fabcb38d527b7a0c1b7f7381eb9a604492b2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "561a5e01040b63a70bbafcad795245f1fddfb0c54099d576865bc2d1d8763a7a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "7ee362d00a5495f6853816a1fbab6b131a11b88edf676abaf2aa7f3092fe771c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "347a2faa718b94294c733cdbd7ca8fa3bb85328d4103c7b8a9388aa29e723be8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "da33d316472fb7f63b7add3b93e5d22bfa9045497590269e484ce664ff848b1b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-5e9812a0e4b4@worldcup-calendar": {
+          "hash": "1538f2fbc3ff153da10b89d37d4b1dabb37c02ab02c877ba8e2f9914dbfab04c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "1ce55becdd39ebac4d799bcbfa8965fed1b6edb8e52cd7add24fa7e44c4a0a65",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar": {
+          "hash": "f930512e1fbe03297c29e9db4164025493eafdb0bfca18968c06923822ceea5f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d96b946ffb7a@worldcup-calendar": {
+          "hash": "f5cb71c8acbf9855a2cf3ecc8ab1389e44cd5115c62eccefce1ae1a9608b18b3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "154ce48cd97c20034a115774c18294985961d30fc4efb9afb6ab6d5650f26cad",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "morocco": {
+      "en": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "8a9514f2b9f0a4975ea23f2629368995c95881f2a85cc0daeefbd730478673dd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "875909772b7942c2300768194a06e1711531cd1a6333a1b7f7a93e750efc8c42",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "688741e7b259f0bec8f97f82dbdb174c64f4db0b2344986ef54aa635b2960b0d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "f1d9679935afc3681e9318446836ea9af513bca6e53dc7deacf9a9304108a341",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "d05adde50f9153fe032f4cd8467c75eb21b39d2ed720a60223ccfa8bbc97603f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "7918a32f605633a425760a555c579e82893c1dbf64d86136255730aef56699ee",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "6fe6df5feba46bed2642cf0e31b3180b0133185da56c0cc4f5861af36e91905c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "78f88df583269c571a9eb4164ab3d38ed361dd9b5746271cdf975d7b280968e0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "5c51f56709e0f527c38b3c09f0b91898553b660a11ae231f18c77291ccc53b05",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "1b1427dee4936fc501ea7b955f7216db586ba6371ab085ac1290a50d40c9f7ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "d9b597093078b4e53f29e9cec0b861e485106c992478be790fde8624d2989914",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "9dff839c3fe3cc79c4166b10716feaa8526880e69044d4f53bf9f3a204138b44",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "3f2b2135a968de5fb8ab1322e18ba46905c7e2806e0ea339f4c39ebf0a44a9d1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-30dbca679640@worldcup-calendar": {
+          "hash": "b9aaa2a47483318296b00abb3a6dc90d4cfa1493ba702de776da98e71f6eb1a9",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "a4748bfddc88be1d00af46979d17ef8e737b5c20d69e9900e401a84c333e8c9b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "14795fbdcc470c69bd5ce1625c89063caa4c3c1262c50144863fd1d7611961ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "northern-ireland": {
+      "en": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "ce93814406f2c82371444fbea4c61b4da9985263356ce17f20b3ce4957157a40",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "4d0134635ee3c447ac7e7a960059f77bde6523fbe880b97aadb4f612c9ef4bc6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "01b51cc73033b003ad55b0550344e1fb63aa68cd70e70e74ffb0432b9708d011",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "8f08e08b91854f712884d82c281292ee88b03c7a012bf7f688a956798fda8bb8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "ba9a3a6ad912726f0d09e6a9b8ff6b88fd7464dc831dd585722a1fbe9ad655c7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "87625deb2a76dcd406d483b92f462e155a8526e39336556553337ce128aabfc0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "356c7a2f164e432903910dd6b01a4d020e6c3dd339c5af2696d353106d0e1a35",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "ceb19badb56c79cb837c705c8882b2152478703838a0ee643b0faa55508e08ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "c6a34fe1f6a6d53c92ab8f4405c91c3b5de2ef2c3f85f986fed16fde482d58bf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-dc75ca6f3771@worldcup-calendar": {
+          "hash": "03838c6fdb3ecb9c93c6b420270adbe5b94afa76efa8a88a3f385996517fb978",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "3ec00566b4f0aa9db3fb0e29a61f46ad1048ae9a9af4dab8eff5f01890d8718c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-7ec486dcc0de@worldcup-calendar": {
+          "hash": "4f887a9d3b9d6e86c107d482c931fad53fc3278918a7c4715bba9f01b7e99bbd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "paraguay": {
+      "en": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "4e2e3b1a2d66bfb21eb78b2def8872d656118d050681079a040e2cb33f674a0a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "9f66e806d70680e7f5c49581d9d00ed2750ef1a8ebaac61d352692163964c3af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "ad3e592ea0a1983bcc23fcda37e23681225e98e5a06f9acd67a653b7f2ec21c1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "c6a57b3fb3d8d284334c9779b038e27f72e471bf396cb1b5fd0a84c160e91152",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "91ad309e960e7fa541903c29cc58288067b3dc5f5c9c0a5ea9417419b30f1321",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "c30b56fc89d2bec957b24d0a9eb1ac02954471bd1ef90d643528894b88fb4ee6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "1bc452da96cc27458ac819a4ace0465941fa524f669ad97d68af4740f06910b4",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "eee6dd4ed3a7ec22144670c132b80b594213358ef189ad0a2c26d64a8a792a0e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "1950d7ba0cb20637c81cdf0445798bea6ffbe3dbffddd45b15afe38b6d87a562",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "561a5e01040b63a70bbafcad795245f1fddfb0c54099d576865bc2d1d8763a7a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "6731f560ddb3b00665c98685e9986d9179ea4907c96775dad82e1ee113de8f67",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "2bdbabd373ab11fcb3eff756c4930e3ff4bb0fa3e0bea6df7c27eb489986220a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-c269604e764c@worldcup-calendar": {
+          "hash": "a9172fa3066e4f6c594bdd916f2f7cbe2326a325dccf0b1a817fa2aadc03e44b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d6eaa8d52b76@worldcup-calendar": {
+          "hash": "1ce55becdd39ebac4d799bcbfa8965fed1b6edb8e52cd7add24fa7e44c4a0a65",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-166fdb4c6f3e@worldcup-calendar": {
+          "hash": "49d04ca11f679bd0a0236e32cfcc1a321f21870502bc6639d569db687433034a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-86e7eccdf73a@worldcup-calendar": {
+          "hash": "a53401c55d4282d33a9c0a7f1ef2b9f2e9cae560b92daf61a3874b3c52141541",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "poland": {
+      "en": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "8a9514f2b9f0a4975ea23f2629368995c95881f2a85cc0daeefbd730478673dd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "68b840f827e3e869595cf1bfa46ca6fbad9f88ae25def15d95c40b92aa1035ee",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "aafcbddceda34a7b7a69eccb0f3c2b7dd2bccf44ea6f012737476c2f1ecd2253",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "cffa7c122a585fd4cafe5aa7a8df5181f8f93e05b95625a2560449e74732b5c0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "d05adde50f9153fe032f4cd8467c75eb21b39d2ed720a60223ccfa8bbc97603f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "ec1d7e3cbca82b92264a39a02b1a09df08ea72c6178e616acc5dd47a173633c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "43cded7132241bc8fec913525e4c3239583852bbe337af04c9f1cf1cb23ce957",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "2d515b51cf168ae3858b4eb0edc12f4955e136652023abd2cb947496d42ee5a5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "5c51f56709e0f527c38b3c09f0b91898553b660a11ae231f18c77291ccc53b05",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "79af0c7d7219c6379b7cc4cf0a6c79ffa0f6aa5137373b54012f81324a87e5af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "5398206c4e1062978249e901a4db1512fe32a2ec46853807ddaa2d27cfc0ef4e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "0eb9855481eb7b2f57a28e5928c1e205e2d33c8fa56c6f2c88f88a18740157f5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-c08388ff3e72@worldcup-calendar": {
+          "hash": "3f2b2135a968de5fb8ab1322e18ba46905c7e2806e0ea339f4c39ebf0a44a9d1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "fde0e7330ab56761f7e124f34f5884d035bbfe6de362db89d8145b30ebdec05f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-cb6f9bb92a90@worldcup-calendar": {
+          "hash": "e3920e0ea5b094c7f96dc08bc4af198e65a333bf1ca8cf5c12f37216da60e35a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-95adeda636da@worldcup-calendar": {
+          "hash": "d6fed4e094973420973dd1dd929bd8c0f9803d1238ec5fa443dfe808c5489ea5",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "portugal": {
+      "en": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "d59559429dcebd3dbf6c32c9d45abbaa66129fa203dd0e45864bba7b472db442",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "68b840f827e3e869595cf1bfa46ca6fbad9f88ae25def15d95c40b92aa1035ee",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "688741e7b259f0bec8f97f82dbdb174c64f4db0b2344986ef54aa635b2960b0d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "63d5be11bdd24e68929bfc7c9419e1feef588fbe4e266df68e0aa0fd19120bac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "ec1d7e3cbca82b92264a39a02b1a09df08ea72c6178e616acc5dd47a173633c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "6fe6df5feba46bed2642cf0e31b3180b0133185da56c0cc4f5861af36e91905c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "75b9c30529dc6ce4a389a101edd09e02609698ce809a8e687fdb89e1d7225e5a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "79af0c7d7219c6379b7cc4cf0a6c79ffa0f6aa5137373b54012f81324a87e5af",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "d9b597093078b4e53f29e9cec0b861e485106c992478be790fde8624d2989914",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-e195831a7f32@worldcup-calendar": {
+          "hash": "ebf4beab3a83ba5929ae5290b2584d504a8edb7c9d0ab4ab462107099a6b6b25",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b0f8cdc7980b@worldcup-calendar": {
+          "hash": "fde0e7330ab56761f7e124f34f5884d035bbfe6de362db89d8145b30ebdec05f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b373ee91c48b@worldcup-calendar": {
+          "hash": "a4748bfddc88be1d00af46979d17ef8e737b5c20d69e9900e401a84c333e8c9b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "scotland": {
+      "en": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "94db976e24f5eb16b863310fe0d1111887213d87cebc74f1ca5335a82c6c0945",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "f728cd611bc30eabf6cc8f116b60134282189157673ba0e048384584a3f58575",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "9f8301784dfa1c713e0c754349877e925281719f4b198277f87c5fb5eecf810b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "91a0dbb1b7d392d2dfb1ef364f7096a11b4f8692a3bd66d9fd72ca0c19e11116",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "2290c49886924bfb511afd75e966cb7f1b66bbfc38c600c938b73b255b4d4519",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "33dc32adc089c2facfd019ada1cce44ad4ade5a94789638afad4226f26fd6ea0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "0a7745f34ef0596ebd24a93d129df0ec8fc3f88ff24fe5a1b6fc8a64681f7015",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "5b1f37bc4e60d701946c082a0464a6a0ebd12e13889cb51ace504e3a231fa01b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "0919ab886edf87891d814a56eb42aee2d62d822414e6336649af21a490dc0794",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-1da5861e62e9@worldcup-calendar": {
+          "hash": "7a375b6c2178cb0c4332c7cc79d2750766abbf868997f6d3bc0e07524842a6fe",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "cae4c10816bc73f8932dc02153404a409c8f4344023d94c9f85040850c3fd130",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "3b6befa3ffecf9eb01751401ee91f7117cec7e8c5f5cd8b85c601b009bce0970",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "south-korea": {
+      "en": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "4c5275c4eb0459e5a29c448a43efe8e0a1b7cbe13dd8b5e798463e2d4f2d095d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "d84d50cb135a063a3b7cb9426a9abe387904d2358b36a8e58268f53c9a879ccb",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "d743f638049c482c55a170584f660f1b3a44f4194c168113259be1aca24151f1",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "be8c5763d0ccbb1f5dec938ecd28b3eb3fecd71300b3c7c2676711d4d982362f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "3fdd7c1c3f84346cf01be4fbaace735357a0e6fdd6724bc973ea7afea5f5e75e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "2e6a366625c3577b0e95fd755aab94ad9e43b3dd1080ef1cbcae2004ff0cc247",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "fbf47f0dc8d5671bd70419e8e83ed3676e621dcd02460c180192da22dc8c35a8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "cffb677891e0c6455f896adfe3ff15cb7bcf37207b79f55b844b5b901fb4dc4f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "1e6a8eebaf42e7ae1d1c8c257dba85df4d748379c85df81e0192ffe15294dc7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-9e4307156406@worldcup-calendar": {
+          "hash": "3d2f6e112539c11fb78673934d28e86842e6141e6b8d24c09f57bf3f0713a82d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6cc80df88c09@worldcup-calendar": {
+          "hash": "4f68c3380f2d810820924ff10f7c8f5639d981dffb825ec4f2c7c4d6256195a2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b7c6c49578ff@worldcup-calendar": {
+          "hash": "0c1e08c796ad92ab4efb85721a21302bc0dba551fa1e271f901a71dcca9ee814",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "soviet-union": {
+      "en": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "3bc3e8c3eaa3ee0023e596d4600b6b8151daaac40c6ed71af3b6be4c053f1a3c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "28c24c0494b4c4a19be40e6bcf95592a3680d3b826cd280473ace3f05cfcf799",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "09a5b36b9b36a810af0792616639af64f448d644507e40c2286b4785ad9688fa",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "6dc5315b6a25c15c5d4d6614ea0cbb2eac1d2df9b142f5530d4a2b1e4b07f4e8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "64cd7b42400aca75bb7a1e484ff1d572b26ed1758ce33710f623f379c71a9e7f",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "e5b206ee961226f32be434399dfd66e475f2e5319c3068d7d37b9d4e0ec53450",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "f3f929ff05629604209b38d438cdf84b77fc4aabd67f02425202a9b2e8adcf36",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "0d2ed3b32702aa8fd20bd6db9c65b880abefbb42e5bf2b7de5c1b596b1a652ac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "6d64bf1b20c3a61914c8e7b480224ee7e4649da155cb0a9f9ca54143f9336e76",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "83c7330d3bc59a140264c60722a5a5b32fd87dd4796183f917d57e851e176c0b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "bf2fa23b1190c7c156b67ede1f46fd0b4ce50587360cfa96d57006e6d2167fe3",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "9e56a3a668db6aafbf777f79799cf2e4bf4c179508b1e65fd622797bc449f6ce",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-ce3d0cac7780@worldcup-calendar": {
+          "hash": "842b41749f8ea6e59d13f31391b0f92b54cc8c24779c694c31d60597539c0a03",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-743a6ed3cded@worldcup-calendar": {
+          "hash": "4793b10bcee8ab764e1e3f7680d9e4bbbddc1f1ac4cf5a3f9f7eaeb5f445c4de",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-23724a7bef0c@worldcup-calendar": {
+          "hash": "0083094b306548d3fbf4a97f1de6f23503d527f532189cf770f31997a8db5ca8",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-6fa0ad20af54@worldcup-calendar": {
+          "hash": "c5bd8e9556d2f34c5cdb7f20c122fc747e5e1e948710a1c2884544c7e5a9b10a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "spain": {
+      "en": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "a8247cbb78e30fd4091df7fb9c41701a332fef43e0e68c3201be4fa24283e666",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "4d0134635ee3c447ac7e7a960059f77bde6523fbe880b97aadb4f612c9ef4bc6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "5f114c115fa6ed37c3aae7da51deb79ed273e414472da1ccd80fbac30551a21d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "112941c8e7a3de33da0f776f454260c28bdde9d1878b61e15896f5da0702c8bf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "a37149f2b540d55ecec20c606af496b91176e1db40337f75a099267555c830cb",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "d1aed2db4d0c74f57d6243863459ea09e02f406236468cfa9479425aa43e7f46",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "ba9a3a6ad912726f0d09e6a9b8ff6b88fd7464dc831dd585722a1fbe9ad655c7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "c3c2c01d2ed1f0a8a771a64e1e348d0a0faa2555641a64c101b3d1d47806e513",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "ac854b45dd2c1cf1b31da7e64a5fd739af5d8fbbbe6069dcb8f371a7adc02336",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "4fa808959da6570c6848fdd85c73e72db700e9d497626efa00493f1285bb6ece",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "e8c823235a17763787c318bed7b3d771d10ccd6336e24f3f06454510fba6831c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "ceb19badb56c79cb837c705c8882b2152478703838a0ee643b0faa55508e08ec",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "b680f63055ebd9db49bbe3ad471a690e46f31cc2df8ba8d12c081d8806be0bb0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "88078e234ea812e7ad283319a1693971cd1e4461294a78a5496d99c51a8b4b46",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "54b196140b1ec3c6b962ec93114bd1489418d4396c097d4cab0db15587d51be6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-f2089afaa1cb@worldcup-calendar": {
+          "hash": "41a628f02a0ffc1eb7abee749c0a45a5208b6927eaceb6cca83c5b4672a80eac",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-668f86300d99@worldcup-calendar": {
+          "hash": "3ec00566b4f0aa9db3fb0e29a61f46ad1048ae9a9af4dab8eff5f01890d8718c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbbd6320d11d@worldcup-calendar": {
+          "hash": "3a06ccd86228cc81b5602990013b822a230884558154978336f1709a567b0a02",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-43357c038825@worldcup-calendar": {
+          "hash": "c814e8722cea95b7ffaa9e209efb894d7347549e68f2281bdc06babfc2035583",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-8d11d187cf26@worldcup-calendar": {
+          "hash": "0d03a8765b8854271166bb0fa1ab9a8798adbfe7b6cd2f78c7a1e9166af90703",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "uruguay": {
+      "en": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "7ace34db5f4fda87cc16e398d6779969590073780dc42a29f2aa6800c8c55e66",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "07a7138f9a72d8c7442d96cc4ab0352abf8e8664c0e1facb5f7c0cfca478f004",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "9f8301784dfa1c713e0c754349877e925281719f4b198277f87c5fb5eecf810b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "163e66a33da4380af0d722d49bfa5db96e8dc55ffff49eabc97a09e79b3094be",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "ba43077fc5ddd72d9740250fc77bd57da3fc60271b9319ac77bc18ea0e14df0d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "d7fd40b36fdaadf779815ada16053d018a5cfaf258eb3f0809df06041b81a606",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "33dc32adc089c2facfd019ada1cce44ad4ade5a94789638afad4226f26fd6ea0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "75296844d4b1a2d6fd99233bd26cd9b04d8e8d94710676b1974f6544b29815ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "616190e9a260efb5b4f24bfe142e36f5ed7036ff293e4cc73d5c5e92083c796c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "c94513676a45a654113618865c197a0953123c6fb8a70ab25a2cef7c421c43a7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "0919ab886edf87891d814a56eb42aee2d62d822414e6336649af21a490dc0794",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "8568e5e88deb3f71b15fd174711ea24c334d0d8c0a99a9349c08cad5e8dfc976",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "3da2afb35f8e823d2f54b0c713e8d4b778aeeb552b3c0d21c9a6e3ade359dbfc",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-d01d772da800@worldcup-calendar": {
+          "hash": "a7900eef284c66c5e5a4e0b0af98e39fdb61621af7316f9be5ef53a6d3d424ae",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-fbf3f898be97@worldcup-calendar": {
+          "hash": "3b6befa3ffecf9eb01751401ee91f7117cec7e8c5f5cd8b85c601b009bce0970",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-9ae5111bef7d@worldcup-calendar": {
+          "hash": "5bb132132c82c4389092baa74b7a1ecb50d1afce7ceccfb7bb56b5a66a02537e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    },
+    "west-germany": {
+      "en": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "7ace34db5f4fda87cc16e398d6779969590073780dc42a29f2aa6800c8c55e66",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "f728cd611bc30eabf6cc8f116b60134282189157673ba0e048384584a3f58575",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "02ad24ec5706e6307342d4de4231be36c1649df5e14e7d7244fb3beaae04e6df",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "f1d9679935afc3681e9318446836ea9af513bca6e53dc7deacf9a9304108a341",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "dba5de85d652d2b7efe9688188e67e9ad00ef44c82f2c9c41e607ce1d4d402e6",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "ddf58fc8f541fed7d187284deaf74c89b3182db1a1f215fae3af1d802c7675cf",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "07933ba4edd2de0d3a26ad48a187d0c99da4cd0bcd8d5182d5bb9d5590fb4635",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "es": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "ba43077fc5ddd72d9740250fc77bd57da3fc60271b9319ac77bc18ea0e14df0d",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "2290c49886924bfb511afd75e966cb7f1b66bbfc38c600c938b73b255b4d4519",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "28c033fdc2360cdda7c2133441cbec5827a65b33d4e21fe3652d577e3e43cfff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "78f88df583269c571a9eb4164ab3d38ed361dd9b5746271cdf975d7b280968e0",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "ef46f8d438db2256546033c1739173fdd9f3cb2b985cef7cd8db2a1617224b75",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "9132f50707acceb0a0c188023f99fd155eb2dca5de0ec6d44f8c28747978670a",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "d6b99c305568eda704874b5baadbf34b2735dd0c28c26595cd91fcee1df971dd",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "pt": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "616190e9a260efb5b4f24bfe142e36f5ed7036ff293e4cc73d5c5e92083c796c",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "5b1f37bc4e60d701946c082a0464a6a0ebd12e13889cb51ace504e3a231fa01b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "5e9ffa4f6704988bf55c4e2ef0b28b3a0be77e37dde36a5f8eeaaedd6083dee7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "9dff839c3fe3cc79c4166b10716feaa8526880e69044d4f53bf9f3a204138b44",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "da33d316472fb7f63b7add3b93e5d22bfa9045497590269e484ce664ff848b1b",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "920e2ee18d79d2a5ca1028af5b665138ebcf100059a67f977002d1b3d514359e",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "15d6f4defafd73a32d3fba4d986159348521bdc8e54d17481fcd8944e7c479c2",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      },
+      "fr": {
+        "fifa-wc-1986-7f60adfe3c15@worldcup-calendar": {
+          "hash": "3da2afb35f8e823d2f54b0c713e8d4b778aeeb552b3c0d21c9a6e3ade359dbfc",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0cb9fd8974b5@worldcup-calendar": {
+          "hash": "cae4c10816bc73f8932dc02153404a409c8f4344023d94c9f85040850c3fd130",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-b8fc4df56167@worldcup-calendar": {
+          "hash": "24551e69b23e3f8eae11f01e7c55770b5bd873f7e711c375fd43a03d195100d7",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-af578e548031@worldcup-calendar": {
+          "hash": "14795fbdcc470c69bd5ce1625c89063caa4c3c1262c50144863fd1d7611961ff",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-3f3302a672c2@worldcup-calendar": {
+          "hash": "154ce48cd97c20034a115774c18294985961d30fc4efb9afb6ab6d5650f26cad",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-4d35c1a51f09@worldcup-calendar": {
+          "hash": "e8fb51ba7501c60d42a0a3b9b3ee290023b4e6ac1e3d36a46f93c269c34b3dab",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        },
+        "fifa-wc-1986-0a02259b7ed5@worldcup-calendar": {
+          "hash": "95da18c4cea8c364c0a6f78574b02110982774533d3a1afbccc509fbfab5c875",
+          "sequence": 0,
+          "dtstamp": "2026-06-19T14:13:03.741421+00:00"
+        }
+      }
+    }
+  }
+}

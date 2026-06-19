@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1998 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 1998 - 🇦🇹 Au
+ triche matches only
+X-WR-CALNAME:Coupe du Monde FIFA 1998 - 🇦🇹 Autriche
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇲 Cameroun 1-1 🇦🇹 Autriche
+DTSTART;VALUE=DATE:19980611
+DTEND;VALUE=DATE:19980612
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-d9dc72aa7b5d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group B\nStade: Stade de Toulouse\, T
+ oulouse\nRésultat: 1-1
+LOCATION:Stade de Toulouse\, Toulouse
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇨🇱 Chili 1-1 🇦🇹 Autriche
+DTSTART;VALUE=DATE:19980617
+DTEND;VALUE=DATE:19980618
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-913abe09a1a5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Stade Geoffroy-Guicha
+ rd\, Saint-Étienne\nRésultat: 1-1
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Italie 2-1 🇦🇹 Autriche
+DTSTART;VALUE=DATE:19980623
+DTEND;VALUE=DATE:19980624
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-2fd76110acf1@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group B\nStade: Stade de France\, Sai
+ nt-Denis\nRésultat: 2-1
+LOCATION:Stade de France\, Saint-Denis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

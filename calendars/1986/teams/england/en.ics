@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1986 EN//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All matches of the FIFA World Cup 1986 - 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿 England matches only
+X-WR-CALNAME:FIFA World Cup 1986 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 1-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+DTSTART;VALUE=DATE:19860603
+DTEND;VALUE=DATE:19860604
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-e195831a7f32@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Estadio Tecnológico\, Mont
+ errey\nResult: 1-0
+LOCATION:Estadio Tecnológico\, Monterrey
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0-0 🇲🇦 Morocco
+DTSTART;VALUE=DATE:19860606
+DTEND;VALUE=DATE:19860607
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-30dbca679640@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Estadio Tecnológico\, Mont
+ errey\nResult: 0-0
+LOCATION:Estadio Tecnológico\, Monterrey
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 3-0 🇵🇱 Poland
+DTSTART;VALUE=DATE:19860611
+DTEND;VALUE=DATE:19860612
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-cb6f9bb92a90@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Estadio Tecnológico\, Mont
+ errey\nResult: 3-0
+LOCATION:Estadio Tecnológico\, Monterrey
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 3-0 🇵🇾 Paraguay
+DTSTART;VALUE=DATE:19860618
+DTEND;VALUE=DATE:19860619
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-86e7eccdf73a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Round of 16\nVenue: Estadio Azteca\, Mexico City\nResult: 3-0
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇦🇷 Argentina 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+DTSTART;VALUE=DATE:19860622
+DTEND;VALUE=DATE:19860623
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-f942458386fd@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Quarter-finals\nVenue: Estadio Azteca\, Mexico City\nResult: 2
+ -1
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

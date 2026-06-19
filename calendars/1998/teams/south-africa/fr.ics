@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1998 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 1998 - 🇿🇦 Af
+ rique du Sud matches only
+X-WR-CALNAME:Coupe du Monde FIFA 1998 - 🇿🇦 Afrique du Sud
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇫🇷 France 3-0 🇿🇦 Afrique du Sud
+DTSTART;VALUE=DATE:19980612
+DTEND;VALUE=DATE:19980613
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-1126300c579c@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group C\nStade: Stade Vélodrome\, Ma
+ rseille\nRésultat: 3-0
+LOCATION:Stade Vélodrome\, Marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇿🇦 Afrique du Sud 1-1 🇩🇰 Danemark
+DTSTART;VALUE=DATE:19980618
+DTEND;VALUE=DATE:19980619
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-e0fc35cb2ce3@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Stade de Toulouse\, T
+ oulouse\nRésultat: 1-1
+LOCATION:Stade de Toulouse\, Toulouse
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇿🇦 Afrique du Sud 2-2 🇸🇦 Arabie saoudite
+DTSTART;VALUE=DATE:19980624
+DTEND;VALUE=DATE:19980625
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-ec852a58d69e@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Parc Lescure\, Bordea
+ ux\nRésultat: 2-2
+LOCATION:Parc Lescure\, Bordeaux
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

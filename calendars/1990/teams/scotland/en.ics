@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1990 EN//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All matches of the FIFA World Cup 1990 - 🏴󠁧󠁢󠁳󠁣
+ 󠁴󠁿 Scotland matches only
+X-WR-CALNAME:FIFA World Cup 1990 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+DTSTART;VALUE=DATE:19900611
+DTEND;VALUE=DATE:19900612
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-4bca509973e5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Stadio Luigi Ferraris\, Gen
+ oa\nResult: 1-0
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Sweden 1-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+DTSTART;VALUE=DATE:19900616
+DTEND;VALUE=DATE:19900617
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-8fcb5b21b005@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: Stadio Luigi Ferraris\, Gen
+ oa\nResult: 1-2
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brazil 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+DTSTART;VALUE=DATE:19900620
+DTEND;VALUE=DATE:19900621
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-2a24e420b25a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Stadio Delle Alpi\, Turin\n
+ Result: 1-0
+LOCATION:Stadio Delle Alpi\, Turin
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

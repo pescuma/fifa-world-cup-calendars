@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1990 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 1990 - 🏴󠁧󠁢
+ 󠁳󠁣󠁴󠁿 Escócia matches only
+X-WR-CALNAME:Copa do Mundo FIFA 1990 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escóc
+ ia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
+DTSTART;VALUE=DATE:19900611
+DTEND;VALUE=DATE:19900612
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-4bca509973e5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
+ noa\nResultado: 1-0
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suécia 1-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
+DTSTART;VALUE=DATE:19900616
+DTEND;VALUE=DATE:19900617
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-8fcb5b21b005@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
+ noa\nResultado: 1-2
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brasil 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
+DTSTART;VALUE=DATE:19900620
+DTEND;VALUE=DATE:19900621
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-2a24e420b25a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Stadio Delle Alpi\, Turin\
+ nResultado: 1-0
+LOCATION:Stadio Delle Alpi\, Turin
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

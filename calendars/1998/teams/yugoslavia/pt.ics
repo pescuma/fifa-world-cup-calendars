@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1998 PT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 1998 - 🇷🇸🇲
+ 🇪 Iugoslávia matches only
+X-WR-CALNAME:Copa do Mundo FIFA 1998 - 🇷🇸🇲🇪 Iugoslávia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇷🇸🇲🇪 Iugoslávia 1-0 🇮🇷 Irã
+DTSTART;VALUE=DATE:19980614
+DTEND;VALUE=DATE:19980615
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-eaba4efb40e4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Stade Geoffroy-Guichard\, 
+ Saint-Étienne\nResultado: 1-0
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇩🇪 Alemanha 2-2 🇷🇸🇲🇪 Iugoslávia
+DTSTART;VALUE=DATE:19980621
+DTEND;VALUE=DATE:19980622
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-127e7e8c3028@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Stade Félix Bollaert\, Le
+ ns\nResultado: 2-2
+LOCATION:Stade Félix Bollaert\, Lens
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 Estados Unidos 0-1 🇷🇸🇲🇪 Iugoslávia
+DTSTART;VALUE=DATE:19980625
+DTEND;VALUE=DATE:19980626
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-3e1f90f8bba4@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Stade de la Beaujoire\, Na
+ ntes\nResultado: 0-1
+LOCATION:Stade de la Beaujoire\, Nantes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇳🇱 Holanda 2-1 🇷🇸🇲🇪 Iugoslávia
+DTSTART;VALUE=DATE:19980629
+DTEND;VALUE=DATE:19980630
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1998-718637f6da3d@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Oitavas de Final\nEstádio: Stade de Toulouse\, Toulouse\nResu
+ ltado: 2-1
+LOCATION:Stade de Toulouse\, Toulouse
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:A partida começa em 30 minutos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1990 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 1990 - 🏴󠁧
+ 󠁢󠁳󠁣󠁴󠁿 Écosse matches only
+X-WR-CALNAME:Coupe du Monde FIFA 1990 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écos
+ se
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇨🇷 Costa Rica 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse
+DTSTART;VALUE=DATE:19900611
+DTEND;VALUE=DATE:19900612
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-4bca509973e5@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group C\nStade: Stadio Luigi Ferraris
+ \, Genoa\nRésultat: 1-0
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇸🇪 Suède 1-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse
+DTSTART;VALUE=DATE:19900616
+DTEND;VALUE=DATE:19900617
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-8fcb5b21b005@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Stadio Luigi Ferraris
+ \, Genoa\nRésultat: 1-2
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇧🇷 Brésil 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse
+DTSTART;VALUE=DATE:19900620
+DTEND;VALUE=DATE:19900621
+DTSTAMP:20260619T141304Z
+UID:fifa-wc-1990-2a24e420b25a@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Stadio Delle Alpi\, T
+ urin\nRésultat: 1-0
+LOCATION:Stadio Delle Alpi\, Turin
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

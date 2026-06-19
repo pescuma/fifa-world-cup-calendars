@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1986 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 1986 - Irlande du 
+ Nord matches only
+X-WR-CALNAME:Coupe du Monde FIFA 1986 - Irlande du Nord
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇩🇿 Algérie 1-1 Irlande du Nord
+DTSTART;VALUE=DATE:19860603
+DTEND;VALUE=DATE:19860604
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-dc75ca6f3771@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: Estadio Tres de Marzo
+ \, Guadalajara\nRésultat: 1-1
+LOCATION:Estadio Tres de Marzo\, Guadalajara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irlande du Nord 1-2 🇪🇸 Espagne
+DTSTART;VALUE=DATE:19860607
+DTEND;VALUE=DATE:19860608
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-668f86300d99@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Estadio Tres de Marzo
+ \, Guadalajara\nRésultat: 1-2
+LOCATION:Estadio Tres de Marzo\, Guadalajara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irlande du Nord 0-3 🇧🇷 Brésil
+DTSTART;VALUE=DATE:19860612
+DTEND;VALUE=DATE:19860613
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-7ec486dcc0de@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Estadio Jalisco\, Gua
+ dalajara\nRésultat: 0-3
+LOCATION:Estadio Jalisco\, Guadalajara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

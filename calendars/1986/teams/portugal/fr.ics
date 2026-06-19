@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//FIFA WORLD CUP 1986 FR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 1986 - 🇵🇹 Po
+ rtugal matches only
+X-WR-CALNAME:Coupe du Monde FIFA 1986 - 🇵🇹 Portugal
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 1-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+DTSTART;VALUE=DATE:19860603
+DTEND;VALUE=DATE:19860604
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-e195831a7f32@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 1\nGroupe: Group F\nStade: Estadio Tecnológico\
+ , Monterrey\nRésultat: 1-0
+LOCATION:Estadio Tecnológico\, Monterrey
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇱 Pologne 1-0 🇵🇹 Portugal
+DTSTART;VALUE=DATE:19860607
+DTEND;VALUE=DATE:19860608
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-b0f8cdc7980b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 2\nGroupe: Group F\nStade: Estadio Universitario
+ \, Monterrey\nRésultat: 1-0
+LOCATION:Estadio Universitario\, Monterrey
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇹 Portugal 1-3 🇲🇦 Maroc
+DTSTART;VALUE=DATE:19860611
+DTEND;VALUE=DATE:19860612
+DTSTAMP:20260619T141303Z
+UID:fifa-wc-1986-b373ee91c48b@worldcup-calendar
+SEQUENCE:0
+CATEGORIES:FIFA World Cup 2026,Football
+DESCRIPTION:Jour de match 3\nGroupe: Group F\nStade: Estadio Tres de Marzo
+ \, Guadalajara\nRésultat: 1-3
+LOCATION:Estadio Tres de Marzo\, Guadalajara
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match commence dans 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
