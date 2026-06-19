@@ -610,7 +610,7 @@ def parse_match_datetime(date_str: str, time_str: str) -> datetime:
 
 def parse_match_date(date_str: str) -> date:
     """Parse a match date into a UTC datetime."""
-    return date.strptime(f"{date_str}", "%Y-%m-%d")
+    return datetime.strptime(f"{date_str}", "%Y-%m-%d").date()
 
 
 def stable_uid(year: int, match: dict) -> str:
