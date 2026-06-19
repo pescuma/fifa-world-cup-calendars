@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-0 🇩🇰 Danemark
 DTSTART:20100614T133000Z
 DTEND:20100614T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38b9fa62842b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Soccer City\, Johanne
- sburg\nRésultat: 2-0
+ sburg\nFin du match: 2-0
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 1-0 🇯🇵 Japon
 DTSTART:20100619T133000Z
 DTEND:20100619T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-083ea98c98d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Moses Mabhida Stadium
- \, Durban\nRésultat: 1-0
+ \, Durban\nFin du match: 1-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-2 🇳🇱 Pays-Bas
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4f790122f758@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Cape Town Stadium\, 
- Cape Town\nRésultat: 1-2
+ Cape Town\nFin du match: 1-2
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-1 🇸🇰 Slovaquie
 DTSTART:20100628T160000Z
 DTEND:20100628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-076963041077@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Moses Mabhida Stadium\, Durban\nRés
- ultat: 2-1
+DESCRIPTION:1/8ème de finale\nStade: Moses Mabhida Stadium\, Durban\nFin 
+ du match: 2-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-1 🇧🇷 Brésil
 DTSTART:20100702T160000Z
 DTEND:20100702T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-58026d7460f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nStade: Nelson Mandela Bay Stadium\, Port Elizab
- eth\nRésultat: 2-1
+ eth\nFin du match: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-3 🇳🇱 Pays-Bas
 DTSTART:20100706T203000Z
 DTEND:20100706T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-135f3368be5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nStade: Cape Town Stadium\, Cape Town\nRésultat: 2
- -3
+DESCRIPTION:Semifinals\nStade: Cape Town Stadium\, Cape Town\nFin du match
+ : 2-3
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0-0 🇪🇸 Espagne
+SUMMARY:🇳🇱 Pays-Bas 0+0-1+0 🇪🇸 Espagne
 DTSTART:20100711T203000Z
 DTEND:20100711T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4cbc80f55918@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Soccer City\, Johannesburg\nRésultat: 0-0
+DESCRIPTION:Finale\nStade: Soccer City\, Johannesburg\nFin du match: 0-0\n
+ Prolongation: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

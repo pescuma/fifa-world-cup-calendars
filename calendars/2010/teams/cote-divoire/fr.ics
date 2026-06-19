@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 0-0 🇵🇹 Portugal
 DTSTART:20100615T160000Z
 DTEND:20100615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f1d1c061950@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Nelson Mandela Bay St
- adium\, Port Elizabeth\nRésultat: 0-0
+ adium\, Port Elizabeth\nFin du match: 0-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 3-1 🇨🇮 Côte d’Ivoire
 DTSTART:20100620T203000Z
 DTEND:20100620T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d713c8630cb7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group G\nStade: Soccer City\, Johann
- esburg\nRésultat: 3-1
+ esburg\nFin du match: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇵 Corée du Nord 0-3 🇨🇮 Côte d’Ivoire
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-24363c8d0cfe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group G\nStade: Mbombela Stadium\, N
- elspruit\nRésultat: 0-3
+ elspruit\nFin du match: 0-3
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE

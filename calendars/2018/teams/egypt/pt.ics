@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇬 Egito 0-1 🇺🇾 Uruguai
 DTSTART:20180615T120000Z
 DTEND:20180615T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-be39861dd5d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Ekaterinburg Arena\, Ekate
- rinburg\nResultado: 0-1
+ rinburg\nIntervalo: 0-0\nFinal: 0-1
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Rússia 3-1 🇪🇬 Egito
 DTSTART:20180619T180000Z
 DTEND:20180619T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-310ebf37e625@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group A\nEstádio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 3-1
+  Saint Petersburg\nIntervalo: 0-0\nFinal: 3-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arábia Saudita 2-1 🇪🇬 Egito
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-db649afc79db@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: Volgograd Arena\, Volgogr
- ad\nResultado: 2-1
+ ad\nIntervalo: 1-1\nFinal: 2-1
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE

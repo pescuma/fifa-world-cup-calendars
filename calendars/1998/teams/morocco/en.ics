@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 2-2 🇳🇴 Norway
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-fdf974e2de13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Stade de la Mosson\, Montpe
- llier\nResult: 2-2
+ llier\nFull-time: 2-2
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-901fa625bf9b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Stade de la Beaujoire\, Nan
- tes\nResult: 3-0
+ tes\nFull-time: 3-0
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 0-3 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-846ff475fc24@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group A\nVenue: Stade Geoffroy-Guichard\, S
- aint-Étienne\nResult: 0-3
+ aint-Étienne\nFull-time: 0-3
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE

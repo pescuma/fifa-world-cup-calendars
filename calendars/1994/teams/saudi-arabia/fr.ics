@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-1 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:19940620
 DTEND;VALUE=DATE:19940621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ca3feab052c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group F\nStade: RFK Stadium\, Washing
- ton\nRésultat: 2-1
+ ton\nFin du match: 2-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 2-1 🇲🇦 Maroc
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-f07a45eb817c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group F\nStade: Giants Stadium\, East
-  Rutherford\nRésultat: 2-1
+  Rutherford\nFin du match: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 0-1 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9b5e415d95c7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group F\nStade: RFK Stadium\, Washing
- ton\nRésultat: 0-1
+ ton\nFin du match: 0-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 1-3 🇸🇪 Suède
 DTSTART;VALUE=DATE:19940703
 DTEND;VALUE=DATE:19940704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-290dec59919b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Cotton Bowl\, Dallas\nRésultat: 1-3
+DESCRIPTION:1/8ème de finale\nStade: Cotton Bowl\, Dallas\nFin du match: 
+ 1-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marruecos 0-0 🇵🇱 Polonia
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c08388ff3e72@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group F\nEstadio: Estadio Universitario\, Mo
- nterrey\nResultado: 0-0
+ nterrey\nFinal: 0-0
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 1-0 🇵🇹 Portugal
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b0f8cdc7980b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group F\nEstadio: Estadio Universitario\, Mo
- nterrey\nResultado: 1-0
+ nterrey\nFinal: 1-0
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-0 🇵🇱 Polonia
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-cb6f9bb92a90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group F\nEstadio: Estadio Tecnológico\, Mon
- terrey\nResultado: 3-0
+ terrey\nFinal: 3-0
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 4-0 🇵🇱 Polonia
 DTSTART;VALUE=DATE:19860616
 DTEND;VALUE=DATE:19860617
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-95adeda636da@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Estadio Jalisco\, Guadalajara\nResu
- ltado: 4-0
+DESCRIPTION:Octavos de Final\nEstadio: Estadio Jalisco\, Guadalajara\nFina
+ l: 4-0
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

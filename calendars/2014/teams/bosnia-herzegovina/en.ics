@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20140615T220000Z
 DTEND:20140616T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Estádio do Maracanã\, Rio
-  de Janeiro\nResult: 2-1
+  de Janeiro\nFull-time: 2-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-0 🇧🇦 Bosnia & Herzegovina
 DTSTART:20140621T220000Z
 DTEND:20140622T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d78502c82e91@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Arena Pantanal\, Cuiabá\n
- Result: 1-0
+ Full-time: 1-0
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇦 Bosnia & Herzegovina 3-1 🇮🇷 Iran
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a9fcea379e83@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Arena Fonte Nova\, Salvado
- r\nResult: 3-1
+ r\nFull-time: 3-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE

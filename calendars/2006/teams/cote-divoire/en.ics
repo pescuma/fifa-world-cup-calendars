@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-834cde131dab@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: AOL Arena\, Hamburg\nResult
- : 2-1
+DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: AOL Arena\, Hamburg\nHalf-t
+ ime: 2-0\nFull-time: 2-1
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-d8423462c6d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Gottlieb-Daimler-Stadion\, 
- Stuttgart\nResult: 2-1
+ Stuttgart\nHalf-time: 2-1\nFull-time: 2-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ SUMMARY:🇨🇮 Côte d’Ivoire 3-2 🇷🇸🇲🇪 Serbia and Monteneg
  ro
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Allianz Arena\, München\n
- Result: 3-2
+ Half-time: 1-2\nFull-time: 3-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇵🇾 Paraguay
 DTSTART:20100614T203000Z
 DTEND:20100614T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d2c10890a7a9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Cape Town Stadium\, Cape To
- wn\nResult: 1-1
+ wn\nFull-time: 1-1
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovakia 0-2 🇵🇾 Paraguay
 DTSTART:20100620T133000Z
 DTEND:20100620T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-65b9318a846d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 0-2
+ fontein\nFull-time: 0-2
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-0 🇳🇿 New Zealand
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c0b1a28e3e98@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Peter Mokaba Stadium\, Pol
- okwane\nResult: 0-0
+ okwane\nFull-time: 0-0
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇾 Paraguay 0-0 🇯🇵 Japan
+SUMMARY:🇵🇾 Paraguay 0+0[5]-[3]0+0 🇯🇵 Japan
 DTSTART:20100629T160000Z
 DTEND:20100629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-18104b532e27@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nResult
- : 0-0
+DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nFull-t
+ ime: 0-0\nExtra time: 0-0\nPenalties: 5-3
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-1 🇪🇸 Spain
 DTSTART:20100703T203000Z
 DTEND:20100703T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-aa6b3455f4f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Ellis Park Stadium\, Johannesburg\nResul
- t: 0-1
+DESCRIPTION:Quarterfinals\nVenue: Ellis Park Stadium\, Johannesburg\nFull-
+ time: 0-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

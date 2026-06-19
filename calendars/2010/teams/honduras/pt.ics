@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-1 🇨🇱 Chile
 DTSTART:20100616T133000Z
 DTEND:20100616T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-db568481ff2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group H\nEstádio: Mbombela Stadium\, Nelspru
- it\nResultado: 0-1
+ it\nFinal: 0-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 2-0 🇭🇳 Honduras
 DTSTART:20100621T203000Z
 DTEND:20100621T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6c334d1bce51@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group H\nEstádio: Ellis Park Stadium\, Joha
- nnesburg\nResultado: 2-0
+ nnesburg\nFinal: 2-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suíça 0-0 🇭🇳 Honduras
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-8da3f16fff52@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group H\nEstádio: Free State Stadium\, Bloe
- mfontein\nResultado: 0-0
+ mfontein\nFinal: 0-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE

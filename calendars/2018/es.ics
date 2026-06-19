@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Rusia 5-0 🇸🇦 Arabia Saudí
 DTSTART:20180614T150000Z
 DTEND:20180614T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-825c5a014391@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Luzhniki Stadium\, Moscow\
- nResultado: 5-0
+ nDescanso: 2-0\nFinal: 5-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇬 Egipto 0-1 🇺🇾 Uruguay
 DTSTART:20180615T120000Z
 DTEND:20180615T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-be39861dd5d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Ekaterinburg Arena\, Ekate
- rinburg\nResultado: 0-1
+ rinburg\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Rusia 3-1 🇪🇬 Egipto
 DTSTART:20180619T180000Z
 DTEND:20180619T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-310ebf37e625@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 3-1
+  Saint Petersburg\nDescanso: 0-0\nFinal: 3-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-0 🇸🇦 Arabia Saudí
 DTSTART:20180620T150000Z
 DTEND:20180620T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e1e7b9e7977d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: Rostov Arena\, Rostov-on-D
- on\nResultado: 1-0
+ on\nDescanso: 1-0\nFinal: 1-0
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 3-0 🇷🇺 Rusia
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1c7431d958de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Samara Arena\, Samara\nRe
- sultado: 3-0
+DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Samara Arena\, Samara\nDe
+ scanso: 2-0\nFinal: 3-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabia Saudí 2-1 🇪🇬 Egipto
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-db649afc79db@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Volgograd Arena\, Volgogr
- ad\nResultado: 2-1
+ ad\nDescanso: 1-1\nFinal: 2-1
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marruecos 0-1 🇮🇷 Irán
 DTSTART:20180615T150000Z
 DTEND:20180615T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-79b476a0c849@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 0-1
+  Saint Petersburg\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-3 🇪🇸 España
 DTSTART:20180615T180000Z
 DTEND:20180615T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-98ecbb4bd0e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Fisht Stadium\, Sochi\nRes
- ultado: 3-3
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Fisht Stadium\, Sochi\nDes
+ canso: 2-1\nFinal: 3-3
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🇲🇦 Marruecos
 DTSTART:20180620T120000Z
 DTEND:20180620T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-908108eecdd4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Luzhniki Stadium\, Moscow\
- nResultado: 1-0
+ nDescanso: 1-0\nFinal: 1-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 0-1 🇪🇸 España
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-3a7b32664da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nResul
- tado: 0-1
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nDesca
+ nso: 0-0\nFinal: 0-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 1-1 🇵🇹 Portugal
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fa075c8e1b26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Mordovia Arena\, Saransk\
- nResultado: 1-1
+ nDescanso: 0-1\nFinal: 1-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 2-2 🇲🇦 Marruecos
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-434ea9bed425@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Kaliningrad Stadium\, Kal
- iningrad\nResultado: 2-2
+ iningrad\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 2-1 🇦🇺 Australia
 DTSTART:20180616T100000Z
 DTEND:20180616T120000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-41218d9b3c65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Kazan Arena\, Kazan\nResul
- tado: 2-1
+DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Kazan Arena\, Kazan\nDesca
+ nso: 0-0\nFinal: 2-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇪 Perú 0-1 🇩🇰 Dinamarca
 DTSTART:20180616T160000Z
 DTEND:20180616T180000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a655d8fa7cc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Mordovia Arena\, Saransk\n
- Resultado: 0-1
+ Descanso: 0-0\nFinal: 0-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-1 🇦🇺 Australia
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Samara Arena\, Samara\nRes
- ultado: 1-1
+DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Samara Arena\, Samara\nDes
+ canso: 1-1\nFinal: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-0 🇵🇪 Perú
 DTSTART:20180621T150000Z
 DTEND:20180621T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fd8a368b8da7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Ekaterinburg Arena\, Ekate
- rinburg\nResultado: 1-0
+ rinburg\nDescanso: 1-0\nFinal: 1-0
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 0-0 🇫🇷 Francia
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-349c36640009@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Luzhniki Stadium\, Moscow
- \nResultado: 0-0
+ \nDescanso: 0-0\nFinal: 0-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 0-2 🇵🇪 Perú
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Fisht Stadium\, Sochi\nRe
- sultado: 0-2
+DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Fisht Stadium\, Sochi\nDe
+ scanso: 0-1\nFinal: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-1 🇮🇸 Islandia
 DTSTART:20180616T130000Z
 DTEND:20180616T150000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-77becad11996@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Spartak Stadium\, Moscow\n
- Resultado: 1-1
+ Descanso: 1-1\nFinal: 1-1
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croacia 2-0 🇳🇬 Nigeria
 DTSTART:20180616T190000Z
 DTEND:20180616T210000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e6dfea62b091@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Kaliningrad Stadium\, Kali
- ningrad\nResultado: 2-0
+ ningrad\nDescanso: 1-0\nFinal: 2-0
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-3 🇭🇷 Croacia
 DTSTART:20180621T180000Z
 DTEND:20180621T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-07a193eda2cc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group D\nEstadio: Nizhny Novgorod Stadium\, 
- Nizhny Novgorod\nResultado: 0-3
+ Nizhny Novgorod\nDescanso: 0-0\nFinal: 0-3
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-0 🇮🇸 Islandia
 DTSTART:20180622T150000Z
 DTEND:20180622T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9c4226825d2b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Volgograd Arena\, Volgogra
- d\nResultado: 2-0
+ d\nDescanso: 0-0\nFinal: 2-0
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-2 🇦🇷 Argentina
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-544782225f84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Saint Petersburg Stadium\
- , Saint Petersburg\nResultado: 1-2
+ , Saint Petersburg\nDescanso: 0-1\nFinal: 1-2
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇸 Islandia 1-2 🇭🇷 Croacia
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ef7e3a0aaabd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Rostov Arena\, Rostov-on-
- Don\nResultado: 1-2
+ Don\nDescanso: 0-0\nFinal: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 0-1 🇷🇸 Serbia
 DTSTART:20180617T120000Z
 DTEND:20180617T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-eb206a7210f5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Samara Arena\, Samara\nRes
- ultado: 0-1
+DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Samara Arena\, Samara\nDes
+ canso: 0-0\nFinal: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-1 🇨🇭 Suiza
 DTSTART:20180617T180000Z
 DTEND:20180617T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-02492be6080a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Rostov Arena\, Rostov-on-D
- on\nResultado: 1-1
+ on\nDescanso: 1-0\nFinal: 1-1
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇨🇷 Costa Rica
 DTSTART:20180622T120000Z
 DTEND:20180622T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-64946d609187@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 2-0
+  Saint Petersburg\nDescanso: 0-0\nFinal: 2-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 1-2 🇨🇭 Suiza
 DTSTART:20180622T180000Z
 DTEND:20180622T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f13c933a444d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Kaliningrad Stadium\, Kali
- ningrad\nResultado: 1-2
+ ningrad\nDescanso: 1-0\nFinal: 1-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 0-2 🇧🇷 Brasil
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-66db2ed7bbda@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Spartak Stadium\, Moscow\
- nResultado: 0-2
+ nDescanso: 0-1\nFinal: 0-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 2-2 🇨🇷 Costa Rica
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1aee2f477d5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Nizhny Novgorod Stadium\,
-  Nizhny Novgorod\nResultado: 2-2
+  Nizhny Novgorod\nDescanso: 1-0\nFinal: 2-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 0-1 🇲🇽 México
 DTSTART:20180617T150000Z
 DTEND:20180617T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-99af9986e1af@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Luzhniki Stadium\, Moscow\
- nResultado: 0-1
+ nDescanso: 0-1\nFinal: 0-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 1-0 🇰🇷 Corea del Sur
 DTSTART:20180618T120000Z
 DTEND:20180618T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Nizhny Novgorod Stadium\, 
- Nizhny Novgorod\nResultado: 1-0
+ Nizhny Novgorod\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 1-2 🇲🇽 México
 DTSTART:20180623T150000Z
 DTEND:20180623T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-5cfd82941e73@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Rostov Arena\, Rostov-on-
- Don\nResultado: 1-2
+ Don\nDescanso: 0-1\nFinal: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 2-1 🇸🇪 Suecia
 DTSTART:20180623T180000Z
 DTEND:20180623T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-bfaeb11c552d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Fisht Stadium\, Sochi\nRe
- sultado: 2-1
+DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Fisht Stadium\, Sochi\nDe
+ scanso: 0-1\nFinal: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 2-0 🇩🇪 Alemania
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d28ab2fcbf1e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Kazan Arena\, Kazan\nResu
- ltado: 2-0
+DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Kazan Arena\, Kazan\nDesc
+ anso: 0-0\nFinal: 2-0
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 0-3 🇸🇪 Suecia
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6349ddc1c3e6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Ekaterinburg Arena\, Ekat
- erinburg\nResultado: 0-3
+ erinburg\nDescanso: 0-0\nFinal: 0-3
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,12 +694,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-0 🇵🇦 Panamá
 DTSTART:20180618T150000Z
 DTEND:20180618T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9f0d787ac135@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nRes
- ultado: 3-0
+DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nDes
+ canso: 0-0\nFinal: 3-0
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -713,12 +713,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Túnez 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180618T180000Z
 DTEND:20180618T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e5ea05124043@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Volgograd Arena\, Volgogra
- d\nResultado: 1-2
+ d\nDescanso: 1-1\nFinal: 1-2
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -732,12 +732,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 5-2 🇹🇳 Túnez
 DTSTART:20180623T120000Z
 DTEND:20180623T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d0e225fe8c19@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group G\nEstadio: Spartak Stadium\, Moscow\
- nResultado: 5-2
+ nDescanso: 3-1\nFinal: 5-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -751,12 +751,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-1 🇵🇦 Panamá
 DTSTART:20180624T120000Z
 DTEND:20180624T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ce3d47cd8dcc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Nizhny Novgorod Stadium\,
-  Nizhny Novgorod\nResultado: 6-1
+  Nizhny Novgorod\nDescanso: 5-0\nFinal: 6-1
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -770,12 +770,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-1 🇧🇪 Bélgica
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a731a660ece1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Kaliningrad Stadium\, Kal
- iningrad\nResultado: 0-1
+ iningrad\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -789,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇦 Panamá 1-2 🇹🇳 Túnez
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-7cca7fe3df59@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Mordovia Arena\, Saransk\
- nResultado: 1-2
+ nDescanso: 1-0\nFinal: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -808,12 +808,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-2 🇯🇵 Japón
 DTSTART:20180619T120000Z
 DTEND:20180619T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-08d971a4d6ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Mordovia Arena\, Saransk\n
- Resultado: 1-2
+ Descanso: 1-1\nFinal: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -827,12 +827,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 1-2 🇸🇳 Senegal
 DTSTART:20180619T150000Z
 DTEND:20180619T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-602b457a3fc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Spartak Stadium\, Moscow\n
- Resultado: 1-2
+ Descanso: 0-1\nFinal: 1-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -846,12 +846,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 2-2 🇸🇳 Senegal
 DTSTART:20180624T150000Z
 DTEND:20180624T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-76b198e058c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Ekaterinburg Arena\, Ekat
- erinburg\nResultado: 2-2
+ erinburg\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -865,12 +865,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 0-3 🇨🇴 Colombia
 DTSTART:20180624T180000Z
 DTEND:20180624T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-055e8604f531@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Kazan Arena\, Kazan\nResu
- ltado: 0-3
+DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Kazan Arena\, Kazan\nDesc
+ anso: 0-1\nFinal: 0-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -884,12 +884,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-1 🇵🇱 Polonia
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-26c67f1c3c48@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Volgograd Arena\, Volgogr
- ad\nResultado: 0-1
+ ad\nDescanso: 0-1\nFinal: 0-1
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -903,12 +903,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Senegal 0-1 🇨🇴 Colombia
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-edaec702745d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Samara Arena\, Samara\nRe
- sultado: 0-1
+DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Samara Arena\, Samara\nDe
+ scanso: 0-1\nFinal: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -922,11 +922,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 4-3 🇦🇷 Argentina
 DTSTART:20180630T140000Z
 DTEND:20180630T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1fb30c0fed9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Kazan Arena\, Kazan\nResultado: 4-3
+DESCRIPTION:Octavos de Final\nEstadio: Kazan Arena\, Kazan\nDescanso: 1-1\
+ nFinal: 4-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -940,12 +941,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-1 🇵🇹 Portugal
 DTSTART:20180630T180000Z
 DTEND:20180630T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-4a2dad415171@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Fisht Stadium\, Sochi\nResultado: 2
- -1
+DESCRIPTION:Octavos de Final\nEstadio: Fisht Stadium\, Sochi\nDescanso: 1-
+ 0\nFinal: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -956,15 +957,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 España 1-1 🇷🇺 Rusia
+SUMMARY:🇪🇸 España 1+1[3]-[4]1+1 🇷🇺 Rusia
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Luzhniki Stadium\, Moscow\nResultad
- o: 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Luzhniki Stadium\, Moscow\nDescanso
+ : 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -975,15 +976,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1-1 🇩🇰 Dinamarca
+SUMMARY:🇭🇷 Croacia 1+1[3]-[2]1+1 🇩🇰 Dinamarca
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Nizhny Novgorod Stadium\, Nizhny No
- vgorod\nResultado: 1-1
+ vgorod\nDescanso: 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -997,12 +998,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇲🇽 México
 DTSTART:20180702T140000Z
 DTEND:20180702T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2259972fb3a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Samara Arena\, Samara\nResultado: 2
- -0
+DESCRIPTION:Octavos de Final\nEstadio: Samara Arena\, Samara\nDescanso: 0-
+ 0\nFinal: 2-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1016,12 +1017,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-2 🇯🇵 Japón
 DTSTART:20180702T180000Z
 DTEND:20180702T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d9edfbc25ce9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nResul
- tado: 3-2
+DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nDesca
+ nso: 0-0\nFinal: 3-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1035,12 +1036,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 1-0 🇨🇭 Suiza
 DTSTART:20180703T140000Z
 DTEND:20180703T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-c3ad17238c32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Saint Petersburg Stadium\, Saint Pe
- tersburg\nResultado: 1-0
+ tersburg\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1051,15 +1052,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombia 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇨🇴 Colombia 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingla
+ terra
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nResultado
- : 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nDescanso:
+  0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1073,12 +1075,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 0-2 🇫🇷 Francia
 DTSTART:20180706T140000Z
 DTEND:20180706T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6e384982c147@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Nizhny Novgorod Stadium\, Nizhny Novg
- orod\nResultado: 0-2
+ orod\nDescanso: 0-1\nFinal: 0-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1092,11 +1094,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-2 🇧🇪 Bélgica
 DTSTART:20180706T180000Z
 DTEND:20180706T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-27423777a99d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Kazan Arena\, Kazan\nResultado: 1-2
+DESCRIPTION:Quarter-finals\nEstadio: Kazan Arena\, Kazan\nDescanso: 0-2\nF
+ inal: 1-2
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1110,11 +1113,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180707T140000Z
 DTEND:20180707T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e0104da7519b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Samara Arena\, Samara\nResultado: 0-2
+DESCRIPTION:Quarter-finals\nEstadio: Samara Arena\, Samara\nDescanso: 0-1\
+ nFinal: 0-2
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1125,14 +1129,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Rusia 1-1 🇭🇷 Croacia
+SUMMARY:🇷🇺 Rusia 1+2[3]-[4]2+1 🇭🇷 Croacia
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Fisht Stadium\, Sochi\nResultado: 1-1
+DESCRIPTION:Quarter-finals\nEstadio: Fisht Stadium\, Sochi\nDescanso: 1-1\
+ nFinal: 1-1\nPrórroga: 2-2\nPenaltis: 3-4
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1146,12 +1151,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-0 🇧🇪 Bélgica
 DTSTART:20180710T180000Z
 DTEND:20180710T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9a49177435f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Saint Petersburg Stadium\, St. Petersbur
- g\nResultado: 1-0
+ g\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1162,15 +1167,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇭🇷 Croacia 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Luzhniki Stadium\, Moscow\nResultado: 1-
- 1
+DESCRIPTION:Semi-finals\nEstadio: Luzhniki Stadium\, Moscow\nDescanso: 0-1
+ \nFinal: 1-1\nPrórroga: 2-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1184,12 +1189,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 2-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180714T140000Z
 DTEND:20180714T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f9ee57e56f7e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Partido por el Tercer Lugar\nEstadio: Saint Petersburg Stadium
- \, St. Petersburg\nResultado: 2-0
+ \, St. Petersburg\nDescanso: 1-0\nFinal: 2-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1203,11 +1208,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 4-2 🇭🇷 Croacia
 DTSTART:20180715T150000Z
 DTEND:20180715T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1367436b01e2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Luzhniki Stadium\, Moscow\nResultado: 4-2
+DESCRIPTION:Final\nEstadio: Luzhniki Stadium\, Moscow\nDescanso: 2-1\nFina
+ l: 4-2
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

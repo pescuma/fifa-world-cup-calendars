@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-0 🇵🇦 Panamá
 DTSTART:20180618T150000Z
 DTEND:20180618T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9f0d787ac135@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nRes
- ultado: 3-0
+DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nDes
+ canso: 0-0\nFinal: 3-0
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 5-2 🇹🇳 Túnez
 DTSTART:20180623T120000Z
 DTEND:20180623T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d0e225fe8c19@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group G\nEstadio: Spartak Stadium\, Moscow\
- nResultado: 5-2
+ nDescanso: 3-1\nFinal: 5-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-1 🇧🇪 Bélgica
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a731a660ece1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Kaliningrad Stadium\, Kal
- iningrad\nResultado: 0-1
+ iningrad\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-2 🇯🇵 Japón
 DTSTART:20180702T180000Z
 DTEND:20180702T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d9edfbc25ce9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nResul
- tado: 3-2
+DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nDesca
+ nso: 0-0\nFinal: 3-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-2 🇧🇪 Bélgica
 DTSTART:20180706T180000Z
 DTEND:20180706T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-27423777a99d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Kazan Arena\, Kazan\nResultado: 1-2
+DESCRIPTION:Quarter-finals\nEstadio: Kazan Arena\, Kazan\nDescanso: 0-2\nF
+ inal: 1-2
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-0 🇧🇪 Bélgica
 DTSTART:20180710T180000Z
 DTEND:20180710T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9a49177435f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Saint Petersburg Stadium\, St. Petersbur
- g\nResultado: 1-0
+ g\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 2-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180714T140000Z
 DTEND:20180714T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f9ee57e56f7e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Partido por el Tercer Lugar\nEstadio: Saint Petersburg Stadium
- \, St. Petersburg\nResultado: 2-0
+ \, St. Petersburg\nDescanso: 1-0\nFinal: 2-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

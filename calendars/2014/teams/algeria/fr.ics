@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 2-1 🇩🇿 Algérie
 DTSTART:20140617T160000Z
 DTEND:20140617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-11cf6d78a9d8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Estádio Mineirão\, 
- Belo Horizonte\nRésultat: 2-1
+ Belo Horizonte\nFin du match: 2-1
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-4 🇩🇿 Algérie
 DTSTART:20140622T190000Z
 DTEND:20140622T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7b4b23e304f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: Estádio Beira-Rio\,
-  Porto Alegre\nRésultat: 2-4
+  Porto Alegre\nFin du match: 2-4
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Algérie 1-1 🇷🇺 Russie
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-04a1c1c2d6d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Arena da Baixada\, C
- uritiba\nRésultat: 1-1
+ uritiba\nFin du match: 1-1
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0-0 🇩🇿 Algérie
+SUMMARY:🇩🇪 Allemagne 0+2-1+0 🇩🇿 Algérie
 DTSTART:20140630T200000Z
 DTEND:20140630T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-21cd9c47d530@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Estádio Beira-Rio\, Porto Alegre\nR
- ésultat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Estádio Beira-Rio\, Porto Alegre\nM
+ i-temps: 0-0\nFin du match: 0-0\nProlongation: 2-1
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE

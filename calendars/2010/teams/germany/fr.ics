@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 4-0 🇦🇺 Australie
 DTSTART:20100613T203000Z
 DTEND:20100613T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-20c9b2a8a372@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Moses Mabhida Stadium
- \, Durban\nRésultat: 4-0
+ \, Durban\nFin du match: 4-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 0-1 🇷🇸 Serbie
 DTSTART:20100618T133000Z
 DTEND:20100618T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d6b0d3b9014@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group D\nStade: Nelson Mandela Bay St
- adium\, Port Elizabeth\nRésultat: 0-1
+ adium\, Port Elizabeth\nFin du match: 0-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 0-1 🇩🇪 Allemagne
 DTSTART:20100623T203000Z
 DTEND:20100623T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-caac89488061@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Soccer City\, Johann
- esburg\nRésultat: 0-1
+ esburg\nFin du match: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 4-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20100627T160000Z
 DTEND:20100627T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-a87e891ce02e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Free State Stadium\, Bloemfontein\nR
- ésultat: 4-1
+DESCRIPTION:1/8ème de finale\nStade: Free State Stadium\, Bloemfontein\nF
+ in du match: 4-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 0-4 🇩🇪 Allemagne
 DTSTART:20100703T160000Z
 DTEND:20100703T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-1726fde85569@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nStade: Cape Town Stadium\, Cape Town\nRésultat
- : 0-4
+DESCRIPTION:Quarterfinals\nStade: Cape Town Stadium\, Cape Town\nFin du ma
+ tch: 0-4
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 0-1 🇪🇸 Espagne
 DTSTART:20100707T203000Z
 DTEND:20100707T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-940ee6e3c930@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nStade: Moses Mabhida Stadium\, Durban\nRésultat: 
- 0-1
+DESCRIPTION:Semifinals\nStade: Moses Mabhida Stadium\, Durban\nFin du matc
+ h: 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-3 🇩🇪 Allemagne
 DTSTART:20100710T203000Z
 DTEND:20100710T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-a5833ac30e16@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third-place play-off\nStade: Nelson Mandela Bay Stadium\, Port
-  Elizabeth\nRésultat: 2-3
+  Elizabeth\nFin du match: 2-3
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE

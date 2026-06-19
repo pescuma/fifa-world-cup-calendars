@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇷🇸 Serbie
 DTSTART:20221124T220000Z
 DTEND:20221125T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5a853ec81239@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Lusail Iconic Stadium
- \, Lusail\nRésultat: 2-0
+ \, Lusail\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 3-3 🇷🇸 Serbie
 DTSTART:20221128T130000Z
 DTEND:20221128T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7179e50afb70@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group G\nStade: Al Janoub Stadium\, A
- l Wakrah\nRésultat: 3-3
+ l Wakrah\nMi-temps: 1-2\nFin du match: 3-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbie 2-3 🇨🇭 Suisse
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c65273d1ae7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group G\nStade: Stadium 974\, Doha\n
- Résultat: 2-3
+ Mi-temps: 2-1\nFin du match: 2-3
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE

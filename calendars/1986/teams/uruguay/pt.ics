@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 1-1 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7f60adfe3c15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Estadio La Corregidora\, Q
- uerétaro\nResultado: 1-1
+ uerétaro\nFinal: 1-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 6-1 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d01d772da800@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Estadio Neza 86\, Nezahual
- cóyotl\nResultado: 6-1
+ cóyotl\nFinal: 6-1
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 0-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-fbf3f898be97@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Estadio Neza 86\, Nezahual
- cóyotl\nResultado: 0-0
+ cóyotl\nFinal: 0-0
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860616
 DTEND;VALUE=DATE:19860617
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-9ae5111bef7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Cuauhtémoc\, Puebla\nResu
- ltado: 1-0
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Cuauhtémoc\, Puebla\nFina
+ l: 1-0
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE

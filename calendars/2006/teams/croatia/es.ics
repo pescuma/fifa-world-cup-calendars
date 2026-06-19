@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇭🇷 Croacia
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-61c4dde2a988@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Olympiastadion\, Berlin\nR
- esultado: 1-0
+DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Olympiastadion\, Berlin\nD
+ escanso: 1-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-0 🇭🇷 Croacia
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2a8b70abd367@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Frankenstadion\, Nürnber
- g\nResultado: 0-0
+ g\nFinal: 0-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croacia 2-2 🇦🇺 Australia
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ed53e1165701@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Gottlieb-Daimler-Stadion\
- , Stuttgart\nResultado: 2-2
+ , Stuttgart\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE

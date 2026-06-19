@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇴 Angola 0-1 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-4b9deb994220@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: RheinEnergieStadion\,
-  Köln\nRésultat: 0-1
+  Köln\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-0 🇮🇷 Iran
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ca4d71a6ade0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group D\nStade: Commerzbank-Arena\, F
- rankfurt\nRésultat: 2-0
+ rankfurt\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0842add326ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Veltins-Arena\, Gels
- enkirchen\nRésultat: 2-1
+ enkirchen\nMi-temps: 2-1\nFin du match: 2-1
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🇳🇱 Pays-Bas
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-727ca7b4ee6d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Frankenstadion\, Nürnberg\nRésulta
- t: 1-0
+DESCRIPTION:1/8ème de finale\nStade: Frankenstadion\, Nürnberg\nMi-temps
+ : 1-0\nFin du match: 1-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇵🇹 Portugal
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0+0[1]-[3]0+0 🇵🇹 Por
+ tugal
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nRésultat
- : 0-0
+DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nFin du ma
+ tch: 0-0\nProlongation: 0-0\nTirs au but: 1-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,11 +107,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇫🇷 France
 DTSTART;VALUE=DATE:20060705
 DTEND;VALUE=DATE:20060706
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-bdc57d55c25d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nStade: Allianz Arena\, München\nRésultat: 0-1
+DESCRIPTION:Semifinals\nStade: Allianz Arena\, München\nMi-temps: 0-1\nFi
+ n du match: 0-1
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +126,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 3-1 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20060708
 DTEND;VALUE=DATE:20060709
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0c78f94d6891@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third-place play-off\nStade: Gottlieb-Daimler-Stadion\, Stuttg
- art\nRésultat: 3-1
+ art\nMi-temps: 0-0\nFin du match: 3-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE

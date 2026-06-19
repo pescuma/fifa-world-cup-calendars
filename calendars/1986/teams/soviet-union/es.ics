@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 Unión Soviética 6-0 🇭🇺 Hungría
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-ce3d0cac7780@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group C\nEstadio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 6-0
+ z\, Irapuato\nFinal: 6-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-1 🇸🇺 Unión Soviética
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-743a6ed3cded@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: Estadio Nou Camp\, León\n
- Resultado: 1-1
+ Final: 1-1
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 Unión Soviética 2-0 🇨🇦 Canadá
 DTSTART;VALUE=DATE:19860609
 DTEND;VALUE=DATE:19860610
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-23724a7bef0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 2-0
+ z\, Irapuato\nFinal: 2-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇺 Unión Soviética 2-2 🇧🇪 Bélgica
+SUMMARY:🇸🇺 Unión Soviética 2+3-4+2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-6fa0ad20af54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Estadio Nou Camp\, León\nResultado
- : 2-2
+DESCRIPTION:Octavos de Final\nEstadio: Estadio Nou Camp\, León\nFinal: 2-
+ 2\nPrórroga: 3-4
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE

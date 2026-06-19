@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arábia Saudita 1-1 🇺🇾 Uruguai
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-b9f4734fd923@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 5\nGrupo: Group H\nEstádio: Miami (Miami Gardens)\nRes
- ultado: 1-1
+DESCRIPTION:Rodada 5\nGrupo: Group H\nEstádio: Miami (Miami Gardens)\nInt
+ ervalo: 1-0\nFinal: 1-1
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 7-0 🇨🇷 Costa Rica
 DTSTART:20221123T190000Z
 DTEND:20221123T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-14985b75f55a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Al Thumama Stadium\, Doha\n
- Result: 7-0
+ Half-time: 3-0\nFull-time: 7-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 1-1 🇩🇪 Germany
 DTSTART:20221127T220000Z
 DTEND:20221128T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group E\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 1-1
+ Half-time: 0-0\nFull-time: 1-1
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 2-1 🇪🇸 Spain
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group E\nVenue: Khalifa International Stad
- ium\, Al Rayyan\nResult: 2-1
+ ium\, Al Rayyan\nHalf-time: 0-0\nFull-time: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Morocco 0-0 🇪🇸 Spain
+SUMMARY:🇲🇦 Morocco 0+0[3]-[0]0+0 🇪🇸 Spain
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nResult
- : 0-0
+DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nHalf-t
+ ime: 0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

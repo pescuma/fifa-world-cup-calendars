@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 3-1 🇭🇷 Croacia
 DTSTART:20140612T200000Z
 DTEND:20140612T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3b4bc6cbebf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Arena de São Paulo\, São
-  Paulo\nResultado: 3-1
+  Paulo\nDescanso: 1-1\nFinal: 3-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-0 🇨🇲 Camerún
 DTSTART:20140613T160000Z
 DTEND:20140613T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-6f494d77b237@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Estádio das Dunas\, Natal
- \nResultado: 1-0
+ \nDescanso: 0-0\nFinal: 1-0
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-0 🇲🇽 México
 DTSTART:20140617T190000Z
 DTEND:20140617T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f618e5388af3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Estádio Castelão\, Forta
- leza\nResultado: 0-0
+ leza\nFinal: 0-0
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 0-4 🇭🇷 Croacia
 DTSTART:20140618T220000Z
 DTEND:20140619T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d66fbf288ec9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: Arena Amazônia\, Manaus\n
- Resultado: 0-4
+ Final: 0-4
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 1-4 🇧🇷 Brasil
 DTSTART:20140623T200000Z
 DTEND:20140623T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7bfe9f16c3c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Estádio Nacional Mané G
- arrincha\, Brasília\nResultado: 1-4
+ arrincha\, Brasília\nFinal: 1-4
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croacia 1-3 🇲🇽 México
 DTSTART:20140623T200000Z
 DTEND:20140623T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-5a9fb35e9436@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Arena Pernambuco\, Recife
- \nResultado: 1-3
+ \nFinal: 1-3
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 1-5 🇳🇱 Países Bajos
 DTSTART:20140613T190000Z
 DTEND:20140613T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a058b1c6d72b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Arena Fonte Nova\, Salvado
- r\nResultado: 1-5
+ r\nDescanso: 1-1\nFinal: 1-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 3-1 🇦🇺 Australia
 DTSTART:20140613T220000Z
 DTEND:20140614T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ef4c5a69d5b0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Arena Pantanal\, Cuiabá\n
- Resultado: 3-1
+ Descanso: 2-1\nFinal: 3-1
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 2-3 🇳🇱 Países Bajos
 DTSTART:20140618T160000Z
 DTEND:20140618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ba9cd0f011cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Estádio Beira-Rio\, Porto
-  Alegre\nResultado: 2-3
+  Alegre\nFinal: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 0-2 🇨🇱 Chile
 DTSTART:20140618T190000Z
 DTEND:20140618T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-acf91bb6bbb8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Estádio do Maracanã\, Ri
- o de Janeiro\nResultado: 0-2
+ o de Janeiro\nFinal: 0-2
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 0-3 🇪🇸 España
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-07b90b7203e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Arena da Baixada\, Curiti
- ba\nResultado: 0-3
+ ba\nFinal: 0-3
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-0 🇨🇱 Chile
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7d9aee59de0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Arena de São Paulo\, Sã
- o Paulo\nResultado: 2-0
+ o Paulo\nFinal: 2-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 3-0 🇬🇷 Grecia
 DTSTART:20140614T160000Z
 DTEND:20140614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-51bc21076b1c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Estádio Mineirão\, Belo 
- Horizonte\nResultado: 3-0
+ Horizonte\nFinal: 3-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 2-1 🇯🇵 Japón
 DTSTART:20140615T010000Z
 DTEND:20140615T030000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7c037b289cf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Arena Pernambuco\, Recife\
- nResultado: 2-1
+ nFinal: 2-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 2-1 🇨🇮 Côte d’Ivoire
 DTSTART:20140619T160000Z
 DTEND:20140619T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-4ca520e68e65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Estádio Nacional Mané Ga
- rrincha\, Brasília\nResultado: 2-1
+ rrincha\, Brasília\nFinal: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-0 🇬🇷 Grecia
 DTSTART:20140619T220000Z
 DTEND:20140620T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-03f27ae20ed0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Estádio das Dunas\, Natal
- \nResultado: 0-0
+ \nFinal: 0-0
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 1-4 🇨🇴 Colombia
 DTSTART:20140624T200000Z
 DTEND:20140624T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a81b32ed81f9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Arena Pantanal\, Cuiabá\
- nResultado: 1-4
+ nFinal: 1-4
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grecia 2-1 🇨🇮 Côte d’Ivoire
 DTSTART:20140624T200000Z
 DTEND:20140624T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2c1ffdd986b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Estádio Castelão\, Fort
- aleza\nResultado: 2-1
+ aleza\nFinal: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-3 🇨🇷 Costa Rica
 DTSTART:20140614T190000Z
 DTEND:20140614T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d7e8ac4ced3b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Estádio Castelão\, Forta
- leza\nResultado: 1-3
+ leza\nFinal: 1-3
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇮🇹 Italia
 DTSTART:20140614T220000Z
 DTEND:20140615T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-26077c70a97b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Arena Amazônia\, Manaus\n
- Resultado: 1-2
+ Final: 1-2
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20140619T190000Z
 DTEND:20140619T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-b2446f0709ac@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group D\nEstadio: Arena de São Paulo\, São
-  Paulo\nResultado: 2-1
+  Paulo\nFinal: 2-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 0-1 🇨🇷 Costa Rica
 DTSTART:20140620T160000Z
 DTEND:20140620T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7fb2cc34f491@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Arena Pernambuco\, Recife\
- nResultado: 0-1
+ nFinal: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 0-1 🇺🇾 Uruguay
 DTSTART:20140624T160000Z
 DTEND:20140624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-0c1d6e015419@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Estádio das Dunas\, Nata
- l\nResultado: 0-1
+ l\nFinal: 0-1
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20140624T160000Z
 DTEND:20140624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d3b38c95a20a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Estádio Mineirão\, Belo
-  Horizonte\nResultado: 0-0
+  Horizonte\nFinal: 0-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 2-1 🇪🇨 Ecuador
 DTSTART:20140615T160000Z
 DTEND:20140615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-02d7ebff0271@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Estádio Nacional Mané Ga
- rrincha\, Brasília\nResultado: 2-1
+ rrincha\, Brasília\nFinal: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 3-0 🇭🇳 Honduras
 DTSTART:20140615T190000Z
 DTEND:20140615T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a272bf8ce3f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Estádio Beira-Rio\, Porto
-  Alegre\nResultado: 3-0
+  Alegre\nFinal: 3-0
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 2-5 🇫🇷 Francia
 DTSTART:20140620T190000Z
 DTEND:20140620T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1a7e2b961b8e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Arena Fonte Nova\, Salvado
- r\nResultado: 2-5
+ r\nFinal: 2-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 1-2 🇪🇨 Ecuador
 DTSTART:20140620T220000Z
 DTEND:20140621T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-30caf223ee8b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Arena da Baixada\, Curitib
- a\nResultado: 1-2
+ a\nFinal: 1-2
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-3 🇨🇭 Suiza
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-798f776ae884@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Arena Amazônia\, Manaus\
- nResultado: 0-3
+ nFinal: 0-3
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 0-0 🇫🇷 Francia
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7abf2a1fca81@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Estádio do Maracanã\, R
- io de Janeiro\nResultado: 0-0
+ io de Janeiro\nFinal: 0-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇧🇦 Bosnia y Herzegovina
 DTSTART:20140615T220000Z
 DTEND:20140616T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Estádio do Maracanã\, Ri
- o de Janeiro\nResultado: 2-1
+ o de Janeiro\nFinal: 2-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 0-0 🇳🇬 Nigeria
 DTSTART:20140616T190000Z
 DTEND:20140616T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-98165eab1d44@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Arena da Baixada\, Curitib
- a\nResultado: 0-0
+ a\nFinal: 0-0
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇮🇷 Irán
 DTSTART:20140621T160000Z
 DTEND:20140621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-b4c6c767d376@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Estádio Mineirão\, Belo
-  Horizonte\nResultado: 1-0
+  Horizonte\nFinal: 1-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-0 🇧🇦 Bosnia y Herzegovina
 DTSTART:20140621T220000Z
 DTEND:20140622T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d78502c82e91@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Arena Pantanal\, Cuiabá\
- nResultado: 1-0
+ nFinal: 1-0
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-3 🇦🇷 Argentina
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-9929af3547cc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Estádio Beira-Rio\, Port
- o Alegre\nResultado: 2-3
+ o Alegre\nFinal: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇦 Bosnia y Herzegovina 3-1 🇮🇷 Irán
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a9fcea379e83@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Arena Fonte Nova\, Salvad
- or\nResultado: 3-1
+ or\nFinal: 3-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,12 +694,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 4-0 🇵🇹 Portugal
 DTSTART:20140616T160000Z
 DTEND:20140616T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-32737421db15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Arena Fonte Nova\, Salvado
- r\nResultado: 4-0
+ r\nFinal: 4-0
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -713,12 +713,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 1-2 🇺🇸 Estados Unidos
 DTSTART:20140616T220000Z
 DTEND:20140617T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-88fa534023c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Estádio das Dunas\, Natal
- \nResultado: 1-2
+ \nFinal: 1-2
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -732,12 +732,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 2-2 🇬🇭 Ghana
 DTSTART:20140621T190000Z
 DTEND:20140621T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-c9f4062b4299@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group G\nEstadio: Estádio Castelão\, Fort
- aleza\nResultado: 2-2
+ aleza\nFinal: 2-2
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -751,12 +751,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 2-2 🇵🇹 Portugal
 DTSTART:20140622T220000Z
 DTEND:20140623T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-28c6583b1eb9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Arena Amazônia\, Manaus\
- nResultado: 2-2
+ nFinal: 2-2
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -770,12 +770,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-1 🇩🇪 Alemania
 DTSTART:20140626T160000Z
 DTEND:20140626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f628a8a8b0d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Arena Pernambuco\, Recife
- \nResultado: 0-1
+ \nFinal: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -789,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-1 🇬🇭 Ghana
 DTSTART:20140626T160000Z
 DTEND:20140626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-19089504f353@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Estádio Nacional Mané G
- arrincha\, Brasília\nResultado: 2-1
+ arrincha\, Brasília\nFinal: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -808,12 +808,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 2-1 🇩🇿 Argelia
 DTSTART:20140617T160000Z
 DTEND:20140617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-11cf6d78a9d8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Estádio Mineirão\, Belo 
- Horizonte\nResultado: 2-1
+ Horizonte\nFinal: 2-1
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -827,12 +827,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Rusia 1-1 🇰🇷 Corea del Sur
 DTSTART:20140617T220000Z
 DTEND:20140618T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-e78ee5bef18f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Arena Pantanal\, Cuiabá\n
- Resultado: 1-1
+ Final: 1-1
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -846,12 +846,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇷🇺 Rusia
 DTSTART:20140622T160000Z
 DTEND:20140622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-791d664b8a77@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Estádio do Maracanã\, R
- io de Janeiro\nResultado: 1-0
+ io de Janeiro\nFinal: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -865,12 +865,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 2-4 🇩🇿 Argelia
 DTSTART:20140622T190000Z
 DTEND:20140622T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7b4b23e304f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Estádio Beira-Rio\, Port
- o Alegre\nResultado: 2-4
+ o Alegre\nFinal: 2-4
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -884,12 +884,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 0-1 🇧🇪 Bélgica
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a47c51c90cd2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Arena de São Paulo\, Sã
- o Paulo\nResultado: 0-1
+ o Paulo\nFinal: 0-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -903,12 +903,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Argelia 1-1 🇷🇺 Rusia
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-04a1c1c2d6d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Arena da Baixada\, Curiti
- ba\nResultado: 1-1
+ ba\nFinal: 1-1
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -919,15 +919,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil 1-1 🇨🇱 Chile
+SUMMARY:🇧🇷 Brasil 1+1[3]-[2]1+1 🇨🇱 Chile
 DTSTART:20140628T160000Z
 DTEND:20140628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-259909816609@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Estádio Mineirão\, Belo Horizonte
- \nResultado: 1-1
+ \nDescanso: 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-2
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -941,12 +941,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 2-0 🇺🇾 Uruguay
 DTSTART:20140628T200000Z
 DTEND:20140628T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-bce1d138408c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Estádio do Maracanã\, Rio de Jane
- iro\nResultado: 2-0
+ iro\nDescanso: 1-0\nFinal: 2-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -960,12 +960,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇲🇽 México
 DTSTART:20140629T160000Z
 DTEND:20140629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d02e10135c22@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Estádio Castelão\, Fortaleza\nRes
- ultado: 2-1
+DESCRIPTION:Octavos de Final\nEstadio: Estádio Castelão\, Fortaleza\nDes
+ canso: 0-0\nFinal: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -976,15 +976,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1-1 🇬🇷 Grecia
+SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Grecia
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Arena Pernambuco\, Recife\nResultad
- o: 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Arena Pernambuco\, Recife\nDescanso
+ : 0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 5-3
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -998,12 +998,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 2-0 🇳🇬 Nigeria
 DTSTART:20140630T160000Z
 DTEND:20140630T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-8c8724e5e9e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Estádio Nacional Mané Garrincha\,
-  Brasília\nResultado: 2-0
+  Brasília\nDescanso: 0-0\nFinal: 2-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1014,15 +1014,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 0-0 🇩🇿 Argelia
+SUMMARY:🇩🇪 Alemania 0+2-1+0 🇩🇿 Argelia
 DTSTART:20140630T200000Z
 DTEND:20140630T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-21cd9c47d530@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Estádio Beira-Rio\, Porto Alegre\n
- Resultado: 0-0
+ Descanso: 0-0\nFinal: 0-0\nPrórroga: 2-1
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1033,15 +1033,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 0-0 🇨🇭 Suiza
+SUMMARY:🇦🇷 Argentina 0+1-0+0 🇨🇭 Suiza
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Arena de São Paulo\, São Paulo\nR
- esultado: 0-0
+DESCRIPTION:Octavos de Final\nEstadio: Arena de São Paulo\, São Paulo\nD
+ escanso: 0-0\nFinal: 0-0\nPrórroga: 1-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1052,15 +1052,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Bélgica 0-0 🇺🇸 Estados Unidos
+SUMMARY:🇧🇪 Bélgica 0+2-1+0 🇺🇸 Estados Unidos
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Arena Fonte Nova\, Salvador\nResult
- ado: 0-0
+DESCRIPTION:Octavos de Final\nEstadio: Arena Fonte Nova\, Salvador\nDescan
+ so: 0-0\nFinal: 0-0\nPrórroga: 2-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1074,12 +1074,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 0-1 🇩🇪 Alemania
 DTSTART:20140704T160000Z
 DTEND:20140704T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-138406e22f28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Estádio do Maracanã\, Rio de Janeir
- o\nResultado: 0-1
+ o\nDescanso: 0-1\nFinal: 0-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1093,12 +1093,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-1 🇨🇴 Colombia
 DTSTART:20140704T200000Z
 DTEND:20140704T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-978a9fc17150@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Estádio Castelão\, Fortaleza\nResul
- tado: 2-1
+DESCRIPTION:Quarter-finals\nEstadio: Estádio Castelão\, Fortaleza\nDesca
+ nso: 1-0\nFinal: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1112,12 +1112,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇧🇪 Bélgica
 DTSTART:20140705T160000Z
 DTEND:20140705T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-521839877bf3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Estádio Nacional Mané Garrincha\, B
- rasília\nResultado: 1-0
+ rasília\nDescanso: 1-0\nFinal: 1-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1128,15 +1128,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 0-0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Países Bajos 0+0[4]-[3]0+0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Arena Fonte Nova\, Salvador\nResultad
- o: 0-0
+DESCRIPTION:Quarter-finals\nEstadio: Arena Fonte Nova\, Salvador\nDescanso
+ : 0-0\nFinal: 0-0\nPrórroga: 0-0\nPenaltis: 4-3
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1150,12 +1150,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-7 🇩🇪 Alemania
 DTSTART:20140708T200000Z
 DTEND:20140708T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-507d1ff85219@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Estádio Mineirão\, Belo Horizonte\nRes
- ultado: 1-7
+DESCRIPTION:Semi-finals\nEstadio: Estádio Mineirão\, Belo Horizonte\nDes
+ canso: 0-5\nFinal: 1-7
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1166,15 +1166,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 0-0 🇦🇷 Argentina
+SUMMARY:🇳🇱 Países Bajos 0+0[2]-[4]0+0 🇦🇷 Argentina
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Arena de São Paulo\, São Paulo\nResult
- ado: 0-0
+DESCRIPTION:Semi-finals\nEstadio: Arena de São Paulo\, São Paulo\nDescan
+ so: 0-0\nFinal: 0-0\nPrórroga: 0-0\nPenaltis: 2-4
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1188,12 +1188,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-3 🇳🇱 Países Bajos
 DTSTART:20140712T200000Z
 DTEND:20140712T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3210c5c080fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Partido por el Tercer Lugar\nEstadio: Estádio Nacional Mané 
- Garrincha\, Brasília\nResultado: 0-3
+ Garrincha\, Brasília\nDescanso: 0-2\nFinal: 0-3
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1204,15 +1204,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 0-0 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemania 0+1-0+0 🇦🇷 Argentina
 DTSTART:20140713T190000Z
 DTEND:20140713T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-c2c7bc84b8ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Estádio do Maracanã\, Rio de Janeiro\nResult
- ado: 0-0
+DESCRIPTION:Final\nEstadio: Estádio do Maracanã\, Rio de Janeiro\nDescan
+ so: 0-0\nFinal: 0-0\nPrórroga: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 2-1 🇦🇺 Austrália
 DTSTART:20180616T100000Z
 DTEND:20180616T120000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-41218d9b3c65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Kazan Arena\, Kazan\nResul
- tado: 2-1
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Kazan Arena\, Kazan\nInter
+ valo: 0-0\nFinal: 2-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-1 🇦🇺 Austrália
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 8\nGrupo: Group C\nEstádio: Samara Arena\, Samara\nRes
- ultado: 1-1
+DESCRIPTION:Rodada 8\nGrupo: Group C\nEstádio: Samara Arena\, Samara\nInt
+ ervalo: 1-1\nFinal: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Austrália 0-2 🇵🇪 Peru
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Fisht Stadium\, Sochi\nRe
- sultado: 0-2
+DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Fisht Stadium\, Sochi\nIn
+ tervalo: 0-1\nFinal: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Commerzbank-Arena\, Frankf
- urt\nResultado: 1-0
+ urt\nIntervalo: 1-0\nFinal: 1-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -32,12 +32,12 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-0 🇹🇹 Trinidad e To
  bago
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Frankenstadion\, Nürnberg
- \nResultado: 2-0
+ \nIntervalo: 0-0\nFinal: 2-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -51,12 +51,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ed2a3f5f965b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group B\nEstádio: RheinEnergieStadion\, Kö
- ln\nResultado: 2-2
+ ln\nIntervalo: 0-1\nFinal: 2-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -70,12 +70,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇪🇨 Equador
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Gottlieb-Daimler-Stadion\, Stuttga
- rt\nResultado: 1-0
+ rt\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,15 +86,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇵🇹 Portugal
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+0[1]-[3]0+0 🇵🇹 Por
+ tugal
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstádio: Veltins-Arena\, Gelsenkirchen\nResult
- ado: 0-0
+DESCRIPTION:Quarterfinals\nEstádio: Veltins-Arena\, Gelsenkirchen\nFinal:
+  0-0\nProrrogação: 0-0\nPênaltis: 1-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE

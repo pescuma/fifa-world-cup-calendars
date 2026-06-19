@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 🇭🇷 Croacia
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-1d9bf69d0e64@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group L\nEstadio: Dallas (Arlington)\nResult
- ado: 4-2
+DESCRIPTION:Jornada 7\nGrupo: Group L\nEstadio: Dallas (Arlington)\nDescan
+ so: 2-2\nFinal: 4-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

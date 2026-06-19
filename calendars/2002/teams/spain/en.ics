@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 3-1 🇸🇮 Slovenia
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-73b79d3fe9e2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Gwangju World Cup Stadium\,
-  Gwangju\nResult: 3-1
+  Gwangju\nFull-time: 3-1
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 3-1 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9b497be46ada@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Jeonju World Cup Stadium\, 
- Jeonju\nResult: 3-1
+ Jeonju\nFull-time: 3-1
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 2-3 🇪🇸 Spain
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-1162725bcfdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Daejeon World Cup Stadium\,
-  Daejeon\nResult: 2-3
+  Daejeon\nFull-time: 2-3
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Spain 1-1 🇮🇪 Ireland
+SUMMARY:🇪🇸 Spain 1+1[3]-[2]1+1 🇮🇪 Ireland
 DTSTART;VALUE=DATE:20020616
 DTEND;VALUE=DATE:20020617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c4cfec3c9027@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Suwon World Cup Stadium\, Suwon\nResult: 1
- -1
+DESCRIPTION:Round of 16\nVenue: Suwon World Cup Stadium\, Suwon\nFull-time
+ : 1-1\nExtra time: 1-1\nPenalties: 3-2
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Spain 0-0 🇰🇷 South Korea
+SUMMARY:🇪🇸 Spain 0+0[3]-[5]0+0 🇰🇷 South Korea
 DTSTART;VALUE=DATE:20020622
 DTEND;VALUE=DATE:20020623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a98f49429303@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Gwangju World Cup Stadium\, Gwangju\nRe
- sult: 0-0
+DESCRIPTION:Quarter-finals\nVenue: Gwangju World Cup Stadium\, Gwangju\nFu
+ ll-time: 0-0\nExtra time: 0-0\nPenalties: 3-5
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE

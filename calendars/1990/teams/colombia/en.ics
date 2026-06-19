@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇪 United Arab Emirates 0-2 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-fee0313166a2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Stadio Renato Dall'Ara\, Bo
- logna\nResult: 0-2
+ logna\nFull-time: 0-2
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Yugoslavia 1-0 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-34e4bf1e0fdf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Stadio Renato Dall'Ara\, Bo
- logna\nResult: 1-0
+ logna\nFull-time: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 West Germany 1-1 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a2d77e6d3847@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: San Siro\, Milan\nResult: 1
- -1
+DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: San Siro\, Milan\nFull-time
+ : 1-1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇲 Cameroon 0-0 🇨🇴 Colombia
+SUMMARY:🇨🇲 Cameroon 0+2-1+0 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-bc43e75399e1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stadio San Paolo\, Naples\nResult: 0-0
+DESCRIPTION:Round of 16\nVenue: Stadio San Paolo\, Naples\nFull-time: 0-0\
+ nExtra time: 2-1
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE

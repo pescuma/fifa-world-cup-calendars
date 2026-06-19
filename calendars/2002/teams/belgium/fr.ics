@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japon 2-2 🇧🇪 Belgique
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-077882dbad14@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group H\nStade: Saitama Stadium\, Sai
- tama\nRésultat: 2-2
+ tama\nFin du match: 2-2
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisie 1-1 🇧🇪 Belgique
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-deb010bebbc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group H\nStade: Ōita Stadium\, Ōita
- \nRésultat: 1-1
+ \nFin du match: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 3-2 🇷🇺 Russie
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-fc63c4e32d57@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group H\nStade: Shizuoka Stadium\, Sh
- izuoka\nRésultat: 3-2
+ izuoka\nFin du match: 3-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇧🇪 Belgique
 DTSTART;VALUE=DATE:20020617
 DTEND;VALUE=DATE:20020618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-83fc3a66310a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Kobe Wing Stadium\, Kobe\nRésultat:
-  2-0
+DESCRIPTION:1/8ème de finale\nStade: Kobe Wing Stadium\, Kobe\nFin du mat
+ ch: 2-0
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE

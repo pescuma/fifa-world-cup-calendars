@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-0 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c2135389d03f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: AWD-Arena\, Hannover\nResul
- t: 2-0
+DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: AWD-Arena\, Hannover\nHalf-
+ time: 1-0\nFull-time: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇺🇸 United States
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9bc1eb535532@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: Fritz-Walter-Stadion\, Kais
- erslautern\nResult: 1-1
+ erslautern\nHalf-time: 1-1\nFull-time: 1-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Czechia 0-2 🇮🇹 Italy
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-24b9242f8e91@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: AOL Arena\, Hamburg\nResul
- t: 0-2
+DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: AOL Arena\, Hamburg\nHalf-
+ time: 0-1\nFull-time: 0-2
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-0 🇦🇺 Australia
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8632dd16e42b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Fritz-Walter-Stadion\, Kaiserslautern\nRes
- ult: 1-0
+DESCRIPTION:Round of 16\nVenue: Fritz-Walter-Stadion\, Kaiserslautern\nHal
+ f-time: 0-0\nFull-time: 1-0
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 3-0 🇺🇦 Ukraine
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-43f2585c6db4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: AOL Arena\, Hamburg\nResult: 3-0
+DESCRIPTION:Quarterfinals\nVenue: AOL Arena\, Hamburg\nHalf-time: 1-0\nFul
+ l-time: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -102,14 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Germany 0-0 🇮🇹 Italy
+SUMMARY:🇩🇪 Germany 0+0-2+0 🇮🇹 Italy
 DTSTART;VALUE=DATE:20060704
 DTEND;VALUE=DATE:20060705
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-09105b3bbc0d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nVenue: Signal Iduna Park\, Dortmund\nResult: 0-0
+DESCRIPTION:Semifinals\nVenue: Signal Iduna Park\, Dortmund\nFull-time: 0-
+ 0\nExtra time: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -120,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italy 1-1 🇫🇷 France
+SUMMARY:🇮🇹 Italy 1+1[5]-[3]1+1 🇫🇷 France
 DTSTART;VALUE=DATE:20060709
 DTEND;VALUE=DATE:20060710
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-f953a3cf4325@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Olympiastadion\, Berlin\nResult: 1-1
+DESCRIPTION:Final\nVenue: Olympiastadion\, Berlin\nHalf-time: 1-1\nFull-ti
+ me: 1-1\nExtra time: 1-1\nPenalties: 5-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

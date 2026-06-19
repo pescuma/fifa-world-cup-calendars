@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-1 🇲🇦 Morocco
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-51c5def6e311@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: New York/New Jersey (East R
- utherford)\nResult: 1-1
+ utherford)\nHalf-time: 1-1\nFull-time: 1-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

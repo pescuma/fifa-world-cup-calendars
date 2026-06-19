@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇨🇦 Canada
 DTSTART:20221123T220000Z
 DTEND:20221124T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c7008efe8b1f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 1-0
+ Rayyan\nHalf-time: 1-0\nFull-time: 1-0
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 0-2 🇲🇦 Morocco
 DTSTART:20221127T160000Z
 DTEND:20221127T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c8d638d21a1d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group F\nVenue: Al Thumama Stadium\, Doha\n
- Result: 0-2
+ Half-time: 0-0\nFull-time: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 0-0 🇧🇪 Belgium
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5384aef4467b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group F\nVenue: Ahmad bin Ali Stadium\, Al
-  Rayyan\nResult: 0-0
+  Rayyan\nFull-time: 0-0
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

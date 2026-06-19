@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 3-1 🇮🇷 Irã
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-6d8938b1f129@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Frankenstadion\, Nürnberg
- \nResultado: 3-1
+ \nIntervalo: 1-1\nFinal: 3-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 0-0 🇦🇴 Angola
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-48f98905f9bd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 8\nGrupo: Group D\nEstádio: AWD-Arena\, Hannover\nResu
- ltado: 0-0
+DESCRIPTION:Rodada 8\nGrupo: Group D\nEstádio: AWD-Arena\, Hannover\nFina
+ l: 0-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-1 🇲🇽 México
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0842add326ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 13\nGrupo: Group D\nEstádio: Veltins-Arena\, Gelsenkir
- chen\nResultado: 2-1
+ chen\nIntervalo: 2-1\nFinal: 2-1
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 1-1 🇲🇽 México
+SUMMARY:🇦🇷 Argentina 1+2-1+1 🇲🇽 México
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Zentralstadion\, Leipzig\nResultad
- o: 1-1
+DESCRIPTION:Oitavas de Final\nEstádio: Zentralstadion\, Leipzig\nInterval
+ o: 1-1\nFinal: 1-1\nProrrogação: 2-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE

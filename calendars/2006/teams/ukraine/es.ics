@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 4-0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-74906a35ae4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Zentralstadion\, Leipzig\n
- Resultado: 4-0
+ Descanso: 2-0\nFinal: 4-0
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabia Saudí 0-4 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-65236172e729@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: AOL Arena\, Hamburg\nResu
- ltado: 0-4
+DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: AOL Arena\, Hamburg\nDesc
+ anso: 0-2\nFinal: 0-4
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇦 Ucrania 1-0 🇹🇳 Túnez
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7abf8febc727@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Olympiastadion\, Berlin\n
- Resultado: 1-0
+ Descanso: 0-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Suiza 0-0 🇺🇦 Ucrania
+SUMMARY:🇨🇭 Suiza 0+0[0]-[3]0+0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c4f921f1b83a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: RheinEnergieStadion\, Köln\nResult
- ado: 0-0
+DESCRIPTION:Octavos de Final\nEstadio: RheinEnergieStadion\, Köln\nFinal:
+  0-0\nPrórroga: 0-0\nPenaltis: 0-3
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 3-0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-43f2585c6db4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: AOL Arena\, Hamburg\nResultado: 3-0
+DESCRIPTION:Quarterfinals\nEstadio: AOL Arena\, Hamburg\nDescanso: 1-0\nFi
+ nal: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-2 🇯🇵 Japón
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-744bfbfd7938@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Dallas (Arlington)\nResult
- ado: 2-2
+DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Dallas (Arlington)\nDescan
+ so: 0-0\nFinal: 2-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

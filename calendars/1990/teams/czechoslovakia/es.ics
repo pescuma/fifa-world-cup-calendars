@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 1-5 🇨🇿🇸🇰 Checoslovaquia
 DTSTART;VALUE=DATE:19900610
 DTEND;VALUE=DATE:19900611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-27a7cf0b7f86@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Stadio Comunale\, Florence
- \nResultado: 1-5
+ \nFinal: 1-5
 LOCATION:Stadio Comunale\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Austria 0-1 🇨🇿🇸🇰 Checoslovaquia
 DTSTART;VALUE=DATE:19900615
 DTEND;VALUE=DATE:19900616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a501907966f9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Stadio Comunale\, Florence
- \nResultado: 0-1
+ \nFinal: 0-1
 LOCATION:Stadio Comunale\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-0 🇨🇿🇸🇰 Checoslovaquia
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a345d24f3539@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nRe
- sultado: 2-0
+DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nFi
+ nal: 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -69,12 +69,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿🇸🇰 Checoslovaquia 4-1 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d95df0f4098b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Stadio San Nicola\, Bari\nResultado
- : 4-1
+DESCRIPTION:Octavos de Final\nEstadio: Stadio San Nicola\, Bari\nFinal: 4-
+ 1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -88,11 +88,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania Occidental 1-0 🇨🇿🇸🇰 Checoslovaquia
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-294fb6664887@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: San Siro\, Milan\nResultado: 1-0
+DESCRIPTION:Quarter-finals\nEstadio: San Siro\, Milan\nFinal: 1-0
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

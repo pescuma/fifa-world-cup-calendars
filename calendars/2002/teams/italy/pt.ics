@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-0 🇪🇨 Equador
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-d5b2e2219ff6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Sapporo Dome\, Sapporo\nRe
- sultado: 2-0
+DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Sapporo Dome\, Sapporo\nFi
+ nal: 2-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-2 🇭🇷 Croácia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a31846a3c764@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group G\nEstádio: Kashima Soccer Stadium\, I
- baraki\nResultado: 1-2
+ baraki\nFinal: 1-2
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-1 🇮🇹 Itália
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c2407fba0917@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: Ōita Stadium\, Ōita\nRes
- ultado: 1-1
+DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: Ōita Stadium\, Ōita\nFin
+ al: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇰🇷 Coreia do Sul 1-1 🇮🇹 Itália
+SUMMARY:🇰🇷 Coreia do Sul 1+2-1+1 🇮🇹 Itália
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-820511d1c427@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Daejeon World Cup Stadium\, Daejeo
- n\nResultado: 1-1
+ n\nFinal: 1-1\nProrrogação: 2-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

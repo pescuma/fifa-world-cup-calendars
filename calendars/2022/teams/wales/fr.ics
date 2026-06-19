@@ -13,12 +13,12 @@ SUMMARY:🇺🇸 États-Unis 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Gall
  es
 DTSTART:20221121T220000Z
 DTEND:20221122T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Ahmad bin Ali Stadium
- \, Al Rayyan\nRésultat: 1-1
+ \, Al Rayyan\nMi-temps: 1-0\nFin du match: 1-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -32,12 +32,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles 0-2 🇮🇷 Iran
 DTSTART:20221125T130000Z
 DTEND:20221125T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group B\nStade: Ahmad bin Ali Stadium
- \, Al Rayyan\nRésultat: 0-2
+ \, Al Rayyan\nMi-temps: 0-0\nFin du match: 0-2
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -52,12 +52,12 @@ SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles 0-3 🏴󠁧󠁢󠁥
  󠁮󠁧󠁿 Angleterre
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group B\nStade: Ahmad bin Ali Stadiu
- m\, Al Rayyan\nRésultat: 0-3
+ m\, Al Rayyan\nMi-temps: 0-0\nFin du match: 0-3
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

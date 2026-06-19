@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-2 🇯🇵 Japan
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-744bfbfd7938@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Dallas (Arlington)\nResult:
-  2-2
+DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Dallas (Arlington)\nHalf-ti
+ me: 0-0\nFull-time: 2-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

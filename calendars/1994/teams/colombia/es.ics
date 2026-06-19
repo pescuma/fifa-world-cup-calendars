@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-3 🇷🇴 Rumanía
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-1bbf3185878e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Rose Bowl\, Pasadena\nResu
- ltado: 1-3
+DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Rose Bowl\, Pasadena\nFina
+ l: 1-3
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 2-1 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19940622
 DTEND;VALUE=DATE:19940623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-db9ca5b1b1ac@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Rose Bowl\, Pasadena\nResu
- ltado: 2-1
+DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Rose Bowl\, Pasadena\nFina
+ l: 2-1
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 0-2 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ae06624c8cd0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Stanford Stadium\, Stanfor
- d\nResultado: 0-2
+ d\nFinal: 0-2
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE

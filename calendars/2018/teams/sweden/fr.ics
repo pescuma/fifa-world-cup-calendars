@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 1-0 🇰🇷 Corée du Sud
 DTSTART:20180618T120000Z
 DTEND:20180618T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group F\nStade: Nizhny Novgorod Stadi
- um\, Nizhny Novgorod\nRésultat: 1-0
+ um\, Nizhny Novgorod\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 2-1 🇸🇪 Suède
 DTSTART:20180623T180000Z
 DTEND:20180623T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-bfaeb11c552d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Fisht Stadium\, Soch
- i\nRésultat: 2-1
+ i\nMi-temps: 0-1\nFin du match: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-3 🇸🇪 Suède
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6349ddc1c3e6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Ekaterinburg Arena\,
-  Ekaterinburg\nRésultat: 0-3
+  Ekaterinburg\nMi-temps: 0-0\nFin du match: 0-3
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 1-0 🇨🇭 Suisse
 DTSTART:20180703T140000Z
 DTEND:20180703T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-c3ad17238c32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Saint Petersburg Stadium\, Saint Pet
- ersburg\nRésultat: 1-0
+ ersburg\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180707T140000Z
 DTEND:20180707T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e0104da7519b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Samara Arena\, Samara\nRésultat: 0-2
+DESCRIPTION:Quarter-finals\nStade: Samara Arena\, Samara\nMi-temps: 0-1\nF
+ in du match: 0-2
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

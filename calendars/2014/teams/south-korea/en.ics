@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russia 1-1 🇰🇷 South Korea
 DTSTART:20140617T220000Z
 DTEND:20140618T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-e78ee5bef18f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Arena Pantanal\, Cuiabá\nR
- esult: 1-1
+DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Arena Pantanal\, Cuiabá\nF
+ ull-time: 1-1
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-4 🇩🇿 Algeria
 DTSTART:20140622T190000Z
 DTEND:20140622T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7b4b23e304f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Estádio Beira-Rio\, Porto
-  Alegre\nResult: 2-4
+  Alegre\nFull-time: 2-4
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 0-1 🇧🇪 Belgium
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a47c51c90cd2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group H\nVenue: Arena de São Paulo\, São
-  Paulo\nResult: 0-1
+  Paulo\nFull-time: 0-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE

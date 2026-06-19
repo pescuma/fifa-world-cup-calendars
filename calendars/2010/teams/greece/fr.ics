@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-0 🇬🇷 Grèce
 DTSTART:20100612T133000Z
 DTEND:20100612T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d73b49456b42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Nelson Mandela Bay St
- adium\, Port Elizabeth\nRésultat: 2-0
+ adium\, Port Elizabeth\nFin du match: 2-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grèce 2-1 🇳🇬 Nigeria
 DTSTART:20100617T160000Z
 DTEND:20100617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-63494663be75@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Free State Stadium\, 
- Bloemfontein\nRésultat: 2-1
+ Bloemfontein\nFin du match: 2-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grèce 0-2 🇦🇷 Argentine
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f766f44a95b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: Peter Mokaba Stadium
- \, Polokwane\nRésultat: 0-2
+ \, Polokwane\nFin du match: 0-2
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE

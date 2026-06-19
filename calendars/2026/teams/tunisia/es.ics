@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 5-1 🇹🇳 Túnez
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-df779f16393a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Monterrey (Guadalupe)\nRes
- ultado: 5-1
+DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Monterrey (Guadalupe)\nDes
+ canso: 2-1\nFinal: 5-1
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

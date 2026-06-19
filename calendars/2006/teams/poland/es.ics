@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 0-2 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-639448b151ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-2
+ hen\nDescanso: 0-1\nFinal: 0-2
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-0 🇵🇱 Polonia
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-1822e4f3f7a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Signal Iduna Park\, Dortmu
- nd\nResultado: 1-0
+ nd\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-2 🇵🇱 Polonia
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2e4b5238f348@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nRes
- ultado: 1-2
+DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nDes
+ canso: 1-1\nFinal: 1-2
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE

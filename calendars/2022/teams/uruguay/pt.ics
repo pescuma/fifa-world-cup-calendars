@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 0-0 🇰🇷 Coreia do Sul
 DTSTART:20221124T160000Z
 DTEND:20221124T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-03614cc8c07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group H\nEstádio: Education City Stadium\, A
- l Rayyan\nResultado: 0-0
+ l Rayyan\nFinal: 0-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-0 🇺🇾 Uruguai
 DTSTART:20221128T220000Z
 DTEND:20221129T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e20eb73fecbe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group H\nEstádio: Lusail Iconic Stadium\, Lu
- sail\nResultado: 2-0
+ sail\nIntervalo: 0-0\nFinal: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 0-2 🇺🇾 Uruguai
 DTSTART:20221202T180000Z
 DTEND:20221202T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d7f37ca31cc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 13\nGrupo: Group H\nEstádio: Al Janoub Stadium\, Al Wa
- krah\nResultado: 0-2
+ krah\nFinal: 0-2
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

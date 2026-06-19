@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Sénégal 0-2 🇳🇱 Pays-Bas
 DTSTART:20221121T190000Z
 DTEND:20221121T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8ec508d85bba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group A\nStade: Al Thumama Stadium\, 
- Doha\nRésultat: 0-2
+ Doha\nMi-temps: 0-0\nFin du match: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 1-3 🇸🇳 Sénégal
 DTSTART:20221125T160000Z
 DTEND:20221125T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e19f40290081@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group A\nStade: Al Thumama Stadium\, 
- Doha\nRésultat: 1-3
+ Doha\nMi-temps: 0-1\nFin du match: 1-3
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Équateur 1-2 🇸🇳 Sénégal
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group A\nStade: Khalifa Internationa
- l Stadium\, Al Rayyan\nRésultat: 1-2
+ l Stadium\, Al Rayyan\nMi-temps: 0-1\nFin du match: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 3-0 🇸🇳 Sénégal
 DTSTART:20221204T220000Z
 DTEND:20221205T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-65722f336345@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Al Bayt Stadium\, Al Khor\nRésultat
- : 3-0
+DESCRIPTION:1/8ème de finale\nStade: Al Bayt Stadium\, Al Khor\nMi-temps:
+  2-0\nFin du match: 3-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE

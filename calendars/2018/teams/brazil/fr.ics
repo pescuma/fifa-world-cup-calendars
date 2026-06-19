@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-1 🇨🇭 Suisse
 DTSTART:20180617T180000Z
 DTEND:20180617T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-02492be6080a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Rostov Arena\, Rostov
- -on-Don\nRésultat: 1-1
+ -on-Don\nMi-temps: 1-0\nFin du match: 1-1
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇨🇷 Costa Rica
 DTSTART:20180622T120000Z
 DTEND:20180622T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-64946d609187@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Saint Petersburg Stad
- ium\, Saint Petersburg\nRésultat: 2-0
+ ium\, Saint Petersburg\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbie 0-2 🇧🇷 Brésil
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-66db2ed7bbda@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Spartak Stadium\, Mo
- scow\nRésultat: 0-2
+ scow\nMi-temps: 0-1\nFin du match: 0-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇲🇽 Mexique
 DTSTART:20180702T140000Z
 DTEND:20180702T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2259972fb3a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Samara Arena\, Samara\nRésultat: 2-
- 0
+DESCRIPTION:1/8ème de finale\nStade: Samara Arena\, Samara\nMi-temps: 0-0
+ \nFin du match: 2-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-2 🇧🇪 Belgique
 DTSTART:20180706T180000Z
 DTEND:20180706T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-27423777a99d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Kazan Arena\, Kazan\nRésultat: 1-2
+DESCRIPTION:Quarter-finals\nStade: Kazan Arena\, Kazan\nMi-temps: 0-2\nFin
+  du match: 1-2
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

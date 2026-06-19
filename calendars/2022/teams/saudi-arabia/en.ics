@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-2 🇸🇦 Saudi Arabia
 DTSTART:20221122T130000Z
 DTEND:20221122T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-98897760a664@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 1-2
+ ail\nHalf-time: 1-0\nFull-time: 1-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 2-0 🇸🇦 Saudi Arabia
 DTSTART:20221126T160000Z
 DTEND:20221126T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-68d36c41ec17@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group C\nVenue: Education City Stadium\, Al
-  Rayyan\nResult: 2-0
+  Rayyan\nHalf-time: 1-0\nFull-time: 2-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Saudi Arabia 1-2 🇲🇽 Mexico
 DTSTART:20221130T220000Z
 DTEND:20221201T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-23d2420bc054@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lu
- sail\nResult: 1-2
+ sail\nHalf-time: 0-0\nFull-time: 1-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 0-1 🇮🇪 Irlande
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-7374656f65e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Giants Stadium\, East
-  Rutherford\nRésultat: 0-1
+  Rutherford\nFin du match: 0-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 1-0 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19940623
 DTEND;VALUE=DATE:19940624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-61abc5a491a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Giants Stadium\, East
-  Rutherford\nRésultat: 1-0
+  Rutherford\nFin du match: 1-0
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 1-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d6504dd0bfb7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: RFK Stadium\, Washing
- ton\nRésultat: 1-1
+ ton\nFin du match: 1-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇬 Nigeria 1-1 🇮🇹 Italie
+SUMMARY:🇳🇬 Nigeria 1+1-2+1 🇮🇹 Italie
 DTSTART;VALUE=DATE:19940705
 DTEND;VALUE=DATE:19940706
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-17b9aa88c4c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Foxboro Stadium\, Foxborough\nRésul
- tat: 1-1
+DESCRIPTION:1/8ème de finale\nStade: Foxboro Stadium\, Foxborough\nFin du
+  match: 1-1\nProlongation: 1-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 2-1 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19940709
 DTEND;VALUE=DATE:19940710
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14584fe9e3b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Foxboro Stadium\, Foxborough\nRésultat
- : 2-1
+DESCRIPTION:Quarter-finals\nStade: Foxboro Stadium\, Foxborough\nFin du ma
+ tch: 2-1
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgarie 1-2 🇮🇹 Italie
 DTSTART;VALUE=DATE:19940713
 DTEND;VALUE=DATE:19940714
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-b281c6b20002@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Giants Stadium\, East Rutherford\nRésulta
- t: 1-2
+DESCRIPTION:Semi-finals\nStade: Giants Stadium\, East Rutherford\nFin du m
+ atch: 1-2
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brésil 0-0 🇮🇹 Italie
+SUMMARY:🇧🇷 Brésil 0+0[3]-[2]0+0 🇮🇹 Italie
 DTSTART;VALUE=DATE:19940717
 DTEND;VALUE=DATE:19940718
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-e0e185a23e97@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Rose Bowl\, Pasadena\nRésultat: 0-0
+DESCRIPTION:Finale\nStade: Rose Bowl\, Pasadena\nFin du match: 0-0\nProlon
+ gation: 0-0\nTirs au but: 3-2
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE

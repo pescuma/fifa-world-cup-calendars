@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 8-0 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3616b6ee1736@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Sapporo Dome\, Sappor
- o\nRésultat: 8-0
+ o\nFin du match: 8-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-0 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-ab7bd4c77113@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Saitama Stadium\, Sai
- tama\nRésultat: 1-0
+ tama\nFin du match: 1-0
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 0-3 🇮🇪 Irlande
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e4d0fb993a09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: International Stadium
-  Yokohama\, Yokohama\nRésultat: 0-3
+  Yokohama\, Yokohama\nFin du match: 0-3
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE

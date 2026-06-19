@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-1 🇰🇵 Corea del Norte
 DTSTART:20100615T203000Z
 DTEND:20100615T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2b704af0ff5d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Ellis Park Stadium\, Johan
- nesburg\nResultado: 2-1
+ nesburg\nFinal: 2-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 7-0 🇰🇵 Corea del Norte
 DTSTART:20100621T133000Z
 DTEND:20100621T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c46231be3960@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Cape Town Stadium\, Cape 
- Town\nResultado: 7-0
+ Town\nFinal: 7-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇵 Corea del Norte 0-3 🇨🇮 Côte d’Ivoire
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-24363c8d0cfe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Mbombela Stadium\, Nelspr
- uit\nResultado: 0-3
+ uit\nFinal: 0-3
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE

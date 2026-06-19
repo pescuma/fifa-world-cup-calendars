@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 2-0 🇳🇬 Nigeria
 DTSTART:20180616T190000Z
 DTEND:20180616T210000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e6dfea62b091@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Kaliningrad Stadium\, Kalin
- ingrad\nResult: 2-0
+ ingrad\nHalf-time: 1-0\nFull-time: 2-0
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-0 🇮🇸 Iceland
 DTSTART:20180622T150000Z
 DTEND:20180622T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9c4226825d2b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group D\nVenue: Volgograd Arena\, Volgograd
- \nResult: 2-0
+ \nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-2 🇦🇷 Argentina
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-544782225f84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Saint Petersburg Stadium\,
-  Saint Petersburg\nResult: 1-2
+  Saint Petersburg\nHalf-time: 0-1\nFull-time: 1-2
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

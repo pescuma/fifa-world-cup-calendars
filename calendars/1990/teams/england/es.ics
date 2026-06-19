@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:19900611
 DTEND;VALUE=DATE:19900612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1f34984e53ec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group F\nEstadio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 1-1
+ i\nFinal: 1-1
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f4e989e6dcec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group F\nEstadio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 0-0
+ i\nFinal: 0-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇪🇬 Egipto
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f7c3f4312521@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group F\nEstadio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 1-0
+ i\nFinal: 1-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -66,15 +66,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇧🇪 Bélgica
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+1-0+0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Stadio Renato Dall'Ara\, Bologna\nR
- esultado: 0-0
+DESCRIPTION:Octavos de Final\nEstadio: Stadio Renato Dall'Ara\, Bologna\nF
+ inal: 0-0\nPrórroga: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -85,15 +85,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-2 🇨🇲 Camerún
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2+3-2+2 🇨🇲 Camerún
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Stadio San Paolo\, Naples\nResultado:
-  2-2
+DESCRIPTION:Quarter-finals\nEstadio: Stadio San Paolo\, Naples\nFinal: 2-2
+ \nPrórroga: 3-2
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -104,16 +104,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania Occidental 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingl
- aterra
+SUMMARY:🇩🇪 Alemania Occidental 1+1[4]-[3]1+1 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900704
 DTEND;VALUE=DATE:19900705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-6756c39edd07@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Stadio delle Alpi\, Turin\nResultado: 1-
- 1
+DESCRIPTION:Semi-finals\nEstadio: Stadio delle Alpi\, Turin\nFinal: 1-1\nP
+ rórroga: 1-1\nPenaltis: 4-3
 LOCATION:Stadio delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -127,12 +127,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900707
 DTEND;VALUE=DATE:19900708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-5ac021d22739@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nEstadio: Stadio San Nicola\, Bari\nResultad
- o: 2-1
+DESCRIPTION:Third place match\nEstadio: Stadio San Nicola\, Bari\nFinal: 2
+ -1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE

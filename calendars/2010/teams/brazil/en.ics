@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-1 🇰🇵 North Korea
 DTSTART:20100615T203000Z
 DTEND:20100615T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2b704af0ff5d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Ellis Park Stadium\, Johann
- esburg\nResult: 2-1
+ esburg\nFull-time: 2-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-1 🇨🇮 Côte d’Ivoire
 DTSTART:20100620T203000Z
 DTEND:20100620T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d713c8630cb7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group G\nVenue: Soccer City\, Johannesburg
- \nResult: 3-1
+ \nFull-time: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-0 🇧🇷 Brazil
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-0bfae0131c3c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Moses Mabhida Stadium\, Du
- rban\nResult: 0-0
+ rban\nFull-time: 0-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇨🇱 Chile
 DTSTART:20100628T203000Z
 DTEND:20100628T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-56852b1b022f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Ellis Park Stadium\, Johannesburg\nResult:
-  3-0
+DESCRIPTION:Round of 16\nVenue: Ellis Park Stadium\, Johannesburg\nFull-ti
+ me: 3-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇧🇷 Brazil
 DTSTART:20100702T160000Z
 DTEND:20100702T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-58026d7460f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nVenue: Nelson Mandela Bay Stadium\, Port Elizab
- eth\nResult: 2-1
+ eth\nFull-time: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE

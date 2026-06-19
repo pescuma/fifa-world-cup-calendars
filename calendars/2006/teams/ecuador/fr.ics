@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Pologne 0-2 🇪🇨 Équateur
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-639448b151ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Veltins-Arena\, Gelse
- nkirchen\nRésultat: 0-2
+ nkirchen\nMi-temps: 0-1\nFin du match: 0-2
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Équateur 3-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-27d3674e048e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group A\nStade: AOL Arena\, Hamburg\n
- Résultat: 3-0
+ Mi-temps: 1-0\nFin du match: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Équateur 0-3 🇩🇪 Allemagne
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2c143ac811d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group A\nStade: Olympiastadion\, Ber
- lin\nRésultat: 0-3
+ lin\nMi-temps: 0-2\nFin du match: 0-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇪🇨 Équateur
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Gottlieb-Daimler-Stadion\, Stuttgart
- \nRésultat: 1-0
+ \nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE

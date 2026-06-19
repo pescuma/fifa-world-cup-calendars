@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-1 🇺🇸 États-Unis
 DTSTART:20100612T203000Z
 DTEND:20100612T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b981b5e0fdf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Royal Bafokeng Stadiu
- m\, Rustenburg\nRésultat: 1-1
+ m\, Rustenburg\nFin du match: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇩🇿 Algérie
 DTSTART:20100618T203000Z
 DTEND:20100618T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bcdd917f7f33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Cape Town Stadium\, C
- ape Town\nRésultat: 0-0
+ ape Town\nFin du match: 0-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Slovénie 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-fb936ff30c6a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Nelson Mandela Bay S
- tadium\, Port Elizabeth\nRésultat: 0-1
+ tadium\, Port Elizabeth\nFin du match: 0-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -69,12 +69,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 4-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20100627T160000Z
 DTEND:20100627T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-a87e891ce02e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Free State Stadium\, Bloemfontein\nR
- ésultat: 4-1
+DESCRIPTION:1/8ème de finale\nStade: Free State Stadium\, Bloemfontein\nF
+ in du match: 4-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 0-1 🇲🇽 Mexico
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-32087891657d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group G\nVenue: Niigata Stadium\, Niigata\n
- Result: 0-1
+ Full-time: 0-1
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-2 🇭🇷 Croatia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a31846a3c764@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group G\nVenue: Kashima Soccer Stadium\, Ib
- araki\nResult: 1-2
+ araki\nFull-time: 1-2
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 1-0 🇭🇷 Croatia
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-4f438ec54d90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group G\nVenue: International Stadium Yokoh
- ama\, Yokohama\nResult: 1-0
+ ama\, Yokohama\nFull-time: 1-0
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE

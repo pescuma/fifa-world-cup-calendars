@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-834cde131dab@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: AOL Arena\, Hamburg\nResul
- tado: 2-1
+DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: AOL Arena\, Hamburg\nDesca
+ nso: 2-0\nFinal: 2-1
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Serbia y Montenegro
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2188068146c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 6-0
+ hen\nDescanso: 3-0\nFinal: 6-0
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 0-0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-aff9fc967487@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Commerzbank-Arena\, Frank
- furt\nResultado: 0-0
+ furt\nFinal: 0-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 1-1 🇲🇽 México
+SUMMARY:🇦🇷 Argentina 1+2-1+1 🇲🇽 México
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Zentralstadion\, Leipzig\nResultado
- : 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Zentralstadion\, Leipzig\nDescanso:
+  1-1\nFinal: 1-1\nPrórroga: 2-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 1-1 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemania 1+1[4]-[2]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: Olympiastadion\, Berlin\nResultado: 1-
- 1
+DESCRIPTION:Quarterfinals\nEstadio: Olympiastadion\, Berlin\nDescanso: 0-0
+ \nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 4-2
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

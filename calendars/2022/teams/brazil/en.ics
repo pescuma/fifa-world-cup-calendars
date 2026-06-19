@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-0 🇷🇸 Serbia
 DTSTART:20221124T220000Z
 DTEND:20221125T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5a853ec81239@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 2-0
+ ail\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-0 🇨🇭 Switzerland
 DTSTART:20221128T190000Z
 DTEND:20221128T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-f358c22e3ccd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nResult:
-  1-0
+DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nHalf-ti
+ me: 0-0\nFull-time: 1-0
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 1-0 🇧🇷 Brazil
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34fda74f7ea4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Lusail Iconic Stadium\, Lu
- sail\nResult: 1-0
+ sail\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 4-1 🇰🇷 South Korea
 DTSTART:20221205T220000Z
 DTEND:20221206T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7e28ad6bf928@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stadium 974\, Doha\nResult: 4-1
+DESCRIPTION:Round of 16\nVenue: Stadium 974\, Doha\nHalf-time: 4-0\nFull-t
+ ime: 4-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -83,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatia 0-0 🇧🇷 Brazil
+SUMMARY:🇭🇷 Croatia 0+1[4]-[2]1+0 🇧🇷 Brazil
 DTSTART:20221209T180000Z
 DTEND:20221209T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-459a33c9e8f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Education City Stadium\, Al Rayyan\nRes
- ult: 0-0
+DESCRIPTION:Quarter-finals\nVenue: Education City Stadium\, Al Rayyan\nHal
+ f-time: 0-0\nFull-time: 0-0\nExtra time: 1-1\nPenalties: 4-2
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

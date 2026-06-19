@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 1-2 🇺🇸 Estados Unidos
 DTSTART:20140616T220000Z
 DTEND:20140617T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-88fa534023c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Estádio das Dunas\, Natal
- \nResultado: 1-2
+ \nFinal: 1-2
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 2-2 🇵🇹 Portugal
 DTSTART:20140622T220000Z
 DTEND:20140623T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-28c6583b1eb9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group G\nEstádio: Arena Amazônia\, Manaus\
- nResultado: 2-2
+ nFinal: 2-2
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-1 🇩🇪 Alemanha
 DTSTART:20140626T160000Z
 DTEND:20140626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f628a8a8b0d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: Arena Pernambuco\, Recife
- \nResultado: 0-1
+ \nFinal: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Bélgica 0-0 🇺🇸 Estados Unidos
+SUMMARY:🇧🇪 Bélgica 0+2-1+0 🇺🇸 Estados Unidos
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Arena Fonte Nova\, Salvador\nResul
- tado: 0-0
+DESCRIPTION:Oitavas de Final\nEstádio: Arena Fonte Nova\, Salvador\nInter
+ valo: 0-0\nFinal: 0-0\nProrrogação: 2-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE

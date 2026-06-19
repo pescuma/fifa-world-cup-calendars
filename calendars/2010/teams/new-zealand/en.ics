@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇿 New Zealand 1-1 🇸🇰 Slovakia
 DTSTART:20100615T133000Z
 DTEND:20100615T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-208f12bf82b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group F\nVenue: Royal Bafokeng Stadium\, Ru
- stenburg\nResult: 1-1
+ stenburg\nFull-time: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇳🇿 New Zealand
 DTSTART:20100620T160000Z
 DTEND:20100620T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-3edb1aa55dee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Mbombela Stadium\, Nelspru
- it\nResult: 1-1
+ it\nFull-time: 1-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-0 🇳🇿 New Zealand
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c0b1a28e3e98@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Peter Mokaba Stadium\, Pol
- okwane\nResult: 0-0
+ okwane\nFull-time: 0-0
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇲🇦 Marrocos
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9d073189a8f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nRes
- ultado: 1-0
+DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nFin
+ al: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arábia Saudita 2-1 🇲🇦 Marrocos
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-f07a45eb817c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Giants Stadium\, East Ruth
- erford\nResultado: 2-1
+ erford\nFinal: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 1-2 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-872125135787@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nRes
- ultado: 1-2
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nFin
+ al: 1-2
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE

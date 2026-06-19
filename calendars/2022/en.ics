@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 0-2 🇪🇨 Ecuador
 DTSTART:20221120T190000Z
 DTEND:20221120T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 0-2
+ Half-time: 0-2\nFull-time: 0-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Senegal 0-2 🇳🇱 Netherlands
 DTSTART:20221121T190000Z
 DTEND:20221121T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8ec508d85bba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Al Thumama Stadium\, Doha\n
- Result: 0-2
+ Half-time: 0-0\nFull-time: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 1-3 🇸🇳 Senegal
 DTSTART:20221125T160000Z
 DTEND:20221125T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e19f40290081@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Al Thumama Stadium\, Doha\n
- Result: 1-3
+ Half-time: 0-1\nFull-time: 1-3
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 1-1 🇪🇨 Ecuador
 DTSTART:20221125T190000Z
 DTEND:20221125T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 1-1
+ um\, Al Rayyan\nHalf-time: 1-0\nFull-time: 1-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 1-2 🇸🇳 Senegal
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group A\nVenue: Khalifa International Stad
- ium\, Al Rayyan\nResult: 1-2
+ ium\, Al Rayyan\nHalf-time: 0-1\nFull-time: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇶🇦 Qatar
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8e677b3e10bf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group A\nVenue: Al Bayt Stadium\, Al Khor\
- nResult: 2-0
+ nHalf-time: 1-0\nFull-time: 2-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 6-2 🇮🇷 Iran
 DTSTART:20221121T160000Z
 DTEND:20221121T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ef37bc342d49@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 6-2
+ um\, Al Rayyan\nHalf-time: 3-0\nFull-time: 6-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
 DTSTART:20221121T220000Z
 DTEND:20221122T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 1-1
+ Rayyan\nHalf-time: 1-0\nFull-time: 1-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales 0-2 🇮🇷 Iran
 DTSTART:20221125T130000Z
 DTEND:20221125T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group B\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 0-2
+ Rayyan\nHalf-time: 0-0\nFull-time: 0-2
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0-0 🇺🇸 United States
 DTSTART:20221125T220000Z
 DTEND:20221126T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-f06ca107ca89@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group B\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 0-0
+ Full-time: 0-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -201,12 +201,12 @@ SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales 0-3 🏴󠁧󠁢󠁥󠁮󠁧
  󠁿 England
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-6b5f00201ab5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group B\nVenue: Ahmad bin Ali Stadium\, Al
-  Rayyan\nResult: 0-3
+  Rayyan\nHalf-time: 0-0\nFull-time: 0-3
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -220,12 +220,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 0-1 🇺🇸 United States
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5f6ec45ed700@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group B\nVenue: Al Thumama Stadium\, Doha\
- nResult: 0-1
+ nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -239,12 +239,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-2 🇸🇦 Saudi Arabia
 DTSTART:20221122T130000Z
 DTEND:20221122T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-98897760a664@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 1-2
+ ail\nHalf-time: 1-0\nFull-time: 1-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -258,12 +258,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 0-0 🇵🇱 Poland
 DTSTART:20221122T190000Z
 DTEND:20221122T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d05ea8a379af@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Stadium 974\, Doha\nResult:
-  0-0
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Stadium 974\, Doha\nFull-ti
+ me: 0-0
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -277,12 +277,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 2-0 🇸🇦 Saudi Arabia
 DTSTART:20221126T160000Z
 DTEND:20221126T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-68d36c41ec17@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group C\nVenue: Education City Stadium\, Al
-  Rayyan\nResult: 2-0
+  Rayyan\nHalf-time: 1-0\nFull-time: 2-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -296,12 +296,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇲🇽 Mexico
 DTSTART:20221126T220000Z
 DTEND:20221127T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-990102950604@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 2-0
+ ail\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -315,12 +315,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 0-2 🇦🇷 Argentina
 DTSTART:20221130T220000Z
 DTEND:20221201T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ca151d0b9301@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Stadium 974\, Doha\nResult
- : 0-2
+DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Stadium 974\, Doha\nHalf-t
+ ime: 0-0\nFull-time: 0-2
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -334,12 +334,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Saudi Arabia 1-2 🇲🇽 Mexico
 DTSTART:20221130T220000Z
 DTEND:20221201T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-23d2420bc054@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lu
- sail\nResult: 1-2
+ sail\nHalf-time: 0-0\nFull-time: 1-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -353,12 +353,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 0-0 🇹🇳 Tunisia
 DTSTART:20221122T160000Z
 DTEND:20221122T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-4c42a4f59f5a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Education City Stadium\, Al
-  Rayyan\nResult: 0-0
+  Rayyan\nFull-time: 0-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -372,12 +372,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-1 🇦🇺 Australia
 DTSTART:20221122T220000Z
 DTEND:20221123T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bda352d41357@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 4-1
+ ah\nHalf-time: 2-1\nFull-time: 4-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -391,12 +391,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 0-1 🇦🇺 Australia
 DTSTART:20221126T130000Z
 DTEND:20221126T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-a343b14fe509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 0-1
+ ah\nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -410,12 +410,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-1 🇩🇰 Denmark
 DTSTART:20221126T190000Z
 DTEND:20221126T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-de478cb342f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group D\nVenue: Stadium 974\, Doha\nResult:
-  2-1
+DESCRIPTION:Matchday 7\nGroup: Group D\nVenue: Stadium 974\, Doha\nHalf-ti
+ me: 0-0\nFull-time: 2-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -429,12 +429,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 1-0 🇩🇰 Denmark
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-924d296c03de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wak
- rah\nResult: 1-0
+ rah\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -448,12 +448,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 1-0 🇫🇷 France
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-6b1588c7b79c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group D\nVenue: Education City Stadium\, A
- l Rayyan\nResult: 1-0
+ l Rayyan\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -467,12 +467,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 1-2 🇯🇵 Japan
 DTSTART:20221123T160000Z
 DTEND:20221123T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-abdb323efea6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 1-2
+ um\, Al Rayyan\nHalf-time: 1-0\nFull-time: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -486,12 +486,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 7-0 🇨🇷 Costa Rica
 DTSTART:20221123T190000Z
 DTEND:20221123T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-14985b75f55a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Al Thumama Stadium\, Doha\n
- Result: 7-0
+ Half-time: 3-0\nFull-time: 7-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -505,12 +505,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 0-1 🇨🇷 Costa Rica
 DTSTART:20221127T130000Z
 DTEND:20221127T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1691092f6459@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group E\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 0-1
+ Rayyan\nHalf-time: 0-0\nFull-time: 0-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -524,12 +524,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 1-1 🇩🇪 Germany
 DTSTART:20221127T220000Z
 DTEND:20221128T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group E\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 1-1
+ Half-time: 0-0\nFull-time: 1-1
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -543,12 +543,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 2-1 🇪🇸 Spain
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group E\nVenue: Khalifa International Stad
- ium\, Al Rayyan\nResult: 2-1
+ ium\, Al Rayyan\nHalf-time: 0-0\nFull-time: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -562,12 +562,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 2-4 🇩🇪 Germany
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-62fabdb24963@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group E\nVenue: Al Bayt Stadium\, Al Khor\
- nResult: 2-4
+ nHalf-time: 0-1\nFull-time: 2-4
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -581,12 +581,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 0-0 🇭🇷 Croatia
 DTSTART:20221123T130000Z
 DTEND:20221123T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eb2ab8c7201f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 0-0
+ Full-time: 0-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -600,12 +600,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇨🇦 Canada
 DTSTART:20221123T220000Z
 DTEND:20221124T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c7008efe8b1f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 1-0
+ Rayyan\nHalf-time: 1-0\nFull-time: 1-0
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -619,12 +619,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 0-2 🇲🇦 Morocco
 DTSTART:20221127T160000Z
 DTEND:20221127T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c8d638d21a1d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group F\nVenue: Al Thumama Stadium\, Doha\n
- Result: 0-2
+ Half-time: 0-0\nFull-time: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -638,12 +638,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 4-1 🇨🇦 Canada
 DTSTART:20221127T190000Z
 DTEND:20221127T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e21c44e46e94@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group F\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 4-1
+ um\, Al Rayyan\nHalf-time: 2-1\nFull-time: 4-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -657,12 +657,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 0-0 🇧🇪 Belgium
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5384aef4467b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group F\nVenue: Ahmad bin Ali Stadium\, Al
-  Rayyan\nResult: 0-0
+  Rayyan\nFull-time: 0-0
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -676,12 +676,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-2 🇲🇦 Morocco
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8396fc7fc2cf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group F\nVenue: Al Thumama Stadium\, Doha\
- nResult: 1-2
+ nHalf-time: 1-2\nFull-time: 1-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -695,12 +695,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 1-0 🇨🇲 Cameroon
 DTSTART:20221124T130000Z
 DTEND:20221124T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-efa61aae2696@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 1-0
+ ah\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -714,12 +714,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-0 🇷🇸 Serbia
 DTSTART:20221124T220000Z
 DTEND:20221125T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5a853ec81239@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 2-0
+ ail\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -733,12 +733,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 3-3 🇷🇸 Serbia
 DTSTART:20221128T130000Z
 DTEND:20221128T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7179e50afb70@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 3-3
+ ah\nHalf-time: 1-2\nFull-time: 3-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -752,12 +752,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-0 🇨🇭 Switzerland
 DTSTART:20221128T190000Z
 DTEND:20221128T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-f358c22e3ccd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nResult:
-  1-0
+DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nHalf-ti
+ me: 0-0\nFull-time: 1-0
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -771,12 +771,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 2-3 🇨🇭 Switzerland
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c65273d1ae7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Stadium 974\, Doha\nResult
- : 2-3
+DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Stadium 974\, Doha\nHalf-t
+ ime: 2-1\nFull-time: 2-3
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -790,12 +790,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 1-0 🇧🇷 Brazil
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34fda74f7ea4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Lusail Iconic Stadium\, Lu
- sail\nResult: 1-0
+ sail\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -809,12 +809,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 0-0 🇰🇷 South Korea
 DTSTART:20221124T160000Z
 DTEND:20221124T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-03614cc8c07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Education City Stadium\, Al
-  Rayyan\nResult: 0-0
+  Rayyan\nFull-time: 0-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -828,12 +828,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-2 🇬🇭 Ghana
 DTSTART:20221124T190000Z
 DTEND:20221124T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-db3a777222c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Stadium 974\, Doha\nResult:
-  3-2
+DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Stadium 974\, Doha\nHalf-ti
+ me: 0-0\nFull-time: 3-2
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -847,12 +847,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-3 🇬🇭 Ghana
 DTSTART:20221128T160000Z
 DTEND:20221128T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-67f2a40645f5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group H\nVenue: Education City Stadium\, Al
-  Rayyan\nResult: 2-3
+  Rayyan\nHalf-time: 0-2\nFull-time: 2-3
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -866,12 +866,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-0 🇺🇾 Uruguay
 DTSTART:20221128T220000Z
 DTEND:20221129T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e20eb73fecbe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group H\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 2-0
+ ail\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -885,12 +885,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 0-2 🇺🇾 Uruguay
 DTSTART:20221202T180000Z
 DTEND:20221202T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d7f37ca31cc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group H\nVenue: Al Janoub Stadium\, Al Wak
- rah\nResult: 0-2
+ rah\nFull-time: 0-2
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -904,12 +904,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-1 🇵🇹 Portugal
 DTSTART:20221202T180000Z
 DTEND:20221202T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d2c3d7c06fa9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group H\nVenue: Lusail Iconic Stadium\, Lu
- sail\nResult: 2-1
+ sail\nHalf-time: 1-1\nFull-time: 2-1
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -923,12 +923,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 3-1 🇺🇸 United States
 DTSTART:20221203T180000Z
 DTEND:20221203T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9a8c9002c42b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Khalifa International Stadium\, Al Rayyan\
- nResult: 3-1
+ nHalf-time: 2-0\nFull-time: 3-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -942,12 +942,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇦🇺 Australia
 DTSTART:20221203T220000Z
 DTEND:20221204T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1d09764bb8ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nResult:
-  2-1
+DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nHalf-ti
+ me: 1-0\nFull-time: 2-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -961,11 +961,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 3-1 🇵🇱 Poland
 DTSTART:20221204T180000Z
 DTEND:20221204T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7b001d5cd6ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Al Thumama Stadium\, Doha\nResult: 3-1
+DESCRIPTION:Round of 16\nVenue: Al Thumama Stadium\, Doha\nHalf-time: 1-0\
+ nFull-time: 3-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -979,11 +980,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 3-0 🇸🇳 Senegal
 DTSTART:20221204T220000Z
 DTEND:20221205T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-65722f336345@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Al Bayt Stadium\, Al Khor\nResult: 3-0
+DESCRIPTION:Round of 16\nVenue: Al Bayt Stadium\, Al Khor\nHalf-time: 2-0\
+ nFull-time: 3-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -994,14 +996,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japan 1-1 🇭🇷 Croatia
+SUMMARY:🇯🇵 Japan 1+1[1]-[3]1+1 🇭🇷 Croatia
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Al Janoub Stadium\, Al Wakrah\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Al Janoub Stadium\, Al Wakrah\nHalf-time: 
+ 1-0\nFull-time: 1-1\nExtra time: 1-1\nPenalties: 1-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1015,11 +1018,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 4-1 🇰🇷 South Korea
 DTSTART:20221205T220000Z
 DTEND:20221206T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7e28ad6bf928@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stadium 974\, Doha\nResult: 4-1
+DESCRIPTION:Round of 16\nVenue: Stadium 974\, Doha\nHalf-time: 4-0\nFull-t
+ ime: 4-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1030,15 +1034,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Morocco 0-0 🇪🇸 Spain
+SUMMARY:🇲🇦 Morocco 0+0[3]-[0]0+0 🇪🇸 Spain
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nResult
- : 0-0
+DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nHalf-t
+ ime: 0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1052,12 +1056,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 6-1 🇨🇭 Switzerland
 DTSTART:20221206T220000Z
 DTEND:20221207T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8a09684fe96e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 6-
- 1
+DESCRIPTION:Round of 16\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time:
+  2-0\nFull-time: 6-1
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1068,15 +1072,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatia 0-0 🇧🇷 Brazil
+SUMMARY:🇭🇷 Croatia 0+1[4]-[2]1+0 🇧🇷 Brazil
 DTSTART:20221209T180000Z
 DTEND:20221209T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-459a33c9e8f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Education City Stadium\, Al Rayyan\nRes
- ult: 0-0
+DESCRIPTION:Quarter-finals\nVenue: Education City Stadium\, Al Rayyan\nHal
+ f-time: 0-0\nFull-time: 0-0\nExtra time: 1-1\nPenalties: 4-2
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1087,15 +1091,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 2-2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Netherlands 2+2[3]-[4]2+2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nResult:
-  2-2
+DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-ti
+ me: 1-0\nFull-time: 2-2\nExtra time: 2-2\nPenalties: 3-4
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1109,11 +1113,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 1-0 🇵🇹 Portugal
 DTSTART:20221210T180000Z
 DTEND:20221210T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b90e10cc33c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Al Thumama Stadium\, Doha\nResult: 1-0
+DESCRIPTION:Quarter-finals\nVenue: Al Thumama Stadium\, Doha\nHalf-time: 1
+ -0\nFull-time: 1-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1127,11 +1132,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-2 🇫🇷 France
 DTSTART:20221210T220000Z
 DTEND:20221211T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-648d650d7895@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Al Bayt Stadium\, Al Khor\nResult: 1-2
+DESCRIPTION:Quarter-finals\nVenue: Al Bayt Stadium\, Al Khor\nHalf-time: 0
+ -1\nFull-time: 1-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1145,12 +1151,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-0 🇭🇷 Croatia
 DTSTART:20221213T220000Z
 DTEND:20221214T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-2eacdca76ea1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 3-
- 0
+DESCRIPTION:Semi-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time:
+  2-0\nFull-time: 3-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1164,11 +1170,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-0 🇲🇦 Morocco
 DTSTART:20221214T220000Z
 DTEND:20221215T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9740fb87a50f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Al Bayt Stadium\, Al Khor\nResult: 2-0
+DESCRIPTION:Semi-finals\nVenue: Al Bayt Stadium\, Al Khor\nHalf-time: 1-0\
+ nFull-time: 2-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1182,12 +1189,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatia 2-1 🇲🇦 Morocco
 DTSTART:20221217T180000Z
 DTEND:20221217T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-2b68a6c6f639@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third Place Match\nVenue: Khalifa International Stadium\, Al R
- ayyan\nResult: 2-1
+ ayyan\nHalf-time: 2-1\nFull-time: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1198,14 +1205,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2-2 🇫🇷 France
+SUMMARY:🇦🇷 Argentina 2+3[4]-[2]3+2 🇫🇷 France
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 2-2
+DESCRIPTION:Final\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time: 2-0\n
+ Full-time: 2-2\nExtra time: 3-3\nPenalties: 4-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

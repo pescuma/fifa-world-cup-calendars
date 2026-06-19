@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 1-1 🇦🇹 Austria
 DTSTART;VALUE=DATE:19980611
 DTEND;VALUE=DATE:19980612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-d9dc72aa7b5d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Stade de Toulouse\, Toulous
- e\nResult: 1-1
+ e\nFull-time: 1-1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-1 🇦🇹 Austria
 DTSTART;VALUE=DATE:19980617
 DTEND;VALUE=DATE:19980618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-913abe09a1a5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Stade Geoffroy-Guichard\, S
- aint-Étienne\nResult: 1-1
+ aint-Étienne\nFull-time: 1-1
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-1 🇦🇹 Austria
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2fd76110acf1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Stade de France\, Saint-Den
- is\nResult: 2-1
+ is\nFull-time: 2-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-1 🇦🇺 Australie
 DTSTART:20221122T220000Z
 DTEND:20221123T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bda352d41357@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Al Janoub Stadium\, A
- l Wakrah\nRésultat: 4-1
+ l Wakrah\nMi-temps: 2-1\nFin du match: 4-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisie 0-1 🇦🇺 Australie
 DTSTART:20221126T130000Z
 DTEND:20221126T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-a343b14fe509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group D\nStade: Al Janoub Stadium\, A
- l Wakrah\nRésultat: 0-1
+ l Wakrah\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 1-0 🇩🇰 Danemark
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-924d296c03de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group D\nStade: Al Janoub Stadium\, 
- Al Wakrah\nRésultat: 1-0
+ Al Wakrah\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 2-1 🇦🇺 Australie
 DTSTART:20221203T220000Z
 DTEND:20221204T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1d09764bb8ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Ahmad bin Ali Stadium\, Al Rayyan\nR
- ésultat: 2-1
+DESCRIPTION:1/8ème de finale\nStade: Ahmad bin Ali Stadium\, Al Rayyan\nM
+ i-temps: 1-0\nFin du match: 2-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

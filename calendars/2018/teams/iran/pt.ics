@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 0-1 🇮🇷 Irã
 DTSTART:20180615T150000Z
 DTEND:20180615T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-79b476a0c849@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 0-1
+  Saint Petersburg\nIntervalo: 0-0\nFinal: 0-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irã 0-1 🇪🇸 Espanha
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-3a7b32664da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Kazan Arena\, Kazan\nResul
- tado: 0-1
+DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Kazan Arena\, Kazan\nInter
+ valo: 0-0\nFinal: 0-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irã 1-1 🇵🇹 Portugal
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fa075c8e1b26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group B\nEstádio: Mordovia Arena\, Saransk\
- nResultado: 1-1
+ nIntervalo: 0-1\nFinal: 1-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE

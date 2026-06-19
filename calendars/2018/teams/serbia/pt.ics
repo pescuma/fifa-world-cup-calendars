@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 0-1 🇷🇸 Sérvia
 DTSTART:20180617T120000Z
 DTEND:20180617T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-eb206a7210f5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Samara Arena\, Samara\nRes
- ultado: 0-1
+DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Samara Arena\, Samara\nInt
+ ervalo: 0-0\nFinal: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Sérvia 1-2 🇨🇭 Suíça
 DTSTART:20180622T180000Z
 DTEND:20180622T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f13c933a444d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group E\nEstádio: Kaliningrad Stadium\, Kali
- ningrad\nResultado: 1-2
+ ningrad\nIntervalo: 1-0\nFinal: 1-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Sérvia 0-2 🇧🇷 Brasil
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-66db2ed7bbda@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group E\nEstádio: Spartak Stadium\, Moscow\
- nResultado: 0-2
+ nIntervalo: 0-1\nFinal: 0-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

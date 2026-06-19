@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 1-5 🇳🇱 Pays-Bas
 DTSTART:20140613T190000Z
 DTEND:20140613T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a058b1c6d72b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Arena Fonte Nova\, Sa
- lvador\nRésultat: 1-5
+ lvador\nMi-temps: 1-1\nFin du match: 1-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 2-3 🇳🇱 Pays-Bas
 DTSTART:20140618T160000Z
 DTEND:20140618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ba9cd0f011cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Estádio Beira-Rio\, 
- Porto Alegre\nRésultat: 2-3
+ Porto Alegre\nFin du match: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-0 🇨🇱 Chili
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7d9aee59de0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: Arena de São Paulo\
- , São Paulo\nRésultat: 2-0
+ , São Paulo\nFin du match: 2-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-1 🇲🇽 Mexique
 DTSTART:20140629T160000Z
 DTEND:20140629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d02e10135c22@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Estádio Castelão\, Fortaleza\nRés
- ultat: 2-1
+DESCRIPTION:1/8ème de finale\nStade: Estádio Castelão\, Fortaleza\nMi-t
+ emps: 0-0\nFin du match: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0-0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Pays-Bas 0+0[4]-[3]0+0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Arena Fonte Nova\, Salvador\nRésultat:
-  0-0
+DESCRIPTION:Quarter-finals\nStade: Arena Fonte Nova\, Salvador\nMi-temps: 
+ 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 4-3
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0-0 🇦🇷 Argentine
+SUMMARY:🇳🇱 Pays-Bas 0+0[2]-[4]0+0 🇦🇷 Argentine
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Arena de São Paulo\, São Paulo\nRésulta
- t: 0-0
+DESCRIPTION:Semi-finals\nStade: Arena de São Paulo\, São Paulo\nMi-temps
+ : 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 2-4
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 0-3 🇳🇱 Pays-Bas
 DTSTART:20140712T200000Z
 DTEND:20140712T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3210c5c080fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Match pour la 3ème place\nStade: Estádio Nacional Mané Garr
- incha\, Brasília\nRésultat: 0-3
+ incha\, Brasília\nMi-temps: 0-2\nFin du match: 0-3
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

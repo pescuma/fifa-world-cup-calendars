@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 3-0 🇵🇦 Panama
 DTSTART:20180618T150000Z
 DTEND:20180618T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9f0d787ac135@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Fisht Stadium\, Sochi\nResu
- lt: 3-0
+DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Fisht Stadium\, Sochi\nHalf
+ -time: 0-0\nFull-time: 3-0
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 6-1 🇵🇦 Panama
 DTSTART:20180624T120000Z
 DTEND:20180624T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ce3d47cd8dcc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group G\nVenue: Nizhny Novgorod Stadium\, 
- Nizhny Novgorod\nResult: 6-1
+ Nizhny Novgorod\nHalf-time: 5-0\nFull-time: 6-1
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇦 Panama 1-2 🇹🇳 Tunisia
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-7cca7fe3df59@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Mordovia Arena\, Saransk\n
- Result: 1-2
+ Half-time: 1-0\nFull-time: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE

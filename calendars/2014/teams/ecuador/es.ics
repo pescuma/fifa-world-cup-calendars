@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 2-1 🇪🇨 Ecuador
 DTSTART:20140615T160000Z
 DTEND:20140615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-02d7ebff0271@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Estádio Nacional Mané Ga
- rrincha\, Brasília\nResultado: 2-1
+ rrincha\, Brasília\nFinal: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 1-2 🇪🇨 Ecuador
 DTSTART:20140620T220000Z
 DTEND:20140621T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-30caf223ee8b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Arena da Baixada\, Curitib
- a\nResultado: 1-2
+ a\nFinal: 1-2
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 0-0 🇫🇷 Francia
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7abf2a1fca81@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Estádio do Maracanã\, R
- io de Janeiro\nResultado: 0-0
+ io de Janeiro\nFinal: 0-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

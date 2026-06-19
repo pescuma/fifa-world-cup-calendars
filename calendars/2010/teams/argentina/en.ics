@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇳🇬 Nigeria
 DTSTART:20100612T160000Z
 DTEND:20100612T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-70acf28e22b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Ellis Park Stadium\, Johann
- esburg\nResult: 1-0
+ esburg\nFull-time: 1-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 4-1 🇰🇷 South Korea
 DTSTART:20100617T133000Z
 DTEND:20100617T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4467694be444@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group B\nVenue: Soccer City\, Johannesburg\
- nResult: 4-1
+ nFull-time: 4-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 0-2 🇦🇷 Argentina
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f766f44a95b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group B\nVenue: Peter Mokaba Stadium\, Pol
- okwane\nResult: 0-2
+ okwane\nFull-time: 0-2
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-1 🇲🇽 Mexico
 DTSTART:20100627T203000Z
 DTEND:20100627T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bdc027472f8b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Soccer City\, Johannesburg\nResult: 3-1
+DESCRIPTION:Round of 16\nVenue: Soccer City\, Johannesburg\nFull-time: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-4 🇩🇪 Germany
 DTSTART:20100703T160000Z
 DTEND:20100703T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-1726fde85569@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Cape Town Stadium\, Cape Town\nResult: 0
- -4
+DESCRIPTION:Quarterfinals\nVenue: Cape Town Stadium\, Cape Town\nFull-time
+ : 0-4
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 0-1 🇷🇸 Serbie
 DTSTART:20180617T120000Z
 DTEND:20180617T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-eb206a7210f5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Samara Arena\, Samara
- \nRésultat: 0-1
+ \nMi-temps: 0-0\nFin du match: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇨🇷 Costa Rica
 DTSTART:20180622T120000Z
 DTEND:20180622T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-64946d609187@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Saint Petersburg Stad
- ium\, Saint Petersburg\nRésultat: 2-0
+ ium\, Saint Petersburg\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 2-2 🇨🇷 Costa Rica
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1aee2f477d5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Nizhny Novgorod Stad
- ium\, Nizhny Novgorod\nRésultat: 2-2
+ ium\, Nizhny Novgorod\nMi-temps: 1-0\nFin du match: 2-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE

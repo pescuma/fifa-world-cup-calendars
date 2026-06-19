@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japon 1-0 🇨🇲 Cameroun
 DTSTART:20100614T160000Z
 DTEND:20100614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-945c56491e0f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Free State Stadium\, 
- Bloemfontein\nRésultat: 1-0
+ Bloemfontein\nFin du match: 1-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-2 🇩🇰 Danemark
 DTSTART:20100619T203000Z
 DTEND:20100619T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-9ca49b2ac7c9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Loftus Versfeld Stadi
- um\, Pretoria\nRésultat: 1-2
+ um\, Pretoria\nFin du match: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-2 🇳🇱 Pays-Bas
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4f790122f758@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Cape Town Stadium\, 
- Cape Town\nRésultat: 1-2
+ Cape Town\nFin du match: 1-2
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE

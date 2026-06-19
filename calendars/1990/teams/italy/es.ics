@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-0 🇦🇹 Austria
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-0b38bc7f5669@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nRe
- sultado: 1-0
+DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nFi
+ nal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-0 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ca70f2422c40@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nRe
- sultado: 1-0
+DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nFi
+ nal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-0 🇨🇿🇸🇰 Checoslovaquia
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a345d24f3539@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nRe
- sultado: 2-0
+DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Stadio Olimpico\, Rome\nFi
+ nal: 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-0 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8d921fa97a28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Stadio Olimpico\, Rome\nResultado: 
- 2-0
+DESCRIPTION:Octavos de Final\nEstadio: Stadio Olimpico\, Rome\nFinal: 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +86,11 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-0 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-9ea375b5b1fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Stadio Olimpico\, Rome\nResultado: 1-
- 0
+DESCRIPTION:Quarter-finals\nEstadio: Stadio Olimpico\, Rome\nFinal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +101,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italia 1-1 🇦🇷 Argentina
+SUMMARY:🇮🇹 Italia 1+1[3]-[4]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900703
 DTEND;VALUE=DATE:19900704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-bc1e7a76a756@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Stadio San Paolo\, Naples\nResultado: 1-
- 1
+DESCRIPTION:Semi-finals\nEstadio: Stadio San Paolo\, Naples\nFinal: 1-1\nP
+ rórroga: 1-1\nPenaltis: 3-4
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +123,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900707
 DTEND;VALUE=DATE:19900708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-5ac021d22739@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nEstadio: Stadio San Nicola\, Bari\nResultad
- o: 2-1
+DESCRIPTION:Third place match\nEstadio: Stadio San Nicola\, Bari\nFinal: 2
+ -1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE

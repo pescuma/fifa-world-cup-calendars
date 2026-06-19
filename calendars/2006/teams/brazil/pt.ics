@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇭🇷 Croácia
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-61c4dde2a988@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 5\nGrupo: Group F\nEstádio: Olympiastadion\, Berlin\nR
- esultado: 1-0
+DESCRIPTION:Rodada 5\nGrupo: Group F\nEstádio: Olympiastadion\, Berlin\nI
+ ntervalo: 1-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇦🇺 Austrália
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-459865e6ea34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 10\nGrupo: Group F\nEstádio: Allianz Arena\, München\
- nResultado: 2-0
+ nIntervalo: 0-0\nFinal: 2-0
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 1-4 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-899ab7437df0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group F\nEstádio: Signal Iduna Park\, Dortm
- und\nResultado: 1-4
+ und\nIntervalo: 1-1\nFinal: 1-4
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 3-0 🇬🇭 Gana
 DTSTART;VALUE=DATE:20060627
 DTEND;VALUE=DATE:20060628
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ad5877302416@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Signal Iduna Park\, Dortmund\nResu
- ltado: 3-0
+DESCRIPTION:Oitavas de Final\nEstádio: Signal Iduna Park\, Dortmund\nInte
+ rvalo: 2-0\nFinal: 3-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-1 🇫🇷 França
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-dd164433683d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstádio: Commerzbank-Arena\, Frankfurt\nResult
- ado: 0-1
+DESCRIPTION:Quarterfinals\nEstádio: Commerzbank-Arena\, Frankfurt\nInterv
+ alo: 0-0\nFinal: 0-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE

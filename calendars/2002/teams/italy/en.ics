@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-0 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-d5b2e2219ff6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group G\nVenue: Sapporo Dome\, Sapporo\nRes
- ult: 2-0
+DESCRIPTION:Matchday 1\nGroup: Group G\nVenue: Sapporo Dome\, Sapporo\nFul
+ l-time: 2-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-2 🇭🇷 Croatia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a31846a3c764@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group G\nVenue: Kashima Soccer Stadium\, Ib
- araki\nResult: 1-2
+ araki\nFull-time: 1-2
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 1-1 🇮🇹 Italy
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c2407fba0917@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group G\nVenue: Ōita Stadium\, Ōita\nResu
- lt: 1-1
+DESCRIPTION:Matchday 3\nGroup: Group G\nVenue: Ōita Stadium\, Ōita\nFull
+ -time: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇰🇷 South Korea 1-1 🇮🇹 Italy
+SUMMARY:🇰🇷 South Korea 1+2-1+1 🇮🇹 Italy
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-820511d1c427@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Daejeon World Cup Stadium\, Daejeon\nResul
- t: 1-1
+DESCRIPTION:Round of 16\nVenue: Daejeon World Cup Stadium\, Daejeon\nFull-
+ time: 1-1\nExtra time: 2-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

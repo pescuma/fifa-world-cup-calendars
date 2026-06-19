@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-0 🇵🇱 Pologne
 DTSTART:20221122T190000Z
 DTEND:20221122T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d05ea8a379af@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Stadium 974\, Doha\nR
- ésultat: 0-0
+DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Stadium 974\, Doha\nF
+ in du match: 0-0
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Pologne 2-0 🇸🇦 Arabie saoudite
 DTSTART:20221126T160000Z
 DTEND:20221126T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-68d36c41ec17@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group C\nStade: Education City Stadiu
- m\, Al Rayyan\nRésultat: 2-0
+ m\, Al Rayyan\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Pologne 0-2 🇦🇷 Argentine
 DTSTART:20221130T220000Z
 DTEND:20221201T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ca151d0b9301@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group C\nStade: Stadium 974\, Doha\n
- Résultat: 0-2
+ Mi-temps: 0-0\nFin du match: 0-2
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 3-1 🇵🇱 Pologne
 DTSTART:20221204T180000Z
 DTEND:20221204T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7b001d5cd6ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Al Thumama Stadium\, Doha\nRésultat
- : 3-1
+DESCRIPTION:1/8ème de finale\nStade: Al Thumama Stadium\, Doha\nMi-temps:
+  1-0\nFin du match: 3-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE

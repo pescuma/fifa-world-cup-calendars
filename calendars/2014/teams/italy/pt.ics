@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇮🇹 Itália
 DTSTART:20140614T220000Z
 DTEND:20140615T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-26077c70a97b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Arena Amazônia\, Manaus\n
- Resultado: 1-2
+ Final: 1-2
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 0-1 🇨🇷 Costa Rica
 DTSTART:20140620T160000Z
 DTEND:20140620T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7fb2cc34f491@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group D\nEstádio: Arena Pernambuco\, Recife\
- nResultado: 0-1
+ nFinal: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 0-1 🇺🇾 Uruguai
 DTSTART:20140624T160000Z
 DTEND:20140624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-0c1d6e015419@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 13\nGrupo: Group D\nEstádio: Estádio das Dunas\, Nata
- l\nResultado: 0-1
+ l\nFinal: 0-1
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE

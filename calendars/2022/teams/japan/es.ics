@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-2 🇯🇵 Japón
 DTSTART:20221123T160000Z
 DTEND:20221123T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-abdb323efea6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Khalifa International Stad
- ium\, Al Rayyan\nResultado: 1-2
+ ium\, Al Rayyan\nDescanso: 1-0\nFinal: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-1 🇨🇷 Costa Rica
 DTSTART:20221127T130000Z
 DTEND:20221127T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1691092f6459@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group E\nEstadio: Ahmad bin Ali Stadium\, Al
-  Rayyan\nResultado: 0-1
+  Rayyan\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 2-1 🇪🇸 España
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group E\nEstadio: Khalifa International Sta
- dium\, Al Rayyan\nResultado: 2-1
+ dium\, Al Rayyan\nDescanso: 0-0\nFinal: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japón 1-1 🇭🇷 Croacia
+SUMMARY:🇯🇵 Japón 1+1[1]-[3]1+1 🇭🇷 Croacia
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Al Janoub Stadium\, Al Wakrah\nResu
- ltado: 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Al Janoub Stadium\, Al Wakrah\nDesc
+ anso: 1-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 1-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

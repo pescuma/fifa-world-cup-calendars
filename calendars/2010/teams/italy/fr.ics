@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 1-1 🇵🇾 Paraguay
 DTSTART:20100614T203000Z
 DTEND:20100614T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d2c10890a7a9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Cape Town Stadium\, C
- ape Town\nRésultat: 1-1
+ ape Town\nFin du match: 1-1
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 1-1 🇳🇿 Nouvelle-Zélande
 DTSTART:20100620T160000Z
 DTEND:20100620T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-3edb1aa55dee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Mbombela Stadium\, N
- elspruit\nRésultat: 1-1
+ elspruit\nFin du match: 1-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovaquie 3-2 🇮🇹 Italie
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d18188f7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Ellis Park Stadium\,
-  Johannesburg\nRésultat: 3-2
+  Johannesburg\nFin du match: 3-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

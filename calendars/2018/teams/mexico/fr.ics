@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 0-1 🇲🇽 Mexique
 DTSTART:20180617T150000Z
 DTEND:20180617T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-99af9986e1af@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Luzhniki Stadium\, Mo
- scow\nRésultat: 0-1
+ scow\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 1-2 🇲🇽 Mexique
 DTSTART:20180623T150000Z
 DTEND:20180623T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-5cfd82941e73@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Rostov Arena\, Rosto
- v-on-Don\nRésultat: 1-2
+ v-on-Don\nMi-temps: 0-1\nFin du match: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-3 🇸🇪 Suède
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6349ddc1c3e6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Ekaterinburg Arena\,
-  Ekaterinburg\nRésultat: 0-3
+  Ekaterinburg\nMi-temps: 0-0\nFin du match: 0-3
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-0 🇲🇽 Mexique
 DTSTART:20180702T140000Z
 DTEND:20180702T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2259972fb3a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Samara Arena\, Samara\nRésultat: 2-
- 0
+DESCRIPTION:1/8ème de finale\nStade: Samara Arena\, Samara\nMi-temps: 0-0
+ \nFin du match: 2-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

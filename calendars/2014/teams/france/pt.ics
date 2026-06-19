@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 3-0 🇭🇳 Honduras
 DTSTART:20140615T190000Z
 DTEND:20140615T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a272bf8ce3f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Estádio Beira-Rio\, Porto
-  Alegre\nResultado: 3-0
+  Alegre\nFinal: 3-0
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suíça 2-5 🇫🇷 França
 DTSTART:20140620T190000Z
 DTEND:20140620T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1a7e2b961b8e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group E\nEstádio: Arena Fonte Nova\, Salvado
- r\nResultado: 2-5
+ r\nFinal: 2-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Equador 0-0 🇫🇷 França
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7abf2a1fca81@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group E\nEstádio: Estádio do Maracanã\, R
- io de Janeiro\nResultado: 0-0
+ io de Janeiro\nFinal: 0-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 2-0 🇳🇬 Nigéria
 DTSTART:20140630T160000Z
 DTEND:20140630T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-8c8724e5e9e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Estádio Nacional Mané Garrincha\
- , Brasília\nResultado: 2-0
+ , Brasília\nIntervalo: 0-0\nFinal: 2-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 0-1 🇩🇪 Alemanha
 DTSTART:20140704T160000Z
 DTEND:20140704T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-138406e22f28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Estádio do Maracanã\, Rio de Janei
- ro\nResultado: 0-1
+ ro\nIntervalo: 0-1\nFinal: 0-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

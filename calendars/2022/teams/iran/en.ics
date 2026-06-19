@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 6-2 🇮🇷 Iran
 DTSTART:20221121T160000Z
 DTEND:20221121T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ef37bc342d49@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 6-2
+ um\, Al Rayyan\nHalf-time: 3-0\nFull-time: 6-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales 0-2 🇮🇷 Iran
 DTSTART:20221125T130000Z
 DTEND:20221125T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group B\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 0-2
+ Rayyan\nHalf-time: 0-0\nFull-time: 0-2
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 0-1 🇺🇸 United States
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5f6ec45ed700@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group B\nVenue: Al Thumama Stadium\, Doha\
- nResult: 0-1
+ nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE

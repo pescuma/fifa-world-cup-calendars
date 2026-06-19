@@ -12,11 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-1 🇨🇩 República Democrática del Congo
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-762d3e9456fd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group K\nEstadio: Houston\nResultado: 1-1
+DESCRIPTION:Jornada 7\nGrupo: Group K\nEstadio: Houston\nDescanso: 1-1\nFi
+ nal: 1-1
 LOCATION:Houston
 STATUS:CONFIRMED
 TRANSP:OPAQUE

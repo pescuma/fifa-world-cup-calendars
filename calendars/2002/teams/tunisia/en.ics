@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russia 2-0 🇹🇳 Tunisia
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f967e131d967@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group H\nVenue: Kobe Wing Stadium\, Kobe\nR
- esult: 2-0
+DESCRIPTION:Matchday 1\nGroup: Group H\nVenue: Kobe Wing Stadium\, Kobe\nF
+ ull-time: 2-0
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 1-1 🇧🇪 Belgium
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-deb010bebbc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group H\nVenue: Ōita Stadium\, Ōita\nResu
- lt: 1-1
+DESCRIPTION:Matchday 2\nGroup: Group H\nVenue: Ōita Stadium\, Ōita\nFull
+ -time: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 0-2 🇯🇵 Japan
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f0f39e68c51c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group H\nVenue: Nagai Stadium\, Osaka\nResu
- lt: 0-2
+DESCRIPTION:Matchday 3\nGroup: Group H\nVenue: Nagai Stadium\, Osaka\nFull
+ -time: 0-2
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE

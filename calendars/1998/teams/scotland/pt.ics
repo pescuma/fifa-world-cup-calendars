@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2a8d3a80a39c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Stade de France\, Saint-De
- nis\nResultado: 2-1
+ nis\nFinal: 2-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 1-1 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-ffdf20202a4f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Parc Lescure\, Bordeaux\nR
- esultado: 1-1
+DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Parc Lescure\, Bordeaux\nF
+ inal: 1-1
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 0-3 🇲🇦 Marrocos
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-846ff475fc24@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Stade Geoffroy-Guichard\, 
- Saint-Étienne\nResultado: 0-3
+ Saint-Étienne\nFinal: 0-3
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE

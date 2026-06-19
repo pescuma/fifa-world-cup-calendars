@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 1-2 🇺🇸 États-Unis
 DTSTART:20140616T220000Z
 DTEND:20140617T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-88fa534023c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Estádio das Dunas\, 
- Natal\nRésultat: 1-2
+ Natal\nFin du match: 1-2
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 États-Unis 2-2 🇵🇹 Portugal
 DTSTART:20140622T220000Z
 DTEND:20140623T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-28c6583b1eb9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group G\nStade: Arena Amazônia\, Ma
- naus\nRésultat: 2-2
+ naus\nFin du match: 2-2
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 États-Unis 0-1 🇩🇪 Allemagne
 DTSTART:20140626T160000Z
 DTEND:20140626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f628a8a8b0d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group G\nStade: Arena Pernambuco\, R
- ecife\nRésultat: 0-1
+ ecife\nFin du match: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Belgique 0-0 🇺🇸 États-Unis
+SUMMARY:🇧🇪 Belgique 0+2-1+0 🇺🇸 États-Unis
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Arena Fonte Nova\, Salvador\nRésult
- at: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Arena Fonte Nova\, Salvador\nMi-temp
+ s: 0-0\nFin du match: 0-0\nProlongation: 2-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Holanda 2-1 🇸🇦 Arábia Saudita
 DTSTART;VALUE=DATE:19940620
 DTEND;VALUE=DATE:19940621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ca3feab052c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: RFK Stadium\, Washington\n
- Resultado: 2-1
+ Final: 2-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a5f8eeced14f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nRes
- ultado: 1-0
+DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nFin
+ al: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 1-2 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-872125135787@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nRes
- ultado: 1-2
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Citrus Bowl\, Orlando\nFin
+ al: 1-2
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Holanda 2-0 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:19940704
 DTEND;VALUE=DATE:19940705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-8df0b92aad6c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Citrus Bowl\, Orlando\nResultado: 
- 2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Citrus Bowl\, Orlando\nFinal: 2-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +86,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Holanda 2-3 🇧🇷 Brasil
 DTSTART;VALUE=DATE:19940709
 DTEND;VALUE=DATE:19940710
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-70fe296db71f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Cotton Bowl\, Dallas\nResultado: 2-3
+DESCRIPTION:Quarter-finals\nEstádio: Cotton Bowl\, Dallas\nFinal: 2-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE

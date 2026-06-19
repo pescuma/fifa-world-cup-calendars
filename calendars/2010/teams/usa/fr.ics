@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-1 🇺🇸 États-Unis
 DTSTART:20100612T203000Z
 DTEND:20100612T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b981b5e0fdf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Royal Bafokeng Stadiu
- m\, Rustenburg\nRésultat: 1-1
+ m\, Rustenburg\nFin du match: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Slovénie 2-2 🇺🇸 États-Unis
 DTSTART:20100618T160000Z
 DTEND:20100618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de76fb9eb126@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Ellis Park Stadium\, 
- Johannesburg\nRésultat: 2-2
+ Johannesburg\nFin du match: 2-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 États-Unis 1-0 🇩🇿 Algérie
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38ca58514698@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Loftus Versfeld Stad
- ium\, Pretoria\nRésultat: 1-0
+ ium\, Pretoria\nFin du match: 1-0
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 États-Unis 1-1 🇬🇭 Ghana
+SUMMARY:🇺🇸 États-Unis 1+1-2+1 🇬🇭 Ghana
 DTSTART:20100626T203000Z
 DTEND:20100626T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de26bd94a443@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Royal Bafokeng Stadium\, Rustenburg\
- nRésultat: 1-1
+ nFin du match: 1-1\nProlongation: 1-2
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

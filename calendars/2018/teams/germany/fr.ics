@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 0-1 🇲🇽 Mexique
 DTSTART:20180617T150000Z
 DTEND:20180617T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-99af9986e1af@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Luzhniki Stadium\, Mo
- scow\nRésultat: 0-1
+ scow\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 2-1 🇸🇪 Suède
 DTSTART:20180623T180000Z
 DTEND:20180623T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-bfaeb11c552d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Fisht Stadium\, Soch
- i\nRésultat: 2-1
+ i\nMi-temps: 0-1\nFin du match: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-0 🇩🇪 Allemagne
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d28ab2fcbf1e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Kazan Arena\, Kazan\
- nRésultat: 2-0
+ nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

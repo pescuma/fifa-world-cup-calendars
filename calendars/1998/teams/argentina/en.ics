@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇯🇵 Japan
 DTSTART;VALUE=DATE:19980614
 DTEND;VALUE=DATE:19980615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-c31629f9ff22@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group H\nVenue: Stade de Toulouse\, Toulous
- e\nResult: 1-0
+ e\nFull-time: 1-0
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 5-0 🇯🇲 Jamaica
 DTSTART;VALUE=DATE:19980621
 DTEND;VALUE=DATE:19980622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-8a8a4527a0b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group H\nVenue: Parc des Princes\, Paris\nR
- esult: 5-0
+DESCRIPTION:Matchday 2\nGroup: Group H\nVenue: Parc des Princes\, Paris\nF
+ ull-time: 5-0
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇭🇷 Croatia
 DTSTART;VALUE=DATE:19980626
 DTEND;VALUE=DATE:19980627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-ad8e59f0d284@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group H\nVenue: Parc Lescure\, Bordeaux\nRe
- sult: 1-0
+DESCRIPTION:Matchday 3\nGroup: Group H\nVenue: Parc Lescure\, Bordeaux\nFu
+ ll-time: 1-0
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+SUMMARY:🇦🇷 Argentina 2+2[4]-[3]2+2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
+ and
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-1922eaba9100@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Stade Geoffroy-Guichard\, Saint-Étienne\n
- Result: 2-2
+ Full-time: 2-2\nExtra time: 2-2\nPenalties: 4-3
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +88,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19980704
 DTEND;VALUE=DATE:19980705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-99c35b0ce3d2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Stade Vélodrome\, Marseille\nResult: 2
- -1
+DESCRIPTION:Quarter-finals\nVenue: Stade Vélodrome\, Marseille\nFull-time
+ : 2-1
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE

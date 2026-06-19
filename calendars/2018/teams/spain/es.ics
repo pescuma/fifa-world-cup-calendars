@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-3 🇪🇸 España
 DTSTART:20180615T180000Z
 DTEND:20180615T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-98ecbb4bd0e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Fisht Stadium\, Sochi\nRes
- ultado: 3-3
+DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Fisht Stadium\, Sochi\nDes
+ canso: 2-1\nFinal: 3-3
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 0-1 🇪🇸 España
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-3a7b32664da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nResul
- tado: 0-1
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nDesca
+ nso: 0-0\nFinal: 0-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 2-2 🇲🇦 Marruecos
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-434ea9bed425@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Kaliningrad Stadium\, Kal
- iningrad\nResultado: 2-2
+ iningrad\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 España 1-1 🇷🇺 Rusia
+SUMMARY:🇪🇸 España 1+1[3]-[4]1+1 🇷🇺 Rusia
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Luzhniki Stadium\, Moscow\nResultad
- o: 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Luzhniki Stadium\, Moscow\nDescanso
+ : 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

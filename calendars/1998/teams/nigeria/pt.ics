@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 2-3 🇳🇬 Nigéria
 DTSTART;VALUE=DATE:19980613
 DTEND;VALUE=DATE:19980614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-c24a4c108af2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Stade de la Beaujoire\, Na
- ntes\nResultado: 2-3
+ ntes\nFinal: 2-3
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 1-0 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19980619
 DTEND;VALUE=DATE:19980620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-c811fa91d510@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Parc des Princes\, Paris\n
- Resultado: 1-0
+ Final: 1-0
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 1-3 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:19980624
 DTEND;VALUE=DATE:19980625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-61bcc9425686@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Stade de Toulouse\, Toulou
- se\nResultado: 1-3
+ se\nFinal: 1-3
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 1-4 🇩🇰 Dinamarca
 DTSTART;VALUE=DATE:19980628
 DTEND;VALUE=DATE:19980629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-3240a461b808@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stade de France\, Saint-Denis\nRes
- ultado: 1-4
+DESCRIPTION:Oitavas de Final\nEstádio: Stade de France\, Saint-Denis\nFin
+ al: 1-4
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

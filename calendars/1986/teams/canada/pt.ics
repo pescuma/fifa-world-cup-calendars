@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canadá 0-1 🇫🇷 França
 DTSTART;VALUE=DATE:19860601
 DTEND;VALUE=DATE:19860602
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7ca2299840c9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Estadio Nou Camp\, León\n
- Resultado: 0-1
+ Final: 0-1
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇺 Hungria 2-0 🇨🇦 Canadá
 DTSTART;VALUE=DATE:19860606
 DTEND;VALUE=DATE:19860607
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3780f6c8ee0a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 2-0
+ z\, Irapuato\nFinal: 2-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 União Soviética 2-0 🇨🇦 Canadá
 DTSTART;VALUE=DATE:19860609
 DTEND;VALUE=DATE:19860610
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-23724a7bef0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 2-0
+ z\, Irapuato\nFinal: 2-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE

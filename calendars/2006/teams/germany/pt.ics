@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 4-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e9cabd7c509e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Allianz Arena\, München\n
- Resultado: 4-2
+ Intervalo: 2-1\nFinal: 4-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-1822e4f3f7a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group A\nEstádio: Signal Iduna Park\, Dortmu
- nd\nResultado: 1-0
+ nd\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Equador 0-3 🇩🇪 Alemanha
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2c143ac811d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: Olympiastadion\, Berlin\n
- Resultado: 0-3
+ Intervalo: 0-2\nFinal: 0-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 2-0 🇸🇪 Suécia
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3b681abb66ec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Allianz Arena\, München\nResultad
- o: 2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Allianz Arena\, München\nInterval
+ o: 2-0\nFinal: 2-0
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha 1-1 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemanha 1+1[4]-[2]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstádio: Olympiastadion\, Berlin\nResultado: 1
- -1
+DESCRIPTION:Quarterfinals\nEstádio: Olympiastadion\, Berlin\nIntervalo: 0
+ -0\nFinal: 1-1\nProrrogação: 1-1\nPênaltis: 4-2
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha 0-0 🇮🇹 Itália
+SUMMARY:🇩🇪 Alemanha 0+0-2+0 🇮🇹 Itália
 DTSTART;VALUE=DATE:20060704
 DTEND;VALUE=DATE:20060705
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-09105b3bbc0d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nEstádio: Signal Iduna Park\, Dortmund\nResultado:
-  0-0
+DESCRIPTION:Semifinals\nEstádio: Signal Iduna Park\, Dortmund\nFinal: 0-0
+ \nProrrogação: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 3-1 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20060708
 DTEND;VALUE=DATE:20060709
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0c78f94d6891@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third-place play-off\nEstádio: Gottlieb-Daimler-Stadion\, Stu
- ttgart\nResultado: 3-1
+ ttgart\nIntervalo: 0-0\nFinal: 3-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-1 🇦🇺 Australie
 DTSTART:20180616T100000Z
 DTEND:20180616T120000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-41218d9b3c65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Kazan Arena\, Kazan\n
- Résultat: 2-1
+ Mi-temps: 0-0\nFin du match: 2-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 1-1 🇦🇺 Australie
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Samara Arena\, Samara
- \nRésultat: 1-1
+ \nMi-temps: 1-1\nFin du match: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 0-2 🇵🇪 Pérou
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Fisht Stadium\, Soch
- i\nRésultat: 0-2
+ i\nMi-temps: 0-1\nFin du match: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

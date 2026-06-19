@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Irlande 1-1 🇨🇲 Cameroun
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-aa499b28178a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Niigata Stadium\, Nii
- gata\nRésultat: 1-1
+ gata\nFin du match: 1-1
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-0 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-ab7bd4c77113@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Saitama Stadium\, Sai
- tama\nRésultat: 1-0
+ tama\nFin du match: 1-0
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 0-2 🇩🇪 Allemagne
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8c9bd43f5df5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: Shizuoka Stadium\, Sh
- izuoka\nRésultat: 0-2
+ izuoka\nFin du match: 0-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE

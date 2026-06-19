@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 5-1 🇹🇳 Tunisie
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-df779f16393a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Monterrey (Guadalupe)
- \nRésultat: 5-1
+ \nMi-temps: 2-1\nFin du match: 5-1
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

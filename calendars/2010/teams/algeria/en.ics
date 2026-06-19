@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Algeria 0-1 🇸🇮 Slovenia
 DTSTART:20100613T133000Z
 DTEND:20100613T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-9a1ab0a41b44@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Peter Mokaba Stadium\, Polo
- kwane\nResult: 0-1
+ kwane\nFull-time: 0-1
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0-0 🇩🇿 Algeria
 DTSTART:20100618T203000Z
 DTEND:20100618T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bcdd917f7f33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Cape Town Stadium\, Cape To
- wn\nResult: 0-0
+ wn\nFull-time: 0-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 1-0 🇩🇿 Algeria
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38ca58514698@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Loftus Versfeld Stadium\, 
- Pretoria\nResult: 1-0
+ Pretoria\nFull-time: 1-0
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE

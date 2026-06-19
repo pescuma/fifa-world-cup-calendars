@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-0 🇰🇷 Coreia do Sul
 DTSTART:20180618T120000Z
 DTEND:20180618T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group F\nEstádio: Nizhny Novgorod Stadium\, 
- Nizhny Novgorod\nResultado: 1-0
+ Nizhny Novgorod\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 2-1 🇸🇪 Suécia
 DTSTART:20180623T180000Z
 DTEND:20180623T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-bfaeb11c552d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 10\nGrupo: Group F\nEstádio: Fisht Stadium\, Sochi\nRe
- sultado: 2-1
+DESCRIPTION:Rodada 10\nGrupo: Group F\nEstádio: Fisht Stadium\, Sochi\nIn
+ tervalo: 0-1\nFinal: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 0-3 🇸🇪 Suécia
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6349ddc1c3e6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group F\nEstádio: Ekaterinburg Arena\, Ekat
- erinburg\nResultado: 0-3
+ erinburg\nIntervalo: 0-0\nFinal: 0-3
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-0 🇨🇭 Suíça
 DTSTART:20180703T140000Z
 DTEND:20180703T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-c3ad17238c32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Saint Petersburg Stadium\, Saint P
- etersburg\nResultado: 1-0
+ etersburg\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180707T140000Z
 DTEND:20180707T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e0104da7519b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Samara Arena\, Samara\nResultado: 0-
- 2
+DESCRIPTION:Quarter-finals\nEstádio: Samara Arena\, Samara\nIntervalo: 0-
+ 1\nFinal: 0-2
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

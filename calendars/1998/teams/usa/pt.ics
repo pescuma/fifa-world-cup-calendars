@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 2-0 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:19980615
 DTEND;VALUE=DATE:19980616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-d27f5045be53@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Parc des Princes\, Paris\n
- Resultado: 2-0
+ Final: 2-0
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 1-2 🇮🇷 Irã
 DTSTART;VALUE=DATE:19980621
 DTEND;VALUE=DATE:19980622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-40644643206b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Stade Gerland\, Lyon\nResu
- ltado: 1-2
+DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Stade Gerland\, Lyon\nFina
+ l: 1-2
 LOCATION:Stade Gerland\, Lyon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-1 🇷🇸🇲🇪 Iugoslávia
 DTSTART;VALUE=DATE:19980625
 DTEND;VALUE=DATE:19980626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-3e1f90f8bba4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Stade de la Beaujoire\, Na
- ntes\nResultado: 0-1
+ ntes\nFinal: 0-1
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE

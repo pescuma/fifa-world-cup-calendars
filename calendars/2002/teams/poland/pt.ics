@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-567eee81fa85@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Asiad Main Stadium\, Busan
- \nResultado: 2-0
+ \nFinal: 2-0
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 4-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-86fb3e968356@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Jeonju World Cup Stadium\,
-  Jeonju\nResultado: 4-0
+  Jeonju\nFinal: 4-0
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polônia 3-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bb8bf44a04a0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Daejeon World Cup Stadium\
- , Daejeon\nResultado: 3-1
+ , Daejeon\nFinal: 3-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

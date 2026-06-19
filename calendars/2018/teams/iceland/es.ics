@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-1 🇮🇸 Islandia
 DTSTART:20180616T130000Z
 DTEND:20180616T150000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-77becad11996@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Spartak Stadium\, Moscow\n
- Resultado: 1-1
+ Descanso: 1-1\nFinal: 1-1
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-0 🇮🇸 Islandia
 DTSTART:20180622T150000Z
 DTEND:20180622T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9c4226825d2b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Volgograd Arena\, Volgogra
- d\nResultado: 2-0
+ d\nDescanso: 0-0\nFinal: 2-0
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇸 Islandia 1-2 🇭🇷 Croacia
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ef7e3a0aaabd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Rostov Arena\, Rostov-on-
- Don\nResultado: 1-2
+ Don\nDescanso: 0-0\nFinal: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE

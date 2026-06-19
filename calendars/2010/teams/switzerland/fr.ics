@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 0-1 🇨🇭 Suisse
 DTSTART:20100616T160000Z
 DTEND:20100616T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-292696c96b55@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Moses Mabhida Stadium
- \, Durban\nRésultat: 0-1
+ \, Durban\nFin du match: 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-0 🇨🇭 Suisse
 DTSTART:20100621T160000Z
 DTEND:20100621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2f6489a3d89f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: Nelson Mandela Bay S
- tadium\, Port Elizabeth\nRésultat: 1-0
+ tadium\, Port Elizabeth\nFin du match: 1-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 0-0 🇭🇳 Honduras
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-8da3f16fff52@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Free State Stadium\,
-  Bloemfontein\nRésultat: 0-0
+  Bloemfontein\nFin du match: 0-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE

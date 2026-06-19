@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇳🇬 Nigéria
 DTSTART:20100612T160000Z
 DTEND:20100612T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-70acf28e22b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Ellis Park Stadium\, Johan
- nesburg\nResultado: 1-0
+ nesburg\nFinal: 1-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grécia 2-1 🇳🇬 Nigéria
 DTSTART:20100617T160000Z
 DTEND:20100617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-63494663be75@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Free State Stadium\, Bloem
- fontein\nResultado: 2-1
+ fontein\nFinal: 2-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 2-2 🇰🇷 Coreia do Sul
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e7195ec21202@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group B\nEstádio: Moses Mabhida Stadium\, D
- urban\nResultado: 2-2
+ urban\nFinal: 2-2
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE

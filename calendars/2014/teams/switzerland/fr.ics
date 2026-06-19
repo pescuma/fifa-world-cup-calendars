@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 2-1 🇪🇨 Équateur
 DTSTART:20140615T160000Z
 DTEND:20140615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-02d7ebff0271@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Estádio Nacional Man
- é Garrincha\, Brasília\nRésultat: 2-1
+ é Garrincha\, Brasília\nFin du match: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 2-5 🇫🇷 France
 DTSTART:20140620T190000Z
 DTEND:20140620T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1a7e2b961b8e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Arena Fonte Nova\, Sa
- lvador\nRésultat: 2-5
+ lvador\nFin du match: 2-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-3 🇨🇭 Suisse
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-798f776ae884@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Arena Amazônia\, Ma
- naus\nRésultat: 0-3
+ naus\nFin du match: 0-3
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 0-0 🇨🇭 Suisse
+SUMMARY:🇦🇷 Argentine 0+1-0+0 🇨🇭 Suisse
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nR
- ésultat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nMi
+ -temps: 0-0\nFin du match: 0-0\nProlongation: 1-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE

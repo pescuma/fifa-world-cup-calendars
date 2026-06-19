@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-1 🇨🇱 Chili
 DTSTART:20100616T133000Z
 DTEND:20100616T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-db568481ff2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Mbombela Stadium\, Ne
- lspruit\nRésultat: 0-1
+ lspruit\nFin du match: 0-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-0 🇨🇭 Suisse
 DTSTART:20100621T160000Z
 DTEND:20100621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2f6489a3d89f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: Nelson Mandela Bay S
- tadium\, Port Elizabeth\nRésultat: 1-0
+ tadium\, Port Elizabeth\nFin du match: 1-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-2 🇪🇸 Espagne
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-ee1d7ab685f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Loftus Versfeld Stad
- ium\, Pretoria\nRésultat: 1-2
+ ium\, Pretoria\nFin du match: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 3-0 🇨🇱 Chili
 DTSTART:20100628T203000Z
 DTEND:20100628T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-56852b1b022f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Ellis Park Stadium\, Johannesburg\nR
- ésultat: 3-0
+DESCRIPTION:1/8ème de finale\nStade: Ellis Park Stadium\, Johannesburg\nF
+ in du match: 3-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

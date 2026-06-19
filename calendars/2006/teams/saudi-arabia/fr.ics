@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisie 2-2 🇸🇦 Arabie saoudite
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e3aa6f129dfb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Allianz Arena\, Münc
- hen\nRésultat: 2-2
+ hen\nMi-temps: 1-0\nFin du match: 2-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 0-4 🇺🇦 Ukraine
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-65236172e729@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: AOL Arena\, Hamburg\
- nRésultat: 0-4
+ nMi-temps: 0-2\nFin du match: 0-4
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 0-1 🇪🇸 Espagne
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5d653704a5ae@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Fritz-Walter-Stadion
- \, Kaiserslautern\nRésultat: 0-1
+ \, Kaiserslautern\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE

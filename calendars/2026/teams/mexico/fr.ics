@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 2-0 🇿🇦 Afrique du Sud
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-11a1dcab930a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Mexico City\nRésulta
- t: 2-0
+DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Mexico City\nMi-temps
+ : 1-0\nFin du match: 2-0
 LOCATION:Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 1-0 🇰🇷 Corée du Sud
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-7e2495985fc6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group A\nStade: Guadalajara (Zapopan)
- \nRésultat: 1-0
+ \nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

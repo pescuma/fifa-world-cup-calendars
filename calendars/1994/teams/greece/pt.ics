@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 4-0 🇬🇷 Grécia
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-3cf44d494007@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Foxboro Stadium\, Foxborou
- gh\nResultado: 4-0
+ gh\nFinal: 4-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grécia 0-4 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14f82ae2a07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Soldier Field\, Chicago\nR
- esultado: 0-4
+DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Soldier Field\, Chicago\nF
+ inal: 0-4
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grécia 0-2 🇳🇬 Nigéria
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ad2bf99068e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Foxboro Stadium\, Foxborou
- gh\nResultado: 0-2
+ gh\nFinal: 0-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE

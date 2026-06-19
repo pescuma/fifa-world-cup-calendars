@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 2-2 🇯🇵 Japon
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-744bfbfd7938@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Dallas (Arlington)\nR
- ésultat: 2-2
+DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Dallas (Arlington)\nM
+ i-temps: 0-0\nFin du match: 2-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

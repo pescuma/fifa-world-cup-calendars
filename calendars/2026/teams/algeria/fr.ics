@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 3-0 🇩🇿 Algérie
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-3d712cde556f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 6\nGroupe: Group J\nStade: Kansas City\nRésulta
- t: 3-0
+DESCRIPTION:Jour de match 6\nGroupe: Group J\nStade: Kansas City\nMi-temps
+ : 1-0\nFin du match: 3-0
 LOCATION:Kansas City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 3-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-4d9e98680c46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nResul
- t: 3-0
+DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nFull-
+ time: 3-0
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-31441ae905a3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 2-1
+ h\nFull-time: 2-1
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 0-2 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ad2bf99068e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 0-2
+ h\nFull-time: 0-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇬 Nigeria 1-1 🇮🇹 Italy
+SUMMARY:🇳🇬 Nigeria 1+1-2+1 🇮🇹 Italy
 DTSTART;VALUE=DATE:19940705
 DTEND;VALUE=DATE:19940706
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-17b9aa88c4c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Foxboro Stadium\, Foxborough\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Foxboro Stadium\, Foxborough\nFull-time: 1
+ -1\nExtra time: 1-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE

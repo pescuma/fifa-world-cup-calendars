@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 1-0 🇰🇷 Corée du Sud
 DTSTART:20180618T120000Z
 DTEND:20180618T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-febfd85bc8d3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group F\nStade: Nizhny Novgorod Stadi
- um\, Nizhny Novgorod\nRésultat: 1-0
+ um\, Nizhny Novgorod\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 1-2 🇲🇽 Mexique
 DTSTART:20180623T150000Z
 DTEND:20180623T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-5cfd82941e73@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Rostov Arena\, Rosto
- v-on-Don\nRésultat: 1-2
+ v-on-Don\nMi-temps: 0-1\nFin du match: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-0 🇩🇪 Allemagne
 DTSTART:20180627T140000Z
 DTEND:20180627T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d28ab2fcbf1e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Kazan Arena\, Kazan\
- nRésultat: 2-0
+ nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

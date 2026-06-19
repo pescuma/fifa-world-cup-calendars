@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-1 🇹🇬 Togo
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-363a52566752@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Commerzbank-Arena\, F
- rankfurt\nRésultat: 2-1
+ rankfurt\nMi-temps: 0-1\nFin du match: 2-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇨🇭 Suisse
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ebf4a3be67e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group G\nStade: Signal Iduna Park\, 
- Dortmund\nRésultat: 0-2
+ Dortmund\nMi-temps: 0-1\nFin du match: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇫🇷 France
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-b270c037059e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group G\nStade: RheinEnergieStadion\
- , Köln\nRésultat: 0-2
+ , Köln\nMi-temps: 0-0\nFin du match: 0-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE

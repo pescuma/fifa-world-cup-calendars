@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇬 Egito 0-1 🇺🇾 Uruguai
 DTSTART:20180615T120000Z
 DTEND:20180615T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-be39861dd5d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Ekaterinburg Arena\, Ekate
- rinburg\nResultado: 0-1
+ rinburg\nIntervalo: 0-0\nFinal: 0-1
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 1-0 🇸🇦 Arábia Saudita
 DTSTART:20180620T150000Z
 DTEND:20180620T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e1e7b9e7977d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 7\nGrupo: Group A\nEstádio: Rostov Arena\, Rostov-on-D
- on\nResultado: 1-0
+ on\nIntervalo: 1-0\nFinal: 1-0
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 3-0 🇷🇺 Rússia
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1c7431d958de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: Samara Arena\, Samara\nRe
- sultado: 3-0
+DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: Samara Arena\, Samara\nIn
+ tervalo: 2-0\nFinal: 3-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 2-1 🇵🇹 Portugal
 DTSTART:20180630T180000Z
 DTEND:20180630T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-4a2dad415171@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Fisht Stadium\, Sochi\nResultado: 
- 2-1
+DESCRIPTION:Oitavas de Final\nEstádio: Fisht Stadium\, Sochi\nIntervalo: 
+ 1-0\nFinal: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 0-2 🇫🇷 França
 DTSTART:20180706T140000Z
 DTEND:20180706T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6e384982c147@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Nizhny Novgorod Stadium\, Nizhny Nov
- gorod\nResultado: 0-2
+ gorod\nIntervalo: 0-1\nFinal: 0-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE

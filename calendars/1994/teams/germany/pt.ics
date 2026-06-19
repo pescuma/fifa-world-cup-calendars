@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇧🇴 Bolívia
 DTSTART;VALUE=DATE:19940617
 DTEND;VALUE=DATE:19940618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a0867bb976e1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nR
- esultado: 1-0
+DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nF
+ inal: 1-0
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-1 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-4ac51ab6614d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nR
- esultado: 1-1
+DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nF
+ inal: 1-1
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 3-2 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:19940627
 DTEND;VALUE=DATE:19940628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-69ee0ce275bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Cotton Bowl\, Dallas\nResu
- ltado: 3-2
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Cotton Bowl\, Dallas\nFina
+ l: 3-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 3-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19940702
 DTEND;VALUE=DATE:19940703
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ec0c2d3c47f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Soldier Field\, Chicago\nResultado
- : 3-2
+DESCRIPTION:Oitavas de Final\nEstádio: Soldier Field\, Chicago\nFinal: 3-
+ 2
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgária 2-1 🇩🇪 Alemanha
 DTSTART;VALUE=DATE:19940710
 DTEND;VALUE=DATE:19940711
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-bd523e9b082f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Giants Stadium\, East Rutherford\nRe
- sultado: 2-1
+DESCRIPTION:Quarter-finals\nEstádio: Giants Stadium\, East Rutherford\nFi
+ nal: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE

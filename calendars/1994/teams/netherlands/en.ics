@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇸🇦 Saudi Arabia
 DTSTART;VALUE=DATE:19940620
 DTEND;VALUE=DATE:19940621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ca3feab052c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: RFK Stadium\, Washington\nR
- esult: 2-1
+DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: RFK Stadium\, Washington\nF
+ ull-time: 2-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇳🇱 Netherlands
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a5f8eeced14f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 1-0
+DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 1-2 🇳🇱 Netherlands
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-872125135787@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 1-2
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 1-2
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940704
 DTEND;VALUE=DATE:19940705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-8df0b92aad6c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nResult: 2-0
+DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nFull-time: 2-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,11 +86,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-3 🇧🇷 Brazil
 DTSTART;VALUE=DATE:19940709
 DTEND;VALUE=DATE:19940710
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-70fe296db71f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Cotton Bowl\, Dallas\nResult: 2-3
+DESCRIPTION:Quarter-finals\nVenue: Cotton Bowl\, Dallas\nFull-time: 2-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE

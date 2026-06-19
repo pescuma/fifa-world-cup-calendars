@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-3 🇨🇿 Chequia
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-07fb0fd40dca@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-3
+ hen\nDescanso: 0-2\nFinal: 0-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9bc1eb535532@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Fritz-Walter-Stadion\, Kai
- serslautern\nResultado: 1-1
+ serslautern\nDescanso: 1-1\nFinal: 1-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 2-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8ea213d2c02b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Frankenstadion\, Nürnber
- g\nResultado: 2-1
+ g\nDescanso: 2-1\nFinal: 2-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇧🇴 Bolívia
 DTSTART;VALUE=DATE:19940617
 DTEND;VALUE=DATE:19940618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a0867bb976e1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nR
- esultado: 1-0
+DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nF
+ inal: 1-0
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 0-0 🇧🇴 Bolívia
 DTSTART;VALUE=DATE:19940623
 DTEND;VALUE=DATE:19940624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0b1eecca43c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Foxboro Stadium\, Foxborou
- gh\nResultado: 0-0
+ gh\nFinal: 0-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇴 Bolívia 1-3 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19940627
 DTEND;VALUE=DATE:19940628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-00b429f0713c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nR
- esultado: 1-3
+DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Soldier Field\, Chicago\nF
+ inal: 1-3
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -10,11 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 2-0 🇿🇦 South Africa
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-11a1dcab930a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Mexico City\nResult: 2-0
+DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Mexico City\nHalf-time: 1-0
+ \nFull-time: 2-0
 LOCATION:Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -28,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-1 🇨🇿 Czechia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-dfd8df44c1fb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nResu
- lt: 2-1
+DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nHalf
+ -time: 0-0\nFull-time: 2-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -47,11 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Czechia 1-1 🇿🇦 South Africa
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Atlanta\nResult: 1-1
+DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Atlanta\nHalf-time: 1-0\nFu
+ ll-time: 1-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 1-0 🇰🇷 South Korea
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-7e2495985fc6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nResu
- lt: 1-0
+DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nHalf
+ -time: 0-0\nFull-time: 1-0
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -120,11 +122,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-965e9ac9ce78@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Toronto\nResult: 1-1
+DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Toronto\nHalf-time: 0-1\nFu
+ ll-time: 1-1
 LOCATION:Toronto
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -138,12 +141,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 1-1 🇨🇭 Switzerland
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-11a1e8291690@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: San Francisco Bay Area (San
- ta Clara)\nResult: 1-1
+ ta Clara)\nHalf-time: 0-1\nFull-time: 1-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -157,12 +160,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 4-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-28e5beab171a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)\nRe
- sult: 4-1
+DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)\nHa
+ lf-time: 0-0\nFull-time: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -176,11 +179,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 6-0 🇶🇦 Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-106797924277@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Vancouver\nResult: 6-0
+DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Vancouver\nHalf-time: 3-0\n
+ Full-time: 6-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -230,12 +234,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-1 🇲🇦 Morocco
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-51c5def6e311@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: New York/New Jersey (East R
- utherford)\nResult: 1-1
+ utherford)\nHalf-time: 1-1\nFull-time: 1-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -249,12 +253,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-ec4c7885a3a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Boston (Foxborough)\nResult
- : 0-1
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Boston (Foxborough)\nHalf-t
+ ime: 0-1\nFull-time: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -340,12 +344,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 4-1 🇵🇾 Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-fdf1bfc654f3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Los Angeles (Inglewood)\nRe
- sult: 4-1
+DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Los Angeles (Inglewood)\nHa
+ lf-time: 3-0\nFull-time: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -359,11 +363,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 2-0 🇹🇷 Türkiye
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-998d2005257f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Vancouver\nResult: 2-0
+DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Vancouver\nHalf-time: 1-0\n
+ Full-time: 2-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -451,11 +456,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 7-1 🇨🇼 Curaçao
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-764217ec91b0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Houston\nResult: 7-1
+DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Houston\nHalf-time: 3-1\nFu
+ ll-time: 7-1
 LOCATION:Houston
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -469,11 +475,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 1-0 🇪🇨 Ecuador
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-0ef2205260cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Philadelphia\nResult: 1-0
+DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Philadelphia\nHalf-time: 0-
+ 0\nFull-time: 1-0
 LOCATION:Philadelphia
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -560,12 +567,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-2 🇯🇵 Japan
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-744bfbfd7938@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Dallas (Arlington)\nResult:
-  2-2
+DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Dallas (Arlington)\nHalf-ti
+ me: 0-0\nFull-time: 2-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -579,12 +586,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Sweden 5-1 🇹🇳 Tunisia
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-df779f16393a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Monterrey (Guadalupe)\nResu
- lt: 5-1
+DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Monterrey (Guadalupe)\nHalf
+ -time: 2-1\nFull-time: 5-1
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -670,11 +677,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-1 🇪🇬 Egypt
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-323786f24db4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Seattle\nResult: 1-1
+DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Seattle\nHalf-time: 0-1\nFu
+ ll-time: 1-1
 LOCATION:Seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -688,12 +696,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 2-2 🇳🇿 New Zealand
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-af1e7aa5490e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Los Angeles (Inglewood)\nRe
- sult: 2-2
+DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Los Angeles (Inglewood)\nHa
+ lf-time: 1-1\nFull-time: 2-2
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -779,11 +787,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 0-0 🇨🇻 Cape Verde
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-95c833b74439@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Atlanta\nResult: 0-0
+DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Atlanta\nHalf-time: 0-0\nFu
+ ll-time: 0-0
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -797,12 +806,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Saudi Arabia 1-1 🇺🇾 Uruguay
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-b9f4734fd923@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Miami (Miami Gardens)\nResu
- lt: 1-1
+DESCRIPTION:Matchday 5\nGroup: Group H\nVenue: Miami (Miami Gardens)\nHalf
+ -time: 1-0\nFull-time: 1-1
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -888,12 +897,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 3-1 🇸🇳 Senegal
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-0f846365870d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group I\nVenue: New York/New Jersey (East R
- utherford)\nResult: 3-1
+ utherford)\nHalf-time: 0-0\nFull-time: 3-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -907,12 +916,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Iraq 1-4 🇳🇴 Norway
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-cccee6959e93@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 6\nGroup: Group I\nVenue: Boston (Foxborough)\nResult
- : 1-4
+DESCRIPTION:Matchday 6\nGroup: Group I\nVenue: Boston (Foxborough)\nHalf-t
+ ime: 1-2\nFull-time: 1-4
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -999,11 +1008,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-0 🇩🇿 Algeria
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-3d712cde556f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 6\nGroup: Group J\nVenue: Kansas City\nResult: 3-0
+DESCRIPTION:Matchday 6\nGroup: Group J\nVenue: Kansas City\nHalf-time: 1-0
+ \nFull-time: 3-0
 LOCATION:Kansas City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1017,12 +1027,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Austria 3-1 🇯🇴 Jordan
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-647e537b682d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group J\nVenue: San Francisco Bay Area (San
- ta Clara)\nResult: 3-1
+ ta Clara)\nHalf-time: 1-0\nFull-time: 3-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1109,11 +1119,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-1 🇨🇩 Congo - Kinshasa
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-762d3e9456fd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group K\nVenue: Houston\nResult: 1-1
+DESCRIPTION:Matchday 7\nGroup: Group K\nVenue: Houston\nHalf-time: 1-1\nFu
+ ll-time: 1-1
 LOCATION:Houston
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1127,11 +1138,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇿 Uzbekistan 1-3 🇨🇴 Colombia
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-961435d8626c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group K\nVenue: Mexico City\nResult: 1-3
+DESCRIPTION:Matchday 7\nGroup: Group K\nVenue: Mexico City\nHalf-time: 0-1
+ \nFull-time: 1-3
 LOCATION:Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1217,12 +1229,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 4-2 🇭🇷 Croatia
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-1d9bf69d0e64@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group L\nVenue: Dallas (Arlington)\nResult:
-  4-2
+DESCRIPTION:Matchday 7\nGroup: Group L\nVenue: Dallas (Arlington)\nHalf-ti
+ me: 2-2\nFull-time: 4-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1236,11 +1248,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 1-0 🇵🇦 Panama
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-3cf93686bcf8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group L\nVenue: Toronto\nResult: 1-0
+DESCRIPTION:Matchday 7\nGroup: Group L\nVenue: Toronto\nHalf-time: 0-0\nFu
+ ll-time: 1-0
 LOCATION:Toronto
 STATUS:CONFIRMED
 TRANSP:OPAQUE

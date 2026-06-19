@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatie 2-0 🇳🇬 Nigeria
 DTSTART:20180616T190000Z
 DTEND:20180616T210000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e6dfea62b091@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Kaliningrad Stadium\,
-  Kaliningrad\nRésultat: 2-0
+  Kaliningrad\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 0-3 🇭🇷 Croatie
 DTSTART:20180621T180000Z
 DTEND:20180621T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-07a193eda2cc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group D\nStade: Nizhny Novgorod Stadi
- um\, Nizhny Novgorod\nRésultat: 0-3
+ um\, Nizhny Novgorod\nMi-temps: 0-0\nFin du match: 0-3
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇸 Islande 1-2 🇭🇷 Croatie
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ef7e3a0aaabd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Rostov Arena\, Rosto
- v-on-Don\nRésultat: 1-2
+ v-on-Don\nMi-temps: 0-0\nFin du match: 1-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 1-1 🇩🇰 Danemark
+SUMMARY:🇭🇷 Croatie 1+1[3]-[2]1+1 🇩🇰 Danemark
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Nizhny Novgorod Stadium\, Nizhny Nov
- gorod\nRésultat: 1-1
+ gorod\nMi-temps: 1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3
+ -2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,14 +85,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Russie 1-1 🇭🇷 Croatie
+SUMMARY:🇷🇺 Russie 1+2[3]-[4]2+1 🇭🇷 Croatie
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Fisht Stadium\, Sochi\nRésultat: 1-1
+DESCRIPTION:Quarter-finals\nStade: Fisht Stadium\, Sochi\nMi-temps: 1-1\nF
+ in du match: 1-1\nProlongation: 2-2\nTirs au but: 3-4
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -102,14 +104,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇭🇷 Croatie 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Luzhniki Stadium\, Moscow\nRésultat: 1-1
+DESCRIPTION:Semi-finals\nStade: Luzhniki Stadium\, Moscow\nMi-temps: 0-1\n
+ Fin du match: 1-1\nProlongation: 2-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -123,11 +126,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-2 🇭🇷 Croatie
 DTSTART:20180715T150000Z
 DTEND:20180715T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1367436b01e2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Luzhniki Stadium\, Moscow\nRésultat: 4-2
+DESCRIPTION:Finale\nStade: Luzhniki Stadium\, Moscow\nMi-temps: 2-1\nFin d
+ u match: 4-2
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

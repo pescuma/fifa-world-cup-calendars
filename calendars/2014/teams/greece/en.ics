@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 3-0 🇬🇷 Greece
 DTSTART:20140614T160000Z
 DTEND:20140614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-51bc21076b1c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Estádio Mineirão\, Belo H
- orizonte\nResult: 3-0
+ orizonte\nFull-time: 3-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 0-0 🇬🇷 Greece
 DTSTART:20140619T220000Z
 DTEND:20140620T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-03f27ae20ed0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Estádio das Dunas\, Natal\
- nResult: 0-0
+ nFull-time: 0-0
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 2-1 🇨🇮 Côte d’Ivoire
 DTSTART:20140624T200000Z
 DTEND:20140624T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2c1ffdd986b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Estádio Castelão\, Forta
- leza\nResult: 2-1
+ leza\nFull-time: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1-1 🇬🇷 Greece
+SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Greece
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Arena Pernambuco\, Recife\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Arena Pernambuco\, Recife\nHalf-time: 0-0\
+ nFull-time: 1-1\nExtra time: 1-1\nPenalties: 5-3
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE

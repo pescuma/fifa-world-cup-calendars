@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-834cde131dab@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: AOL Arena\, Hamburg\nResult
- : 2-1
+DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: AOL Arena\, Hamburg\nHalf-t
+ ime: 2-0\nFull-time: 2-1
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Serbia and Montenegro
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2188068146c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Veltins-Arena\, Gelsenkirch
- en\nResult: 6-0
+ en\nHalf-time: 3-0\nFull-time: 6-0
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 0-0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-aff9fc967487@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Commerzbank-Arena\, Frankf
- urt\nResult: 0-0
+ urt\nFull-time: 0-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 1-1 🇲🇽 Mexico
+SUMMARY:🇦🇷 Argentina 1+2-1+1 🇲🇽 Mexico
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Zentralstadion\, Leipzig\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Zentralstadion\, Leipzig\nHalf-time: 1-1\n
+ Full-time: 1-1\nExtra time: 2-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -83,14 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Germany 1-1 🇦🇷 Argentina
+SUMMARY:🇩🇪 Germany 1+1[4]-[2]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Olympiastadion\, Berlin\nResult: 1-1
+DESCRIPTION:Quarterfinals\nVenue: Olympiastadion\, Berlin\nHalf-time: 0-0\
+ nFull-time: 1-1\nExtra time: 1-1\nPenalties: 4-2
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 2-1 🇧🇦 Bosnie-Herzégovine
 DTSTART:20140615T220000Z
 DTEND:20140616T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Estádio do Maracanã
- \, Rio de Janeiro\nRésultat: 2-1
+ \, Rio de Janeiro\nFin du match: 2-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 1-0 🇮🇷 Iran
 DTSTART:20140621T160000Z
 DTEND:20140621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-b4c6c767d376@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Estádio Mineirão\,
-  Belo Horizonte\nRésultat: 1-0
+  Belo Horizonte\nFin du match: 1-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-3 🇦🇷 Argentine
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-9929af3547cc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Estádio Beira-Rio\,
-  Porto Alegre\nRésultat: 2-3
+  Porto Alegre\nFin du match: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 0-0 🇨🇭 Suisse
+SUMMARY:🇦🇷 Argentine 0+1-0+0 🇨🇭 Suisse
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nR
- ésultat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nMi
+ -temps: 0-0\nFin du match: 0-0\nProlongation: 1-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 1-0 🇧🇪 Belgique
 DTSTART:20140705T160000Z
 DTEND:20140705T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-521839877bf3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Estádio Nacional Mané Garrincha\, Bra
- sília\nRésultat: 1-0
+ sília\nMi-temps: 1-0\nFin du match: 1-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0-0 🇦🇷 Argentine
+SUMMARY:🇳🇱 Pays-Bas 0+0[2]-[4]0+0 🇦🇷 Argentine
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Arena de São Paulo\, São Paulo\nRésulta
- t: 0-0
+DESCRIPTION:Semi-finals\nStade: Arena de São Paulo\, São Paulo\nMi-temps
+ : 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 2-4
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,15 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0-0 🇦🇷 Argentine
+SUMMARY:🇩🇪 Allemagne 0+1-0+0 🇦🇷 Argentine
 DTSTART:20140713T190000Z
 DTEND:20140713T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-c2c7bc84b8ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Estádio do Maracanã\, Rio de Janeiro\nRésult
- at: 0-0
+DESCRIPTION:Finale\nStade: Estádio do Maracanã\, Rio de Janeiro\nMi-temp
+ s: 0-0\nFin du match: 0-0\nProlongation: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 3-1 🇸🇳 Sénégal
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-0f846365870d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group I\nStade: New York/New Jersey (
- East Rutherford)\nRésultat: 3-1
+ East Rutherford)\nMi-temps: 0-0\nFin du match: 3-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

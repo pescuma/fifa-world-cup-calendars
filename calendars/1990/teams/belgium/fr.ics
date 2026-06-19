@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 2-0 🇰🇷 Corée du Sud
 DTSTART;VALUE=DATE:19900612
 DTEND;VALUE=DATE:19900613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-c2b871ca9ce7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Stadio Marc'Antonio B
- entegodi\, Verona\nRésultat: 2-0
+ entegodi\, Verona\nFin du match: 2-0
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 3-1 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19900617
 DTEND;VALUE=DATE:19900618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-59bb107b8b9a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Stadio Marc'Antonio B
- entegodi\, Verona\nRésultat: 3-1
+ entegodi\, Verona\nFin du match: 3-1
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 1-2 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-2f9f7f36fa45@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: Stadio Marc'Antonio B
- entegodi\, Verona\nRésultat: 1-2
+ entegodi\, Verona\nFin du match: 1-2
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇧🇪 Belgique
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0+1-0+0 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stadio Renato Dall'Ara\, Bologna\nR
- ésultat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Stadio Renato Dall'Ara\, Bologna\nFi
+ n du match: 0-0\nProlongation: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE

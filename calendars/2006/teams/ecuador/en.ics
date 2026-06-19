@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 0-2 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-639448b151ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Veltins-Arena\, Gelsenkirch
- en\nResult: 0-2
+ en\nHalf-time: 0-1\nFull-time: 0-2
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 3-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-27d3674e048e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 7\nGroup: Group A\nVenue: AOL Arena\, Hamburg\nResult
- : 3-0
+DESCRIPTION:Matchday 7\nGroup: Group A\nVenue: AOL Arena\, Hamburg\nHalf-t
+ ime: 1-0\nFull-time: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 0-3 🇩🇪 Germany
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2c143ac811d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Olympiastadion\, Berlin\nR
- esult: 0-3
+DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Olympiastadion\, Berlin\nH
+ alf-time: 0-2\nFull-time: 0-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-0 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Gottlieb-Daimler-Stadion\, Stuttgart\nResu
- lt: 1-0
+DESCRIPTION:Round of 16\nVenue: Gottlieb-Daimler-Stadion\, Stuttgart\nHalf
+ -time: 0-0\nFull-time: 1-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE

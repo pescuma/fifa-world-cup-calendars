@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisie 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180618T180000Z
 DTEND:20180618T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e5ea05124043@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Volgograd Arena\, Vol
- gograd\nRésultat: 1-2
+ gograd\nMi-temps: 1-1\nFin du match: 1-2
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 6-1 🇵🇦 Panama
 DTSTART:20180624T120000Z
 DTEND:20180624T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ce3d47cd8dcc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group G\nStade: Nizhny Novgorod Stad
- ium\, Nizhny Novgorod\nRésultat: 6-1
+ ium\, Nizhny Novgorod\nMi-temps: 5-0\nFin du match: 6-1
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-1 🇧🇪 Belgique
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a731a660ece1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group G\nStade: Kaliningrad Stadium\
- , Kaliningrad\nRésultat: 0-1
+ , Kaliningrad\nMi-temps: 0-0\nFin du match: 0-1
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -66,15 +66,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombie 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇨🇴 Colombie 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angle
+ terre
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Spartak Stadium\, Moscow\nRésultat:
-  1-1
+DESCRIPTION:1/8ème de finale\nStade: Spartak Stadium\, Moscow\nMi-temps: 
+ 0-0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-4
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -88,11 +89,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180707T140000Z
 DTEND:20180707T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e0104da7519b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Samara Arena\, Samara\nRésultat: 0-2
+DESCRIPTION:Quarter-finals\nStade: Samara Arena\, Samara\nMi-temps: 0-1\nF
+ in du match: 0-2
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,14 +105,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇭🇷 Croatie 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Luzhniki Stadium\, Moscow\nRésultat: 1-1
+DESCRIPTION:Semi-finals\nStade: Luzhniki Stadium\, Moscow\nMi-temps: 0-1\n
+ Fin du match: 1-1\nProlongation: 2-1
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +127,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 2-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180714T140000Z
 DTEND:20180714T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f9ee57e56f7e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Match pour la 3ème place\nStade: Saint Petersburg Stadium\, S
- t. Petersburg\nRésultat: 2-0
+ t. Petersburg\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

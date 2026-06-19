@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 DTSTART;VALUE=DATE:19900611
 DTEND;VALUE=DATE:19900612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-4bca509973e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
- noa\nResultado: 1-0
+ noa\nFinal: 1-0
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b81dd140829a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Stadio Delle Alpi\, Turin\
- nResultado: 1-0
+ nFinal: 1-0
 LOCATION:Stadio Delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900620
 DTEND;VALUE=DATE:19900621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-02e7e03fe155@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
- noa\nResultado: 1-2
+ noa\nFinal: 1-2
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿🇸🇰 Tchecoslováquia 4-1 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d95df0f4098b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Nicola\, Bari\nResultad
- o: 4-1
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Nicola\, Bari\nFinal: 4
+ -1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE

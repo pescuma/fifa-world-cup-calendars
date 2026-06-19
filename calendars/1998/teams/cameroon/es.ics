@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 1-1 🇦🇹 Austria
 DTSTART;VALUE=DATE:19980611
 DTEND;VALUE=DATE:19980612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-d9dc72aa7b5d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group B\nEstadio: Stade de Toulouse\, Toulou
- se\nResultado: 1-1
+ se\nFinal: 1-1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 3-0 🇨🇲 Camerún
 DTSTART;VALUE=DATE:19980617
 DTEND;VALUE=DATE:19980618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-19402be4389e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Stade de la Mosson\, Montp
- ellier\nResultado: 3-0
+ ellier\nFinal: 3-0
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-1 🇨🇲 Camerún
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-b18b66170926@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group B\nEstadio: Stade de la Beaujoire\, Na
- ntes\nResultado: 1-1
+ ntes\nFinal: 1-1
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE

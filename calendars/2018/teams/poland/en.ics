@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 1-2 🇸🇳 Senegal
 DTSTART:20180619T150000Z
 DTEND:20180619T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-602b457a3fc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Spartak Stadium\, Moscow\nR
- esult: 1-2
+DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Spartak Stadium\, Moscow\nH
+ alf-time: 0-1\nFull-time: 1-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 0-3 🇨🇴 Colombia
 DTSTART:20180624T180000Z
 DTEND:20180624T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-055e8604f531@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Kazan Arena\, Kazan\nResul
- t: 0-3
+DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Kazan Arena\, Kazan\nHalf-
+ time: 0-1\nFull-time: 0-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 0-1 🇵🇱 Poland
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-26c67f1c3c48@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group H\nVenue: Volgograd Arena\, Volgogra
- d\nResult: 0-1
+ d\nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE

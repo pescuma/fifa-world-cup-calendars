@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 1-5 🇳🇱 Países Bajos
 DTSTART:20140613T190000Z
 DTEND:20140613T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a058b1c6d72b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Arena Fonte Nova\, Salvado
- r\nResultado: 1-5
+ r\nDescanso: 1-1\nFinal: 1-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 0-2 🇨🇱 Chile
 DTSTART:20140618T190000Z
 DTEND:20140618T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-acf91bb6bbb8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Estádio do Maracanã\, Ri
- o de Janeiro\nResultado: 0-2
+ o de Janeiro\nFinal: 0-2
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 0-3 🇪🇸 España
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-07b90b7203e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Arena da Baixada\, Curiti
- ba\nResultado: 0-3
+ ba\nFinal: 0-3
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE

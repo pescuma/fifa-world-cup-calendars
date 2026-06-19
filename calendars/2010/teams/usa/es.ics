@@ -12,12 +12,12 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇺🇸 Estados Unido
  s
 DTSTART:20100612T203000Z
 DTEND:20100612T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b981b5e0fdf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: Royal Bafokeng Stadium\, R
- ustenburg\nResultado: 1-1
+ ustenburg\nFinal: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Eslovenia 2-2 🇺🇸 Estados Unidos
 DTSTART:20100618T160000Z
 DTEND:20100618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de76fb9eb126@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Ellis Park Stadium\, Johan
- nesburg\nResultado: 2-2
+ nesburg\nFinal: 2-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 1-0 🇩🇿 Argelia
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38ca58514698@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Loftus Versfeld Stadium\,
-  Pretoria\nResultado: 1-0
+  Pretoria\nFinal: 1-0
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -66,15 +66,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 Estados Unidos 1-1 🇬🇭 Ghana
+SUMMARY:🇺🇸 Estados Unidos 1+1-2+1 🇬🇭 Ghana
 DTSTART:20100626T203000Z
 DTEND:20100626T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de26bd94a443@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Royal Bafokeng Stadium\, Rustenburg
- \nResultado: 1-1
+ \nFinal: 1-1\nPrórroga: 1-2
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

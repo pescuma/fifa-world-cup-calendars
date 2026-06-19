@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 1-0 🇮🇶 Irak
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c269604e764c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group B\nStade: Estadio Nemesio Díez
- \, Toluca\nRésultat: 1-0
+ \, Toluca\nFin du match: 1-0
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Irak 1-2 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f008d87774b3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Estadio Nemesio Díez
- \, Toluca\nRésultat: 1-2
+ \, Toluca\nFin du match: 1-2
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Irak 0-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group B\nStade: Estadio Azteca\, Mexi
- co City\nRésultat: 0-1
+ co City\nFin du match: 0-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

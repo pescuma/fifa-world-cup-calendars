@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Austria 3-1 🇯🇴 Jordan
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-647e537b682d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group J\nVenue: San Francisco Bay Area (San
- ta Clara)\nResult: 3-1
+ ta Clara)\nHalf-time: 1-0\nFull-time: 3-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

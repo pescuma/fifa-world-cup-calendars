@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇲🇦 Marruecos
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9d073189a8f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 1\nGrupo: Group F\nEstadio: Citrus Bowl\, Orlando\nRes
- ultado: 1-0
+DESCRIPTION:Jornada 1\nGrupo: Group F\nEstadio: Citrus Bowl\, Orlando\nFin
+ al: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a5f8eeced14f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group F\nEstadio: Citrus Bowl\, Orlando\nRes
- ultado: 1-0
+DESCRIPTION:Jornada 2\nGrupo: Group F\nEstadio: Citrus Bowl\, Orlando\nFin
+ al: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 0-1 🇸🇦 Arabia Saudí
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9b5e415d95c7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group F\nEstadio: RFK Stadium\, Washington\n
- Resultado: 0-1
+ Final: 0-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 3-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19940702
 DTEND;VALUE=DATE:19940703
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ec0c2d3c47f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Soldier Field\, Chicago\nResultado:
-  3-2
+DESCRIPTION:Octavos de Final\nEstadio: Soldier Field\, Chicago\nFinal: 3-2
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE

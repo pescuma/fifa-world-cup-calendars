@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇹 Trinité-et-Tobago 0-0 🇸🇪 Suède
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7b8327558156@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Signal Iduna Park\, D
- ortmund\nRésultat: 0-0
+ ortmund\nFin du match: 0-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2-0 🇹🇹 Trinité-et-T
  obago
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Frankenstadion\, Nür
- nberg\nRésultat: 2-0
+ nberg\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 2-0 🇹🇹 Trinité-et-Tobago
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-d44e7ed4399b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: Fritz-Walter-Stadion
- \, Kaiserslautern\nRésultat: 2-0
+ \, Kaiserslautern\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE

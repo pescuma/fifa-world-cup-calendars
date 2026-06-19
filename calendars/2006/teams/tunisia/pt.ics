@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunísia 2-2 🇸🇦 Arábia Saudita
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e3aa6f129dfb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group H\nEstádio: Allianz Arena\, München\n
- Resultado: 2-2
+ Intervalo: 1-0\nFinal: 2-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 3-1 🇹🇳 Tunísia
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c5979e83ae7b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group H\nEstádio: Gottlieb-Daimler-Stadion\
- , Stuttgart\nResultado: 3-1
+ , Stuttgart\nIntervalo: 0-1\nFinal: 3-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇦 Ucrânia 1-0 🇹🇳 Tunísia
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7abf8febc727@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group H\nEstádio: Olympiastadion\, Berlin\n
- Resultado: 1-0
+ Intervalo: 0-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

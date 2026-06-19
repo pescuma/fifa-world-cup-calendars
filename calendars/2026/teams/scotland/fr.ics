@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇹 Haïti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-ec4c7885a3a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Boston (Foxborough)\n
- Résultat: 0-1
+ Mi-temps: 0-1\nFin du match: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

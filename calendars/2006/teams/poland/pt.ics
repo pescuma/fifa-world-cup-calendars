@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polônia 0-2 🇪🇨 Equador
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-639448b151ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-2
+ hen\nIntervalo: 0-1\nFinal: 0-2
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-1822e4f3f7a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group A\nEstádio: Signal Iduna Park\, Dortmu
- nd\nResultado: 1-0
+ nd\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-2 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2e4b5238f348@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: AWD-Arena\, Hannover\nRes
- ultado: 1-2
+DESCRIPTION:Rodada 12\nGrupo: Group A\nEstádio: AWD-Arena\, Hannover\nInt
+ ervalo: 1-1\nFinal: 1-2
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE

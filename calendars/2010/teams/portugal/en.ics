@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 0-0 🇵🇹 Portugal
 DTSTART:20100615T160000Z
 DTEND:20100615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f1d1c061950@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Nelson Mandela Bay Stadium\
- , Port Elizabeth\nResult: 0-0
+ , Port Elizabeth\nFull-time: 0-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 7-0 🇰🇵 North Korea
 DTSTART:20100621T133000Z
 DTEND:20100621T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c46231be3960@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group G\nVenue: Cape Town Stadium\, Cape T
- own\nResult: 7-0
+ own\nFull-time: 7-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-0 🇧🇷 Brazil
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-0bfae0131c3c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Moses Mabhida Stadium\, Du
- rban\nResult: 0-0
+ rban\nFull-time: 0-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 1-0 🇵🇹 Portugal
 DTSTART:20100629T203000Z
 DTEND:20100629T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6069044f48c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Cape Town Stadium\, Cape Town\nResult: 1-0
+DESCRIPTION:Round of 16\nVenue: Cape Town Stadium\, Cape Town\nFull-time: 
+ 1-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-1 🇮🇪 Irlande
 DTSTART;VALUE=DATE:19900611
 DTEND;VALUE=DATE:19900612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1f34984e53ec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group F\nStade: Stadio Sant'Elia\, Ca
- gliari\nRésultat: 1-1
+ gliari\nFin du match: 1-1
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇳🇱 Pays-Bas
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f4e989e6dcec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group F\nStade: Stadio Sant'Elia\, Ca
- gliari\nRésultat: 0-0
+ gliari\nFin du match: 0-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇪🇬 Égypte
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f7c3f4312521@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group F\nStade: Stadio Sant'Elia\, Ca
- gliari\nRésultat: 1-0
+ gliari\nFin du match: 1-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -66,15 +66,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇧🇪 Belgique
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0+1-0+0 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stadio Renato Dall'Ara\, Bologna\nR
- ésultat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Stadio Renato Dall'Ara\, Bologna\nFi
+ n du match: 0-0\nProlongation: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -85,15 +85,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2-2 🇨🇲 Cameroun
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2+3-2+2 🇨🇲 Cameroun
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Stadio San Paolo\, Naples\nRésultat: 2
- -2
+DESCRIPTION:Quarter-finals\nStade: Stadio San Paolo\, Naples\nFin du match
+ : 2-2\nProlongation: 3-2
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -104,15 +104,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne de l'Ouest 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ang
- leterre
+SUMMARY:🇩🇪 Allemagne de l'Ouest 1+1[4]-[3]1+1 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:19900704
 DTEND;VALUE=DATE:19900705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-6756c39edd07@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Stadio delle Alpi\, Turin\nRésultat: 1-1
+DESCRIPTION:Semi-finals\nStade: Stadio delle Alpi\, Turin\nFin du match: 1
+ -1\nProlongation: 1-1\nTirs au but: 4-3
 LOCATION:Stadio delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -126,12 +127,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:19900707
 DTEND;VALUE=DATE:19900708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-5ac021d22739@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nStade: Stadio San Nicola\, Bari\nRésultat:
-  2-1
+DESCRIPTION:Third place match\nStade: Stadio San Nicola\, Bari\nFin du mat
+ ch: 2-1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE

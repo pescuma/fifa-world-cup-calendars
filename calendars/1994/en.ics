@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 1-1 🇨🇭 Switzerland
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0d987cb42a2a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Pontiac Silverdome\, Pontia
- c\nResult: 1-1
+ c\nFull-time: 1-1
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-3 🇷🇴 Romania
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-1bbf3185878e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nResul
- t: 1-3
+DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nFull-
+ time: 1-3
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇴 Romania 1-4 🇨🇭 Switzerland
 DTSTART;VALUE=DATE:19940622
 DTEND;VALUE=DATE:19940623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-b381c46ac88a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Pontiac Silverdome\, Pontia
- c\nResult: 1-4
+ c\nFull-time: 1-4
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 2-1 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19940622
 DTEND;VALUE=DATE:19940623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-db9ca5b1b1ac@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nResul
- t: 2-1
+DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nFull-
+ time: 2-1
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 0-1 🇷🇴 Romania
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-8e45fa38c32e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nResul
- t: 0-1
+DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Rose Bowl\, Pasadena\nFull-
+ time: 0-1
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 0-2 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ae06624c8cd0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Stanford Stadium\, Stanford
- \nResult: 0-2
+ \nFull-time: 0-2
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 2-2 🇸🇪 Sweden
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-6802be7c81a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Rose Bowl\, Pasadena\nResul
- t: 2-2
+DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Rose Bowl\, Pasadena\nFull-
+ time: 2-2
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-0 🇷🇺 Russia
 DTSTART;VALUE=DATE:19940620
 DTEND;VALUE=DATE:19940621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-e4687d1e696f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Stanford Stadium\, Stanford
- \nResult: 2-0
+ \nFull-time: 2-0
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇨🇲 Cameroon
 DTSTART;VALUE=DATE:19940624
 DTEND;VALUE=DATE:19940625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0447942035c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Stanford Stadium\, Stanford
- \nResult: 3-0
+ \nFull-time: 3-0
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Sweden 3-1 🇷🇺 Russia
 DTSTART;VALUE=DATE:19940624
 DTEND;VALUE=DATE:19940625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-95361db6f49c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Pontiac Silverdome\, Pontia
- c\nResult: 3-1
+ c\nFull-time: 3-1
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russia 6-1 🇨🇲 Cameroon
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-3d73369d07d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Stanford Stadium\, Stanford
- \nResult: 6-1
+ \nFull-time: 6-1
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-1 🇸🇪 Sweden
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-111f46991c34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Pontiac Silverdome\, Pontia
- c\nResult: 1-1
+ c\nFull-time: 1-1
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 1-0 🇧🇴 Bolivia
 DTSTART;VALUE=DATE:19940617
 DTEND;VALUE=DATE:19940618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a0867bb976e1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Soldier Field\, Chicago\nRe
- sult: 1-0
+DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Soldier Field\, Chicago\nFu
+ ll-time: 1-0
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 2-2 🇰🇷 South Korea
 DTSTART;VALUE=DATE:19940617
 DTEND;VALUE=DATE:19940618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d2162e30dca4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Cotton Bowl\, Dallas\nResul
- t: 2-2
+DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Cotton Bowl\, Dallas\nFull-
+ time: 2-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 1-1 🇪🇸 Spain
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-4ac51ab6614d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Soldier Field\, Chicago\nRe
- sult: 1-1
+DESCRIPTION:Matchday 1\nGroup: Group C\nVenue: Soldier Field\, Chicago\nFu
+ ll-time: 1-1
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 0-0 🇧🇴 Bolivia
 DTSTART;VALUE=DATE:19940623
 DTEND;VALUE=DATE:19940624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0b1eecca43c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 0-0
+ h\nFull-time: 0-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇴 Bolivia 1-3 🇪🇸 Spain
 DTSTART;VALUE=DATE:19940627
 DTEND;VALUE=DATE:19940628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-00b429f0713c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Soldier Field\, Chicago\nRe
- sult: 1-3
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Soldier Field\, Chicago\nFu
+ ll-time: 1-3
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 3-2 🇰🇷 South Korea
 DTSTART;VALUE=DATE:19940627
 DTEND;VALUE=DATE:19940628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-69ee0ce275bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Cotton Bowl\, Dallas\nResul
- t: 3-2
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Cotton Bowl\, Dallas\nFull-
+ time: 3-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 4-0 🇬🇷 Greece
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-3cf44d494007@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 4-0
+ h\nFull-time: 4-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 3-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-4d9e98680c46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nResul
- t: 3-0
+DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nFull-
+ time: 3-0
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-31441ae905a3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 2-1
+ h\nFull-time: 2-1
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 0-4 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14f82ae2a07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Soldier Field\, Chicago\nRe
- sult: 0-4
+DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Soldier Field\, Chicago\nFu
+ ll-time: 0-4
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 0-2 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ad2bf99068e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Foxboro Stadium\, Foxboroug
- h\nResult: 0-2
+ h\nFull-time: 0-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-2 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-5fbb33370471@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nResul
- t: 0-2
+DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Cotton Bowl\, Dallas\nFull-
+ time: 0-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 0-1 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-7374656f65e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group E\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 0-1
+ rford\nFull-time: 0-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇴 Norway 1-0 🇲🇽 Mexico
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-3c7f057fd009@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group E\nVenue: RFK Stadium\, Washington\nR
- esult: 1-0
+DESCRIPTION:Matchday 1\nGroup: Group E\nVenue: RFK Stadium\, Washington\nF
+ ull-time: 1-0
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-0 🇳🇴 Norway
 DTSTART;VALUE=DATE:19940623
 DTEND;VALUE=DATE:19940624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-61abc5a491a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 1-0
+ rford\nFull-time: 1-0
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 2-1 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940624
 DTEND;VALUE=DATE:19940625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-07138c15b9ef@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 2-1
+DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 2-1
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Ireland 0-0 🇳🇴 Norway
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-09366ecfde34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group E\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 0-0
+ rford\nFull-time: 0-0
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇲🇽 Mexico
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d6504dd0bfb7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group E\nVenue: RFK Stadium\, Washington\nR
- esult: 1-1
+DESCRIPTION:Matchday 3\nGroup: Group E\nVenue: RFK Stadium\, Washington\nF
+ ull-time: 1-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9d073189a8f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 1-0
+DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇸🇦 Saudi Arabia
 DTSTART;VALUE=DATE:19940620
 DTEND;VALUE=DATE:19940621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ca3feab052c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: RFK Stadium\, Washington\nR
- esult: 2-1
+DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: RFK Stadium\, Washington\nF
+ ull-time: 2-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇳🇱 Netherlands
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a5f8eeced14f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 1-0
+DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 1-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Saudi Arabia 2-1 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19940625
 DTEND;VALUE=DATE:19940626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-f07a45eb817c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 2-1
+ rford\nFull-time: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 1-2 🇳🇱 Netherlands
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-872125135787@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 1-2
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 1-2
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 0-1 🇸🇦 Saudi Arabia
 DTSTART;VALUE=DATE:19940629
 DTEND;VALUE=DATE:19940630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9b5e415d95c7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: RFK Stadium\, Washington\nR
- esult: 0-1
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: RFK Stadium\, Washington\nF
+ ull-time: 0-1
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,11 +694,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 3-2 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19940702
 DTEND;VALUE=DATE:19940703
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ec0c2d3c47f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Soldier Field\, Chicago\nResult: 3-2
+DESCRIPTION:Round of 16\nVenue: Soldier Field\, Chicago\nFull-time: 3-2
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -712,11 +712,11 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 3-0 🇨🇭 Switzerland
 DTSTART;VALUE=DATE:19940702
 DTEND;VALUE=DATE:19940703
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-9505bfd04dd2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: RFK Stadium\, Washington\nResult: 3-0
+DESCRIPTION:Round of 16\nVenue: RFK Stadium\, Washington\nFull-time: 3-0
 LOCATION:RFK Stadium\, Washington
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -730,11 +730,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Saudi Arabia 1-3 🇸🇪 Sweden
 DTSTART;VALUE=DATE:19940703
 DTEND;VALUE=DATE:19940704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-290dec59919b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Cotton Bowl\, Dallas\nResult: 1-3
+DESCRIPTION:Round of 16\nVenue: Cotton Bowl\, Dallas\nFull-time: 1-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -748,11 +748,11 @@ BEGIN:VEVENT
 SUMMARY:🇷🇴 Romania 3-2 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19940703
 DTEND;VALUE=DATE:19940704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-46d47dcb281c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Rose Bowl\, Pasadena\nResult: 3-2
+DESCRIPTION:Round of 16\nVenue: Rose Bowl\, Pasadena\nFull-time: 3-2
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -766,11 +766,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940704
 DTEND;VALUE=DATE:19940705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-8df0b92aad6c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nResult: 2-0
+DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nFull-time: 2-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -784,11 +784,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-0 🇺🇸 United States
 DTSTART;VALUE=DATE:19940704
 DTEND;VALUE=DATE:19940705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-13d23382ef18@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stanford Stadium\, Stanford\nResult: 1-0
+DESCRIPTION:Round of 16\nVenue: Stanford Stadium\, Stanford\nFull-time: 1-
+ 0
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -799,14 +800,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇬 Nigeria 1-1 🇮🇹 Italy
+SUMMARY:🇳🇬 Nigeria 1+1-2+1 🇮🇹 Italy
 DTSTART;VALUE=DATE:19940705
 DTEND;VALUE=DATE:19940706
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-17b9aa88c4c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Foxboro Stadium\, Foxborough\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Foxboro Stadium\, Foxborough\nFull-time: 1
+ -1\nExtra time: 1-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -817,15 +819,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇽 Mexico 1-1 🇧🇬 Bulgaria
+SUMMARY:🇲🇽 Mexico 1+1[1]-[3]1+1 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940705
 DTEND;VALUE=DATE:19940706
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a89299a204ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Giants Stadium\, East Rutherford\nResult: 
- 1-1
+DESCRIPTION:Round of 16\nVenue: Giants Stadium\, East Rutherford\nFull-tim
+ e: 1-1\nExtra time: 1-1\nPenalties: 1-3
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -839,12 +841,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-1 🇪🇸 Spain
 DTSTART;VALUE=DATE:19940709
 DTEND;VALUE=DATE:19940710
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14584fe9e3b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Foxboro Stadium\, Foxborough\nResult: 2
- -1
+DESCRIPTION:Quarter-finals\nVenue: Foxboro Stadium\, Foxborough\nFull-time
+ : 2-1
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -858,11 +860,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-3 🇧🇷 Brazil
 DTSTART;VALUE=DATE:19940709
 DTEND;VALUE=DATE:19940710
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-70fe296db71f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Cotton Bowl\, Dallas\nResult: 2-3
+DESCRIPTION:Quarter-finals\nVenue: Cotton Bowl\, Dallas\nFull-time: 2-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -876,12 +878,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgaria 2-1 🇩🇪 Germany
 DTSTART;VALUE=DATE:19940710
 DTEND;VALUE=DATE:19940711
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-bd523e9b082f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Giants Stadium\, East Rutherford\nResul
- t: 2-1
+DESCRIPTION:Quarter-finals\nVenue: Giants Stadium\, East Rutherford\nFull-
+ time: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -892,15 +894,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇴 Romania 1-1 🇸🇪 Sweden
+SUMMARY:🇷🇴 Romania 1+2[4]-[5]2+1 🇸🇪 Sweden
 DTSTART;VALUE=DATE:19940710
 DTEND;VALUE=DATE:19940711
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-73ef45338d76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Stanford Stadium\, Stanford\nResult: 1-
- 1
+DESCRIPTION:Quarter-finals\nVenue: Stanford Stadium\, Stanford\nFull-time:
+  1-1\nExtra time: 2-2\nPenalties: 4-5
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -914,12 +916,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgaria 1-2 🇮🇹 Italy
 DTSTART;VALUE=DATE:19940713
 DTEND;VALUE=DATE:19940714
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-b281c6b20002@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Giants Stadium\, East Rutherford\nResult: 
- 1-2
+DESCRIPTION:Semi-finals\nVenue: Giants Stadium\, East Rutherford\nFull-tim
+ e: 1-2
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -933,11 +935,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Sweden 0-1 🇧🇷 Brazil
 DTSTART;VALUE=DATE:19940713
 DTEND;VALUE=DATE:19940714
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d47cbf470d87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Rose Bowl\, Pasadena\nResult: 0-1
+DESCRIPTION:Semi-finals\nVenue: Rose Bowl\, Pasadena\nFull-time: 0-1
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -951,11 +953,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Sweden 4-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19940716
 DTEND;VALUE=DATE:19940717
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0023902734bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third-place match\nVenue: Rose Bowl\, Pasadena\nResult: 4-0
+DESCRIPTION:Third-place match\nVenue: Rose Bowl\, Pasadena\nFull-time: 4-0
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -966,14 +968,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brazil 0-0 🇮🇹 Italy
+SUMMARY:🇧🇷 Brazil 0+0[3]-[2]0+0 🇮🇹 Italy
 DTSTART;VALUE=DATE:19940717
 DTEND;VALUE=DATE:19940718
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-e0e185a23e97@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Rose Bowl\, Pasadena\nResult: 0-0
+DESCRIPTION:Final\nVenue: Rose Bowl\, Pasadena\nFull-time: 0-0\nExtra time
+ : 0-0\nPenalties: 3-2
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE

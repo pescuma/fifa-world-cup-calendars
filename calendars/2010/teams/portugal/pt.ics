@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Costa do Marfim 0-0 🇵🇹 Portugal
 DTSTART:20100615T160000Z
 DTEND:20100615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f1d1c061950@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Nelson Mandela Bay Stadium
- \, Port Elizabeth\nResultado: 0-0
+ \, Port Elizabeth\nFinal: 0-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 7-0 🇰🇵 Coreia do Norte
 DTSTART:20100621T133000Z
 DTEND:20100621T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c46231be3960@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group G\nEstádio: Cape Town Stadium\, Cape 
- Town\nResultado: 7-0
+ Town\nFinal: 7-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-0 🇧🇷 Brasil
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-0bfae0131c3c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: Moses Mabhida Stadium\, D
- urban\nResultado: 0-0
+ urban\nFinal: 0-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 1-0 🇵🇹 Portugal
 DTSTART:20100629T203000Z
 DTEND:20100629T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6069044f48c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Cape Town Stadium\, Cape Town\nRes
- ultado: 1-0
+DESCRIPTION:Oitavas de Final\nEstádio: Cape Town Stadium\, Cape Town\nFin
+ al: 1-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE

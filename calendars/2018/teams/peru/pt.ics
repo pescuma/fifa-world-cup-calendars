@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇪 Peru 0-1 🇩🇰 Dinamarca
 DTSTART:20180616T160000Z
 DTEND:20180616T180000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a655d8fa7cc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Mordovia Arena\, Saransk\n
- Resultado: 0-1
+ Intervalo: 0-0\nFinal: 0-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 1-0 🇵🇪 Peru
 DTSTART:20180621T150000Z
 DTEND:20180621T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fd8a368b8da7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 8\nGrupo: Group C\nEstádio: Ekaterinburg Arena\, Ekate
- rinburg\nResultado: 1-0
+ rinburg\nIntervalo: 1-0\nFinal: 1-0
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Austrália 0-2 🇵🇪 Peru
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Fisht Stadium\, Sochi\nRe
- sultado: 0-2
+DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Fisht Stadium\, Sochi\nIn
+ tervalo: 0-1\nFinal: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

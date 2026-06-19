@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-0 🇬🇷 Grécia
 DTSTART:20100612T133000Z
 DTEND:20100612T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d73b49456b42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Nelson Mandela Bay Stadium
- \, Port Elizabeth\nResultado: 2-0
+ \, Port Elizabeth\nFinal: 2-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 4-1 🇰🇷 Coreia do Sul
 DTSTART:20100617T133000Z
 DTEND:20100617T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4467694be444@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Soccer City\, Johannesburg
- \nResultado: 4-1
+ \nFinal: 4-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 2-2 🇰🇷 Coreia do Sul
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e7195ec21202@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group B\nEstádio: Moses Mabhida Stadium\, D
- urban\nResultado: 2-2
+ urban\nFinal: 2-2
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 2-1 🇰🇷 Coreia do Sul
 DTSTART:20100626T160000Z
 DTEND:20100626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b6e69b2af8a2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Nelson Mandela Bay Stadium\, Port 
- Elizabeth\nResultado: 2-1
+ Elizabeth\nFinal: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE

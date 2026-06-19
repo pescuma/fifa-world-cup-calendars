@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-2 🇨🇱 Chile
 DTSTART;VALUE=DATE:19980611
 DTEND;VALUE=DATE:19980612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-95d4f8c60d26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Parc Lescure\, Bordeaux\nR
- esultado: 2-2
+DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Parc Lescure\, Bordeaux\nF
+ inal: 2-2
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 3-0 🇨🇲 Camarões
 DTSTART;VALUE=DATE:19980617
 DTEND;VALUE=DATE:19980618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-19402be4389e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Stade de la Mosson\, Montp
- ellier\nResultado: 3-0
+ ellier\nFinal: 3-0
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-1 🇦🇹 Áustria
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2fd76110acf1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Stade de France\, Saint-De
- nis\nResultado: 2-1
+ nis\nFinal: 2-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-0 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980627
 DTEND;VALUE=DATE:19980628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-023ac09d54be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stade Vélodrome\, Marseille\nResu
- ltado: 1-0
+DESCRIPTION:Oitavas de Final\nEstádio: Stade Vélodrome\, Marseille\nFina
+ l: 1-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Itália 0-0 🇫🇷 França
+SUMMARY:🇮🇹 Itália 0+0[3]-[4]0+0 🇫🇷 França
 DTSTART;VALUE=DATE:19980703
 DTEND;VALUE=DATE:19980704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-e45c5bdeb93d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Stade de France\, Saint-Denis\nResul
- tado: 0-0
+DESCRIPTION:Quarter-finals\nEstádio: Stade de France\, Saint-Denis\nFinal
+ : 0-0\nProrrogação: 0-0\nPênaltis: 3-4
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

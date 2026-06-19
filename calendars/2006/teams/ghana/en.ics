@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-0 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c2135389d03f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: AWD-Arena\, Hannover\nResul
- t: 2-0
+DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: AWD-Arena\, Hannover\nHalf-
+ time: 1-0\nFull-time: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Czechia 0-2 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-16faa7d8c1a0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: RheinEnergieStadion\, Köln
- \nResult: 0-2
+ \nHalf-time: 0-1\nFull-time: 0-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 2-1 🇺🇸 United States
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8ea213d2c02b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: Frankenstadion\, Nürnberg
- \nResult: 2-1
+ \nHalf-time: 2-1\nFull-time: 2-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060627
 DTEND;VALUE=DATE:20060628
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ad5877302416@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Signal Iduna Park\, Dortmund\nResult: 3-0
+DESCRIPTION:Round of 16\nVenue: Signal Iduna Park\, Dortmund\nHalf-time: 2
+ -0\nFull-time: 3-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE

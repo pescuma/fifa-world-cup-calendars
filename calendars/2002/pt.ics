@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 0-1 🇸🇳 Senegal
 DTSTART;VALUE=DATE:20020531
 DTEND;VALUE=DATE:20020601
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-688228e8ae9e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Seoul World Cup Stadium\, 
- Seoul\nResultado: 0-1
+ Seoul\nFinal: 0-1
 LOCATION:Seoul World Cup Stadium\, Seoul
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 1-2 🇩🇰 Dinamarca
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-b511e8f6be0e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Munsu Cup Stadium\, Ulsan\
- nResultado: 1-2
+ nFinal: 1-2
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 0-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8bf84718965f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Asiad Main Stadium\, Busan
- \nResultado: 0-0
+ \nFinal: 0-0
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-1 🇸🇳 Senegal
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-955c3c84b63d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Daegu World Cup Stadium\, 
- Daegu\nResultado: 1-1
+ Daegu\nFinal: 1-1
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 2-0 🇫🇷 França
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-38f4b0e71dc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Incheon Munhak Stadium\, I
- ncheon\nResultado: 2-0
+ ncheon\nFinal: 2-0
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Senegal 3-3 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-df54cbd9e398@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Suwon World Cup Stadium\, 
- Suwon\nResultado: 3-3
+ Suwon\nFinal: 3-3
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguai 2-2 🇿🇦 África do Sul
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-665e455327e0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Asiad Main Stadium\, Busan
- \nResultado: 2-2
+ \nFinal: 2-2
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 3-1 🇸🇮 Eslovênia
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-73b79d3fe9e2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Gwangju World Cup Stadium\
- , Gwangju\nResultado: 3-1
+ , Gwangju\nFinal: 3-1
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 3-1 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9b497be46ada@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Jeonju World Cup Stadium\,
-  Jeonju\nResultado: 3-1
+  Jeonju\nFinal: 3-1
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 África do Sul 1-0 🇸🇮 Eslovênia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-fb7b5f3c98ff@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Daegu World Cup Stadium\, 
- Daegu\nResultado: 1-0
+ Daegu\nFinal: 1-0
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 África do Sul 2-3 🇪🇸 Espanha
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-1162725bcfdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Daejeon World Cup Stadium\
- , Daejeon\nResultado: 2-3
+ , Daejeon\nFinal: 2-3
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Eslovênia 1-3 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-cfd9c1e286cb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Jeju World Cup Stadium\, J
- eju\nResultado: 1-3
+ eju\nFinal: 1-3
 LOCATION:Jeju World Cup Stadium\, Jeju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-1 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-461c86068484@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Munsu Cup Stadium\, Ulsan\
- nResultado: 2-1
+ nFinal: 2-1
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇳 China 0-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-46f7757cb0fe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Gwangju World Cup Stadium\
- , Gwangju\nResultado: 0-2
+ , Gwangju\nFinal: 0-2
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 4-0 🇨🇳 China
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-1cb0c726d71e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Jeju World Cup Stadium\, J
- eju\nResultado: 4-0
+ eju\nFinal: 4-0
 LOCATION:Jeju World Cup Stadium\, Jeju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-1 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-31f9546f0cb9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Incheon Munhak Stadium\, I
- ncheon\nResultado: 1-1
+ ncheon\nFinal: 1-1
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 2-5 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-694998fe46f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Suwon World Cup Stadium\, 
- Suwon\nResultado: 2-5
+ Suwon\nFinal: 2-5
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇷 Turquia 3-0 🇨🇳 China
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-7e248372ff9a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Seoul World Cup Stadium\, 
- Seoul\nResultado: 3-0
+ Seoul\nFinal: 3-0
 LOCATION:Seoul World Cup Stadium\, Seoul
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-567eee81fa85@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Asiad Main Stadium\, Busan
- \nResultado: 2-0
+ \nFinal: 2-0
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 3-2 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3e18af9651b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Suwon World Cup Stadium\, 
- Suwon\nResultado: 3-2
+ Suwon\nFinal: 3-2
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 1-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-44e5e88f89f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Daegu World Cup Stadium\, 
- Daegu\nResultado: 1-1
+ Daegu\nFinal: 1-1
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 4-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-86fb3e968356@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Jeonju World Cup Stadium\,
-  Jeonju\nResultado: 4-0
+  Jeonju\nFinal: 4-0
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-afb9c33f5ed8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Incheon Munhak Stadium\, I
- ncheon\nResultado: 0-1
+ ncheon\nFinal: 0-1
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polônia 3-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bb8bf44a04a0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Daejeon World Cup Stadium\
- , Daejeon\nResultado: 3-1
+ , Daejeon\nFinal: 3-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Irlanda 1-1 🇨🇲 Camarões
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-aa499b28178a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Niigata Stadium\, Niigata\
- nResultado: 1-1
+ nFinal: 1-1
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 8-0 🇸🇦 Arábia Saudita
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3616b6ee1736@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Sapporo Dome\, Sapporo\nRe
- sultado: 8-0
+DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Sapporo Dome\, Sapporo\nFi
+ nal: 8-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-1 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-474db752197d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Kashima Soccer Stadium\, I
- baraki\nResultado: 1-1
+ baraki\nFinal: 1-1
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camarões 1-0 🇸🇦 Arábia Saudita
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-ab7bd4c77113@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Saitama Stadium\, Saitama\
- nResultado: 1-0
+ nFinal: 1-0
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camarões 0-2 🇩🇪 Alemanha
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8c9bd43f5df5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Shizuoka Stadium\, Shizuok
- a\nResultado: 0-2
+ a\nFinal: 0-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arábia Saudita 0-3 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e4d0fb993a09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: International Stadium Yoko
- hama\, Yokohama\nResultado: 0-3
+ hama\, Yokohama\nFinal: 0-3
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇸🇪 Suécia
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a8f4be77c3e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Saitama Stadium\, Saitama\
- nResultado: 1-1
+ nFinal: 1-1
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇳🇬 Nigéria
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-98a84f468476@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Kashima Soccer Stadium\, I
- baraki\nResultado: 1-0
+ baraki\nFinal: 1-0
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 2-1 🇳🇬 Nigéria
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-04902beef63c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Kobe Wing Stadium\, Kobe\n
- Resultado: 2-1
+ Final: 2-1
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e309bfcb3599@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Sapporo Dome\, Sapporo\nRe
- sultado: 0-1
+DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Sapporo Dome\, Sapporo\nFi
+ nal: 0-1
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a2084a1e4662@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Miyagi Stadium\, Miyagi\nR
- esultado: 1-1
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Miyagi Stadium\, Miyagi\nF
+ inal: 1-1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigéria 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bc63136ad9c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Nagai Stadium\, Osaka\nRes
- ultado: 0-0
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Nagai Stadium\, Osaka\nFin
+ al: 0-0
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,12 +694,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croácia 0-1 🇲🇽 México
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-32087891657d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Niigata Stadium\, Niigata\
- nResultado: 0-1
+ nFinal: 0-1
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -713,12 +713,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-0 🇪🇨 Equador
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-d5b2e2219ff6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Sapporo Dome\, Sapporo\nRe
- sultado: 2-0
+DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Sapporo Dome\, Sapporo\nFi
+ nal: 2-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -732,12 +732,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-2 🇭🇷 Croácia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a31846a3c764@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group G\nEstádio: Kashima Soccer Stadium\, I
- baraki\nResultado: 1-2
+ baraki\nFinal: 1-2
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -751,12 +751,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 2-1 🇪🇨 Equador
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-69d9d465173e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group G\nEstádio: Miyagi Stadium\, Miyagi\nR
- esultado: 2-1
+DESCRIPTION:Rodada 2\nGrupo: Group G\nEstádio: Miyagi Stadium\, Miyagi\nF
+ inal: 2-1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -770,12 +770,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-1 🇮🇹 Itália
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c2407fba0917@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: Ōita Stadium\, Ōita\nRes
- ultado: 1-1
+DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: Ōita Stadium\, Ōita\nFin
+ al: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -789,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Equador 1-0 🇭🇷 Croácia
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-4f438ec54d90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: International Stadium Yoko
- hama\, Yokohama\nResultado: 1-0
+ hama\, Yokohama\nFinal: 1-0
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -808,12 +808,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 2-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-077882dbad14@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group H\nEstádio: Saitama Stadium\, Saitama\
- nResultado: 2-2
+ nFinal: 2-2
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -827,12 +827,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Rússia 2-0 🇹🇳 Tunísia
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f967e131d967@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group H\nEstádio: Kobe Wing Stadium\, Kobe\n
- Resultado: 2-0
+ Final: 2-0
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -846,12 +846,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 1-0 🇷🇺 Rússia
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8f89bbb99cc2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group H\nEstádio: International Stadium Yoko
- hama\, Yokohama\nResultado: 1-0
+ hama\, Yokohama\nFinal: 1-0
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -865,12 +865,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunísia 1-1 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-deb010bebbc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group H\nEstádio: Ōita Stadium\, Ōita\nRes
- ultado: 1-1
+DESCRIPTION:Rodada 2\nGrupo: Group H\nEstádio: Ōita Stadium\, Ōita\nFin
+ al: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -884,12 +884,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunísia 0-2 🇯🇵 Japão
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f0f39e68c51c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group H\nEstádio: Nagai Stadium\, Osaka\nRes
- ultado: 0-2
+DESCRIPTION:Rodada 3\nGrupo: Group H\nEstádio: Nagai Stadium\, Osaka\nFin
+ al: 0-2
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -903,12 +903,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-2 🇷🇺 Rússia
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-fc63c4e32d57@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group H\nEstádio: Shizuoka Stadium\, Shizuok
- a\nResultado: 3-2
+ a\nFinal: 3-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -922,12 +922,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-39a403f0f09f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Jeju World Cup Stadium\, Jeju\nRes
- ultado: 1-0
+DESCRIPTION:Oitavas de Final\nEstádio: Jeju World Cup Stadium\, Jeju\nFin
+ al: 1-0
 LOCATION:Jeju World Cup Stadium\, Jeju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -941,12 +941,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 0-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-453018737ad5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Niigata Stadium\, Niigata\nResulta
- do: 0-3
+DESCRIPTION:Oitavas de Final\nEstádio: Niigata Stadium\, Niigata\nFinal: 
+ 0-3
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -957,15 +957,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇪 Suécia 1-1 🇸🇳 Senegal
+SUMMARY:🇸🇪 Suécia 1+1-2+1 🇸🇳 Senegal
 DTSTART;VALUE=DATE:20020616
 DTEND;VALUE=DATE:20020617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9230f2b3cc5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Ōita Stadium\, Ōita\nResultado: 
- 1-1
+DESCRIPTION:Oitavas de Final\nEstádio: Ōita Stadium\, Ōita\nFinal: 1-1\
+ nProrrogação: 1-2
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -976,15 +976,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 1-1 🇮🇪 Irlanda
+SUMMARY:🇪🇸 Espanha 1+1[3]-[2]1+1 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:20020616
 DTEND;VALUE=DATE:20020617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c4cfec3c9027@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Suwon World Cup Stadium\, Suwon\nR
- esultado: 1-1
+DESCRIPTION:Oitavas de Final\nEstádio: Suwon World Cup Stadium\, Suwon\nF
+ inal: 1-1\nProrrogação: 1-1\nPênaltis: 3-2
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -998,12 +998,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 0-2 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020617
 DTEND;VALUE=DATE:20020618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-90da9e1812e8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Jeonju World Cup Stadium\, Jeonju\
- nResultado: 0-2
+ nFinal: 0-2
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1017,12 +1017,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:20020617
 DTEND;VALUE=DATE:20020618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-83fc3a66310a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Kobe Wing Stadium\, Kobe\nResultad
- o: 2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Kobe Wing Stadium\, Kobe\nFinal: 2
+ -0
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1036,12 +1036,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 0-1 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9835c86e1551@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Miyagi Stadium\, Miyagi\nResultado
- : 0-1
+DESCRIPTION:Oitavas de Final\nEstádio: Miyagi Stadium\, Miyagi\nFinal: 0-
+ 1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1052,15 +1052,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇰🇷 Coreia do Sul 1-1 🇮🇹 Itália
+SUMMARY:🇰🇷 Coreia do Sul 1+2-1+1 🇮🇹 Itália
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-820511d1c427@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Daejeon World Cup Stadium\, Daejeo
- n\nResultado: 1-1
+ n\nFinal: 1-1\nProrrogação: 2-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1074,12 +1074,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-6b8d20274ef3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Shizuoka Stadium\, Shizuoka\nResulta
- do: 1-2
+DESCRIPTION:Quarter-finals\nEstádio: Shizuoka Stadium\, Shizuoka\nFinal: 
+ 1-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1093,12 +1093,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8201d6d9d509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Munsu Cup Stadium\, Ulsan\nResultado
- : 1-0
+DESCRIPTION:Quarter-finals\nEstádio: Munsu Cup Stadium\, Ulsan\nFinal: 1-
+ 0
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1109,15 +1109,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 0-0 🇰🇷 Coreia do Sul
+SUMMARY:🇪🇸 Espanha 0+0[3]-[5]0+0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020622
 DTEND;VALUE=DATE:20020623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a98f49429303@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Gwangju World Cup Stadium\, Gwangju\
- nResultado: 0-0
+ nFinal: 0-0\nProrrogação: 0-0\nPênaltis: 3-5
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1128,15 +1128,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇳 Senegal 0-0 🇹🇷 Turquia
+SUMMARY:🇸🇳 Senegal 0+0-1+0 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020622
 DTEND;VALUE=DATE:20020623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e974bc6f0552@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Nagai Stadium\, Osaka\nResultado: 0-
- 0
+DESCRIPTION:Quarter-finals\nEstádio: Nagai Stadium\, Osaka\nFinal: 0-0\nP
+ rorrogação: 0-1
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1150,12 +1150,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020625
 DTEND;VALUE=DATE:20020626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-be867e84a7b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Seoul World Cup Stadium\, Seoul\nResult
- ado: 1-0
+DESCRIPTION:Semi-finals\nEstádio: Seoul World Cup Stadium\, Seoul\nFinal:
+  1-0
 LOCATION:Seoul World Cup Stadium\, Seoul
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1169,12 +1169,11 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020626
 DTEND;VALUE=DATE:20020627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-df21374c6dee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Saitama Stadium\, Saitama\nResultado: 1
- -0
+DESCRIPTION:Semi-finals\nEstádio: Saitama Stadium\, Saitama\nFinal: 1-0
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1188,12 +1187,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-3 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020629
 DTEND;VALUE=DATE:20020630
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-014a857339bc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third place play-off\nEstádio: Daegu World Cup Stadium\, Daeg
- u\nResultado: 2-3
+ u\nFinal: 2-3
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1207,12 +1206,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 0-2 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20020630
 DTEND;VALUE=DATE:20020701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f213066188a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstádio: International Stadium Yokohama\, Yokohama\nRe
- sultado: 0-2
+DESCRIPTION:Final\nEstádio: International Stadium Yokohama\, Yokohama\nFi
+ nal: 0-2
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 4-1 🇵🇾 Paraguai
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-fdf1bfc654f3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Los Angeles (Inglewood)\nR
- esultado: 4-1
+DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Los Angeles (Inglewood)\nI
+ ntervalo: 3-0\nFinal: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

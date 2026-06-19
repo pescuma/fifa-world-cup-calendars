@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irã 2-2 🇳🇿 Nova Zelândia
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-af1e7aa5490e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Los Angeles (Inglewood)\nR
- esultado: 2-2
+DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Los Angeles (Inglewood)\nI
+ ntervalo: 1-1\nFinal: 2-2
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

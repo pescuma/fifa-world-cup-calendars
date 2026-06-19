@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 2-0 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-d5b2e2219ff6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group G\nVenue: Sapporo Dome\, Sapporo\nRes
- ult: 2-0
+DESCRIPTION:Matchday 1\nGroup: Group G\nVenue: Sapporo Dome\, Sapporo\nFul
+ l-time: 2-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 2-1 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-69d9d465173e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group G\nVenue: Miyagi Stadium\, Miyagi\nRe
- sult: 2-1
+DESCRIPTION:Matchday 2\nGroup: Group G\nVenue: Miyagi Stadium\, Miyagi\nFu
+ ll-time: 2-1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 1-0 🇭🇷 Croatia
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-4f438ec54d90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group G\nVenue: International Stadium Yokoh
- ama\, Yokohama\nResult: 1-0
+ ama\, Yokohama\nFull-time: 1-0
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marruecos 0-1 🇮🇷 Irán
 DTSTART:20180615T150000Z
 DTEND:20180615T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-79b476a0c849@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 0-1
+  Saint Petersburg\nDescanso: 0-0\nFinal: 0-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 0-1 🇪🇸 España
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-3a7b32664da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nResul
- tado: 0-1
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Kazan Arena\, Kazan\nDesca
+ nso: 0-0\nFinal: 0-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 1-1 🇵🇹 Portugal
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fa075c8e1b26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Mordovia Arena\, Saransk\
- nResultado: 1-1
+ nDescanso: 0-1\nFinal: 1-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE

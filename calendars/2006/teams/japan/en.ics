@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 3-1 🇯🇵 Japan
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ca7e55223af1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Fritz-Walter-Stadion\, Kais
- erslautern\nResult: 3-1
+ erslautern\nHalf-time: 0-1\nFull-time: 3-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 0-0 🇭🇷 Croatia
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2a8b70abd367@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Frankenstadion\, Nürnberg
- \nResult: 0-0
+ \nFull-time: 0-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 1-4 🇧🇷 Brazil
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-899ab7437df0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Signal Iduna Park\, Dortmu
- nd\nResult: 1-4
+ nd\nHalf-time: 1-1\nFull-time: 1-4
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE

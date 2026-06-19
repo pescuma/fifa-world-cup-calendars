@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatie 0-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:20020603
 DTEND;VALUE=DATE:20020604
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-32087891657d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group G\nStade: Niigata Stadium\, Nii
- gata\nRésultat: 0-1
+ gata\nFin du match: 0-1
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 2-1 🇪🇨 Équateur
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-69d9d465173e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group G\nStade: Miyagi Stadium\, Miya
- gi\nRésultat: 2-1
+ gi\nFin du match: 2-1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 1-1 🇮🇹 Italie
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-c2407fba0917@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group G\nStade: Ōita Stadium\, Ōita
- \nRésultat: 1-1
+ \nFin du match: 1-1
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-2 🇺🇸 États-Unis
 DTSTART;VALUE=DATE:20020617
 DTEND;VALUE=DATE:20020618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-90da9e1812e8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Jeonju World Cup Stadium\, Jeonju\nR
- ésultat: 0-2
+DESCRIPTION:1/8ème de finale\nStade: Jeonju World Cup Stadium\, Jeonju\nF
+ in du match: 0-2
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE

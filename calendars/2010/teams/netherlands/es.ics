@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-0 🇩🇰 Dinamarca
 DTSTART:20100614T133000Z
 DTEND:20100614T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38b9fa62842b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Soccer City\, Johannesburg
- \nResultado: 2-0
+ \nFinal: 2-0
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 1-0 🇯🇵 Japón
 DTSTART:20100619T133000Z
 DTEND:20100619T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-083ea98c98d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Moses Mabhida Stadium\, Du
- rban\nResultado: 1-0
+ rban\nFinal: 1-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 1-2 🇳🇱 Países Bajos
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4f790122f758@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Cape Town Stadium\, Cape 
- Town\nResultado: 1-2
+ Town\nFinal: 1-2
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇸🇰 Eslovaquia
 DTSTART:20100628T160000Z
 DTEND:20100628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-076963041077@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Moses Mabhida Stadium\, Durban\nRes
- ultado: 2-1
+DESCRIPTION:Octavos de Final\nEstadio: Moses Mabhida Stadium\, Durban\nFin
+ al: 2-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇧🇷 Brasil
 DTSTART:20100702T160000Z
 DTEND:20100702T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-58026d7460f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nEstadio: Nelson Mandela Bay Stadium\, Port Eliz
- abeth\nResultado: 2-1
+ abeth\nFinal: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,11 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-3 🇳🇱 Países Bajos
 DTSTART:20100706T203000Z
 DTEND:20100706T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-135f3368be5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nEstadio: Cape Town Stadium\, Cape Town\nResultado:
-  2-3
+DESCRIPTION:Semifinals\nEstadio: Cape Town Stadium\, Cape Town\nFinal: 2-3
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +121,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 0-0 🇪🇸 España
+SUMMARY:🇳🇱 Países Bajos 0+0-1+0 🇪🇸 España
 DTSTART:20100711T203000Z
 DTEND:20100711T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4cbc80f55918@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Soccer City\, Johannesburg\nResultado: 0-0
+DESCRIPTION:Final\nEstadio: Soccer City\, Johannesburg\nFinal: 0-0\nPrórr
+ oga: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇸🇪 Suécia
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a8f4be77c3e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Saitama Stadium\, Saitama\
- nResultado: 1-1
+ nFinal: 1-1
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 2-1 🇳🇬 Nigéria
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-04902beef63c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Kobe Wing Stadium\, Kobe\n
- Resultado: 2-1
+ Final: 2-1
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a2084a1e4662@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Miyagi Stadium\, Miyagi\nR
- esultado: 1-1
+DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Miyagi Stadium\, Miyagi\nF
+ inal: 1-1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇪 Suécia 1-1 🇸🇳 Senegal
+SUMMARY:🇸🇪 Suécia 1+1-2+1 🇸🇳 Senegal
 DTSTART;VALUE=DATE:20020616
 DTEND;VALUE=DATE:20020617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9230f2b3cc5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Ōita Stadium\, Ōita\nResultado: 
- 1-1
+DESCRIPTION:Oitavas de Final\nEstádio: Ōita Stadium\, Ōita\nFinal: 1-1\
+ nProrrogação: 1-2
 LOCATION:Ōita Stadium\, Ōita
 STATUS:CONFIRMED
 TRANSP:OPAQUE

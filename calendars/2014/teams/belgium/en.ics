@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 2-1 🇩🇿 Algeria
 DTSTART:20140617T160000Z
 DTEND:20140617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-11cf6d78a9d8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Estádio Mineirão\, Belo H
- orizonte\nResult: 2-1
+ orizonte\nFull-time: 2-1
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-0 🇷🇺 Russia
 DTSTART:20140622T160000Z
 DTEND:20140622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-791d664b8a77@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Estádio do Maracanã\, Ri
- o de Janeiro\nResult: 1-0
+ o de Janeiro\nFull-time: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 0-1 🇧🇪 Belgium
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a47c51c90cd2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group H\nVenue: Arena de São Paulo\, São
-  Paulo\nResult: 0-1
+  Paulo\nFull-time: 0-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Belgium 0-0 🇺🇸 United States
+SUMMARY:🇧🇪 Belgium 0+2-1+0 🇺🇸 United States
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Arena Fonte Nova\, Salvador\nResult: 0-0
+DESCRIPTION:Round of 16\nVenue: Arena Fonte Nova\, Salvador\nHalf-time: 0-
+ 0\nFull-time: 0-0\nExtra time: 2-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇧🇪 Belgium
 DTSTART:20140705T160000Z
 DTEND:20140705T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-521839877bf3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Estádio Nacional Mané Garrincha\, Bra
- sília\nResult: 1-0
+ sília\nHalf-time: 1-0\nFull-time: 1-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

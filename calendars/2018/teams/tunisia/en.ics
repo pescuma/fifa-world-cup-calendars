@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART:20180618T180000Z
 DTEND:20180618T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-e5ea05124043@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Volgograd Arena\, Volgograd
- \nResult: 1-2
+ \nHalf-time: 1-1\nFull-time: 1-2
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 5-2 🇹🇳 Tunisia
 DTSTART:20180623T120000Z
 DTEND:20180623T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d0e225fe8c19@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group G\nVenue: Spartak Stadium\, Moscow\n
- Result: 5-2
+ Half-time: 3-1\nFull-time: 5-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇦 Panama 1-2 🇹🇳 Tunisia
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-7cca7fe3df59@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Mordovia Arena\, Saransk\n
- Result: 1-2
+ Half-time: 1-0\nFull-time: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE

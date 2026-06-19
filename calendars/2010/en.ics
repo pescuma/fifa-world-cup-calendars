@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 1-1 🇲🇽 Mexico
 DTSTART:20100611T160000Z
 DTEND:20100611T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-77089d2db205@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Soccer City\, Johannesburg\
- nResult: 1-1
+ nFull-time: 1-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 0-0 🇫🇷 France
 DTSTART:20100611T203000Z
 DTEND:20100611T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4a931af2e909@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Cape Town Stadium\, Cape To
- wn\nResult: 0-0
+ wn\nFull-time: 0-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 0-3 🇺🇾 Uruguay
 DTSTART:20100616T203000Z
 DTEND:20100616T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-dfb226cf51df@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Loftus Versfeld Stadium\, P
- retoria\nResult: 0-3
+ retoria\nFull-time: 0-3
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 0-2 🇲🇽 Mexico
 DTSTART:20100617T203000Z
 DTEND:20100617T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bdc70364bd1a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group A\nVenue: Peter Mokaba Stadium\, Polo
- kwane\nResult: 0-2
+ kwane\nFull-time: 0-2
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 0-1 🇺🇾 Uruguay
 DTSTART:20100622T160000Z
 DTEND:20100622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-fdf76bc1806b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Royal Bafokeng Stadium\, R
- ustenburg\nResult: 0-1
+ ustenburg\nFull-time: 0-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-2 🇿🇦 South Africa
 DTSTART:20100622T160000Z
 DTEND:20100622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d31f2cb4f71a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 1-2
+ fontein\nFull-time: 1-2
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-0 🇬🇷 Greece
 DTSTART:20100612T133000Z
 DTEND:20100612T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d73b49456b42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Nelson Mandela Bay Stadium\
- , Port Elizabeth\nResult: 2-0
+ , Port Elizabeth\nFull-time: 2-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇳🇬 Nigeria
 DTSTART:20100612T160000Z
 DTEND:20100612T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-70acf28e22b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Ellis Park Stadium\, Johann
- esburg\nResult: 1-0
+ esburg\nFull-time: 1-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 4-1 🇰🇷 South Korea
 DTSTART:20100617T133000Z
 DTEND:20100617T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4467694be444@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group B\nVenue: Soccer City\, Johannesburg\
- nResult: 4-1
+ nFull-time: 4-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 2-1 🇳🇬 Nigeria
 DTSTART:20100617T160000Z
 DTEND:20100617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-63494663be75@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group B\nVenue: Free State Stadium\, Bloemf
- ontein\nResult: 2-1
+ ontein\nFull-time: 2-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 2-2 🇰🇷 South Korea
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e7195ec21202@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group B\nVenue: Moses Mabhida Stadium\, Du
- rban\nResult: 2-2
+ rban\nFull-time: 2-2
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Greece 0-2 🇦🇷 Argentina
 DTSTART:20100622T203000Z
 DTEND:20100622T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f766f44a95b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group B\nVenue: Peter Mokaba Stadium\, Pol
- okwane\nResult: 0-2
+ okwane\nFull-time: 0-2
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-1 🇺🇸 United States
 DTSTART:20100612T203000Z
 DTEND:20100612T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b981b5e0fdf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group C\nVenue: Royal Bafokeng Stadium\, Ru
- stenburg\nResult: 1-1
+ stenburg\nFull-time: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Algeria 0-1 🇸🇮 Slovenia
 DTSTART:20100613T133000Z
 DTEND:20100613T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-9a1ab0a41b44@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Peter Mokaba Stadium\, Polo
- kwane\nResult: 0-1
+ kwane\nFull-time: 0-1
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Slovenia 2-2 🇺🇸 United States
 DTSTART:20100618T160000Z
 DTEND:20100618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de76fb9eb126@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Ellis Park Stadium\, Johann
- esburg\nResult: 2-2
+ esburg\nFull-time: 2-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0-0 🇩🇿 Algeria
 DTSTART:20100618T203000Z
 DTEND:20100618T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bcdd917f7f33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Cape Town Stadium\, Cape To
- wn\nResult: 0-0
+ wn\nFull-time: 0-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 1-0 🇩🇿 Algeria
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38ca58514698@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Loftus Versfeld Stadium\, 
- Pretoria\nResult: 1-0
+ Pretoria\nFull-time: 1-0
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇮 Slovenia 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART:20100623T160000Z
 DTEND:20100623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-fb936ff30c6a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Nelson Mandela Bay Stadium
- \, Port Elizabeth\nResult: 0-1
+ \, Port Elizabeth\nFull-time: 0-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 0-1 🇬🇭 Ghana
 DTSTART:20100613T160000Z
 DTEND:20100613T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e98d792b3c76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Loftus Versfeld Stadium\, P
- retoria\nResult: 0-1
+ retoria\nFull-time: 0-1
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 4-0 🇦🇺 Australia
 DTSTART:20100613T203000Z
 DTEND:20100613T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-20c9b2a8a372@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Moses Mabhida Stadium\, Dur
- ban\nResult: 4-0
+ ban\nFull-time: 4-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 0-1 🇷🇸 Serbia
 DTSTART:20100618T133000Z
 DTEND:20100618T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d6b0d3b9014@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group D\nVenue: Nelson Mandela Bay Stadium\
- , Port Elizabeth\nResult: 0-1
+ , Port Elizabeth\nFull-time: 0-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 1-1 🇦🇺 Australia
 DTSTART:20100619T160000Z
 DTEND:20100619T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7e949f1ba74d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group D\nVenue: Royal Bafokeng Stadium\, Ru
- stenburg\nResult: 1-1
+ stenburg\nFull-time: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 2-1 🇷🇸 Serbia
 DTSTART:20100623T203000Z
 DTEND:20100623T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7d2d86d6fadb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Mbombela Stadium\, Nelspru
- it\nResult: 2-1
+ it\nFull-time: 2-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 0-1 🇩🇪 Germany
 DTSTART:20100623T203000Z
 DTEND:20100623T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-caac89488061@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Soccer City\, Johannesburg
- \nResult: 0-1
+ \nFull-time: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇩🇰 Denmark
 DTSTART:20100614T133000Z
 DTEND:20100614T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-38b9fa62842b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Soccer City\, Johannesburg\
- nResult: 2-0
+ nFull-time: 2-0
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 1-0 🇨🇲 Cameroon
 DTSTART:20100614T160000Z
 DTEND:20100614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-945c56491e0f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Free State Stadium\, Bloemf
- ontein\nResult: 1-0
+ ontein\nFull-time: 1-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 1-0 🇯🇵 Japan
 DTSTART:20100619T133000Z
 DTEND:20100619T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-083ea98c98d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: Moses Mabhida Stadium\, Dur
- ban\nResult: 1-0
+ ban\nFull-time: 1-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 1-2 🇩🇰 Denmark
 DTSTART:20100619T203000Z
 DTEND:20100619T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-9ca49b2ac7c9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: Loftus Versfeld Stadium\, P
- retoria\nResult: 1-2
+ retoria\nFull-time: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 1-3 🇯🇵 Japan
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-646dd64794ca@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: Royal Bafokeng Stadium\, R
- ustenburg\nResult: 1-3
+ ustenburg\nFull-time: 1-3
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroon 1-2 🇳🇱 Netherlands
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4f790122f758@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: Cape Town Stadium\, Cape T
- own\nResult: 1-2
+ own\nFull-time: 1-2
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇵🇾 Paraguay
 DTSTART:20100614T203000Z
 DTEND:20100614T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d2c10890a7a9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group F\nVenue: Cape Town Stadium\, Cape To
- wn\nResult: 1-1
+ wn\nFull-time: 1-1
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇿 New Zealand 1-1 🇸🇰 Slovakia
 DTSTART:20100615T133000Z
 DTEND:20100615T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-208f12bf82b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group F\nVenue: Royal Bafokeng Stadium\, Ru
- stenburg\nResult: 1-1
+ stenburg\nFull-time: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovakia 0-2 🇵🇾 Paraguay
 DTSTART:20100620T133000Z
 DTEND:20100620T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-65b9318a846d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 0-2
+ fontein\nFull-time: 0-2
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇳🇿 New Zealand
 DTSTART:20100620T160000Z
 DTEND:20100620T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-3edb1aa55dee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Mbombela Stadium\, Nelspru
- it\nResult: 1-1
+ it\nFull-time: 1-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovakia 3-2 🇮🇹 Italy
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d18188f7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Ellis Park Stadium\, Johan
- nesburg\nResult: 3-2
+ nesburg\nFull-time: 3-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-0 🇳🇿 New Zealand
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c0b1a28e3e98@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Peter Mokaba Stadium\, Pol
- okwane\nResult: 0-0
+ okwane\nFull-time: 0-0
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,12 +694,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 0-0 🇵🇹 Portugal
 DTSTART:20100615T160000Z
 DTEND:20100615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7f1d1c061950@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Nelson Mandela Bay Stadium\
- , Port Elizabeth\nResult: 0-0
+ , Port Elizabeth\nFull-time: 0-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -713,12 +713,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-1 🇰🇵 North Korea
 DTSTART:20100615T203000Z
 DTEND:20100615T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2b704af0ff5d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Ellis Park Stadium\, Johann
- esburg\nResult: 2-1
+ esburg\nFull-time: 2-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -732,12 +732,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-1 🇨🇮 Côte d’Ivoire
 DTSTART:20100620T203000Z
 DTEND:20100620T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d713c8630cb7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group G\nVenue: Soccer City\, Johannesburg
- \nResult: 3-1
+ \nFull-time: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -751,12 +751,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 7-0 🇰🇵 North Korea
 DTSTART:20100621T133000Z
 DTEND:20100621T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-c46231be3960@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group G\nVenue: Cape Town Stadium\, Cape T
- own\nResult: 7-0
+ own\nFull-time: 7-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -770,12 +770,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-0 🇧🇷 Brazil
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-0bfae0131c3c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Moses Mabhida Stadium\, Du
- rban\nResult: 0-0
+ rban\nFull-time: 0-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -789,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇵 North Korea 0-3 🇨🇮 Côte d’Ivoire
 DTSTART:20100625T160000Z
 DTEND:20100625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-24363c8d0cfe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Mbombela Stadium\, Nelspru
- it\nResult: 0-3
+ it\nFull-time: 0-3
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -808,12 +808,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-1 🇨🇱 Chile
 DTSTART:20100616T133000Z
 DTEND:20100616T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-db568481ff2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Mbombela Stadium\, Nelsprui
- t\nResult: 0-1
+ t\nFull-time: 0-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -827,12 +827,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 0-1 🇨🇭 Switzerland
 DTSTART:20100616T160000Z
 DTEND:20100616T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-292696c96b55@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group H\nVenue: Moses Mabhida Stadium\, Dur
- ban\nResult: 0-1
+ ban\nFull-time: 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -846,12 +846,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-0 🇨🇭 Switzerland
 DTSTART:20100621T160000Z
 DTEND:20100621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2f6489a3d89f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Nelson Mandela Bay Stadium
- \, Port Elizabeth\nResult: 1-0
+ \, Port Elizabeth\nFull-time: 1-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -865,12 +865,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 2-0 🇭🇳 Honduras
 DTSTART:20100621T203000Z
 DTEND:20100621T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6c334d1bce51@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Ellis Park Stadium\, Johan
- nesburg\nResult: 2-0
+ nesburg\nFull-time: 2-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -884,12 +884,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-2 🇪🇸 Spain
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-ee1d7ab685f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group H\nVenue: Loftus Versfeld Stadium\, 
- Pretoria\nResult: 1-2
+ Pretoria\nFull-time: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -903,12 +903,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 0-0 🇭🇳 Honduras
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-8da3f16fff52@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group H\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 0-0
+ fontein\nFull-time: 0-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -922,12 +922,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-1 🇰🇷 South Korea
 DTSTART:20100626T160000Z
 DTEND:20100626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-b6e69b2af8a2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Nelson Mandela Bay Stadium\, Port Elizabet
- h\nResult: 2-1
+ h\nFull-time: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -938,15 +938,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 United States 1-1 🇬🇭 Ghana
+SUMMARY:🇺🇸 United States 1+1-2+1 🇬🇭 Ghana
 DTSTART:20100626T203000Z
 DTEND:20100626T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de26bd94a443@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Royal Bafokeng Stadium\, Rustenburg\nResul
- t: 1-1
+DESCRIPTION:Round of 16\nVenue: Royal Bafokeng Stadium\, Rustenburg\nFull-
+ time: 1-1\nExtra time: 1-2
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -960,12 +960,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 4-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART:20100627T160000Z
 DTEND:20100627T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-a87e891ce02e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Free State Stadium\, Bloemfontein\nResult:
-  4-1
+DESCRIPTION:Round of 16\nVenue: Free State Stadium\, Bloemfontein\nFull-ti
+ me: 4-1
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -979,11 +979,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-1 🇲🇽 Mexico
 DTSTART:20100627T203000Z
 DTEND:20100627T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bdc027472f8b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Soccer City\, Johannesburg\nResult: 3-1
+DESCRIPTION:Round of 16\nVenue: Soccer City\, Johannesburg\nFull-time: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -997,12 +997,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇸🇰 Slovakia
 DTSTART:20100628T160000Z
 DTEND:20100628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-076963041077@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Moses Mabhida Stadium\, Durban\nResult: 2-
- 1
+DESCRIPTION:Round of 16\nVenue: Moses Mabhida Stadium\, Durban\nFull-time:
+  2-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1016,12 +1016,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇨🇱 Chile
 DTSTART:20100628T203000Z
 DTEND:20100628T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-56852b1b022f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Ellis Park Stadium\, Johannesburg\nResult:
-  3-0
+DESCRIPTION:Round of 16\nVenue: Ellis Park Stadium\, Johannesburg\nFull-ti
+ me: 3-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1032,15 +1032,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇾 Paraguay 0-0 🇯🇵 Japan
+SUMMARY:🇵🇾 Paraguay 0+0[5]-[3]0+0 🇯🇵 Japan
 DTSTART:20100629T160000Z
 DTEND:20100629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-18104b532e27@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nResult
- : 0-0
+DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nFull-t
+ ime: 0-0\nExtra time: 0-0\nPenalties: 5-3
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1054,11 +1054,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 1-0 🇵🇹 Portugal
 DTSTART:20100629T203000Z
 DTEND:20100629T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6069044f48c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Cape Town Stadium\, Cape Town\nResult: 1-0
+DESCRIPTION:Round of 16\nVenue: Cape Town Stadium\, Cape Town\nFull-time: 
+ 1-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1072,12 +1073,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇧🇷 Brazil
 DTSTART:20100702T160000Z
 DTEND:20100702T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-58026d7460f8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nVenue: Nelson Mandela Bay Stadium\, Port Elizab
- eth\nResult: 2-1
+ eth\nFull-time: 2-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1088,14 +1089,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇾 Uruguay 1-1 🇬🇭 Ghana
+SUMMARY:🇺🇾 Uruguay 1+1[4]-[2]1+1 🇬🇭 Ghana
 DTSTART:20100702T203000Z
 DTEND:20100702T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-aa58f9d7069b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Soccer City\, Johannesburg\nResult: 1-1
+DESCRIPTION:Quarterfinals\nVenue: Soccer City\, Johannesburg\nFull-time: 1
+ -1\nExtra time: 1-1\nPenalties: 4-2
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1109,12 +1111,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-4 🇩🇪 Germany
 DTSTART:20100703T160000Z
 DTEND:20100703T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-1726fde85569@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Cape Town Stadium\, Cape Town\nResult: 0
- -4
+DESCRIPTION:Quarterfinals\nVenue: Cape Town Stadium\, Cape Town\nFull-time
+ : 0-4
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1128,12 +1130,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-1 🇪🇸 Spain
 DTSTART:20100703T203000Z
 DTEND:20100703T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-aa6b3455f4f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nVenue: Ellis Park Stadium\, Johannesburg\nResul
- t: 0-1
+DESCRIPTION:Quarterfinals\nVenue: Ellis Park Stadium\, Johannesburg\nFull-
+ time: 0-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1147,11 +1149,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-3 🇳🇱 Netherlands
 DTSTART:20100706T203000Z
 DTEND:20100706T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-135f3368be5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nVenue: Cape Town Stadium\, Cape Town\nResult: 2-3
+DESCRIPTION:Semifinals\nVenue: Cape Town Stadium\, Cape Town\nFull-time: 2
+ -3
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1165,11 +1168,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 0-1 🇪🇸 Spain
 DTSTART:20100707T203000Z
 DTEND:20100707T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-940ee6e3c930@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nVenue: Moses Mabhida Stadium\, Durban\nResult: 0-1
+DESCRIPTION:Semifinals\nVenue: Moses Mabhida Stadium\, Durban\nFull-time: 
+ 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1183,12 +1187,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-3 🇩🇪 Germany
 DTSTART:20100710T203000Z
 DTEND:20100710T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-a5833ac30e16@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third-place play-off\nVenue: Nelson Mandela Bay Stadium\, Port
-  Elizabeth\nResult: 2-3
+  Elizabeth\nFull-time: 2-3
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1199,14 +1203,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 0-0 🇪🇸 Spain
+SUMMARY:🇳🇱 Netherlands 0+0-1+0 🇪🇸 Spain
 DTSTART:20100711T203000Z
 DTEND:20100711T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4cbc80f55918@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Soccer City\, Johannesburg\nResult: 0-0
+DESCRIPTION:Final\nVenue: Soccer City\, Johannesburg\nFull-time: 0-0\nExtr
+ a time: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russia 5-0 🇸🇦 Saudi Arabia
 DTSTART:20180614T150000Z
 DTEND:20180614T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-825c5a014391@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Luzhniki Stadium\, Moscow\n
- Result: 5-0
+ Half-time: 2-0\nFull-time: 5-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russia 3-1 🇪🇬 Egypt
 DTSTART:20180619T180000Z
 DTEND:20180619T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-310ebf37e625@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Saint Petersburg Stadium\, 
- Saint Petersburg\nResult: 3-1
+ Saint Petersburg\nHalf-time: 0-0\nFull-time: 3-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 3-0 🇷🇺 Russia
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1c7431d958de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Samara Arena\, Samara\nRes
- ult: 3-0
+DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Samara Arena\, Samara\nHal
+ f-time: 2-0\nFull-time: 3-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Spain 1-1 🇷🇺 Russia
+SUMMARY:🇪🇸 Spain 1+1[3]-[4]1+1 🇷🇺 Russia
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Luzhniki Stadium\, Moscow\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Luzhniki Stadium\, Moscow\nHalf-time: 1-1\
+ nFull-time: 1-1\nExtra time: 1-1\nPenalties: 3-4
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -83,14 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Russia 1-1 🇭🇷 Croatia
+SUMMARY:🇷🇺 Russia 1+2[3]-[4]2+1 🇭🇷 Croatia
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Fisht Stadium\, Sochi\nResult: 1-1
+DESCRIPTION:Quarter-finals\nVenue: Fisht Stadium\, Sochi\nHalf-time: 1-1\n
+ Full-time: 1-1\nExtra time: 2-2\nPenalties: 3-4
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

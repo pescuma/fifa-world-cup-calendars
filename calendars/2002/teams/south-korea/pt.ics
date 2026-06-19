@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-567eee81fa85@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Asiad Main Stadium\, Busan
- \nResultado: 2-0
+ \nFinal: 2-0
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 1-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-44e5e88f89f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Daegu World Cup Stadium\, 
- Daegu\nResultado: 1-1
+ Daegu\nFinal: 1-1
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-afb9c33f5ed8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Incheon Munhak Stadium\, I
- ncheon\nResultado: 0-1
+ ncheon\nFinal: 0-1
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇰🇷 Coreia do Sul 1-1 🇮🇹 Itália
+SUMMARY:🇰🇷 Coreia do Sul 1+2-1+1 🇮🇹 Itália
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-820511d1c427@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Daejeon World Cup Stadium\, Daejeo
- n\nResultado: 1-1
+ n\nFinal: 1-1\nProrrogação: 2-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 0-0 🇰🇷 Coreia do Sul
+SUMMARY:🇪🇸 Espanha 0+0[3]-[5]0+0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020622
 DTEND;VALUE=DATE:20020623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a98f49429303@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Gwangju World Cup Stadium\, Gwangju\
- nResultado: 0-0
+ nFinal: 0-0\nProrrogação: 0-0\nPênaltis: 3-5
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha 1-0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20020625
 DTEND;VALUE=DATE:20020626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-be867e84a7b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Seoul World Cup Stadium\, Seoul\nResult
- ado: 1-0
+DESCRIPTION:Semi-finals\nEstádio: Seoul World Cup Stadium\, Seoul\nFinal:
+  1-0
 LOCATION:Seoul World Cup Stadium\, Seoul
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-3 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020629
 DTEND;VALUE=DATE:20020630
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-014a857339bc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third place play-off\nEstádio: Daegu World Cup Stadium\, Daeg
- u\nResultado: 2-3
+ u\nFinal: 2-3
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE

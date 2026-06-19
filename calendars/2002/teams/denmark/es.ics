@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-2 🇩🇰 Dinamarca
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-b511e8f6be0e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Munsu Cup Stadium\, Ulsan\
- nResultado: 1-2
+ nFinal: 1-2
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-1 🇸🇳 Senegal
 DTSTART;VALUE=DATE:20020606
 DTEND;VALUE=DATE:20020607
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-955c3c84b63d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Daegu World Cup Stadium\, 
- Daegu\nResultado: 1-1
+ Daegu\nFinal: 1-1
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 2-0 🇫🇷 Francia
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-38f4b0e71dc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Incheon Munhak Stadium\, I
- ncheon\nResultado: 2-0
+ ncheon\nFinal: 2-0
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 0-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-453018737ad5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Niigata Stadium\, Niigata\nResultad
- o: 0-3
+DESCRIPTION:Octavos de Final\nEstadio: Niigata Stadium\, Niigata\nFinal: 0
+ -3
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE

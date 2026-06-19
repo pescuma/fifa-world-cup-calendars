@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 2-1 🇨🇿 Tchéquie
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-dfd8df44c1fb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Guadalajara (Zapopan)
- \nRésultat: 2-1
+ \nMi-temps: 0-0\nFin du match: 2-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Tchéquie 1-1 🇿🇦 Afrique du Sud
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 8\nGroupe: Group A\nStade: Atlanta\nRésultat: 1
- -1
+DESCRIPTION:Jour de match 8\nGroupe: Group A\nStade: Atlanta\nMi-temps: 1-
+ 0\nFin du match: 1-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

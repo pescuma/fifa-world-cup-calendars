@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 1-2 🇯🇵 Japon
 DTSTART:20221123T160000Z
 DTEND:20221123T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-abdb323efea6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Khalifa International
-  Stadium\, Al Rayyan\nRésultat: 1-2
+  Stadium\, Al Rayyan\nMi-temps: 1-0\nFin du match: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 1-1 🇩🇪 Allemagne
 DTSTART:20221127T220000Z
 DTEND:20221128T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group E\nStade: Al Bayt Stadium\, Al 
- Khor\nRésultat: 1-1
+ Khor\nMi-temps: 0-0\nFin du match: 1-1
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 2-4 🇩🇪 Allemagne
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-62fabdb24963@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group E\nStade: Al Bayt Stadium\, Al
-  Khor\nRésultat: 2-4
+  Khor\nMi-temps: 0-1\nFin du match: 2-4
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE

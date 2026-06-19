@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-1 🇦🇺 Australie
 DTSTART:20180616T100000Z
 DTEND:20180616T120000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-41218d9b3c65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Kazan Arena\, Kazan\n
- Résultat: 2-1
+ Mi-temps: 0-0\nFin du match: 2-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-0 🇵🇪 Pérou
 DTSTART:20180621T150000Z
 DTEND:20180621T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fd8a368b8da7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Ekaterinburg Arena\, 
- Ekaterinburg\nRésultat: 1-0
+ Ekaterinburg\nMi-temps: 1-0\nFin du match: 1-0
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 0-0 🇫🇷 France
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-349c36640009@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Luzhniki Stadium\, M
- oscow\nRésultat: 0-0
+ oscow\nMi-temps: 0-0\nFin du match: 0-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-3 🇦🇷 Argentine
 DTSTART:20180630T140000Z
 DTEND:20180630T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1fb30c0fed9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Kazan Arena\, Kazan\nRésultat: 4-3
+DESCRIPTION:1/8ème de finale\nStade: Kazan Arena\, Kazan\nMi-temps: 1-1\n
+ Fin du match: 4-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 0-2 🇫🇷 France
 DTSTART:20180706T140000Z
 DTEND:20180706T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6e384982c147@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Nizhny Novgorod Stadium\, Nizhny Novgor
- od\nRésultat: 0-2
+ od\nMi-temps: 0-1\nFin du match: 0-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-0 🇧🇪 Belgique
 DTSTART:20180710T180000Z
 DTEND:20180710T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9a49177435f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nStade: Saint Petersburg Stadium\, St. Petersburg\
- nRésultat: 1-0
+ nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,11 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-2 🇭🇷 Croatie
 DTSTART:20180715T150000Z
 DTEND:20180715T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1367436b01e2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Luzhniki Stadium\, Moscow\nRésultat: 4-2
+DESCRIPTION:Finale\nStade: Luzhniki Stadium\, Moscow\nMi-temps: 2-1\nFin d
+ u match: 4-2
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

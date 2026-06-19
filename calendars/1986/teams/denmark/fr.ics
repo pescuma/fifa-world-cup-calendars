@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse 0-1 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-1da5861e62e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Estadio Neza 86\, Nez
- ahualcóyotl\nRésultat: 0-1
+ ahualcóyotl\nFin du match: 0-1
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 6-1 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d01d772da800@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Estadio Neza 86\, Nez
- ahualcóyotl\nRésultat: 6-1
+ ahualcóyotl\nFin du match: 6-1
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 2-0 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b8fc4df56167@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: Estadio La Corregidor
- a\, Querétaro\nRésultat: 2-0
+ a\, Querétaro\nFin du match: 2-0
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 1-5 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19860618
 DTEND;VALUE=DATE:19860619
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-43357c038825@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estadio La Corregidora\, Querétaro\
- nRésultat: 1-5
+ nFin du match: 1-5
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

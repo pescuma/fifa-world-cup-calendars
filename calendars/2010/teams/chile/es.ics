@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-1 🇨🇱 Chile
 DTSTART:20100616T133000Z
 DTEND:20100616T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-db568481ff2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Mbombela Stadium\, Nelspru
- it\nResultado: 0-1
+ it\nFinal: 0-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-0 🇨🇭 Suiza
 DTSTART:20100621T160000Z
 DTEND:20100621T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-2f6489a3d89f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Nelson Mandela Bay Stadiu
- m\, Port Elizabeth\nResultado: 1-0
+ m\, Port Elizabeth\nFinal: 1-0
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chile 1-2 🇪🇸 España
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-ee1d7ab685f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Loftus Versfeld Stadium\,
-  Pretoria\nResultado: 1-2
+  Pretoria\nFinal: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 3-0 🇨🇱 Chile
 DTSTART:20100628T203000Z
 DTEND:20100628T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-56852b1b022f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Ellis Park Stadium\, Johannesburg\n
- Resultado: 3-0
+ Final: 3-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

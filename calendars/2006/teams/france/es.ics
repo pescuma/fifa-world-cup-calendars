@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 0-0 🇨🇭 Suiza
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-76bfdf558382@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Gottlieb-Daimler-Stadion\,
-  Stuttgart\nResultado: 0-0
+  Stuttgart\nFinal: 0-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-1 🇰🇷 Corea del Sur
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7dd52209ab33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group G\nEstadio: Zentralstadion\, Leipzig\
- nResultado: 1-1
+ nDescanso: 1-0\nFinal: 1-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-b270c037059e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: RheinEnergieStadion\, Kö
- ln\nResultado: 0-2
+ ln\nDescanso: 0-0\nFinal: 0-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 1-3 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060627
 DTEND;VALUE=DATE:20060628
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-67786f0c1914@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: AWD-Arena\, Hannover\nResultado: 1-
- 3
+DESCRIPTION:Octavos de Final\nEstadio: AWD-Arena\, Hannover\nDescanso: 1-1
+ \nFinal: 1-3
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-dd164433683d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: Commerzbank-Arena\, Frankfurt\nResulta
- do: 0-1
+DESCRIPTION:Quarterfinals\nEstadio: Commerzbank-Arena\, Frankfurt\nDescans
+ o: 0-0\nFinal: 0-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,11 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060705
 DTEND;VALUE=DATE:20060706
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-bdc57d55c25d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nEstadio: Allianz Arena\, München\nResultado: 0-1
+DESCRIPTION:Semifinals\nEstadio: Allianz Arena\, München\nDescanso: 0-1\n
+ Final: 0-1
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -121,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italia 1-1 🇫🇷 Francia
+SUMMARY:🇮🇹 Italia 1+1[5]-[3]1+1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060709
 DTEND;VALUE=DATE:20060710
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-f953a3cf4325@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Olympiastadion\, Berlin\nResultado: 1-1
+DESCRIPTION:Final\nEstadio: Olympiastadion\, Berlin\nDescanso: 1-1\nFinal:
+  1-1\nPrórroga: 1-1\nPenaltis: 5-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

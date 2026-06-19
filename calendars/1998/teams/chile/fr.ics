@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 2-2 🇨🇱 Chili
 DTSTART;VALUE=DATE:19980611
 DTEND;VALUE=DATE:19980612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-95d4f8c60d26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group B\nStade: Parc Lescure\, Bordea
- ux\nRésultat: 2-2
+ ux\nFin du match: 2-2
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-1 🇦🇹 Autriche
 DTSTART;VALUE=DATE:19980617
 DTEND;VALUE=DATE:19980618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-913abe09a1a5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Stade Geoffroy-Guicha
- rd\, Saint-Étienne\nRésultat: 1-1
+ rd\, Saint-Étienne\nFin du match: 1-1
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-1 🇨🇲 Cameroun
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-b18b66170926@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group B\nStade: Stade de la Beaujoire
- \, Nantes\nRésultat: 1-1
+ \, Nantes\nFin du match: 1-1
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 4-1 🇨🇱 Chili
 DTSTART;VALUE=DATE:19980627
 DTEND;VALUE=DATE:19980628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-d21ece1dfd6e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Parc des Princes\, Paris\nRésultat:
-  4-1
+DESCRIPTION:1/8ème de finale\nStade: Parc des Princes\, Paris\nFin du mat
+ ch: 4-1
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE

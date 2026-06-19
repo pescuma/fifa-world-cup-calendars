@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 3-1 🇭🇷 Croatie
 DTSTART:20140612T200000Z
 DTEND:20140612T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3b4bc6cbebf9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Arena de São Paulo\,
-  São Paulo\nRésultat: 3-1
+  São Paulo\nMi-temps: 1-1\nFin du match: 3-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 0-0 🇲🇽 Mexique
 DTSTART:20140617T190000Z
 DTEND:20140617T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f618e5388af3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group A\nStade: Estádio Castelão\, 
- Fortaleza\nRésultat: 0-0
+ Fortaleza\nFin du match: 0-0
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-4 🇧🇷 Brésil
 DTSTART:20140623T200000Z
 DTEND:20140623T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7bfe9f16c3c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group A\nStade: Estádio Nacional Ma
- né Garrincha\, Brasília\nRésultat: 1-4
+ né Garrincha\, Brasília\nFin du match: 1-4
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brésil 1-1 🇨🇱 Chili
+SUMMARY:🇧🇷 Brésil 1+1[3]-[2]1+1 🇨🇱 Chili
 DTSTART:20140628T160000Z
 DTEND:20140628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-259909816609@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estádio Mineirão\, Belo Horizonte\
- nRésultat: 1-1
+ nMi-temps: 1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-2
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-1 🇨🇴 Colombie
 DTSTART:20140704T200000Z
 DTEND:20140704T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-978a9fc17150@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Estádio Castelão\, Fortaleza\nRésult
- at: 2-1
+DESCRIPTION:Quarter-finals\nStade: Estádio Castelão\, Fortaleza\nMi-temp
+ s: 1-0\nFin du match: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-7 🇩🇪 Allemagne
 DTSTART:20140708T200000Z
 DTEND:20140708T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-507d1ff85219@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Estádio Mineirão\, Belo Horizonte\nRésu
- ltat: 1-7
+DESCRIPTION:Semi-finals\nStade: Estádio Mineirão\, Belo Horizonte\nMi-te
+ mps: 0-5\nFin du match: 1-7
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 0-3 🇳🇱 Pays-Bas
 DTSTART:20140712T200000Z
 DTEND:20140712T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3210c5c080fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Match pour la 3ème place\nStade: Estádio Nacional Mané Garr
- incha\, Brasília\nRésultat: 0-3
+ incha\, Brasília\nMi-temps: 0-2\nFin du match: 0-3
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

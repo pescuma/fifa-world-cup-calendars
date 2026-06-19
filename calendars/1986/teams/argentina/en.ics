@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-1 🇰🇷 South Korea
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-9e4307156406@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Estadio Olímpico Universit
- ario\, Mexico City\nResult: 3-1
+ ario\, Mexico City\nFull-time: 3-1
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4324e2b97cf4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Estadio Cuauhtémoc\, Puebl
- a\nResult: 1-1
+ a\nFull-time: 1-1
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19860610
 DTEND;VALUE=DATE:19860611
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group A\nVenue: Estadio Olímpico Universit
- ario\, Mexico City\nResult: 2-0
+ ario\, Mexico City\nFull-time: 2-0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19860616
 DTEND;VALUE=DATE:19860617
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-9ae5111bef7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Estadio Cuauhtémoc\, Puebla\nResult: 1-0
+DESCRIPTION:Round of 16\nVenue: Estadio Cuauhtémoc\, Puebla\nFull-time: 1
+ -0
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f942458386fd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Estadio Azteca\, Mexico City\nResult: 2
- -1
+DESCRIPTION:Quarter-finals\nVenue: Estadio Azteca\, Mexico City\nFull-time
+ : 2-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,11 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-184110389620@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Estadio Azteca\, Mexico City\nResult: 2-0
+DESCRIPTION:Semi-finals\nVenue: Estadio Azteca\, Mexico City\nFull-time: 2
+ -0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -123,11 +125,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-2 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860629
 DTEND;VALUE=DATE:19860630
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0a02259b7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Estadio Azteca\, Mexico City\nResult: 3-2
+DESCRIPTION:Final\nVenue: Estadio Azteca\, Mexico City\nFull-time: 3-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

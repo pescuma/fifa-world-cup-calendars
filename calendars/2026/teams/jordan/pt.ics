@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Áustria 3-1 🇯🇴 Jordânia
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-647e537b682d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group J\nEstádio: San Francisco Bay Area (Sa
- nta Clara)\nResultado: 3-1
+ nta Clara)\nIntervalo: 1-0\nFinal: 3-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

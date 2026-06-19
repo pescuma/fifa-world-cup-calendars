@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 1-0 🇨🇲 Cameroun
 DTSTART:20221124T130000Z
 DTEND:20221124T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-efa61aae2696@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Al Janoub Stadium\, A
- l Wakrah\nRésultat: 1-0
+ l Wakrah\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 3-3 🇷🇸 Serbie
 DTSTART:20221128T130000Z
 DTEND:20221128T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7179e50afb70@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group G\nStade: Al Janoub Stadium\, A
- l Wakrah\nRésultat: 3-3
+ l Wakrah\nMi-temps: 1-2\nFin du match: 3-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Cameroun 1-0 🇧🇷 Brésil
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34fda74f7ea4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group G\nStade: Lusail Iconic Stadiu
- m\, Lusail\nRésultat: 1-0
+ m\, Lusail\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

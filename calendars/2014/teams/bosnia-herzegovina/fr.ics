@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 2-1 🇧🇦 Bosnie-Herzégovine
 DTSTART:20140615T220000Z
 DTEND:20140616T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-4541581f2adb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Estádio do Maracanã
- \, Rio de Janeiro\nRésultat: 2-1
+ \, Rio de Janeiro\nFin du match: 2-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-0 🇧🇦 Bosnie-Herzégovine
 DTSTART:20140621T220000Z
 DTEND:20140622T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d78502c82e91@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group F\nStade: Arena Pantanal\, Cui
- abá\nRésultat: 1-0
+ abá\nFin du match: 1-0
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇦 Bosnie-Herzégovine 3-1 🇮🇷 Iran
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a9fcea379e83@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group F\nStade: Arena Fonte Nova\, S
- alvador\nRésultat: 3-1
+ alvador\nFin du match: 3-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE

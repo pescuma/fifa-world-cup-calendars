@@ -11,11 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 1-0 🇪🇨 Ecuador
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-0ef2205260cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Philadelphia\nResult: 1-0
+DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Philadelphia\nHalf-time: 0-
+ 0\nFull-time: 1-0
 LOCATION:Philadelphia
 STATUS:CONFIRMED
 TRANSP:OPAQUE

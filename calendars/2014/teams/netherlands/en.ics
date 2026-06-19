@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 1-5 🇳🇱 Netherlands
 DTSTART:20140613T190000Z
 DTEND:20140613T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a058b1c6d72b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Arena Fonte Nova\, Salvador
- \nResult: 1-5
+ \nHalf-time: 1-1\nFull-time: 1-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 2-3 🇳🇱 Netherlands
 DTSTART:20140618T160000Z
 DTEND:20140618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ba9cd0f011cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group B\nVenue: Estádio Beira-Rio\, Porto 
- Alegre\nResult: 2-3
+ Alegre\nFull-time: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇨🇱 Chile
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7d9aee59de0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group B\nVenue: Arena de São Paulo\, São
-  Paulo\nResult: 2-0
+  Paulo\nFull-time: 2-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇲🇽 Mexico
 DTSTART:20140629T160000Z
 DTEND:20140629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d02e10135c22@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Estádio Castelão\, Fortaleza\nResult: 2-
- 1
+DESCRIPTION:Round of 16\nVenue: Estádio Castelão\, Fortaleza\nHalf-time:
+  0-0\nFull-time: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 0-0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Netherlands 0+0[4]-[3]0+0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Arena Fonte Nova\, Salvador\nResult: 0-
- 0
+DESCRIPTION:Quarter-finals\nVenue: Arena Fonte Nova\, Salvador\nHalf-time:
+  0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 4-3
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 0-0 🇦🇷 Argentina
+SUMMARY:🇳🇱 Netherlands 0+0[2]-[4]0+0 🇦🇷 Argentina
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Arena de São Paulo\, São Paulo\nResult: 
- 0-0
+DESCRIPTION:Semi-finals\nVenue: Arena de São Paulo\, São Paulo\nHalf-tim
+ e: 0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 2-4
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 0-3 🇳🇱 Netherlands
 DTSTART:20140712T200000Z
 DTEND:20140712T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-3210c5c080fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third Place Match\nVenue: Estádio Nacional Mané Garrincha\, 
- Brasília\nResult: 0-3
+ Brasília\nHalf-time: 0-2\nFull-time: 0-3
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

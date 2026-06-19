@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 0-0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19980613
 DTEND;VALUE=DATE:19980614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-180dae9e53e7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group E\nEstadio: Stade de France\, Saint-De
- nis\nResultado: 0-0
+ nis\nFinal: 0-0
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 5-0 🇰🇷 Corea del Sur
 DTSTART;VALUE=DATE:19980620
 DTEND;VALUE=DATE:19980621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-289621fb5efc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group E\nEstadio: Stade Vélodrome\, Marseil
- le\nResultado: 5-0
+ le\nFinal: 5-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-2 🇲🇽 México
 DTSTART;VALUE=DATE:19980625
 DTEND;VALUE=DATE:19980626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-714be054b846@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group E\nEstadio: Stade Geoffroy-Guichard\, 
- Saint-Étienne\nResultado: 2-2
+ Saint-Étienne\nFinal: 2-2
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇷🇸🇲🇪 Yugoslavia
 DTSTART;VALUE=DATE:19980629
 DTEND;VALUE=DATE:19980630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-718637f6da3d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Stade de Toulouse\, Toulouse\nResul
- tado: 2-1
+DESCRIPTION:Octavos de Final\nEstadio: Stade de Toulouse\, Toulouse\nFinal
+ : 2-1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19980704
 DTEND;VALUE=DATE:19980705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-99c35b0ce3d2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Stade Vélodrome\, Marseille\nResulta
- do: 2-1
+DESCRIPTION:Quarter-finals\nEstadio: Stade Vélodrome\, Marseille\nFinal: 
+ 2-1
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -103,15 +103,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil 1-1 🇳🇱 Países Bajos
+SUMMARY:🇧🇷 Brasil 1+1[4]-[2]1+1 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:19980707
 DTEND;VALUE=DATE:19980708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-f6b2fb019a2c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Stade Vélodrome\, Marseille\nResultado:
-  1-1
+DESCRIPTION:Semi-finals\nEstadio: Stade Vélodrome\, Marseille\nFinal: 1-1
+ \nPrórroga: 1-1\nPenaltis: 4-2
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 1-2 🇭🇷 Croacia
 DTSTART;VALUE=DATE:19980711
 DTEND;VALUE=DATE:19980712
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-9c751af139d2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nEstadio: Parc des Princes\, Paris\nResultad
- o: 1-2
+DESCRIPTION:Third place match\nEstadio: Parc des Princes\, Paris\nFinal: 1
+ -2
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE

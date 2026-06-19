@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-0 🇵🇦 Panamá
 DTSTART:20180618T150000Z
 DTEND:20180618T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9f0d787ac135@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nRes
- ultado: 3-0
+DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Fisht Stadium\, Sochi\nDes
+ canso: 0-0\nFinal: 3-0
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-1 🇵🇦 Panamá
 DTSTART:20180624T120000Z
 DTEND:20180624T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-ce3d47cd8dcc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Nizhny Novgorod Stadium\,
-  Nizhny Novgorod\nResultado: 6-1
+  Nizhny Novgorod\nDescanso: 5-0\nFinal: 6-1
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇦 Panamá 1-2 🇹🇳 Túnez
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-7cca7fe3df59@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: Mordovia Arena\, Saransk\
- nResultado: 1-2
+ nDescanso: 1-0\nFinal: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE

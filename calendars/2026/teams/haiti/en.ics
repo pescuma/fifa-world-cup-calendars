@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-ec4c7885a3a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Boston (Foxborough)\nResult
- : 0-1
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Boston (Foxborough)\nHalf-t
+ ime: 0-1\nFull-time: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

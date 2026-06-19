@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-1 🇨🇭 Suisse
 DTSTART:20180617T180000Z
 DTEND:20180617T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-02492be6080a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Rostov Arena\, Rostov
- -on-Don\nRésultat: 1-1
+ -on-Don\nMi-temps: 1-0\nFin du match: 1-1
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbie 1-2 🇨🇭 Suisse
 DTSTART:20180622T180000Z
 DTEND:20180622T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f13c933a444d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 9\nGroupe: Group E\nStade: Kaliningrad Stadium\,
-  Kaliningrad\nRésultat: 1-2
+  Kaliningrad\nMi-temps: 1-0\nFin du match: 1-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suisse 2-2 🇨🇷 Costa Rica
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1aee2f477d5c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group E\nStade: Nizhny Novgorod Stad
- ium\, Nizhny Novgorod\nRésultat: 2-2
+ ium\, Nizhny Novgorod\nMi-temps: 1-0\nFin du match: 2-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 1-0 🇨🇭 Suisse
 DTSTART:20180703T140000Z
 DTEND:20180703T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-c3ad17238c32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Saint Petersburg Stadium\, Saint Pet
- ersburg\nRésultat: 1-0
+ ersburg\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

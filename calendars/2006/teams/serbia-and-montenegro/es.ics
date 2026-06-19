@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Serbia y Montenegro 0-1 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Zentralstadion\, Leipzig\n
- Resultado: 0-1
+ Descanso: 0-1\nFinal: 0-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Serbia y Montenegro
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2188068146c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 6-0
+ hen\nDescanso: 3-0\nFinal: 6-0
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 3-2 🇷🇸🇲🇪 Serbia y Montenegro
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Allianz Arena\, München\
- nResultado: 3-2
+ nDescanso: 1-2\nFinal: 3-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE

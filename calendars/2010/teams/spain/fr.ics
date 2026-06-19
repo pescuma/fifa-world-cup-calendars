@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 0-1 🇨🇭 Suisse
 DTSTART:20100616T160000Z
 DTEND:20100616T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-292696c96b55@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Moses Mabhida Stadium
- \, Durban\nRésultat: 0-1
+ \, Durban\nFin du match: 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 2-0 🇭🇳 Honduras
 DTSTART:20100621T203000Z
 DTEND:20100621T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6c334d1bce51@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: Ellis Park Stadium\,
-  Johannesburg\nRésultat: 2-0
+  Johannesburg\nFin du match: 2-0
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 1-2 🇪🇸 Espagne
 DTSTART:20100625T203000Z
 DTEND:20100625T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-ee1d7ab685f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Loftus Versfeld Stad
- ium\, Pretoria\nRésultat: 1-2
+ ium\, Pretoria\nFin du match: 1-2
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 1-0 🇵🇹 Portugal
 DTSTART:20100629T203000Z
 DTEND:20100629T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6069044f48c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Cape Town Stadium\, Cape Town\nRésu
- ltat: 1-0
+DESCRIPTION:1/8ème de finale\nStade: Cape Town Stadium\, Cape Town\nFin d
+ u match: 1-0
 LOCATION:Cape Town Stadium\, Cape Town
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-1 🇪🇸 Espagne
 DTSTART:20100703T203000Z
 DTEND:20100703T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-aa6b3455f4f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nStade: Ellis Park Stadium\, Johannesburg\nRésu
- ltat: 0-1
+DESCRIPTION:Quarterfinals\nStade: Ellis Park Stadium\, Johannesburg\nFin d
+ u match: 0-1
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 0-1 🇪🇸 Espagne
 DTSTART:20100707T203000Z
 DTEND:20100707T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-940ee6e3c930@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nStade: Moses Mabhida Stadium\, Durban\nRésultat: 
- 0-1
+DESCRIPTION:Semifinals\nStade: Moses Mabhida Stadium\, Durban\nFin du matc
+ h: 0-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0-0 🇪🇸 Espagne
+SUMMARY:🇳🇱 Pays-Bas 0+0-1+0 🇪🇸 Espagne
 DTSTART:20100711T203000Z
 DTEND:20100711T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-4cbc80f55918@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Soccer City\, Johannesburg\nRésultat: 0-0
+DESCRIPTION:Finale\nStade: Soccer City\, Johannesburg\nFin du match: 0-0\n
+ Prolongation: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

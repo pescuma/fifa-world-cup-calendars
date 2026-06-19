@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 0-1 🇬🇭 Ghana
 DTSTART:20100613T160000Z
 DTEND:20100613T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e98d792b3c76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Loftus Versfeld Stadium\, P
- retoria\nResult: 0-1
+ retoria\nFull-time: 0-1
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 0-1 🇷🇸 Serbia
 DTSTART:20100618T133000Z
 DTEND:20100618T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d6b0d3b9014@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group D\nVenue: Nelson Mandela Bay Stadium\
- , Port Elizabeth\nResult: 0-1
+ , Port Elizabeth\nFull-time: 0-1
 LOCATION:Nelson Mandela Bay Stadium\, Port Elizabeth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 2-1 🇷🇸 Serbia
 DTSTART:20100623T203000Z
 DTEND:20100623T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7d2d86d6fadb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Mbombela Stadium\, Nelspru
- it\nResult: 2-1
+ it\nFull-time: 2-1
 LOCATION:Mbombela Stadium\, Nelspruit
 STATUS:CONFIRMED
 TRANSP:OPAQUE

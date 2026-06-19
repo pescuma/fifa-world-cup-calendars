@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-98a84f468476@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Kashima Soccer Stadium\, Ib
- araki\nResult: 1-0
+ araki\nFull-time: 1-0
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Sweden 2-1 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-04902beef63c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Kobe Wing Stadium\, Kobe\nR
- esult: 2-1
+DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Kobe Wing Stadium\, Kobe\nF
+ ull-time: 2-1
 LOCATION:Kobe Wing Stadium\, Kobe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bc63136ad9c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Nagai Stadium\, Osaka\nResu
- lt: 0-0
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Nagai Stadium\, Osaka\nFull
+ -time: 0-0
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE

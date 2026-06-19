@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Sérvia 0-1 🇬🇭 Gana
 DTSTART:20100613T160000Z
 DTEND:20100613T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-e98d792b3c76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Loftus Versfeld Stadium\, 
- Pretoria\nResultado: 0-1
+ Pretoria\nFinal: 0-1
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 1-1 🇦🇺 Austrália
 DTSTART:20100619T160000Z
 DTEND:20100619T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-7e949f1ba74d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group D\nEstádio: Royal Bafokeng Stadium\, R
- ustenburg\nResultado: 1-1
+ ustenburg\nFinal: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 0-1 🇩🇪 Alemanha
 DTSTART:20100623T203000Z
 DTEND:20100623T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-caac89488061@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 13\nGrupo: Group D\nEstádio: Soccer City\, Johannesbur
- g\nResultado: 0-1
+ g\nFinal: 0-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 Estados Unidos 1-1 🇬🇭 Gana
+SUMMARY:🇺🇸 Estados Unidos 1+1-2+1 🇬🇭 Gana
 DTSTART:20100626T203000Z
 DTEND:20100626T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-de26bd94a443@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Royal Bafokeng Stadium\, Rustenbur
- g\nResultado: 1-1
+ g\nFinal: 1-1\nProrrogação: 1-2
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇾 Uruguai 1-1 🇬🇭 Gana
+SUMMARY:🇺🇾 Uruguai 1+1[4]-[2]1+1 🇬🇭 Gana
 DTSTART:20100702T203000Z
 DTEND:20100702T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-aa58f9d7069b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstádio: Soccer City\, Johannesburg\nResultado
- : 1-1
+DESCRIPTION:Quarterfinals\nEstádio: Soccer City\, Johannesburg\nFinal: 1-
+ 1\nProrrogação: 1-1\nPênaltis: 4-2
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

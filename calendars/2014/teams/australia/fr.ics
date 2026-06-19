@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇱 Chili 3-1 🇦🇺 Australie
 DTSTART:20140613T220000Z
 DTEND:20140614T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ef4c5a69d5b0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Arena Pantanal\, Cuia
- bá\nRésultat: 3-1
+ bá\nMi-temps: 2-1\nFin du match: 3-1
 LOCATION:Arena Pantanal\, Cuiabá
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 2-3 🇳🇱 Pays-Bas
 DTSTART:20140618T160000Z
 DTEND:20140618T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ba9cd0f011cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Estádio Beira-Rio\, 
- Porto Alegre\nRésultat: 2-3
+ Porto Alegre\nFin du match: 2-3
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 0-3 🇪🇸 Espagne
 DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-07b90b7203e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: Arena da Baixada\, C
- uritiba\nRésultat: 0-3
+ uritiba\nFin du match: 0-3
 LOCATION:Arena da Baixada\, Curitiba
 STATUS:CONFIRMED
 TRANSP:OPAQUE

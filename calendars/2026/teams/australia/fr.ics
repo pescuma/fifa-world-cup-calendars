@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 2-0 🇹🇷 Turquie
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-998d2005257f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Vancouver\nRésultat:
-  2-0
+DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Vancouver\nMi-temps: 
+ 1-0\nFin du match: 2-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 1-1 🇪🇬 Égypte
 DTSTART;VALUE=DATE:19900612
 DTEND;VALUE=DATE:19900613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8a40479443fc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group F\nStade: Stadio La Favorita\, 
- Palermo\nRésultat: 1-1
+ Palermo\nFin du match: 1-1
 LOCATION:Stadio La Favorita\, Palermo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇳🇱 Pays-Bas
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f4e989e6dcec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group F\nStade: Stadio Sant'Elia\, Ca
- gliari\nRésultat: 0-0
+ gliari\nFin du match: 0-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Irlande 1-1 🇳🇱 Pays-Bas
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ad298628ddeb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group F\nStade: Stadio La Favorita\, 
- Palermo\nRésultat: 1-1
+ Palermo\nFin du match: 1-1
 LOCATION:Stadio La Favorita\, Palermo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne de l'Ouest 2-1 🇳🇱 Pays-Bas
 DTSTART;VALUE=DATE:19900624
 DTEND;VALUE=DATE:19900625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a40bfe2e158f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: San Siro\, Milan\nRésultat: 2-1
+DESCRIPTION:1/8ème de finale\nStade: San Siro\, Milan\nFin du match: 2-1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

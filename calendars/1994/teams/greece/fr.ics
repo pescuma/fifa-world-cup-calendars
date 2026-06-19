@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 4-0 🇬🇷 Grèce
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-3cf44d494007@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: Foxboro Stadium\, Fox
- borough\nRésultat: 4-0
+ borough\nFin du match: 4-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grèce 0-4 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14f82ae2a07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Soldier Field\, Chica
- go\nRésultat: 0-4
+ go\nFin du match: 0-4
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grèce 0-2 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-ad2bf99068e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Foxboro Stadium\, Fox
- borough\nRésultat: 0-2
+ borough\nFin du match: 0-2
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE

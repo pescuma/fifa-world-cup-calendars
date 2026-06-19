@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-0 🇨🇲 Camerún
 DTSTART:20140613T160000Z
 DTEND:20140613T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-6f494d77b237@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Estádio das Dunas\, Natal
- \nResultado: 1-0
+ \nDescanso: 0-0\nFinal: 1-0
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 0-4 🇭🇷 Croacia
 DTSTART:20140618T220000Z
 DTEND:20140619T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d66fbf288ec9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: Arena Amazônia\, Manaus\n
- Resultado: 0-4
+ Final: 0-4
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 1-4 🇧🇷 Brasil
 DTSTART:20140623T200000Z
 DTEND:20140623T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-7bfe9f16c3c8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Estádio Nacional Mané G
- arrincha\, Brasília\nResultado: 1-4
+ arrincha\, Brasília\nFinal: 1-4
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

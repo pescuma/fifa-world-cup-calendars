@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Pologne 1-2 🇸🇳 Sénégal
 DTSTART:20180619T150000Z
 DTEND:20180619T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-602b457a3fc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group H\nStade: Spartak Stadium\, Mos
- cow\nRésultat: 1-2
+ cow\nMi-temps: 0-1\nFin du match: 1-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japon 2-2 🇸🇳 Sénégal
 DTSTART:20180624T150000Z
 DTEND:20180624T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-76b198e058c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group H\nStade: Ekaterinburg Arena\,
-  Ekaterinburg\nRésultat: 2-2
+  Ekaterinburg\nMi-temps: 1-1\nFin du match: 2-2
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Sénégal 0-1 🇨🇴 Colombie
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-edaec702745d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group H\nStade: Samara Arena\, Samar
- a\nRésultat: 0-1
+ a\nMi-temps: 0-1\nFin du match: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

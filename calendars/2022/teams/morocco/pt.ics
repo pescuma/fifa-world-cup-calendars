@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 0-0 🇭🇷 Croácia
 DTSTART:20221123T130000Z
 DTEND:20221123T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eb2ab8c7201f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 4\nGrupo: Group F\nEstádio: Al Bayt Stadium\, Al Khor\
- nResultado: 0-0
+ nFinal: 0-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 0-2 🇲🇦 Marrocos
 DTSTART:20221127T160000Z
 DTEND:20221127T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c8d638d21a1d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 8\nGrupo: Group F\nEstádio: Al Thumama Stadium\, Doha\
- nResultado: 0-2
+ nIntervalo: 0-0\nFinal: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canadá 1-2 🇲🇦 Marrocos
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8396fc7fc2cf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group F\nEstádio: Al Thumama Stadium\, Doha
- \nResultado: 1-2
+ \nIntervalo: 1-2\nFinal: 1-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Marrocos 0-0 🇪🇸 Espanha
+SUMMARY:🇲🇦 Marrocos 0+0[3]-[0]0+0 🇪🇸 Espanha
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Education City Stadium\, Al Rayyan
- \nResultado: 0-0
+ \nIntervalo: 0-0\nFinal: 0-0\nProrrogação: 0-0\nPênaltis: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 1-0 🇵🇹 Portugal
 DTSTART:20221210T180000Z
 DTEND:20221210T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b90e10cc33c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Al Thumama Stadium\, Doha\nResultado
- : 1-0
+DESCRIPTION:Quarter-finals\nEstádio: Al Thumama Stadium\, Doha\nIntervalo
+ : 1-0\nFinal: 1-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 2-0 🇲🇦 Marrocos
 DTSTART:20221214T220000Z
 DTEND:20221215T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9740fb87a50f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Al Bayt Stadium\, Al Khor\nResultado: 2
- -0
+DESCRIPTION:Semi-finals\nEstádio: Al Bayt Stadium\, Al Khor\nIntervalo: 1
+ -0\nFinal: 2-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croácia 2-1 🇲🇦 Marrocos
 DTSTART:20221217T180000Z
 DTEND:20221217T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-2b68a6c6f639@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Disputa pelo Terceiro Lugar\nEstádio: Khalifa International S
- tadium\, Al Rayyan\nResultado: 2-1
+ tadium\, Al Rayyan\nIntervalo: 2-1\nFinal: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

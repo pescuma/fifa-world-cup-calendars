@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marruecos 2-2 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-fdf974e2de13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Stade de la Mosson\, Montp
- ellier\nResultado: 2-2
+ ellier\nFinal: 2-2
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia 1-1 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-ffdf20202a4f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Parc Lescure\, Bordeaux\nR
- esultado: 1-1
+DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Parc Lescure\, Bordeaux\nF
+ inal: 1-1
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-2 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-dba2243917c4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Stade Vélodrome\, Marseil
- le\nResultado: 1-2
+ le\nFinal: 1-2
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-0 🇳🇴 Noruega
 DTSTART;VALUE=DATE:19980627
 DTEND;VALUE=DATE:19980628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-023ac09d54be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Stade Vélodrome\, Marseille\nResul
- tado: 1-0
+DESCRIPTION:Octavos de Final\nEstadio: Stade Vélodrome\, Marseille\nFinal
+ : 1-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-1 🇹🇬 Togo
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-363a52566752@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Commerzbank-Arena\, Frankf
- urt\nResultado: 2-1
+ urt\nIntervalo: 0-1\nFinal: 2-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 1-1 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7dd52209ab33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 10\nGrupo: Group G\nEstádio: Zentralstadion\, Leipzig\
- nResultado: 1-1
+ nIntervalo: 1-0\nFinal: 1-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suíça 2-0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-31602f3f6fdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: AWD-Arena\, Hannover\nRes
- ultado: 2-0
+DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: AWD-Arena\, Hannover\nInt
+ ervalo: 1-0\nFinal: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇿 New Zealand 1-1 🇸🇰 Slovakia
 DTSTART:20100615T133000Z
 DTEND:20100615T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-208f12bf82b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group F\nVenue: Royal Bafokeng Stadium\, Ru
- stenburg\nResult: 1-1
+ stenburg\nFull-time: 1-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovakia 0-2 🇵🇾 Paraguay
 DTSTART:20100620T133000Z
 DTEND:20100620T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-65b9318a846d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group F\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 0-2
+ fontein\nFull-time: 0-2
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇰 Slovakia 3-2 🇮🇹 Italy
 DTSTART:20100624T160000Z
 DTEND:20100624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-6d18188f7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group F\nVenue: Ellis Park Stadium\, Johan
- nesburg\nResult: 3-2
+ nesburg\nFull-time: 3-2
 LOCATION:Ellis Park Stadium\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇸🇰 Slovakia
 DTSTART:20100628T160000Z
 DTEND:20100628T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-076963041077@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Moses Mabhida Stadium\, Durban\nResult: 2-
- 1
+DESCRIPTION:Round of 16\nVenue: Moses Mabhida Stadium\, Durban\nFull-time:
+  2-1
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE

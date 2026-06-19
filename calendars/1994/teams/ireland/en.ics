@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 0-1 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940618
 DTEND;VALUE=DATE:19940619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-7374656f65e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group E\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 0-1
+ rford\nFull-time: 0-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 2-1 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940624
 DTEND;VALUE=DATE:19940625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-07138c15b9ef@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Citrus Bowl\, Orlando\nResu
- lt: 2-1
+DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Citrus Bowl\, Orlando\nFull
+ -time: 2-1
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Ireland 0-0 🇳🇴 Norway
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-09366ecfde34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group E\nVenue: Giants Stadium\, East Ruthe
- rford\nResult: 0-0
+ rford\nFull-time: 0-0
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-0 🇮🇪 Ireland
 DTSTART;VALUE=DATE:19940704
 DTEND;VALUE=DATE:19940705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-8df0b92aad6c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nResult: 2-0
+DESCRIPTION:Round of 16\nVenue: Citrus Bowl\, Orlando\nFull-time: 2-0
 LOCATION:Citrus Bowl\, Orlando
 STATUS:CONFIRMED
 TRANSP:OPAQUE

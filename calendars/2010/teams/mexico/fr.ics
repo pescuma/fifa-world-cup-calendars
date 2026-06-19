@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 Afrique du Sud 1-1 🇲🇽 Mexique
 DTSTART:20100611T160000Z
 DTEND:20100611T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-77089d2db205@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Soccer City\, Johanne
- sburg\nRésultat: 1-1
+ sburg\nFin du match: 1-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 0-2 🇲🇽 Mexique
 DTSTART:20100617T203000Z
 DTEND:20100617T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bdc70364bd1a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group A\nStade: Peter Mokaba Stadium\
- , Polokwane\nRésultat: 0-2
+ , Polokwane\nFin du match: 0-2
 LOCATION:Peter Mokaba Stadium\, Polokwane
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-1 🇺🇾 Uruguay
 DTSTART:20100622T160000Z
 DTEND:20100622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-fdf76bc1806b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group A\nStade: Royal Bafokeng Stadi
- um\, Rustenburg\nRésultat: 0-1
+ um\, Rustenburg\nFin du match: 0-1
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 3-1 🇲🇽 Mexique
 DTSTART:20100627T203000Z
 DTEND:20100627T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-bdc027472f8b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Soccer City\, Johannesburg\nRésulta
- t: 3-1
+DESCRIPTION:1/8ème de finale\nStade: Soccer City\, Johannesburg\nFin du m
+ atch: 3-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

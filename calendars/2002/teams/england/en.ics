@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-1 🇸🇪 Sweden
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a8f4be77c3e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Saitama Stadium\, Saitama\n
- Result: 1-1
+ Full-time: 1-1
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e309bfcb3599@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Sapporo Dome\, Sapporo\nRes
- ult: 0-1
+DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Sapporo Dome\, Sapporo\nFul
+ l-time: 0-1
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bc63136ad9c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Nagai Stadium\, Osaka\nResu
- lt: 0-0
+DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Nagai Stadium\, Osaka\nFull
+ -time: 0-0
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 0-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-453018737ad5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Niigata Stadium\, Niigata\nResult: 0-3
+DESCRIPTION:Round of 16\nVenue: Niigata Stadium\, Niigata\nFull-time: 0-3
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-2 🇧🇷 Brazil
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-6b8d20274ef3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Shizuoka Stadium\, Shizuoka\nResult: 1-
- 2
+DESCRIPTION:Quarter-finals\nVenue: Shizuoka Stadium\, Shizuoka\nFull-time:
+  1-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE

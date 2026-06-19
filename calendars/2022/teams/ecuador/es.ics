@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Catar 0-2 🇪🇨 Ecuador
 DTSTART:20221120T190000Z
 DTEND:20221120T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Al Bayt Stadium\, Al Khor\
- nResultado: 0-2
+ nDescanso: 0-2\nFinal: 0-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 1-1 🇪🇨 Ecuador
 DTSTART:20221125T190000Z
 DTEND:20221125T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Khalifa International Stad
- ium\, Al Rayyan\nResultado: 1-1
+ ium\, Al Rayyan\nDescanso: 1-0\nFinal: 1-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 1-2 🇸🇳 Senegal
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group A\nEstadio: Khalifa International Sta
- dium\, Al Rayyan\nResultado: 1-2
+ dium\, Al Rayyan\nDescanso: 0-1\nFinal: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

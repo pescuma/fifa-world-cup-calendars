@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 1-1 🇲🇽 Mexico
 DTSTART:20100611T160000Z
 DTEND:20100611T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-77089d2db205@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Soccer City\, Johannesburg\
- nResult: 1-1
+ nFull-time: 1-1
 LOCATION:Soccer City\, Johannesburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 0-3 🇺🇾 Uruguay
 DTSTART:20100616T203000Z
 DTEND:20100616T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-dfb226cf51df@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Loftus Versfeld Stadium\, P
- retoria\nResult: 0-3
+ retoria\nFull-time: 0-3
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-2 🇿🇦 South Africa
 DTSTART:20100622T160000Z
 DTEND:20100622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-d31f2cb4f71a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group A\nVenue: Free State Stadium\, Bloem
- fontein\nResult: 1-2
+ fontein\nFull-time: 1-2
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE

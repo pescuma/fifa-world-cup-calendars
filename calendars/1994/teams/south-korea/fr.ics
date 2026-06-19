@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 2-2 🇰🇷 Corée du Sud
 DTSTART;VALUE=DATE:19940617
 DTEND;VALUE=DATE:19940618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d2162e30dca4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group C\nStade: Cotton Bowl\, Dallas\
- nRésultat: 2-2
+ nFin du match: 2-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 0-0 🇧🇴 Bolivie
 DTSTART;VALUE=DATE:19940623
 DTEND;VALUE=DATE:19940624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0b1eecca43c3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Foxboro Stadium\, Fox
- borough\nRésultat: 0-0
+ borough\nFin du match: 0-0
 LOCATION:Foxboro Stadium\, Foxborough
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 3-2 🇰🇷 Corée du Sud
 DTSTART;VALUE=DATE:19940627
 DTEND;VALUE=DATE:19940628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-69ee0ce275bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Cotton Bowl\, Dallas\
- nRésultat: 3-2
+ nFin du match: 3-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE

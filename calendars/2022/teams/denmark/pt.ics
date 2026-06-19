@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 0-0 🇹🇳 Tunísia
 DTSTART:20221122T160000Z
 DTEND:20221122T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-4c42a4f59f5a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Education City Stadium\, A
- l Rayyan\nResultado: 0-0
+ l Rayyan\nFinal: 0-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 2-1 🇩🇰 Dinamarca
 DTSTART:20221126T190000Z
 DTEND:20221126T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-de478cb342f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 7\nGrupo: Group D\nEstádio: Stadium 974\, Doha\nResult
- ado: 2-1
+DESCRIPTION:Rodada 7\nGrupo: Group D\nEstádio: Stadium 974\, Doha\nInterv
+ alo: 0-0\nFinal: 2-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Austrália 1-0 🇩🇰 Dinamarca
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-924d296c03de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group D\nEstádio: Al Janoub Stadium\, Al Wa
- krah\nResultado: 1-0
+ krah\nIntervalo: 0-0\nFinal: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

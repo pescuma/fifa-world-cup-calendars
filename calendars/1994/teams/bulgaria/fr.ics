@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 3-0 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940621
 DTEND;VALUE=DATE:19940622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-4d9e98680c46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: Cotton Bowl\, Dallas\
- nRésultat: 3-0
+ nFin du match: 3-0
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grèce 0-4 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940626
 DTEND;VALUE=DATE:19940627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-14f82ae2a07b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Soldier Field\, Chica
- go\nRésultat: 0-4
+ go\nFin du match: 0-4
 LOCATION:Soldier Field\, Chicago
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 0-2 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940630
 DTEND;VALUE=DATE:19940701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-5fbb33370471@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Cotton Bowl\, Dallas\
- nRésultat: 0-2
+ nFin du match: 0-2
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇽 Mexique 1-1 🇧🇬 Bulgarie
+SUMMARY:🇲🇽 Mexique 1+1[1]-[3]1+1 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940705
 DTEND;VALUE=DATE:19940706
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-a89299a204ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Giants Stadium\, East Rutherford\nR
- ésultat: 1-1
+DESCRIPTION:1/8ème de finale\nStade: Giants Stadium\, East Rutherford\nFi
+ n du match: 1-1\nProlongation: 1-1\nTirs au but: 1-3
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgarie 2-1 🇩🇪 Allemagne
 DTSTART;VALUE=DATE:19940710
 DTEND;VALUE=DATE:19940711
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-bd523e9b082f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Giants Stadium\, East Rutherford\nRésu
- ltat: 2-1
+DESCRIPTION:Quarter-finals\nStade: Giants Stadium\, East Rutherford\nFin d
+ u match: 2-1
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgarie 1-2 🇮🇹 Italie
 DTSTART;VALUE=DATE:19940713
 DTEND;VALUE=DATE:19940714
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-b281c6b20002@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Giants Stadium\, East Rutherford\nRésulta
- t: 1-2
+DESCRIPTION:Semi-finals\nStade: Giants Stadium\, East Rutherford\nFin du m
+ atch: 1-2
 LOCATION:Giants Stadium\, East Rutherford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,11 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 4-0 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19940716
 DTEND;VALUE=DATE:19940717
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0023902734bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third-place match\nStade: Rose Bowl\, Pasadena\nRésultat: 4-0
+DESCRIPTION:Third-place match\nStade: Rose Bowl\, Pasadena\nFin du match: 
+ 4-0
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE

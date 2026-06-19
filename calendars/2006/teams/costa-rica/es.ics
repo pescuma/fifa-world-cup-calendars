@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 4-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e9cabd7c509e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Allianz Arena\, München\n
- Resultado: 4-2
+ Descanso: 2-1\nFinal: 4-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 3-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-27d3674e048e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: AOL Arena\, Hamburg\nResul
- tado: 3-0
+DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: AOL Arena\, Hamburg\nDesca
+ nso: 1-0\nFinal: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-2 🇵🇱 Polonia
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2e4b5238f348@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nRes
- ultado: 1-2
+DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nDes
+ canso: 1-1\nFinal: 1-2
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE

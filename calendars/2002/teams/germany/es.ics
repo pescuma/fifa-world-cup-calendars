@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 8-0 🇸🇦 Arabia Saudí
 DTSTART;VALUE=DATE:20020601
 DTEND;VALUE=DATE:20020602
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3616b6ee1736@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 1\nGrupo: Group E\nEstadio: Sapporo Dome\, Sapporo\nRe
- sultado: 8-0
+DESCRIPTION:Jornada 1\nGrupo: Group E\nEstadio: Sapporo Dome\, Sapporo\nFi
+ nal: 8-0
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-1 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-474db752197d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group E\nEstadio: Kashima Soccer Stadium\, I
- baraki\nResultado: 1-1
+ baraki\nFinal: 1-1
 LOCATION:Kashima Soccer Stadium\, Ibaraki
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camerún 0-2 🇩🇪 Alemania
 DTSTART;VALUE=DATE:20020611
 DTEND;VALUE=DATE:20020612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8c9bd43f5df5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group E\nEstadio: Shizuoka Stadium\, Shizuok
- a\nResultado: 0-2
+ a\nFinal: 0-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-39a403f0f09f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Jeju World Cup Stadium\, Jeju\nResu
- ltado: 1-0
+DESCRIPTION:Octavos de Final\nEstadio: Jeju World Cup Stadium\, Jeju\nFina
+ l: 1-0
 LOCATION:Jeju World Cup Stadium\, Jeju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-0 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8201d6d9d509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Munsu Cup Stadium\, Ulsan\nResultado:
-  1-0
+DESCRIPTION:Quarter-finals\nEstadio: Munsu Cup Stadium\, Ulsan\nFinal: 1-0
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-0 🇰🇷 Corea del Sur
 DTSTART;VALUE=DATE:20020625
 DTEND;VALUE=DATE:20020626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-be867e84a7b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Seoul World Cup Stadium\, Seoul\nResulta
- do: 1-0
+DESCRIPTION:Semi-finals\nEstadio: Seoul World Cup Stadium\, Seoul\nFinal: 
+ 1-0
 LOCATION:Seoul World Cup Stadium\, Seoul
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -125,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 0-2 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20020630
 DTEND;VALUE=DATE:20020701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f213066188a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: International Stadium Yokohama\, Yokohama\nRes
- ultado: 0-2
+DESCRIPTION:Final\nEstadio: International Stadium Yokohama\, Yokohama\nFin
+ al: 0-2
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE

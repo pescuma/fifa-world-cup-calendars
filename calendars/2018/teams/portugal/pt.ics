@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-3 🇪🇸 Espanha
 DTSTART:20180615T180000Z
 DTEND:20180615T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-98ecbb4bd0e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Fisht Stadium\, Sochi\nRes
- ultado: 3-3
+DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Fisht Stadium\, Sochi\nInt
+ ervalo: 2-1\nFinal: 3-3
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🇲🇦 Marrocos
 DTSTART:20180620T120000Z
 DTEND:20180620T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-908108eecdd4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 7\nGrupo: Group B\nEstádio: Luzhniki Stadium\, Moscow\
- nResultado: 1-0
+ nIntervalo: 1-0\nFinal: 1-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irã 1-1 🇵🇹 Portugal
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fa075c8e1b26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group B\nEstádio: Mordovia Arena\, Saransk\
- nResultado: 1-1
+ nIntervalo: 0-1\nFinal: 1-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 2-1 🇵🇹 Portugal
 DTSTART:20180630T180000Z
 DTEND:20180630T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-4a2dad415171@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Fisht Stadium\, Sochi\nResultado: 
- 2-1
+DESCRIPTION:Oitavas de Final\nEstádio: Fisht Stadium\, Sochi\nIntervalo: 
+ 1-0\nFinal: 2-1
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

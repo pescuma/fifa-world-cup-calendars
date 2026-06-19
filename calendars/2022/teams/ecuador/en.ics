@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 0-2 🇪🇨 Ecuador
 DTSTART:20221120T190000Z
 DTEND:20221120T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 0-2
+ Half-time: 0-2\nFull-time: 0-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 1-1 🇪🇨 Ecuador
 DTSTART:20221125T190000Z
 DTEND:20221125T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group A\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 1-1
+ um\, Al Rayyan\nHalf-time: 1-0\nFull-time: 1-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 1-2 🇸🇳 Senegal
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group A\nVenue: Khalifa International Stad
- ium\, Al Rayyan\nResult: 1-2
+ ium\, Al Rayyan\nHalf-time: 0-1\nFull-time: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

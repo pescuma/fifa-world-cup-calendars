@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 0-0 🇨🇭 Suíça
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-76bfdf558382@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 5\nGrupo: Group G\nEstádio: Gottlieb-Daimler-Stadion\,
-  Stuttgart\nResultado: 0-0
+  Stuttgart\nFinal: 0-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇨🇭 Suíça
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ebf4a3be67e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group G\nEstádio: Signal Iduna Park\, Dortm
- und\nResultado: 0-2
+ und\nIntervalo: 0-1\nFinal: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suíça 2-0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-31602f3f6fdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: AWD-Arena\, Hannover\nRes
- ultado: 2-0
+DESCRIPTION:Rodada 15\nGrupo: Group G\nEstádio: AWD-Arena\, Hannover\nInt
+ ervalo: 1-0\nFinal: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Suíça 0-0 🇺🇦 Ucrânia
+SUMMARY:🇨🇭 Suíça 0+0[0]-[3]0+0 🇺🇦 Ucrânia
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c4f921f1b83a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: RheinEnergieStadion\, Köln\nResul
- tado: 0-0
+DESCRIPTION:Oitavas de Final\nEstádio: RheinEnergieStadion\, Köln\nFinal
+ : 0-0\nProrrogação: 0-0\nPênaltis: 0-3
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE

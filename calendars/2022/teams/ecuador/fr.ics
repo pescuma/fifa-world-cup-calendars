@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 0-2 🇪🇨 Équateur
 DTSTART:20221120T190000Z
 DTEND:20221120T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-da66d6c11197@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Al Bayt Stadium\, Al 
- Khor\nRésultat: 0-2
+ Khor\nMi-temps: 0-2\nFin du match: 0-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Pays-Bas 1-1 🇪🇨 Équateur
 DTSTART:20221125T190000Z
 DTEND:20221125T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-fb5085e4fe54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group A\nStade: Khalifa International
-  Stadium\, Al Rayyan\nRésultat: 1-1
+  Stadium\, Al Rayyan\nMi-temps: 1-0\nFin du match: 1-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Équateur 1-2 🇸🇳 Sénégal
 DTSTART:20221129T180000Z
 DTEND:20221129T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bc9e60bbfbce@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group A\nStade: Khalifa Internationa
- l Stadium\, Al Rayyan\nRésultat: 1-2
+ l Stadium\, Al Rayyan\nMi-temps: 0-1\nFin du match: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

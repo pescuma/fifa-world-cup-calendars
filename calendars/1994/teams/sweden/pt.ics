@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camarões 2-2 🇸🇪 Suécia
 DTSTART;VALUE=DATE:19940619
 DTEND;VALUE=DATE:19940620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-6802be7c81a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Rose Bowl\, Pasadena\nResu
- ltado: 2-2
+DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Rose Bowl\, Pasadena\nFina
+ l: 2-2
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 3-1 🇷🇺 Rússia
 DTSTART;VALUE=DATE:19940624
 DTEND;VALUE=DATE:19940625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-95361db6f49c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Pontiac Silverdome\, Ponti
- ac\nResultado: 3-1
+ ac\nFinal: 3-1
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-1 🇸🇪 Suécia
 DTSTART;VALUE=DATE:19940628
 DTEND;VALUE=DATE:19940629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-111f46991c34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Pontiac Silverdome\, Ponti
- ac\nResultado: 1-1
+ ac\nFinal: 1-1
 LOCATION:Pontiac Silverdome\, Pontiac
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arábia Saudita 1-3 🇸🇪 Suécia
 DTSTART;VALUE=DATE:19940703
 DTEND;VALUE=DATE:19940704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-290dec59919b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Cotton Bowl\, Dallas\nResultado: 1
- -3
+DESCRIPTION:Oitavas de Final\nEstádio: Cotton Bowl\, Dallas\nFinal: 1-3
 LOCATION:Cotton Bowl\, Dallas
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +83,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇴 Romênia 1-1 🇸🇪 Suécia
+SUMMARY:🇷🇴 Romênia 1+2[4]-[5]2+1 🇸🇪 Suécia
 DTSTART;VALUE=DATE:19940710
 DTEND;VALUE=DATE:19940711
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-73ef45338d76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Stanford Stadium\, Stanford\nResulta
- do: 1-1
+DESCRIPTION:Quarter-finals\nEstádio: Stanford Stadium\, Stanford\nFinal: 
+ 1-1\nProrrogação: 2-2\nPênaltis: 4-5
 LOCATION:Stanford Stadium\, Stanford
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,11 +105,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 0-1 🇧🇷 Brasil
 DTSTART;VALUE=DATE:19940713
 DTEND;VALUE=DATE:19940714
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-d47cbf470d87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Rose Bowl\, Pasadena\nResultado: 0-1
+DESCRIPTION:Semi-finals\nEstádio: Rose Bowl\, Pasadena\nFinal: 0-1
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +123,11 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 4-0 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19940716
 DTEND;VALUE=DATE:19940717
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1994-0023902734bb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third-place match\nEstádio: Rose Bowl\, Pasadena\nResultado: 
- 4-0
+DESCRIPTION:Third-place match\nEstádio: Rose Bowl\, Pasadena\nFinal: 4-0
 LOCATION:Rose Bowl\, Pasadena
 STATUS:CONFIRMED
 TRANSP:OPAQUE

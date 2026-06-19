@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 1-0 🇨🇲 Cameroon
 DTSTART:20221124T130000Z
 DTEND:20221124T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-efa61aae2696@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 1-0
+ ah\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-0 🇨🇭 Switzerland
 DTSTART:20221128T190000Z
 DTEND:20221128T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-f358c22e3ccd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nResult:
-  1-0
+DESCRIPTION:Matchday 9\nGroup: Group G\nVenue: Stadium 974\, Doha\nHalf-ti
+ me: 0-0\nFull-time: 1-0
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Serbia 2-3 🇨🇭 Switzerland
 DTSTART:20221202T220000Z
 DTEND:20221203T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c65273d1ae7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Stadium 974\, Doha\nResult
- : 2-3
+DESCRIPTION:Matchday 13\nGroup: Group G\nVenue: Stadium 974\, Doha\nHalf-t
+ ime: 2-1\nFull-time: 2-3
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 6-1 🇨🇭 Switzerland
 DTSTART:20221206T220000Z
 DTEND:20221207T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8a09684fe96e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 6-
- 1
+DESCRIPTION:Round of 16\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time:
+  2-0\nFull-time: 6-1
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

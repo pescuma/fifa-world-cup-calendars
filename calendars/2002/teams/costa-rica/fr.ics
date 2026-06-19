@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇳 Chine 0-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-46f7757cb0fe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group C\nStade: Gwangju World Cup Sta
- dium\, Gwangju\nRésultat: 0-2
+ dium\, Gwangju\nFin du match: 0-2
 LOCATION:Gwangju World Cup Stadium\, Gwangju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-1 🇹🇷 Turquie
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-31f9546f0cb9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Incheon Munhak Stadiu
- m\, Incheon\nRésultat: 1-1
+ m\, Incheon\nFin du match: 1-1
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 2-5 🇧🇷 Brésil
 DTSTART;VALUE=DATE:20020613
 DTEND;VALUE=DATE:20020614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-694998fe46f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Suwon World Cup Stadi
- um\, Suwon\nRésultat: 2-5
+ um\, Suwon\nFin du match: 2-5
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

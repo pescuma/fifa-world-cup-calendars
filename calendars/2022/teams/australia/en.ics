@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-1 🇦🇺 Australia
 DTSTART:20221122T220000Z
 DTEND:20221123T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bda352d41357@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 4-1
+ ah\nHalf-time: 2-1\nFull-time: 4-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunisia 0-1 🇦🇺 Australia
 DTSTART:20221126T130000Z
 DTEND:20221126T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-a343b14fe509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wakr
- ah\nResult: 0-1
+ ah\nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 1-0 🇩🇰 Denmark
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-924d296c03de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 11\nGroup: Group D\nVenue: Al Janoub Stadium\, Al Wak
- rah\nResult: 1-0
+ rah\nHalf-time: 0-0\nFull-time: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇦🇺 Australia
 DTSTART:20221203T220000Z
 DTEND:20221204T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1d09764bb8ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nResult:
-  2-1
+DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nHalf-ti
+ me: 1-0\nFull-time: 2-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

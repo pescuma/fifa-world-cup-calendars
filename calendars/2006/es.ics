@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 4-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e9cabd7c509e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Allianz Arena\, München\n
- Resultado: 4-2
+ Descanso: 2-1\nFinal: 4-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 0-2 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20060609
 DTEND;VALUE=DATE:20060610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-639448b151ee@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-2
+ hen\nDescanso: 0-1\nFinal: 0-2
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 1-0 🇵🇱 Polonia
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-1822e4f3f7a8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group A\nEstadio: Signal Iduna Park\, Dortmu
- nd\nResultado: 1-0
+ nd\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 3-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-27d3674e048e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: AOL Arena\, Hamburg\nResul
- tado: 3-0
+DESCRIPTION:Jornada 7\nGrupo: Group A\nEstadio: AOL Arena\, Hamburg\nDesca
+ nso: 1-0\nFinal: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇨 Ecuador 0-3 🇩🇪 Alemania
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2c143ac811d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: Olympiastadion\, Berlin\n
- Resultado: 0-3
+ Descanso: 0-2\nFinal: 0-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-2 🇵🇱 Polonia
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2e4b5238f348@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nRes
- ultado: 1-2
+DESCRIPTION:Jornada 12\nGrupo: Group A\nEstadio: AWD-Arena\, Hannover\nDes
+ canso: 1-1\nFinal: 1-2
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Commerzbank-Arena\, Frankf
- urt\nResultado: 1-0
+ urt\nDescanso: 1-0\nFinal: 1-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇹 Trinidad y Tobago 0-0 🇸🇪 Suecia
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7b8327558156@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Signal Iduna Park\, Dortmu
- nd\nResultado: 0-0
+ nd\nFinal: 0-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -163,12 +163,12 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-0 🇹🇹 Trinidad y To
  bago
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Frankenstadion\, Nürnberg
- \nResultado: 2-0
+ \nDescanso: 0-0\nFinal: 2-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -182,12 +182,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 1-0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-a8570a1b6812@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Olympiastadion\, Berlin\nR
- esultado: 1-0
+DESCRIPTION:Jornada 7\nGrupo: Group B\nEstadio: Olympiastadion\, Berlin\nD
+ escanso: 0-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -201,12 +201,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suecia 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ed2a3f5f965b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: RheinEnergieStadion\, Kö
- ln\nResultado: 2-2
+ ln\nDescanso: 0-1\nFinal: 2-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -220,12 +220,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 2-0 🇹🇹 Trinidad y Tobago
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-d44e7ed4399b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group B\nEstadio: Fritz-Walter-Stadion\, Ka
- iserslautern\nResultado: 2-0
+ iserslautern\nDescanso: 1-0\nFinal: 2-0
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -239,12 +239,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-834cde131dab@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: AOL Arena\, Hamburg\nResul
- tado: 2-1
+DESCRIPTION:Jornada 2\nGrupo: Group C\nEstadio: AOL Arena\, Hamburg\nDesca
+ nso: 2-0\nFinal: 2-1
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -258,12 +258,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Serbia y Montenegro 0-1 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Zentralstadion\, Leipzig\n
- Resultado: 0-1
+ Descanso: 0-1\nFinal: 0-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -277,12 +277,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 6-0 🇷🇸🇲🇪 Serbia y Montenegro
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2188068146c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 6-0
+ hen\nDescanso: 3-0\nFinal: 6-0
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -296,12 +296,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 2-1 🇨🇮 Côte d’Ivoire
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-d8423462c6d4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Gottlieb-Daimler-Stadion\,
-  Stuttgart\nResultado: 2-1
+  Stuttgart\nDescanso: 2-1\nFinal: 2-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -315,12 +315,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Países Bajos 0-0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-aff9fc967487@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Commerzbank-Arena\, Frank
- furt\nResultado: 0-0
+ furt\nFinal: 0-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -334,12 +334,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 3-2 🇷🇸🇲🇪 Serbia y Montenegro
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-852a3cac42e4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Allianz Arena\, München\
- nResultado: 3-2
+ nDescanso: 1-2\nFinal: 3-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -353,12 +353,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 3-1 🇮🇷 Irán
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-6d8938b1f129@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Frankenstadion\, Nürnberg
- \nResultado: 3-1
+ \nDescanso: 1-1\nFinal: 3-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -372,12 +372,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇴 Angola 0-1 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-4b9deb994220@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: RheinEnergieStadion\, Köl
- n\nResultado: 0-1
+ n\nDescanso: 0-1\nFinal: 0-1
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -391,12 +391,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 0-0 🇦🇴 Angola
 DTSTART;VALUE=DATE:20060616
 DTEND;VALUE=DATE:20060617
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-48f98905f9bd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group D\nEstadio: AWD-Arena\, Hannover\nResu
- ltado: 0-0
+DESCRIPTION:Jornada 8\nGrupo: Group D\nEstadio: AWD-Arena\, Hannover\nFina
+ l: 0-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -410,12 +410,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-0 🇮🇷 Irán
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ca4d71a6ade0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Commerzbank-Arena\, Frankf
- urt\nResultado: 2-0
+ urt\nDescanso: 0-0\nFinal: 2-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -429,12 +429,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-1 🇲🇽 México
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0842add326ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Veltins-Arena\, Gelsenkir
- chen\nResultado: 2-1
+ chen\nDescanso: 2-1\nFinal: 2-1
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -448,12 +448,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irán 1-1 🇦🇴 Angola
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-592439eeb0a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group D\nEstadio: Zentralstadion\, Leipzig\
- nResultado: 1-1
+ nDescanso: 0-0\nFinal: 1-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -467,12 +467,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-0 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c2135389d03f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: AWD-Arena\, Hannover\nResu
- ltado: 2-0
+DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: AWD-Arena\, Hannover\nDesc
+ anso: 1-0\nFinal: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -486,12 +486,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-3 🇨🇿 Chequia
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-07fb0fd40dca@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-3
+ hen\nDescanso: 0-2\nFinal: 0-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -505,12 +505,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9bc1eb535532@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: Fritz-Walter-Stadion\, Kai
- serslautern\nResultado: 1-1
+ serslautern\nDescanso: 1-1\nFinal: 1-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -524,12 +524,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Chequia 0-2 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-16faa7d8c1a0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group E\nEstadio: RheinEnergieStadion\, Köl
- n\nResultado: 0-2
+ n\nDescanso: 0-1\nFinal: 0-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -543,12 +543,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Chequia 0-2 🇮🇹 Italia
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-24b9242f8e91@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: AOL Arena\, Hamburg\nResu
- ltado: 0-2
+DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: AOL Arena\, Hamburg\nDesc
+ anso: 0-1\nFinal: 0-2
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -562,12 +562,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Ghana 2-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8ea213d2c02b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group E\nEstadio: Frankenstadion\, Nürnber
- g\nResultado: 2-1
+ g\nDescanso: 2-1\nFinal: 2-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -581,12 +581,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇭🇷 Croacia
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-61c4dde2a988@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Olympiastadion\, Berlin\nR
- esultado: 1-0
+DESCRIPTION:Jornada 5\nGrupo: Group F\nEstadio: Olympiastadion\, Berlin\nD
+ escanso: 1-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -600,12 +600,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 3-1 🇯🇵 Japón
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ca7e55223af1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group F\nEstadio: Fritz-Walter-Stadion\, Kai
- serslautern\nResultado: 3-1
+ serslautern\nDescanso: 0-1\nFinal: 3-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -619,12 +619,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇦🇺 Australia
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-459865e6ea34@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Allianz Arena\, München\
- nResultado: 2-0
+ nDescanso: 0-0\nFinal: 2-0
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -638,12 +638,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-0 🇭🇷 Croacia
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2a8b70abd367@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group F\nEstadio: Frankenstadion\, Nürnber
- g\nResultado: 0-0
+ g\nFinal: 0-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -657,12 +657,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 1-4 🇧🇷 Brasil
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-899ab7437df0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Signal Iduna Park\, Dortm
- und\nResultado: 1-4
+ und\nDescanso: 1-1\nFinal: 1-4
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -676,12 +676,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croacia 2-2 🇦🇺 Australia
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ed53e1165701@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 14\nGrupo: Group F\nEstadio: Gottlieb-Daimler-Stadion\
- , Stuttgart\nResultado: 2-2
+ , Stuttgart\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -695,12 +695,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 0-0 🇨🇭 Suiza
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-76bfdf558382@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Gottlieb-Daimler-Stadion\,
-  Stuttgart\nResultado: 0-0
+  Stuttgart\nFinal: 0-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -714,12 +714,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 2-1 🇹🇬 Togo
 DTSTART;VALUE=DATE:20060613
 DTEND;VALUE=DATE:20060614
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-363a52566752@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 5\nGrupo: Group G\nEstadio: Commerzbank-Arena\, Frankf
- urt\nResultado: 2-1
+ urt\nDescanso: 0-1\nFinal: 2-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -733,12 +733,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 1-1 🇰🇷 Corea del Sur
 DTSTART;VALUE=DATE:20060618
 DTEND;VALUE=DATE:20060619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7dd52209ab33@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 10\nGrupo: Group G\nEstadio: Zentralstadion\, Leipzig\
- nResultado: 1-1
+ nDescanso: 1-0\nFinal: 1-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -752,12 +752,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇨🇭 Suiza
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ebf4a3be67e3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Signal Iduna Park\, Dortm
- und\nResultado: 0-2
+ und\nDescanso: 0-1\nFinal: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -771,12 +771,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇬 Togo 0-2 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-b270c037059e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: RheinEnergieStadion\, Kö
- ln\nResultado: 0-2
+ ln\nDescanso: 0-0\nFinal: 0-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -790,12 +790,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 2-0 🇰🇷 Corea del Sur
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-31602f3f6fdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: AWD-Arena\, Hannover\nRes
- ultado: 2-0
+DESCRIPTION:Jornada 15\nGrupo: Group G\nEstadio: AWD-Arena\, Hannover\nDes
+ canso: 1-0\nFinal: 2-0
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -809,12 +809,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 4-0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-74906a35ae4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Zentralstadion\, Leipzig\n
- Resultado: 4-0
+ Descanso: 2-0\nFinal: 4-0
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -828,12 +828,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Túnez 2-2 🇸🇦 Arabia Saudí
 DTSTART;VALUE=DATE:20060614
 DTEND;VALUE=DATE:20060615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-e3aa6f129dfb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Allianz Arena\, München\n
- Resultado: 2-2
+ Descanso: 1-0\nFinal: 2-2
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -847,12 +847,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 3-1 🇹🇳 Túnez
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c5979e83ae7b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Gottlieb-Daimler-Stadion\
- , Stuttgart\nResultado: 3-1
+ , Stuttgart\nDescanso: 0-1\nFinal: 3-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -866,12 +866,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabia Saudí 0-4 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060619
 DTEND;VALUE=DATE:20060620
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-65236172e729@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: AOL Arena\, Hamburg\nResu
- ltado: 0-4
+DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: AOL Arena\, Hamburg\nDesc
+ anso: 0-2\nFinal: 0-4
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -885,12 +885,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabia Saudí 0-1 🇪🇸 España
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5d653704a5ae@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Fritz-Walter-Stadion\, Ka
- iserslautern\nResultado: 0-1
+ iserslautern\nDescanso: 0-1\nFinal: 0-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -904,12 +904,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇦 Ucrania 1-0 🇹🇳 Túnez
 DTSTART;VALUE=DATE:20060623
 DTEND;VALUE=DATE:20060624
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-7abf8febc727@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Olympiastadion\, Berlin\n
- Resultado: 1-0
+ Descanso: 0-0\nFinal: 1-0
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -923,12 +923,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 2-0 🇸🇪 Suecia
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3b681abb66ec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Allianz Arena\, München\nResultado
- : 2-0
+DESCRIPTION:Octavos de Final\nEstadio: Allianz Arena\, München\nDescanso:
+  2-0\nFinal: 2-0
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -939,15 +939,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 1-1 🇲🇽 México
+SUMMARY:🇦🇷 Argentina 1+2-1+1 🇲🇽 México
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Zentralstadion\, Leipzig\nResultado
- : 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Zentralstadion\, Leipzig\nDescanso:
+  1-1\nFinal: 1-1\nPrórroga: 2-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -961,12 +961,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇪🇨 Ecuador
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Gottlieb-Daimler-Stadion\, Stuttgar
- t\nResultado: 1-0
+ t\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -980,12 +980,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🇳🇱 Países Bajos
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-727ca7b4ee6d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Frankenstadion\, Nürnberg\nResulta
- do: 1-0
+DESCRIPTION:Octavos de Final\nEstadio: Frankenstadion\, Nürnberg\nDescans
+ o: 1-0\nFinal: 1-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -999,12 +999,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-0 🇦🇺 Australia
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8632dd16e42b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Fritz-Walter-Stadion\, Kaiserslaute
- rn\nResultado: 1-0
+ rn\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1015,15 +1015,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Suiza 0-0 🇺🇦 Ucrania
+SUMMARY:🇨🇭 Suiza 0+0[0]-[3]0+0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-c4f921f1b83a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: RheinEnergieStadion\, Köln\nResult
- ado: 0-0
+DESCRIPTION:Octavos de Final\nEstadio: RheinEnergieStadion\, Köln\nFinal:
+  0-0\nPrórroga: 0-0\nPenaltis: 0-3
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1037,12 +1037,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 3-0 🇬🇭 Ghana
 DTSTART;VALUE=DATE:20060627
 DTEND;VALUE=DATE:20060628
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ad5877302416@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Signal Iduna Park\, Dortmund\nResul
- tado: 3-0
+DESCRIPTION:Octavos de Final\nEstadio: Signal Iduna Park\, Dortmund\nDesca
+ nso: 2-0\nFinal: 3-0
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1056,12 +1056,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 1-3 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060627
 DTEND;VALUE=DATE:20060628
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-67786f0c1914@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: AWD-Arena\, Hannover\nResultado: 1-
- 3
+DESCRIPTION:Octavos de Final\nEstadio: AWD-Arena\, Hannover\nDescanso: 1-1
+ \nFinal: 1-3
 LOCATION:AWD-Arena\, Hannover
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1072,15 +1072,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 1-1 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemania 1+1[4]-[2]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: Olympiastadion\, Berlin\nResultado: 1-
- 1
+DESCRIPTION:Quarterfinals\nEstadio: Olympiastadion\, Berlin\nDescanso: 0-0
+ \nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 4-2
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1094,11 +1094,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 3-0 🇺🇦 Ucrania
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-43f2585c6db4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: AOL Arena\, Hamburg\nResultado: 3-0
+DESCRIPTION:Quarterfinals\nEstadio: AOL Arena\, Hamburg\nDescanso: 1-0\nFi
+ nal: 3-0
 LOCATION:AOL Arena\, Hamburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1109,15 +1110,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇵🇹 Portugal
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+0[1]-[3]0+0 🇵🇹 Por
+ tugal
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: Veltins-Arena\, Gelsenkirchen\nResulta
- do: 0-0
+DESCRIPTION:Quarterfinals\nEstadio: Veltins-Arena\, Gelsenkirchen\nFinal: 
+ 0-0\nPrórroga: 0-0\nPenaltis: 1-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1131,12 +1133,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-dd164433683d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nEstadio: Commerzbank-Arena\, Frankfurt\nResulta
- do: 0-1
+DESCRIPTION:Quarterfinals\nEstadio: Commerzbank-Arena\, Frankfurt\nDescans
+ o: 0-0\nFinal: 0-1
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1147,15 +1149,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 0-0 🇮🇹 Italia
+SUMMARY:🇩🇪 Alemania 0+0-2+0 🇮🇹 Italia
 DTSTART;VALUE=DATE:20060704
 DTEND;VALUE=DATE:20060705
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-09105b3bbc0d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nEstadio: Signal Iduna Park\, Dortmund\nResultado: 
- 0-0
+DESCRIPTION:Semifinals\nEstadio: Signal Iduna Park\, Dortmund\nFinal: 0-0\
+ nPrórroga: 0-2
 LOCATION:Signal Iduna Park\, Dortmund
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1169,11 +1171,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060705
 DTEND;VALUE=DATE:20060706
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-bdc57d55c25d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semifinals\nEstadio: Allianz Arena\, München\nResultado: 0-1
+DESCRIPTION:Semifinals\nEstadio: Allianz Arena\, München\nDescanso: 0-1\n
+ Final: 0-1
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1187,12 +1190,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 3-1 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20060708
 DTEND;VALUE=DATE:20060709
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-0c78f94d6891@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third-place play-off\nEstadio: Gottlieb-Daimler-Stadion\, Stut
- tgart\nResultado: 3-1
+ tgart\nDescanso: 0-0\nFinal: 3-1
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1203,14 +1206,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italia 1-1 🇫🇷 Francia
+SUMMARY:🇮🇹 Italia 1+1[5]-[3]1+1 🇫🇷 Francia
 DTSTART;VALUE=DATE:20060709
 DTEND;VALUE=DATE:20060710
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-f953a3cf4325@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Olympiastadion\, Berlin\nResultado: 1-1
+DESCRIPTION:Final\nEstadio: Olympiastadion\, Berlin\nDescanso: 1-1\nFinal:
+  1-1\nPrórroga: 1-1\nPenaltis: 5-3
 LOCATION:Olympiastadion\, Berlin
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇪 Pérou 0-1 🇩🇰 Danemark
 DTSTART:20180616T160000Z
 DTEND:20180616T180000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a655d8fa7cc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Mordovia Arena\, Sara
- nsk\nRésultat: 0-1
+ nsk\nMi-temps: 0-0\nFin du match: 0-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 1-1 🇦🇺 Australie
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group C\nStade: Samara Arena\, Samara
- \nRésultat: 1-1
+ \nMi-temps: 1-1\nFin du match: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 0-0 🇫🇷 France
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-349c36640009@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group C\nStade: Luzhniki Stadium\, M
- oscow\nRésultat: 0-0
+ oscow\nMi-temps: 0-0\nFin du match: 0-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 1-1 🇩🇰 Danemark
+SUMMARY:🇭🇷 Croatie 1+1[3]-[2]1+1 🇩🇰 Danemark
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Nizhny Novgorod Stadium\, Nizhny Nov
- gorod\nRésultat: 1-1
+ gorod\nMi-temps: 1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3
+ -2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE

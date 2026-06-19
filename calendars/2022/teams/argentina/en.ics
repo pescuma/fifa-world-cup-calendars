@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-2 🇸🇦 Saudi Arabia
 DTSTART:20221122T130000Z
 DTEND:20221122T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-98897760a664@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 1-2
+ ail\nHalf-time: 1-0\nFull-time: 1-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇲🇽 Mexico
 DTSTART:20221126T220000Z
 DTEND:20221127T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-990102950604@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 7\nGroup: Group C\nVenue: Lusail Iconic Stadium\, Lus
- ail\nResult: 2-0
+ ail\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 0-2 🇦🇷 Argentina
 DTSTART:20221130T220000Z
 DTEND:20221201T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ca151d0b9301@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Stadium 974\, Doha\nResult
- : 0-2
+DESCRIPTION:Matchday 11\nGroup: Group C\nVenue: Stadium 974\, Doha\nHalf-t
+ ime: 0-0\nFull-time: 0-2
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇦🇺 Australia
 DTSTART:20221203T220000Z
 DTEND:20221204T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1d09764bb8ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nResult:
-  2-1
+DESCRIPTION:Round of 16\nVenue: Ahmad bin Ali Stadium\, Al Rayyan\nHalf-ti
+ me: 1-0\nFull-time: 2-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 2-2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Netherlands 2+2[3]-[4]2+2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nResult:
-  2-2
+DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-ti
+ me: 1-0\nFull-time: 2-2\nExtra time: 2-2\nPenalties: 3-4
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-0 🇭🇷 Croatia
 DTSTART:20221213T220000Z
 DTEND:20221214T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-2eacdca76ea1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 3-
- 0
+DESCRIPTION:Semi-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time:
+  2-0\nFull-time: 3-0
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2-2 🇫🇷 France
+SUMMARY:🇦🇷 Argentina 2+3[4]-[2]3+2 🇫🇷 France
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Lusail Iconic Stadium\, Lusail\nResult: 2-2
+DESCRIPTION:Final\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time: 2-0\n
+ Full-time: 2-2\nExtra time: 3-3\nPenalties: 4-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

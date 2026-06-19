@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 2-1 🇨🇿 Czechia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-dfd8df44c1fb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nResu
- lt: 2-1
+DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Guadalajara (Zapopan)\nHalf
+ -time: 0-0\nFull-time: 2-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,11 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Czechia 1-1 🇿🇦 South Africa
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Atlanta\nResult: 1-1
+DESCRIPTION:Matchday 8\nGroup: Group A\nVenue: Atlanta\nHalf-time: 1-0\nFu
+ ll-time: 1-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

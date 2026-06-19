@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-3 🇨🇷 Costa Rica
 DTSTART:20140614T190000Z
 DTEND:20140614T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-d7e8ac4ced3b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Estádio Castelão\, 
- Fortaleza\nRésultat: 1-3
+ Fortaleza\nFin du match: 1-3
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20140619T190000Z
 DTEND:20140619T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-b2446f0709ac@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group D\nStade: Arena de São Paulo\,
-  São Paulo\nRésultat: 2-1
+  São Paulo\nFin du match: 2-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 0-1 🇺🇾 Uruguay
 DTSTART:20140624T160000Z
 DTEND:20140624T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-0c1d6e015419@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 13\nGroupe: Group D\nStade: Estádio das Dunas\,
-  Natal\nRésultat: 0-1
+  Natal\nFin du match: 0-1
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombie 2-0 🇺🇾 Uruguay
 DTSTART:20140628T200000Z
 DTEND:20140628T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-bce1d138408c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estádio do Maracanã\, Rio de Janei
- ro\nRésultat: 2-0
+ ro\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

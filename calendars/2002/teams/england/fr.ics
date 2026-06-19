@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-1 🇸🇪 Suède
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-a8f4be77c3e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group F\nStade: Saitama Stadium\, Sai
- tama\nRésultat: 1-1
+ tama\nFin du match: 1-1
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 0-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:20020607
 DTEND;VALUE=DATE:20020608
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-e309bfcb3599@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group F\nStade: Sapporo Dome\, Sappor
- o\nRésultat: 0-1
+ o\nFin du match: 0-1
 LOCATION:Sapporo Dome\, Sapporo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 0-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bc63136ad9c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group F\nStade: Nagai Stadium\, Osaka
- \nRésultat: 0-0
+ \nFin du match: 0-0
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -69,12 +69,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 0-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:20020615
 DTEND;VALUE=DATE:20020616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-453018737ad5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Niigata Stadium\, Niigata\nRésultat
- : 0-3
+DESCRIPTION:1/8ème de finale\nStade: Niigata Stadium\, Niigata\nFin du ma
+ tch: 0-3
 LOCATION:Niigata Stadium\, Niigata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -88,12 +88,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-2 🇧🇷 Brésil
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-6b8d20274ef3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Shizuoka Stadium\, Shizuoka\nRésultat:
-  1-2
+DESCRIPTION:Quarter-finals\nStade: Shizuoka Stadium\, Shizuoka\nFin du mat
+ ch: 1-2
 LOCATION:Shizuoka Stadium\, Shizuoka
 STATUS:CONFIRMED
 TRANSP:OPAQUE

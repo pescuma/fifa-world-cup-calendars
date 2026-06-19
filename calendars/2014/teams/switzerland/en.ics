@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 2-1 🇪🇨 Ecuador
 DTSTART:20140615T160000Z
 DTEND:20140615T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-02d7ebff0271@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Estádio Nacional Mané Gar
- rincha\, Brasília\nResult: 2-1
+ rincha\, Brasília\nFull-time: 2-1
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 2-5 🇫🇷 France
 DTSTART:20140620T190000Z
 DTEND:20140620T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-1a7e2b961b8e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: Arena Fonte Nova\, Salvador
- \nResult: 2-5
+ \nFull-time: 2-5
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇳 Honduras 0-3 🇨🇭 Switzerland
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-798f776ae884@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: Arena Amazônia\, Manaus\n
- Result: 0-3
+ Full-time: 0-3
 LOCATION:Arena Amazônia\, Manaus
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 0-0 🇨🇭 Switzerland
+SUMMARY:🇦🇷 Argentina 0+1-0+0 🇨🇭 Switzerland
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Arena de São Paulo\, São Paulo\nResult: 
- 0-0
+DESCRIPTION:Round of 16\nVenue: Arena de São Paulo\, São Paulo\nHalf-tim
+ e: 0-0\nFull-time: 0-0\nExtra time: 1-0
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE

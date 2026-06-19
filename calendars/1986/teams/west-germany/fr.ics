@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-1 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7f60adfe3c15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Estadio La Corregidor
- a\, Querétaro\nRésultat: 1-1
+ a\, Querétaro\nFin du match: 1-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ SUMMARY:🇩🇪 Allemagne de l'Ouest 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Éc
  osse
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0cb9fd8974b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Estadio La Corregidor
- a\, Querétaro\nRésultat: 2-1
+ a\, Querétaro\nFin du match: 2-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 2-0 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b8fc4df56167@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: Estadio La Corregidor
- a\, Querétaro\nRésultat: 2-0
+ a\, Querétaro\nFin du match: 2-0
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -69,12 +69,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Maroc 0-1 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860617
 DTEND;VALUE=DATE:19860618
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-af578e548031@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Estadio Universitario\, Monterrey\nR
- ésultat: 0-1
+DESCRIPTION:1/8ème de finale\nStade: Estadio Universitario\, Monterrey\nF
+ in du match: 0-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -85,15 +85,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne de l'Ouest 0-0 🇲🇽 Mexique
+SUMMARY:🇩🇪 Allemagne de l'Ouest 0+0[4]-[1]0+0 🇲🇽 Mexique
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3f3302a672c2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Estadio Universitario\, Monterrey\nRés
- ultat: 0-0
+DESCRIPTION:Quarter-finals\nStade: Estadio Universitario\, Monterrey\nFin 
+ du match: 0-0\nProlongation: 0-0\nTirs au but: 4-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -107,12 +107,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 0-2 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4d35c1a51f09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Estadio Jalisco\, Guadalajara\nRésultat: 
- 0-2
+DESCRIPTION:Semi-finals\nStade: Estadio Jalisco\, Guadalajara\nFin du matc
+ h: 0-2
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -126,11 +126,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentine 3-2 🇩🇪 Allemagne de l'Ouest
 DTSTART;VALUE=DATE:19860629
 DTEND;VALUE=DATE:19860630
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0a02259b7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Finale\nStade: Estadio Azteca\, Mexico City\nRésultat: 3-2
+DESCRIPTION:Finale\nStade: Estadio Azteca\, Mexico City\nFin du match: 3-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

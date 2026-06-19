@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Maroc 2-2 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-fdf974e2de13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Stade de la Mosson\, 
- Montpellier\nRésultat: 2-2
+ Montpellier\nFin du match: 2-2
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse 1-1 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-ffdf20202a4f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group A\nStade: Parc Lescure\, Bordea
- ux\nRésultat: 1-1
+ ux\nFin du match: 1-1
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-2 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-dba2243917c4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group A\nStade: Stade Vélodrome\, Ma
- rseille\nRésultat: 1-2
+ rseille\nFin du match: 1-2
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 1-0 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19980627
 DTEND;VALUE=DATE:19980628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-023ac09d54be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stade Vélodrome\, Marseille\nRésul
- tat: 1-0
+DESCRIPTION:1/8ème de finale\nStade: Stade Vélodrome\, Marseille\nFin du
+  match: 1-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE

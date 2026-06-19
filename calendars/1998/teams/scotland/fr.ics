@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2a8d3a80a39c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Stade de France\, Sai
- nt-Denis\nRésultat: 2-1
+ nt-Denis\nFin du match: 2-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse 1-1 🇳🇴 Norvège
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-ffdf20202a4f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group A\nStade: Parc Lescure\, Bordea
- ux\nRésultat: 1-1
+ ux\nFin du match: 1-1
 LOCATION:Parc Lescure\, Bordeaux
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse 0-3 🇲🇦 Maroc
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-846ff475fc24@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group A\nStade: Stade Geoffroy-Guicha
- rd\, Saint-Étienne\nRésultat: 0-3
+ rd\, Saint-Étienne\nFin du match: 0-3
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE

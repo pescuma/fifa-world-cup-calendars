@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Algeria 1-1 Northern Ireland
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-dc75ca6f3771@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Estadio Tres de Marzo\, Gua
- dalajara\nResult: 1-1
+ dalajara\nFull-time: 1-1
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:Northern Ireland 1-2 🇪🇸 Spain
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-668f86300d99@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Estadio Tres de Marzo\, Gua
- dalajara\nResult: 1-2
+ dalajara\nFull-time: 1-2
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:Northern Ireland 0-3 🇧🇷 Brazil
 DTSTART;VALUE=DATE:19860612
 DTEND;VALUE=DATE:19860613
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7ec486dcc0de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Estadio Jalisco\, Guadalaja
- ra\nResult: 0-3
+ ra\nFull-time: 0-3
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 0-3 🇨🇿 Tchéquia
 DTSTART;VALUE=DATE:20060612
 DTEND;VALUE=DATE:20060613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-07fb0fd40dca@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Veltins-Arena\, Gelsenkirc
- hen\nResultado: 0-3
+ hen\nIntervalo: 0-2\nFinal: 0-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9bc1eb535532@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group E\nEstádio: Fritz-Walter-Stadion\, Kai
- serslautern\nResultado: 1-1
+ serslautern\nIntervalo: 1-1\nFinal: 1-1
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 2-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:20060622
 DTEND;VALUE=DATE:20060623
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8ea213d2c02b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group E\nEstádio: Frankenstadion\, Nürnber
- g\nResultado: 2-1
+ g\nIntervalo: 2-1\nFinal: 2-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

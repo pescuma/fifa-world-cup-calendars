@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 États-Unis 4-1 🇵🇾 Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-fdf1bfc654f3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Los Angeles (Inglewoo
- d)\nRésultat: 4-1
+ d)\nMi-temps: 3-0\nFin du match: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

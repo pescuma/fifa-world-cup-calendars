@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Catar 1-1 🇨🇭 Suiza
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-11a1e8291690@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group B\nEstadio: San Francisco Bay Area (Sa
- nta Clara)\nResultado: 1-1
+ nta Clara)\nDescanso: 0-1\nFinal: 1-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Suiza 4-1 🇧🇦 Bosnia y Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-28e5beab171a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group B\nEstadio: Los Angeles (Inglewood)\nR
- esultado: 4-1
+DESCRIPTION:Jornada 8\nGrupo: Group B\nEstadio: Los Angeles (Inglewood)\nD
+ escanso: 0-0\nFinal: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

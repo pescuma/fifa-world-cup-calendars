@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgária 1-1 🇮🇹 Itália
 DTSTART;VALUE=DATE:19860531
 DTEND;VALUE=DATE:19860601
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-ee8805a22c63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-1
+ ty\nFinal: 1-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-1 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-9e4307156406@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Estadio Olímpico Universi
- tario\, Mexico City\nResultado: 3-1
+ tario\, Mexico City\nFinal: 3-1
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4324e2b97cf4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Estadio Cuauhtémoc\, Pueb
- la\nResultado: 1-1
+ la\nFinal: 1-1
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 1-1 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-6cc80df88c09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Estadio Olímpico Universi
- tario\, Mexico City\nResultado: 1-1
+ tario\, Mexico City\nFinal: 1-1
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-3 🇮🇹 Itália
 DTSTART;VALUE=DATE:19860610
 DTEND;VALUE=DATE:19860611
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b7c6c49578ff@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Estadio Cuauhtémoc\, Pueb
- la\nResultado: 2-3
+ la\nFinal: 2-3
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19860610
 DTEND;VALUE=DATE:19860611
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c4d6ebc2fe03@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Estadio Olímpico Universi
- tario\, Mexico City\nResultado: 2-0
+ tario\, Mexico City\nFinal: 2-0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-2 🇲🇽 México
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5e9812a0e4b4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-2
+ ty\nFinal: 1-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguai 1-0 🇮🇶 Iraque
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c269604e764c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Estadio Nemesio Díez\, To
- luca\nResultado: 1-0
+ luca\nFinal: 1-0
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-1 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d6eaa8d52b76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-1
+ ty\nFinal: 1-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Iraque 1-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f008d87774b3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Estadio Nemesio Díez\, To
- luca\nResultado: 1-2
+ luca\nFinal: 1-2
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Iraque 0-1 🇲🇽 México
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 0-1
+ ty\nFinal: 0-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguai 2-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-166fdb4c6f3e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Estadio Nemesio Díez\, To
- luca\nResultado: 2-2
+ luca\nFinal: 2-2
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canadá 0-1 🇫🇷 França
 DTSTART;VALUE=DATE:19860601
 DTEND;VALUE=DATE:19860602
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7ca2299840c9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Estadio Nou Camp\, León\n
- Resultado: 0-1
+ Final: 0-1
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 União Soviética 6-0 🇭🇺 Hungria
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-ce3d0cac7780@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 6-0
+ z\, Irapuato\nFinal: 6-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 1-1 🇸🇺 União Soviética
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-743a6ed3cded@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Estadio Nou Camp\, León\n
- Resultado: 1-1
+ Final: 1-1
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇺 Hungria 2-0 🇨🇦 Canadá
 DTSTART;VALUE=DATE:19860606
 DTEND;VALUE=DATE:19860607
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3780f6c8ee0a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 2-0
+ z\, Irapuato\nFinal: 2-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇺 Hungria 0-3 🇫🇷 França
 DTSTART;VALUE=DATE:19860609
 DTEND;VALUE=DATE:19860610
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-238d4f10e45d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Estadio Nou Camp\, León\n
- Resultado: 0-3
+ Final: 0-3
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 União Soviética 2-0 🇨🇦 Canadá
 DTSTART;VALUE=DATE:19860609
 DTEND;VALUE=DATE:19860610
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-23724a7bef0c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Estadio Sergio León Chave
- z\, Irapuato\nResultado: 2-0
+ z\, Irapuato\nFinal: 2-0
 LOCATION:Estadio Sergio León Chavez\, Irapuato
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 0-1 🇧🇷 Brasil
 DTSTART;VALUE=DATE:19860601
 DTEND;VALUE=DATE:19860602
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f2089afaa1cb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Estadio Jalisco\, Guadalaj
- ara\nResultado: 0-1
+ ara\nFinal: 0-1
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Argélia 1-1 Irlanda do Norte
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-dc75ca6f3771@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Estadio Tres de Marzo\, Gu
- adalajara\nResultado: 1-1
+ adalajara\nFinal: 1-1
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇩🇿 Argélia
 DTSTART;VALUE=DATE:19860606
 DTEND;VALUE=DATE:19860607
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-1c16f7b54d80@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Estadio Jalisco\, Guadalaj
- ara\nResultado: 1-0
+ ara\nFinal: 1-0
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:Irlanda do Norte 1-2 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-668f86300d99@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Estadio Tres de Marzo\, Gu
- adalajara\nResultado: 1-2
+ adalajara\nFinal: 1-2
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:Irlanda do Norte 0-3 🇧🇷 Brasil
 DTSTART;VALUE=DATE:19860612
 DTEND;VALUE=DATE:19860613
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7ec486dcc0de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Estadio Jalisco\, Guadalaj
- ara\nResultado: 0-3
+ ara\nFinal: 0-3
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Argélia 0-3 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19860612
 DTEND;VALUE=DATE:19860613
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-fbbd6320d11d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Estadio Tecnológico\, Mon
- terrey\nResultado: 0-3
+ terrey\nFinal: 0-3
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 1-1 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7f60adfe3c15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Estadio La Corregidora\, Q
- uerétaro\nResultado: 1-1
+ uerétaro\nFinal: 1-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 0-1 🇩🇰 Dinamarca
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-1da5861e62e9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Estadio Neza 86\, Nezahual
- cóyotl\nResultado: 0-1
+ cóyotl\nFinal: 0-1
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -505,12 +505,12 @@ SUMMARY:🇩🇪 Alemanha Ocidental 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escó
  cia
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0cb9fd8974b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Estadio La Corregidora\, Q
- uerétaro\nResultado: 2-1
+ uerétaro\nFinal: 2-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -524,12 +524,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 6-1 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d01d772da800@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Estadio Neza 86\, Nezahual
- cóyotl\nResultado: 6-1
+ cóyotl\nFinal: 6-1
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -543,12 +543,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 2-0 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b8fc4df56167@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Estadio La Corregidora\, Q
- uerétaro\nResultado: 2-0
+ uerétaro\nFinal: 2-0
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -562,12 +562,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 0-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-fbf3f898be97@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Estadio Neza 86\, Nezahual
- cóyotl\nResultado: 0-0
+ cóyotl\nFinal: 0-0
 LOCATION:Estadio Neza 86\, Nezahualcóyotl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -581,12 +581,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 0-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:19860602
 DTEND;VALUE=DATE:19860603
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-c08388ff3e72@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Estadio Universitario\, Mo
- nterrey\nResultado: 0-0
+ nterrey\nFinal: 0-0
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -600,12 +600,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-e195831a7f32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Estadio Tecnológico\, Mon
- terrey\nResultado: 1-0
+ terrey\nFinal: 1-0
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -619,12 +619,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇲🇦 Marrocos
 DTSTART;VALUE=DATE:19860606
 DTEND;VALUE=DATE:19860607
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-30dbca679640@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Estadio Tecnológico\, Mon
- terrey\nResultado: 0-0
+ terrey\nFinal: 0-0
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -638,12 +638,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polônia 1-0 🇵🇹 Portugal
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b0f8cdc7980b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Estadio Universitario\, Mo
- nterrey\nResultado: 1-0
+ nterrey\nFinal: 1-0
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -657,12 +657,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-3 🇲🇦 Marrocos
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b373ee91c48b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Estadio Tres de Marzo\, Gu
- adalajara\nResultado: 1-3
+ adalajara\nFinal: 1-3
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -676,12 +676,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-cb6f9bb92a90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Estadio Tecnológico\, Mon
- terrey\nResultado: 3-0
+ terrey\nFinal: 3-0
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -695,12 +695,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 2-0 🇧🇬 Bulgária
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d96b946ffb7a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Azteca\, Mexico City\nResu
- ltado: 2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Azteca\, Mexico City\nFina
+ l: 2-0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -711,15 +711,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇺 União Soviética 2-2 🇧🇪 Bélgica
+SUMMARY:🇸🇺 União Soviética 2+3-4+2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-6fa0ad20af54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Nou Camp\, León\nResultad
- o: 2-2
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Nou Camp\, León\nFinal: 2
+ -2\nProrrogação: 3-4
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -733,12 +733,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19860616
 DTEND;VALUE=DATE:19860617
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-9ae5111bef7d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Cuauhtémoc\, Puebla\nResu
- ltado: 1-0
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Cuauhtémoc\, Puebla\nFina
+ l: 1-0
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -752,12 +752,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 4-0 🇵🇱 Polônia
 DTSTART;VALUE=DATE:19860616
 DTEND;VALUE=DATE:19860617
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-95adeda636da@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Jalisco\, Guadalajara\nRes
- ultado: 4-0
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Jalisco\, Guadalajara\nFin
+ al: 4-0
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -771,12 +771,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 0-2 🇫🇷 França
 DTSTART;VALUE=DATE:19860617
 DTEND;VALUE=DATE:19860618
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-a6fd874bf7dc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Estadio Olímpico Universitario\, 
- Mexico City\nResultado: 0-2
+ Mexico City\nFinal: 0-2
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -790,12 +790,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Marrocos 0-1 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860617
 DTEND;VALUE=DATE:19860618
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-af578e548031@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Estadio Universitario\, Monterrey\
- nResultado: 0-1
+ nFinal: 0-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -809,12 +809,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-0 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:19860618
 DTEND;VALUE=DATE:19860619
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-86e7eccdf73a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Estadio Azteca\, Mexico City\nResu
- ltado: 3-0
+DESCRIPTION:Oitavas de Final\nEstádio: Estadio Azteca\, Mexico City\nFina
+ l: 3-0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -828,12 +828,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-5 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19860618
 DTEND;VALUE=DATE:19860619
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-43357c038825@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Estadio La Corregidora\, Querétar
- o\nResultado: 1-5
+ o\nFinal: 1-5
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -844,15 +844,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil 1-1 🇫🇷 França
+SUMMARY:🇧🇷 Brasil 1+1[3]-[4]1+1 🇫🇷 França
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-a06ec1f07a88@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Estadio Jalisco\, Guadalajara\nResul
- tado: 1-1
+DESCRIPTION:Quarter-finals\nEstádio: Estadio Jalisco\, Guadalajara\nFinal
+ : 1-1\nProrrogação: 1-1\nPênaltis: 3-4
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -863,15 +863,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha Ocidental 0-0 🇲🇽 México
+SUMMARY:🇩🇪 Alemanha Ocidental 0+0[4]-[1]0+0 🇲🇽 México
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3f3302a672c2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Estadio Universitario\, Monterrey\nR
- esultado: 0-0
+DESCRIPTION:Quarter-finals\nEstádio: Estadio Universitario\, Monterrey\nF
+ inal: 0-0\nProrrogação: 0-0\nPênaltis: 4-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -882,15 +882,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 1-1 🇧🇪 Bélgica
+SUMMARY:🇪🇸 Espanha 1+1[4]-[5]1+1 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-8d11d187cf26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Estadio Cuauhtémoc\, Puebla\nResult
- ado: 1-1
+DESCRIPTION:Quarter-finals\nEstádio: Estadio Cuauhtémoc\, Puebla\nFinal:
+  1-1\nProrrogação: 1-1\nPênaltis: 4-5
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -904,12 +904,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f942458386fd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Estadio Azteca\, Mexico City\nResult
- ado: 2-1
+DESCRIPTION:Quarter-finals\nEstádio: Estadio Azteca\, Mexico City\nFinal:
+  2-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -923,12 +923,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-184110389620@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Estadio Azteca\, Mexico City\nResultado
- : 2-0
+DESCRIPTION:Semi-finals\nEstádio: Estadio Azteca\, Mexico City\nFinal: 2-
+ 0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -942,12 +942,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 França 0-2 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4d35c1a51f09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Estadio Jalisco\, Guadalajara\nResultad
- o: 0-2
+DESCRIPTION:Semi-finals\nEstádio: Estadio Jalisco\, Guadalajara\nFinal: 0
+ -2
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -958,15 +958,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 França 2-2 🇧🇪 Bélgica
+SUMMARY:🇫🇷 França 2+4-2+2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19860628
 DTEND;VALUE=DATE:19860629
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3736a0b375e8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nEstádio: Estadio Cuauhtémoc\, Puebla\nRes
- ultado: 2-2
+DESCRIPTION:Third place match\nEstádio: Estadio Cuauhtémoc\, Puebla\nFin
+ al: 2-2\nProrrogação: 4-2
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -980,11 +980,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-2 🇩🇪 Alemanha Ocidental
 DTSTART;VALUE=DATE:19860629
 DTEND;VALUE=DATE:19860630
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0a02259b7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstádio: Estadio Azteca\, Mexico City\nResultado: 3-2
+DESCRIPTION:Final\nEstádio: Estadio Azteca\, Mexico City\nFinal: 3-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

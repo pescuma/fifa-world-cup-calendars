@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-0 🇦🇹 Áustria
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-0b38bc7f5669@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nRe
- sultado: 1-0
+DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nFi
+ nal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 1-5 🇨🇿🇸🇰 Tchecoslováquia
 DTSTART;VALUE=DATE:19900610
 DTEND;VALUE=DATE:19900611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-27a7cf0b7f86@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Stadio Comunale\, Florence
- \nResultado: 1-5
+ \nFinal: 1-5
 LOCATION:Stadio Comunale\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -48,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-0 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ca70f2422c40@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nRe
- sultado: 1-0
+DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nFi
+ nal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,12 +67,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Áustria 0-1 🇨🇿🇸🇰 Tchecoslováquia
 DTSTART;VALUE=DATE:19900615
 DTEND;VALUE=DATE:19900616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a501907966f9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group A\nEstádio: Stadio Comunale\, Florence
- \nResultado: 0-1
+ \nFinal: 0-1
 LOCATION:Stadio Comunale\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-0 🇨🇿🇸🇰 Tchecoslováquia
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a345d24f3539@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nRe
- sultado: 2-0
+DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Stadio Olimpico\, Rome\nFi
+ nal: 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +105,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Áustria 2-1 🇺🇸 Estados Unidos
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-7171647c33f3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group A\nEstádio: Stadio Comunale\, Florence
- \nResultado: 2-1
+ \nFinal: 2-1
 LOCATION:Stadio Comunale\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-1 🇨🇲 Camarões
 DTSTART;VALUE=DATE:19900608
 DTEND;VALUE=DATE:19900609
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-26a5c01246bd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: San Siro\, Milan\nResultad
- o: 0-1
+DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: San Siro\, Milan\nFinal: 0
+ -1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,12 +143,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇺 União Soviética 0-2 🇷🇴 Romênia
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-9930cbed7ae4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Stadio San Nicola\, Bari\n
- Resultado: 0-2
+ Final: 0-2
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇸🇺 União Soviética
 DTSTART;VALUE=DATE:19900613
 DTEND;VALUE=DATE:19900614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-456cf5c255d3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group B\nEstádio: Stadio San Paolo\, Naples\
- nResultado: 2-0
+ nFinal: 2-0
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -181,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camarões 2-1 🇷🇴 Romênia
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-08a3bbbd88f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Stadio San Nicola\, Bari\n
- Resultado: 2-1
+ Final: 2-1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,12 +200,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-1 🇷🇴 Romênia
 DTSTART;VALUE=DATE:19900618
 DTEND;VALUE=DATE:19900619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d64f438db624@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Stadio San Paolo\, Naples\
- nResultado: 1-1
+ nFinal: 1-1
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇲 Camarões 0-4 🇸🇺 União Soviética
 DTSTART;VALUE=DATE:19900618
 DTEND;VALUE=DATE:19900619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-bd1227e66b3b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group B\nEstádio: Stadio San Nicola\, Bari\n
- Resultado: 0-4
+ Final: 0-4
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -238,12 +238,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-1 🇸🇪 Suécia
 DTSTART;VALUE=DATE:19900610
 DTEND;VALUE=DATE:19900611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-02dc997c656a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Stadio Delle Alpi\, Turin\
- nResultado: 2-1
+ nFinal: 2-1
 LOCATION:Stadio Delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇷 Costa Rica 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 DTSTART;VALUE=DATE:19900611
 DTEND;VALUE=DATE:19900612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-4bca509973e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
- noa\nResultado: 1-0
+ noa\nFinal: 1-0
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -276,12 +276,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b81dd140829a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Stadio Delle Alpi\, Turin\
- nResultado: 1-0
+ nFinal: 1-0
 LOCATION:Stadio Delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8fcb5b21b005@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
- noa\nResultado: 1-2
+ noa\nFinal: 1-2
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 DTSTART;VALUE=DATE:19900620
 DTEND;VALUE=DATE:19900621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-2a24e420b25a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Stadio Delle Alpi\, Turin\
- nResultado: 1-0
+ nFinal: 1-0
 LOCATION:Stadio Delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -333,12 +333,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suécia 1-2 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900620
 DTEND;VALUE=DATE:19900621
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-02e7e03fe155@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Stadio Luigi Ferraris\, Ge
- noa\nResultado: 1-2
+ noa\nFinal: 1-2
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -352,12 +352,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇪 Emirados Árabes Unidos 0-2 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-fee0313166a2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Stadio Renato Dall'Ara\, B
- ologna\nResultado: 0-2
+ ologna\nFinal: 0-2
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,12 +371,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 4-1 🇷🇸🇲🇪 Iugoslávia
 DTSTART;VALUE=DATE:19900610
 DTEND;VALUE=DATE:19900611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-fca959c49da8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: San Siro\, Milan\nResultad
- o: 4-1
+DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: San Siro\, Milan\nFinal: 4
+ -1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Iugoslávia 1-0 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-34e4bf1e0fdf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Stadio Renato Dall'Ara\, B
- ologna\nResultado: 1-0
+ ologna\nFinal: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -409,12 +409,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 5-1 🇦🇪 Emirados Árabes Unidos
 DTSTART;VALUE=DATE:19900615
 DTEND;VALUE=DATE:19900616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ed8b50fc2105@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: San Siro\, Milan\nResultad
- o: 5-1
+DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: San Siro\, Milan\nFinal: 5
+ -1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,12 +428,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 1-1 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a2d77e6d3847@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: San Siro\, Milan\nResultad
- o: 1-1
+DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: San Siro\, Milan\nFinal: 1
+ -1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,12 +447,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Iugoslávia 4-1 🇦🇪 Emirados Árabes Unidos
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d14f93e2ea63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Stadio Renato Dall'Ara\, B
- ologna\nResultado: 4-1
+ ologna\nFinal: 4-1
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -466,12 +466,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 2-0 🇰🇷 Coreia do Sul
 DTSTART;VALUE=DATE:19900612
 DTEND;VALUE=DATE:19900613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-c2b871ca9ce7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Stadio Marc'Antonio Benteg
- odi\, Verona\nResultado: 2-0
+ odi\, Verona\nFinal: 2-0
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,12 +485,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguai 0-0 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19900613
 DTEND;VALUE=DATE:19900614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-15f9eb1b8524@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nRes
- ultado: 0-0
+DESCRIPTION:Rodada 1\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nFin
+ al: 0-0
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-1 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19900617
 DTEND;VALUE=DATE:19900618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-59bb107b8b9a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Stadio Marc'Antonio Benteg
- odi\, Verona\nResultado: 3-1
+ odi\, Verona\nFinal: 3-1
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,12 +523,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 1-3 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19900617
 DTEND;VALUE=DATE:19900618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1eaf9d945152@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nRes
- ultado: 1-3
+DESCRIPTION:Rodada 2\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nFin
+ al: 1-3
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -542,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-2 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-2f9f7f36fa45@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Stadio Marc'Antonio Benteg
- odi\, Verona\nResultado: 1-2
+ odi\, Verona\nFinal: 1-2
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -561,12 +561,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 0-1 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a99a8f100a90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nRes
- ultado: 0-1
+DESCRIPTION:Rodada 3\nGrupo: Group E\nEstádio: Stadio Friuli\, Udine\nFin
+ al: 0-1
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -580,12 +580,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:19900611
 DTEND;VALUE=DATE:19900612
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1f34984e53ec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 1-1
+ i\nFinal: 1-1
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -599,12 +599,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Holanda 1-1 🇪🇬 Egito
 DTSTART;VALUE=DATE:19900612
 DTEND;VALUE=DATE:19900613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8a40479443fc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group F\nEstádio: Stadio La Favorita\, Paler
- mo\nResultado: 1-1
+ mo\nFinal: 1-1
 LOCATION:Stadio La Favorita\, Palermo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -618,12 +618,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19900616
 DTEND;VALUE=DATE:19900617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f4e989e6dcec@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 0-0
+ i\nFinal: 0-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -637,12 +637,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Irlanda 0-0 🇪🇬 Egito
 DTSTART;VALUE=DATE:19900617
 DTEND;VALUE=DATE:19900618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-479b8497aaef@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group F\nEstádio: Stadio La Favorita\, Paler
- mo\nResultado: 0-0
+ mo\nFinal: 0-0
 LOCATION:Stadio La Favorita\, Palermo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,12 +656,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇪🇬 Egito
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f7c3f4312521@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Stadio Sant'Elia\, Cagliar
- i\nResultado: 1-0
+ i\nFinal: 1-0
 LOCATION:Stadio Sant'Elia\, Cagliari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -675,12 +675,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇪 Irlanda 1-1 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ad298628ddeb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group F\nEstádio: Stadio La Favorita\, Paler
- mo\nResultado: 1-1
+ mo\nFinal: 1-1
 LOCATION:Stadio La Favorita\, Palermo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -691,15 +691,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇲 Camarões 0-0 🇨🇴 Colômbia
+SUMMARY:🇨🇲 Camarões 0+2-1+0 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-bc43e75399e1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Paolo\, Naples\nResulta
- do: 0-0
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Paolo\, Naples\nFinal: 
+ 0-0\nProrrogação: 2-1
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -713,12 +713,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿🇸🇰 Tchecoslováquia 4-1 🇨🇷 Costa Rica
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d95df0f4098b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Nicola\, Bari\nResultad
- o: 4-1
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Nicola\, Bari\nFinal: 4
+ -1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -732,12 +732,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 0-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900624
 DTEND;VALUE=DATE:19900625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-e35317a65511@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio Delle Alpi\, Turin\nResulta
- do: 0-1
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio Delle Alpi\, Turin\nFinal: 
+ 0-1
 LOCATION:Stadio Delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -751,11 +751,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 2-1 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19900624
 DTEND;VALUE=DATE:19900625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a40bfe2e158f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: San Siro\, Milan\nResultado: 2-1
+DESCRIPTION:Oitavas de Final\nEstádio: San Siro\, Milan\nFinal: 2-1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -766,15 +766,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇪 Irlanda 0-0 🇷🇴 Romênia
+SUMMARY:🇮🇪 Irlanda 0+0[5]-[4]0+0 🇷🇴 Romênia
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-f403f8a64eb1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio Luigi Ferraris\, Genoa\nRes
- ultado: 0-0
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio Luigi Ferraris\, Genoa\nFin
+ al: 0-0\nProrrogação: 0-0\nPênaltis: 5-4
 LOCATION:Stadio Luigi Ferraris\, Genoa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -788,12 +788,11 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-0 🇺🇾 Uruguai
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8d921fa97a28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Stadio Olimpico\, Rome\nResultado:
-  2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Stadio Olimpico\, Rome\nFinal: 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -804,15 +803,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 1-1 🇷🇸🇲🇪 Iugoslávia
+SUMMARY:🇪🇸 Espanha 1+1-2+1 🇷🇸🇲🇪 Iugoslávia
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-4368897c34cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio Marc'Antonio Bentegodi\, Ve
- rona\nResultado: 1-1
+ rona\nFinal: 1-1\nProrrogação: 1-2
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -823,15 +822,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇧🇪 Bélgica
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+1-0+0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio Renato Dall'Ara\, Bologna\n
- Resultado: 0-0
+ Final: 0-0\nProrrogação: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -842,15 +841,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇸🇲🇪 Iugoslávia 0-0 🇦🇷 Argentina
+SUMMARY:🇷🇸🇲🇪 Iugoslávia 0+0[2]-[3]0+0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-c0883f1c1d24@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Stadio Artemio Franchi\, Florence\nR
- esultado: 0-0
+DESCRIPTION:Quarter-finals\nEstádio: Stadio Artemio Franchi\, Florence\nF
+ inal: 0-0\nProrrogação: 0-0\nPênaltis: 2-3
 LOCATION:Stadio Artemio Franchi\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -864,12 +863,11 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 1-0 🇮🇪 Irlanda
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-9ea375b5b1fa@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Stadio Olimpico\, Rome\nResultado: 1
- -0
+DESCRIPTION:Quarter-finals\nEstádio: Stadio Olimpico\, Rome\nFinal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -883,11 +881,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 1-0 🇨🇿🇸🇰 Tchecoslováquia
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-294fb6664887@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: San Siro\, Milan\nResultado: 1-0
+DESCRIPTION:Quarter-finals\nEstádio: San Siro\, Milan\nFinal: 1-0
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -898,15 +896,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-2 🇨🇲 Camarões
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2+3-2+2 🇨🇲 Camarões
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Stadio San Paolo\, Naples\nResultado
- : 2-2
+DESCRIPTION:Quarter-finals\nEstádio: Stadio San Paolo\, Naples\nFinal: 2-
+ 2\nProrrogação: 3-2
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -917,15 +915,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Itália 1-1 🇦🇷 Argentina
+SUMMARY:🇮🇹 Itália 1+1[3]-[4]1+1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900703
 DTEND;VALUE=DATE:19900704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-bc1e7a76a756@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Stadio San Paolo\, Naples\nResultado: 1
- -1
+DESCRIPTION:Semi-finals\nEstádio: Stadio San Paolo\, Naples\nFinal: 1-1\n
+ Prorrogação: 1-1\nPênaltis: 3-4
 LOCATION:Stadio San Paolo\, Naples
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -936,16 +934,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha Ocidental 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingla
- terra
+SUMMARY:🇩🇪 Alemanha Ocidental 1+1[4]-[3]1+1 🏴󠁧󠁢󠁥󠁮󠁧
+ 󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900704
 DTEND;VALUE=DATE:19900705
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-6756c39edd07@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstádio: Stadio delle Alpi\, Turin\nResultado: 1
- -1
+DESCRIPTION:Semi-finals\nEstádio: Stadio delle Alpi\, Turin\nFinal: 1-1\n
+ Prorrogação: 1-1\nPênaltis: 4-3
 LOCATION:Stadio delle Alpi\, Turin
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -959,12 +957,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Itália 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900707
 DTEND;VALUE=DATE:19900708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-5ac021d22739@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nEstádio: Stadio San Nicola\, Bari\nResulta
- do: 2-1
+DESCRIPTION:Third place match\nEstádio: Stadio San Nicola\, Bari\nFinal: 
+ 2-1
 LOCATION:Stadio San Nicola\, Bari
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -978,11 +976,11 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemanha Ocidental 1-0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900708
 DTEND;VALUE=DATE:19900709
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-e07b390966c2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstádio: Stadio Olimpico\, Rome\nResultado: 1-0
+DESCRIPTION:Final\nEstádio: Stadio Olimpico\, Rome\nFinal: 1-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE

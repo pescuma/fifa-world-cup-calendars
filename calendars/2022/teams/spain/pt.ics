@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 7-0 🇨🇷 Costa Rica
 DTSTART:20221123T190000Z
 DTEND:20221123T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-14985b75f55a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Al Thumama Stadium\, Doha\
- nResultado: 7-0
+ nIntervalo: 3-0\nFinal: 7-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espanha 1-1 🇩🇪 Alemanha
 DTSTART:20221127T220000Z
 DTEND:20221128T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 8\nGrupo: Group E\nEstádio: Al Bayt Stadium\, Al Khor\
- nResultado: 1-1
+ nIntervalo: 0-0\nFinal: 1-1
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 2-1 🇪🇸 Espanha
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group E\nEstádio: Khalifa International Sta
- dium\, Al Rayyan\nResultado: 2-1
+ dium\, Al Rayyan\nIntervalo: 0-0\nFinal: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Marrocos 0-0 🇪🇸 Espanha
+SUMMARY:🇲🇦 Marrocos 0+0[3]-[0]0+0 🇪🇸 Espanha
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Education City Stadium\, Al Rayyan
- \nResultado: 0-0
+ \nIntervalo: 0-0\nFinal: 0-0\nProrrogação: 0-0\nPênaltis: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

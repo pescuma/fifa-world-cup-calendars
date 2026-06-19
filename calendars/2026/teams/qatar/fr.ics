@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 1-1 🇨🇭 Suisse
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-11a1e8291690@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group B\nStade: San Francisco Bay Are
- a (Santa Clara)\nRésultat: 1-1
+ a (Santa Clara)\nMi-temps: 0-1\nFin du match: 1-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 6-0 🇶🇦 Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-106797924277@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 8\nGroupe: Group B\nStade: Vancouver\nRésultat:
-  6-0
+DESCRIPTION:Jour de match 8\nGroupe: Group B\nStade: Vancouver\nMi-temps: 
+ 3-0\nFin du match: 6-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE

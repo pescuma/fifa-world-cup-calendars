@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:20060610
 DTEND;VALUE=DATE:20060611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-9a2d55c30566@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Commerzbank-Arena\, F
- rankfurt\nRésultat: 1-0
+ rankfurt\nMi-temps: 1-0\nFin du match: 1-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -32,12 +32,12 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2-0 🇹🇹 Trinité-et-T
  obago
 DTSTART;VALUE=DATE:20060615
 DTEND;VALUE=DATE:20060616
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-5998c9b2c5d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Frankenstadion\, Nür
- nberg\nRésultat: 2-0
+ nberg\nMi-temps: 0-0\nFin du match: 2-0
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -51,12 +51,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇪 Suède 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:20060620
 DTEND;VALUE=DATE:20060621
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ed2a3f5f965b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: RheinEnergieStadion\
- , Köln\nRésultat: 2-2
+ , Köln\nMi-temps: 0-1\nFin du match: 2-2
 LOCATION:RheinEnergieStadion\, Köln
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -70,12 +70,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇪🇨 Équateur
 DTSTART;VALUE=DATE:20060625
 DTEND;VALUE=DATE:20060626
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-8efa99505e87@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Gottlieb-Daimler-Stadion\, Stuttgart
- \nRésultat: 1-0
+ \nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,15 +86,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-0 🇵🇹 Portugal
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0+0[1]-[3]0+0 🇵🇹 Por
+ tugal
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nRésultat
- : 0-0
+DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nFin du ma
+ tch: 0-0\nProlongation: 0-0\nTirs au but: 1-3
 LOCATION:Veltins-Arena\, Gelsenkirchen
 STATUS:CONFIRMED
 TRANSP:OPAQUE

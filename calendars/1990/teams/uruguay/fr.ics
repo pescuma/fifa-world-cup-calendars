@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 0-0 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19900613
 DTEND;VALUE=DATE:19900614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-15f9eb1b8524@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group E\nStade: Stadio Friuli\, Udine
- \nRésultat: 0-0
+ \nFin du match: 0-0
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 3-1 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19900617
 DTEND;VALUE=DATE:19900618
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-59bb107b8b9a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group E\nStade: Stadio Marc'Antonio B
- entegodi\, Verona\nRésultat: 3-1
+ entegodi\, Verona\nFin du match: 3-1
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corée du Sud 0-1 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19900621
 DTEND;VALUE=DATE:19900622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-a99a8f100a90@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group E\nStade: Stadio Friuli\, Udine
- \nRésultat: 0-1
+ \nFin du match: 0-1
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italie 2-0 🇺🇾 Uruguay
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-8d921fa97a28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stadio Olimpico\, Rome\nRésultat: 2
- -0
+DESCRIPTION:1/8ème de finale\nStade: Stadio Olimpico\, Rome\nFin du match
+ : 2-0
 LOCATION:Stadio Olimpico\, Rome
 STATUS:CONFIRMED
 TRANSP:OPAQUE

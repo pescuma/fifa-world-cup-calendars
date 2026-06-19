@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 3-1 🇮🇷 Iran
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-6d8938b1f129@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Frankenstadion\, Nürnberg\
- nResult: 3-1
+ nHalf-time: 1-1\nFull-time: 3-1
 LOCATION:Frankenstadion\, Nürnberg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 2-0 🇮🇷 Iran
 DTSTART;VALUE=DATE:20060617
 DTEND;VALUE=DATE:20060618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-ca4d71a6ade0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group D\nVenue: Commerzbank-Arena\, Frankfu
- rt\nResult: 2-0
+ rt\nHalf-time: 0-0\nFull-time: 2-0
 LOCATION:Commerzbank-Arena\, Frankfurt
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 1-1 🇦🇴 Angola
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2006-592439eeb0a4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Zentralstadion\, Leipzig\n
- Result: 1-1
+ Half-time: 0-0\nFull-time: 1-1
 LOCATION:Zentralstadion\, Leipzig
 STATUS:CONFIRMED
 TRANSP:OPAQUE

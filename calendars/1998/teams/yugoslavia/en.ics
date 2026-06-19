@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Yugoslavia 1-0 🇮🇷 Iran
 DTSTART;VALUE=DATE:19980614
 DTEND;VALUE=DATE:19980615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-eaba4efb40e4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Stade Geoffroy-Guichard\, S
- aint-Étienne\nResult: 1-0
+ aint-Étienne\nFull-time: 1-0
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 2-2 🇷🇸🇲🇪 Yugoslavia
 DTSTART;VALUE=DATE:19980621
 DTEND;VALUE=DATE:19980622
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-127e7e8c3028@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Stade Félix Bollaert\, Len
- s\nResult: 2-2
+ s\nFull-time: 2-2
 LOCATION:Stade Félix Bollaert\, Lens
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 0-1 🇷🇸🇲🇪 Yugoslavia
 DTSTART;VALUE=DATE:19980625
 DTEND;VALUE=DATE:19980626
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-3e1f90f8bba4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Stade de la Beaujoire\, Nan
- tes\nResult: 0-1
+ tes\nFull-time: 0-1
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 2-1 🇷🇸🇲🇪 Yugoslavia
 DTSTART;VALUE=DATE:19980629
 DTEND;VALUE=DATE:19980630
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-718637f6da3d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stade de Toulouse\, Toulouse\nResult: 2-1
+DESCRIPTION:Round of 16\nVenue: Stade de Toulouse\, Toulouse\nFull-time: 2
+ -1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE

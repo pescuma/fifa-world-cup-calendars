@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 7-0 🇨🇷 Costa Rica
 DTSTART:20221123T190000Z
 DTEND:20221123T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-14985b75f55a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 4\nGrupo: Group E\nEstadio: Al Thumama Stadium\, Doha\
- nResultado: 7-0
+ nDescanso: 3-0\nFinal: 7-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 España 1-1 🇩🇪 Alemania
 DTSTART:20221127T220000Z
 DTEND:20221128T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ae9a8a5aafc0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group E\nEstadio: Al Bayt Stadium\, Al Khor\
- nResultado: 1-1
+ nDescanso: 0-0\nFinal: 1-1
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 2-1 🇪🇸 España
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 12\nGrupo: Group E\nEstadio: Khalifa International Sta
- dium\, Al Rayyan\nResultado: 2-1
+ dium\, Al Rayyan\nDescanso: 0-0\nFinal: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Marruecos 0-0 🇪🇸 España
+SUMMARY:🇲🇦 Marruecos 0+0[3]-[0]0+0 🇪🇸 España
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Education City Stadium\, Al Rayyan\
- nResultado: 0-0
+ nDescanso: 0-0\nFinal: 0-0\nPrórroga: 0-0\nPenaltis: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 1-0 🇨🇲 Cameroon
 DTSTART:20100614T160000Z
 DTEND:20100614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-945c56491e0f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Free State Stadium\, Bloemf
- ontein\nResult: 1-0
+ ontein\nFull-time: 1-0
 LOCATION:Free State Stadium\, Bloemfontein
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 1-0 🇯🇵 Japan
 DTSTART:20100619T133000Z
 DTEND:20100619T153000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-083ea98c98d9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 9\nGroup: Group E\nVenue: Moses Mabhida Stadium\, Dur
- ban\nResult: 1-0
+ ban\nFull-time: 1-0
 LOCATION:Moses Mabhida Stadium\, Durban
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 1-3 🇯🇵 Japan
 DTSTART:20100624T203000Z
 DTEND:20100624T223000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-646dd64794ca@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 14\nGroup: Group E\nVenue: Royal Bafokeng Stadium\, R
- ustenburg\nResult: 1-3
+ ustenburg\nFull-time: 1-3
 LOCATION:Royal Bafokeng Stadium\, Rustenburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇾 Paraguay 0-0 🇯🇵 Japan
+SUMMARY:🇵🇾 Paraguay 0+0[5]-[3]0+0 🇯🇵 Japan
 DTSTART:20100629T160000Z
 DTEND:20100629T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2010-18104b532e27@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nResult
- : 0-0
+DESCRIPTION:Round of 16\nVenue: Loftus Versfeld Stadium\, Pretoria\nFull-t
+ ime: 0-0\nExtra time: 0-0\nPenalties: 5-3
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
 TRANSP:OPAQUE

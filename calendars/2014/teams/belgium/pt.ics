@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 2-1 🇩🇿 Argélia
 DTSTART:20140617T160000Z
 DTEND:20140617T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-11cf6d78a9d8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group H\nEstádio: Estádio Mineirão\, Belo 
- Horizonte\nResultado: 2-1
+ Horizonte\nFinal: 2-1
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-0 🇷🇺 Rússia
 DTSTART:20140622T160000Z
 DTEND:20140622T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-791d664b8a77@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 11\nGrupo: Group H\nEstádio: Estádio do Maracanã\, R
- io de Janeiro\nResultado: 1-0
+ io de Janeiro\nFinal: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 0-1 🇧🇪 Bélgica
 DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-a47c51c90cd2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group H\nEstádio: Arena de São Paulo\, Sã
- o Paulo\nResultado: 0-1
+ o Paulo\nFinal: 0-1
 LOCATION:Arena de São Paulo\, São Paulo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Bélgica 0-0 🇺🇸 Estados Unidos
+SUMMARY:🇧🇪 Bélgica 0+2-1+0 🇺🇸 Estados Unidos
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Arena Fonte Nova\, Salvador\nResul
- tado: 0-0
+DESCRIPTION:Oitavas de Final\nEstádio: Arena Fonte Nova\, Salvador\nInter
+ valo: 0-0\nFinal: 0-0\nProrrogação: 2-1
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-0 🇧🇪 Bélgica
 DTSTART:20140705T160000Z
 DTEND:20140705T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-521839877bf3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Estádio Nacional Mané Garrincha\, 
- Brasília\nResultado: 1-0
+ Brasília\nIntervalo: 1-0\nFinal: 1-0
 LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 STATUS:CONFIRMED
 TRANSP:OPAQUE

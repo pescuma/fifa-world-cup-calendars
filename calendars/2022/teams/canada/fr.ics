@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 1-0 🇨🇦 Canada
 DTSTART:20221123T220000Z
 DTEND:20221124T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c7008efe8b1f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Ahmad bin Ali Stadium
- \, Al Rayyan\nRésultat: 1-0
+ \, Al Rayyan\nMi-temps: 1-0\nFin du match: 1-0
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatie 4-1 🇨🇦 Canada
 DTSTART:20221127T190000Z
 DTEND:20221127T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-e21c44e46e94@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group F\nStade: Khalifa International
-  Stadium\, Al Rayyan\nRésultat: 4-1
+  Stadium\, Al Rayyan\nMi-temps: 2-1\nFin du match: 4-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-2 🇲🇦 Maroc
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8396fc7fc2cf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group F\nStade: Al Thumama Stadium\,
-  Doha\nRésultat: 1-2
+  Doha\nMi-temps: 1-2\nFin du match: 1-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE

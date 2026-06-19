@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇪 Peru 0-1 🇩🇰 Denmark
 DTSTART:20180616T160000Z
 DTEND:20180616T180000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a655d8fa7cc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Mordovia Arena\, Saransk\nR
- esult: 0-1
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Mordovia Arena\, Saransk\nH
+ alf-time: 0-0\nFull-time: 0-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-0 🇵🇪 Peru
 DTSTART:20180621T150000Z
 DTEND:20180621T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-fd8a368b8da7@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Ekaterinburg Arena\, Ekater
- inburg\nResult: 1-0
+ inburg\nHalf-time: 1-0\nFull-time: 1-0
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 0-2 🇵🇪 Peru
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Fisht Stadium\, Sochi\nRes
- ult: 0-2
+DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Fisht Stadium\, Sochi\nHal
+ f-time: 0-1\nFull-time: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

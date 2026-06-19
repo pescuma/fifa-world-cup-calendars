@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-0 🇹🇳 Túnez
 DTSTART;VALUE=DATE:19980615
 DTEND;VALUE=DATE:19980616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2afcd4382466@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group G\nEstadio: Stade Vélodrome\, Marseil
- le\nResultado: 2-0
+ le\nFinal: 2-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-0 🇹🇳 Túnez
 DTSTART;VALUE=DATE:19980622
 DTEND;VALUE=DATE:19980623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-a1d75c421f93@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group G\nEstadio: Stade de la Mosson\, Montp
- ellier\nResultado: 1-0
+ ellier\nFinal: 1-0
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇴 Rumanía 1-1 🇹🇳 Túnez
 DTSTART;VALUE=DATE:19980626
 DTEND;VALUE=DATE:19980627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-7c442013aedf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group G\nEstadio: Stade de France\, Saint-De
- nis\nResultado: 1-1
+ nis\nFinal: 1-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

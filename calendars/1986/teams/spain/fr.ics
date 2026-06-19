@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 0-1 🇧🇷 Brésil
 DTSTART;VALUE=DATE:19860601
 DTEND;VALUE=DATE:19860602
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f2089afaa1cb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: Estadio Jalisco\, Gua
- dalajara\nRésultat: 0-1
+ dalajara\nFin du match: 0-1
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:Irlande du Nord 1-2 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-668f86300d99@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Estadio Tres de Marzo
- \, Guadalajara\nRésultat: 1-2
+ \, Guadalajara\nFin du match: 1-2
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Algérie 0-3 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19860612
 DTEND;VALUE=DATE:19860613
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-fbbd6320d11d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Estadio Tecnológico\
- , Monterrey\nRésultat: 0-3
+ , Monterrey\nFin du match: 0-3
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 1-5 🇪🇸 Espagne
 DTSTART;VALUE=DATE:19860618
 DTEND;VALUE=DATE:19860619
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-43357c038825@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estadio La Corregidora\, Querétaro\
- nRésultat: 1-5
+ nFin du match: 1-5
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1-1 🇧🇪 Belgique
+SUMMARY:🇪🇸 Espagne 1+1[4]-[5]1+1 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-8d11d187cf26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Estadio Cuauhtémoc\, Puebla\nRésultat
- : 1-1
+DESCRIPTION:Quarter-finals\nStade: Estadio Cuauhtémoc\, Puebla\nFin du ma
+ tch: 1-1\nProlongation: 1-1\nTirs au but: 4-5
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE

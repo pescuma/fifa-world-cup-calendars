@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 1-1 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860604
 DTEND;VALUE=DATE:19860605
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7f60adfe3c15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group E\nVenue: Estadio La Corregidora\, Qu
- erétaro\nResult: 1-1
+ erétaro\nFull-time: 1-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 West Germany 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0cb9fd8974b5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group E\nVenue: Estadio La Corregidora\, Qu
- erétaro\nResult: 2-1
+ erétaro\nFull-time: 2-1
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 2-0 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860613
 DTEND;VALUE=DATE:19860614
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b8fc4df56167@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group E\nVenue: Estadio La Corregidora\, Qu
- erétaro\nResult: 2-0
+ erétaro\nFull-time: 2-0
 LOCATION:Estadio La Corregidora\, Querétaro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Morocco 0-1 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860617
 DTEND;VALUE=DATE:19860618
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-af578e548031@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Estadio Universitario\, Monterrey\nResult:
-  0-1
+DESCRIPTION:Round of 16\nVenue: Estadio Universitario\, Monterrey\nFull-ti
+ me: 0-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 West Germany 0-0 🇲🇽 Mexico
+SUMMARY:🇩🇪 West Germany 0+0[4]-[1]0+0 🇲🇽 Mexico
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3f3302a672c2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Estadio Universitario\, Monterrey\nResu
- lt: 0-0
+DESCRIPTION:Quarter-finals\nVenue: Estadio Universitario\, Monterrey\nFull
+ -time: 0-0\nExtra time: 0-0\nPenalties: 4-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,11 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 0-2 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4d35c1a51f09@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Estadio Jalisco\, Guadalajara\nResult: 0-2
+DESCRIPTION:Semi-finals\nVenue: Estadio Jalisco\, Guadalajara\nFull-time: 
+ 0-2
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,11 +125,11 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 3-2 🇩🇪 West Germany
 DTSTART;VALUE=DATE:19860629
 DTEND;VALUE=DATE:19860630
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-0a02259b7ed5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Estadio Azteca\, Mexico City\nResult: 3-2
+DESCRIPTION:Final\nVenue: Estadio Azteca\, Mexico City\nFull-time: 3-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 2-2 🇿🇦 South Africa
 DTSTART;VALUE=DATE:20020602
 DTEND;VALUE=DATE:20020603
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-665e455327e0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Asiad Main Stadium\, Busan\
- nResult: 2-2
+ nFull-time: 2-2
 LOCATION:Asiad Main Stadium\, Busan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 1-0 🇸🇮 Slovenia
 DTSTART;VALUE=DATE:20020608
 DTEND;VALUE=DATE:20020609
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-fb7b5f3c98ff@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Daegu World Cup Stadium\, D
- aegu\nResult: 1-0
+ aegu\nFull-time: 1-0
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 South Africa 2-3 🇪🇸 Spain
 DTSTART;VALUE=DATE:20020612
 DTEND;VALUE=DATE:20020613
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-1162725bcfdd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Daejeon World Cup Stadium\,
-  Daejeon\nResult: 2-3
+  Daejeon\nFull-time: 2-3
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

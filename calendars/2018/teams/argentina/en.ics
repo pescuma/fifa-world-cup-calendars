@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 1-1 🇮🇸 Iceland
 DTSTART:20180616T130000Z
 DTEND:20180616T150000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-77becad11996@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Spartak Stadium\, Moscow\nR
- esult: 1-1
+DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Spartak Stadium\, Moscow\nH
+ alf-time: 1-1\nFull-time: 1-1
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 0-3 🇭🇷 Croatia
 DTSTART:20180621T180000Z
 DTEND:20180621T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-07a193eda2cc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group D\nVenue: Nizhny Novgorod Stadium\, N
- izhny Novgorod\nResult: 0-3
+ izhny Novgorod\nHalf-time: 0-0\nFull-time: 0-3
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-2 🇦🇷 Argentina
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-544782225f84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group D\nVenue: Saint Petersburg Stadium\,
-  Saint Petersburg\nResult: 1-2
+  Saint Petersburg\nHalf-time: 0-1\nFull-time: 1-2
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-3 🇦🇷 Argentina
 DTSTART:20180630T140000Z
 DTEND:20180630T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1fb30c0fed9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Kazan Arena\, Kazan\nResult: 4-3
+DESCRIPTION:Round of 16\nVenue: Kazan Arena\, Kazan\nHalf-time: 1-1\nFull-
+ time: 4-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

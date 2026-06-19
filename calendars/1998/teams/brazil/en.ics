@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 DTSTART;VALUE=DATE:19980610
 DTEND;VALUE=DATE:19980611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2a8d3a80a39c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group A\nVenue: Stade de France\, Saint-Den
- is\nResult: 2-1
+ is\nFull-time: 2-1
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-0 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19980616
 DTEND;VALUE=DATE:19980617
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-901fa625bf9b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group A\nVenue: Stade de la Beaujoire\, Nan
- tes\nResult: 3-0
+ tes\nFull-time: 3-0
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-2 🇳🇴 Norway
 DTSTART;VALUE=DATE:19980623
 DTEND;VALUE=DATE:19980624
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-dba2243917c4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group A\nVenue: Stade Vélodrome\, Marseill
- e\nResult: 1-2
+ e\nFull-time: 1-2
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,11 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 4-1 🇨🇱 Chile
 DTSTART;VALUE=DATE:19980627
 DTEND;VALUE=DATE:19980628
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-d21ece1dfd6e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Parc des Princes\, Paris\nResult: 4-1
+DESCRIPTION:Round of 16\nVenue: Parc des Princes\, Paris\nFull-time: 4-1
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -86,12 +86,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 3-2 🇩🇰 Denmark
 DTSTART;VALUE=DATE:19980703
 DTEND;VALUE=DATE:19980704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-523959b2907a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Stade de la Beaujoire\, Nantes\nResult:
-  3-2
+DESCRIPTION:Quarter-finals\nVenue: Stade de la Beaujoire\, Nantes\nFull-ti
+ me: 3-2
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -102,14 +102,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brazil 1-1 🇳🇱 Netherlands
+SUMMARY:🇧🇷 Brazil 1+1[4]-[2]1+1 🇳🇱 Netherlands
 DTSTART;VALUE=DATE:19980707
 DTEND;VALUE=DATE:19980708
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-f6b2fb019a2c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Stade Vélodrome\, Marseille\nResult: 1-1
+DESCRIPTION:Semi-finals\nVenue: Stade Vélodrome\, Marseille\nFull-time: 1
+ -1\nExtra time: 1-1\nPenalties: 4-2
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -123,11 +124,11 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 0-3 🇫🇷 France
 DTSTART;VALUE=DATE:19980712
 DTEND;VALUE=DATE:19980713
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-4b5d3176e82d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Stade de France\, Saint-Denis\nResult: 0-3
+DESCRIPTION:Final\nVenue: Stade de France\, Saint-Denis\nFull-time: 0-3
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

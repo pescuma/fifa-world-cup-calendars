@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 2-2 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:20020604
 DTEND;VALUE=DATE:20020605
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-077882dbad14@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group H\nEstádio: Saitama Stadium\, Saitama\
- nResultado: 2-2
+ nFinal: 2-2
 LOCATION:Saitama Stadium\, Saitama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 1-0 🇷🇺 Rússia
 DTSTART;VALUE=DATE:20020609
 DTEND;VALUE=DATE:20020610
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8f89bbb99cc2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group H\nEstádio: International Stadium Yoko
- hama\, Yokohama\nResultado: 1-0
+ hama\, Yokohama\nFinal: 1-0
 LOCATION:International Stadium Yokohama\, Yokohama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Tunísia 0-2 🇯🇵 Japão
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-f0f39e68c51c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 3\nGrupo: Group H\nEstádio: Nagai Stadium\, Osaka\nRes
- ultado: 0-2
+DESCRIPTION:Rodada 3\nGrupo: Group H\nEstádio: Nagai Stadium\, Osaka\nFin
+ al: 0-2
 LOCATION:Nagai Stadium\, Osaka
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japão 0-1 🇹🇷 Turquia
 DTSTART;VALUE=DATE:20020618
 DTEND;VALUE=DATE:20020619
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-9835c86e1551@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Miyagi Stadium\, Miyagi\nResultado
- : 0-1
+DESCRIPTION:Oitavas de Final\nEstádio: Miyagi Stadium\, Miyagi\nFinal: 0-
+ 1
 LOCATION:Miyagi Stadium\, Miyagi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

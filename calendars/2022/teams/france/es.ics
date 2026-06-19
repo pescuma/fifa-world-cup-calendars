@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 4-1 🇦🇺 Australia
 DTSTART:20221122T220000Z
 DTEND:20221123T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-bda352d41357@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Al Janoub Stadium\, Al Wak
- rah\nResultado: 4-1
+ rah\nDescanso: 2-1\nFinal: 4-1
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 2-1 🇩🇰 Dinamarca
 DTSTART:20221126T190000Z
 DTEND:20221126T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-de478cb342f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 7\nGrupo: Group D\nEstadio: Stadium 974\, Doha\nResult
- ado: 2-1
+DESCRIPTION:Jornada 7\nGrupo: Group D\nEstadio: Stadium 974\, Doha\nDescan
+ so: 0-0\nFinal: 2-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇹🇳 Túnez 1-0 🇫🇷 Francia
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-6b1588c7b79c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group D\nEstadio: Education City Stadium\, 
- Al Rayyan\nResultado: 1-0
+ Al Rayyan\nDescanso: 0-0\nFinal: 1-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 3-1 🇵🇱 Polonia
 DTSTART:20221204T180000Z
 DTEND:20221204T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-7b001d5cd6ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Al Thumama Stadium\, Doha\nResultad
- o: 3-1
+DESCRIPTION:Octavos de Final\nEstadio: Al Thumama Stadium\, Doha\nDescanso
+ : 1-0\nFinal: 3-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇫🇷 Francia
 DTSTART:20221210T220000Z
 DTEND:20221211T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-648d650d7895@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Al Bayt Stadium\, Al Khor\nResultado:
-  1-2
+DESCRIPTION:Quarter-finals\nEstadio: Al Bayt Stadium\, Al Khor\nDescanso: 
+ 0-1\nFinal: 1-2
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 2-0 🇲🇦 Marruecos
 DTSTART:20221214T220000Z
 DTEND:20221215T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9740fb87a50f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nEstadio: Al Bayt Stadium\, Al Khor\nResultado: 2-
- 0
+DESCRIPTION:Semi-finals\nEstadio: Al Bayt Stadium\, Al Khor\nDescanso: 1-0
+ \nFinal: 2-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,14 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2-2 🇫🇷 Francia
+SUMMARY:🇦🇷 Argentina 2+3[4]-[2]3+2 🇫🇷 Francia
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nEstadio: Lusail Iconic Stadium\, Lusail\nResultado: 2-2
+DESCRIPTION:Final\nEstadio: Lusail Iconic Stadium\, Lusail\nDescanso: 2-0\
+ nFinal: 2-2\nPrórroga: 3-3\nPenaltis: 4-2
 LOCATION:Lusail Iconic Stadium\, Lusail
 STATUS:CONFIRMED
 TRANSP:OPAQUE

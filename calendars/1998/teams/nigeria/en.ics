@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 2-3 🇳🇬 Nigeria
 DTSTART;VALUE=DATE:19980613
 DTEND;VALUE=DATE:19980614
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-c24a4c108af2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Stade de la Beaujoire\, Nan
- tes\nResult: 2-3
+ tes\nFull-time: 2-3
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19980619
 DTEND;VALUE=DATE:19980620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-c811fa91d510@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Parc des Princes\, Paris\nR
- esult: 1-0
+DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Parc des Princes\, Paris\nF
+ ull-time: 1-0
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-3 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:19980624
 DTEND;VALUE=DATE:19980625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-61bcc9425686@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Stade de Toulouse\, Toulous
- e\nResult: 1-3
+ e\nFull-time: 1-3
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,11 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-4 🇩🇰 Denmark
 DTSTART;VALUE=DATE:19980628
 DTEND;VALUE=DATE:19980629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-3240a461b808@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Stade de France\, Saint-Denis\nResult: 1-4
+DESCRIPTION:Round of 16\nVenue: Stade de France\, Saint-Denis\nFull-time: 
+ 1-4
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE

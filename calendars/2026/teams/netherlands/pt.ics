@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Holanda 2-2 🇯🇵 Japão
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-744bfbfd7938@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 4\nGrupo: Group F\nEstádio: Dallas (Arlington)\nResult
- ado: 2-2
+DESCRIPTION:Rodada 4\nGrupo: Group F\nEstádio: Dallas (Arlington)\nInterv
+ alo: 0-0\nFinal: 2-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

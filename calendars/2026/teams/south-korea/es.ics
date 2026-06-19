@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 2-1 🇨🇿 Chequia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-dfd8df44c1fb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)\nRes
- ultado: 2-1
+DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)\nDes
+ canso: 0-0\nFinal: 2-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-0 🇰🇷 Corea del Sur
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-7e2495985fc6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)\nRes
- ultado: 1-0
+DESCRIPTION:Jornada 8\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)\nDes
+ canso: 0-0\nFinal: 1-0
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

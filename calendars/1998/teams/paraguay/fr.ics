@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 0-0 🇧🇬 Bulgarie
 DTSTART;VALUE=DATE:19980612
 DTEND;VALUE=DATE:19980613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-22c4a143fc64@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: Stade de la Mosson\, 
- Montpellier\nRésultat: 0-0
+ Montpellier\nFin du match: 0-0
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 0-0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:19980619
 DTEND;VALUE=DATE:19980620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-8d2287965b8c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Stade Geoffroy-Guicha
- rd\, Saint-Étienne\nRésultat: 0-0
+ rd\, Saint-Étienne\nFin du match: 0-0
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-3 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:19980624
 DTEND;VALUE=DATE:19980625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-61bcc9425686@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Stade de Toulouse\, T
- oulouse\nRésultat: 1-3
+ oulouse\nFin du match: 1-3
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 France 0-0 🇵🇾 Paraguay
+SUMMARY:🇫🇷 France 0+1-0+0 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:19980628
 DTEND;VALUE=DATE:19980629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-205fb5da3970@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stade Félix Bollaert\, Lens\nRésul
- tat: 0-0
+DESCRIPTION:1/8ème de finale\nStade: Stade Félix Bollaert\, Lens\nFin du
+  match: 0-0\nProlongation: 1-0
 LOCATION:Stade Félix Bollaert\, Lens
 STATUS:CONFIRMED
 TRANSP:OPAQUE

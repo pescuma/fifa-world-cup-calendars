@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 3-2 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3e18af9651b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Suwon World Cup Stadium\, S
- uwon\nResult: 3-2
+ uwon\nFull-time: 3-2
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 South Korea 1-1 🇺🇸 United States
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-44e5e88f89f2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Daegu World Cup Stadium\, D
- aegu\nResult: 1-1
+ aegu\nFull-time: 1-1
 LOCATION:Daegu World Cup Stadium\, Daegu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 3-1 🇺🇸 United States
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-bb8bf44a04a0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Daejeon World Cup Stadium\,
-  Daejeon\nResult: 3-1
+  Daejeon\nFull-time: 3-1
 LOCATION:Daejeon World Cup Stadium\, Daejeon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexico 0-2 🇺🇸 United States
 DTSTART;VALUE=DATE:20020617
 DTEND;VALUE=DATE:20020618
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-90da9e1812e8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Jeonju World Cup Stadium\, Jeonju\nResult:
-  0-2
+DESCRIPTION:Round of 16\nVenue: Jeonju World Cup Stadium\, Jeonju\nFull-ti
+ me: 0-2
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 1-0 🇺🇸 United States
 DTSTART;VALUE=DATE:20020621
 DTEND;VALUE=DATE:20020622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-8201d6d9d509@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Munsu Cup Stadium\, Ulsan\nResult: 1-0
+DESCRIPTION:Quarter-finals\nVenue: Munsu Cup Stadium\, Ulsan\nFull-time: 1
+ -0
 LOCATION:Munsu Cup Stadium\, Ulsan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

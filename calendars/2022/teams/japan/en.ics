@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 1-2 🇯🇵 Japan
 DTSTART:20221123T160000Z
 DTEND:20221123T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-abdb323efea6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 4\nGroup: Group E\nVenue: Khalifa International Stadi
- um\, Al Rayyan\nResult: 1-2
+ um\, Al Rayyan\nHalf-time: 1-0\nFull-time: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 0-1 🇨🇷 Costa Rica
 DTSTART:20221127T130000Z
 DTEND:20221127T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1691092f6459@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 8\nGroup: Group E\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 0-1
+ Rayyan\nHalf-time: 0-0\nFull-time: 0-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japan 2-1 🇪🇸 Spain
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 12\nGroup: Group E\nVenue: Khalifa International Stad
- ium\, Al Rayyan\nResult: 2-1
+ ium\, Al Rayyan\nHalf-time: 0-0\nFull-time: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japan 1-1 🇭🇷 Croatia
+SUMMARY:🇯🇵 Japan 1+1[1]-[3]1+1 🇭🇷 Croatia
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Al Janoub Stadium\, Al Wakrah\nResult: 1-1
+DESCRIPTION:Round of 16\nVenue: Al Janoub Stadium\, Al Wakrah\nHalf-time: 
+ 1-0\nFull-time: 1-1\nExtra time: 1-1\nPenalties: 1-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

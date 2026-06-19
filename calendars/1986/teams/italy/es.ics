@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇬 Bulgaria 1-1 🇮🇹 Italia
 DTSTART;VALUE=DATE:19860531
 DTEND;VALUE=DATE:19860601
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-ee8805a22c63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group A\nEstadio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-1
+ ty\nFinal: 1-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 1-1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19860605
 DTEND;VALUE=DATE:19860606
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-4324e2b97cf4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group A\nEstadio: Estadio Cuauhtémoc\, Pueb
- la\nResultado: 1-1
+ la\nFinal: 1-1
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Corea del Sur 2-3 🇮🇹 Italia
 DTSTART;VALUE=DATE:19860610
 DTEND;VALUE=DATE:19860611
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b7c6c49578ff@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group A\nEstadio: Estadio Cuauhtémoc\, Pueb
- la\nResultado: 2-3
+ la\nFinal: 2-3
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 0-2 🇫🇷 Francia
 DTSTART;VALUE=DATE:19860617
 DTEND;VALUE=DATE:19860618
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-a6fd874bf7dc@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Estadio Olímpico Universitario\, M
- exico City\nResultado: 0-2
+ exico City\nFinal: 0-2
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE

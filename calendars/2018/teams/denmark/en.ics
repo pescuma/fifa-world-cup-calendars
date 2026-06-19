@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇪 Peru 0-1 🇩🇰 Denmark
 DTSTART:20180616T160000Z
 DTEND:20180616T180000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a655d8fa7cc3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Mordovia Arena\, Saransk\nR
- esult: 0-1
+DESCRIPTION:Matchday 3\nGroup: Group C\nVenue: Mordovia Arena\, Saransk\nH
+ alf-time: 0-0\nFull-time: 0-1
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 1-1 🇦🇺 Australia
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Samara Arena\, Samara\nResu
- lt: 1-1
+DESCRIPTION:Matchday 8\nGroup: Group C\nVenue: Samara Arena\, Samara\nHalf
+ -time: 1-1\nFull-time: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Denmark 0-0 🇫🇷 France
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-349c36640009@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 13\nGroup: Group C\nVenue: Luzhniki Stadium\, Moscow\
- nResult: 0-0
+ nHalf-time: 0-0\nFull-time: 0-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatia 1-1 🇩🇰 Denmark
+SUMMARY:🇭🇷 Croatia 1+1[3]-[2]1+1 🇩🇰 Denmark
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Nizhny Novgorod Stadium\, Nizhny Novgorod\
- nResult: 1-1
+ nHalf-time: 1-1\nFull-time: 1-1\nExtra time: 1-1\nPenalties: 3-2
 LOCATION:Nizhny Novgorod Stadium\, Nizhny Novgorod
 STATUS:CONFIRMED
 TRANSP:OPAQUE

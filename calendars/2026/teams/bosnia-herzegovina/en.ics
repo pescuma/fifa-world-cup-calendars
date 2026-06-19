@@ -11,11 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-965e9ac9ce78@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Toronto\nResult: 1-1
+DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Toronto\nHalf-time: 0-1\nFu
+ ll-time: 1-1
 LOCATION:Toronto
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -29,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇭 Switzerland 4-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-28e5beab171a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)\nRe
- sult: 4-1
+DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)\nHa
+ lf-time: 0-0\nFull-time: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

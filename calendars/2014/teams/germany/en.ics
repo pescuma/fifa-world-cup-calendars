@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 4-0 🇵🇹 Portugal
 DTSTART:20140616T160000Z
 DTEND:20140616T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-32737421db15@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 5\nGroup: Group G\nVenue: Arena Fonte Nova\, Salvador
- \nResult: 4-0
+ \nFull-time: 4-0
 LOCATION:Arena Fonte Nova\, Salvador
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Germany 2-2 🇬🇭 Ghana
 DTSTART:20140621T190000Z
 DTEND:20140621T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-c9f4062b4299@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group G\nVenue: Estádio Castelão\, Forta
- leza\nResult: 2-2
+ leza\nFull-time: 2-2
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 0-1 🇩🇪 Germany
 DTSTART:20140626T160000Z
 DTEND:20140626T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f628a8a8b0d5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group G\nVenue: Arena Pernambuco\, Recife\
- nResult: 0-1
+ nFull-time: 0-1
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Germany 0-0 🇩🇿 Algeria
+SUMMARY:🇩🇪 Germany 0+2-1+0 🇩🇿 Algeria
 DTSTART:20140630T200000Z
 DTEND:20140630T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-21cd9c47d530@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Estádio Beira-Rio\, Porto Alegre\nResult:
-  0-0
+DESCRIPTION:Round of 16\nVenue: Estádio Beira-Rio\, Porto Alegre\nHalf-ti
+ me: 0-0\nFull-time: 0-0\nExtra time: 2-1
 LOCATION:Estádio Beira-Rio\, Porto Alegre
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 0-1 🇩🇪 Germany
 DTSTART:20140704T160000Z
 DTEND:20140704T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-138406e22f28@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Estádio do Maracanã\, Rio de Janeiro\
- nResult: 0-1
+ nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brazil 1-7 🇩🇪 Germany
 DTSTART:20140708T200000Z
 DTEND:20140708T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-507d1ff85219@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Estádio Mineirão\, Belo Horizonte\nResul
- t: 1-7
+DESCRIPTION:Semi-finals\nVenue: Estádio Mineirão\, Belo Horizonte\nHalf-
+ time: 0-5\nFull-time: 1-7
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,15 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Germany 0-0 🇦🇷 Argentina
+SUMMARY:🇩🇪 Germany 0+1-0+0 🇦🇷 Argentina
 DTSTART:20140713T190000Z
 DTEND:20140713T210000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-c2c7bc84b8ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Final\nVenue: Estádio do Maracanã\, Rio de Janeiro\nResult: 
- 0-0
+DESCRIPTION:Final\nVenue: Estádio do Maracanã\, Rio de Janeiro\nHalf-tim
+ e: 0-0\nFull-time: 0-0\nExtra time: 1-0
 LOCATION:Estádio do Maracanã\, Rio de Janeiro
 STATUS:CONFIRMED
 TRANSP:OPAQUE

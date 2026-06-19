@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇹 Autriche 3-1 🇯🇴 Jordanie
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-647e537b682d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group J\nStade: San Francisco Bay Are
- a (Santa Clara)\nRésultat: 3-1
+ a (Santa Clara)\nMi-temps: 1-0\nFin du match: 3-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

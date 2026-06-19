@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-3 🇪🇸 Espagne
 DTSTART:20180615T180000Z
 DTEND:20180615T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-98ecbb4bd0e5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group B\nStade: Fisht Stadium\, Sochi
- \nRésultat: 3-3
+ \nMi-temps: 2-1\nFin du match: 3-3
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 0-1 🇪🇸 Espagne
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-3a7b32664da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 7\nGroupe: Group B\nStade: Kazan Arena\, Kazan\n
- Résultat: 0-1
+ Mi-temps: 0-0\nFin du match: 0-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 2-2 🇲🇦 Maroc
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-434ea9bed425@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group B\nStade: Kaliningrad Stadium\
- , Kaliningrad\nRésultat: 2-2
+ , Kaliningrad\nMi-temps: 1-1\nFin du match: 2-2
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1-1 🇷🇺 Russie
+SUMMARY:🇪🇸 Espagne 1+1[3]-[4]1+1 🇷🇺 Russie
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Luzhniki Stadium\, Moscow\nRésultat
- : 1-1
+DESCRIPTION:1/8ème de finale\nStade: Luzhniki Stadium\, Moscow\nMi-temps:
+  1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-4
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

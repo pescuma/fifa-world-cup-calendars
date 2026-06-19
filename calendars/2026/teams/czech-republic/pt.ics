@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-1 🇨🇿 Tchéquia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-dfd8df44c1fb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Guadalajara (Zapopan)\nRes
- ultado: 2-1
+DESCRIPTION:Rodada 1\nGrupo: Group A\nEstádio: Guadalajara (Zapopan)\nInt
+ ervalo: 0-0\nFinal: 2-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,11 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇿 Tchéquia 1-1 🇿🇦 África do Sul
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260619T135150Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 8\nGrupo: Group A\nEstádio: Atlanta\nResultado: 1-1
+DESCRIPTION:Rodada 8\nGrupo: Group A\nEstádio: Atlanta\nIntervalo: 1-0\nF
+ inal: 1-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

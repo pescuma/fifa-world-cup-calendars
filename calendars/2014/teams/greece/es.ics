@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 3-0 🇬🇷 Grecia
 DTSTART:20140614T160000Z
 DTEND:20140614T180000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-51bc21076b1c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Estádio Mineirão\, Belo 
- Horizonte\nResultado: 3-0
+ Horizonte\nFinal: 3-0
 LOCATION:Estádio Mineirão\, Belo Horizonte
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-0 🇬🇷 Grecia
 DTSTART:20140619T220000Z
 DTEND:20140620T000000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-03f27ae20ed0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Estádio das Dunas\, Natal
- \nResultado: 0-0
+ \nFinal: 0-0
 LOCATION:Estádio das Dunas\, Natal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇬🇷 Grecia 2-1 🇨🇮 Côte d’Ivoire
 DTSTART:20140624T200000Z
 DTEND:20140624T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-f2c1ffdd986b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Estádio Castelão\, Fort
- aleza\nResultado: 2-1
+ aleza\nFinal: 2-1
 LOCATION:Estádio Castelão\, Fortaleza
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1-1 🇬🇷 Grecia
+SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Grecia
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260618T153631Z
+DTSTAMP:20260619T145643Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Arena Pernambuco\, Recife\nResultad
- o: 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Arena Pernambuco\, Recife\nDescanso
+ : 0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 5-3
 LOCATION:Arena Pernambuco\, Recife
 STATUS:CONFIRMED
 TRANSP:OPAQUE

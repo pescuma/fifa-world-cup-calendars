@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 Francia 2-1 🇦🇺 Australia
 DTSTART:20180616T100000Z
 DTEND:20180616T120000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-41218d9b3c65@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Kazan Arena\, Kazan\nResul
- tado: 2-1
+DESCRIPTION:Jornada 3\nGrupo: Group C\nEstadio: Kazan Arena\, Kazan\nDesca
+ nso: 0-0\nFinal: 2-1
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Dinamarca 1-1 🇦🇺 Australia
 DTSTART:20180621T120000Z
 DTEND:20180621T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-95ce27d791cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Samara Arena\, Samara\nRes
- ultado: 1-1
+DESCRIPTION:Jornada 8\nGrupo: Group C\nEstadio: Samara Arena\, Samara\nDes
+ canso: 1-1\nFinal: 1-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australia 0-2 🇵🇪 Perú
 DTSTART:20180626T140000Z
 DTEND:20180626T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2ac99cbafbb5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Fisht Stadium\, Sochi\nRe
- sultado: 0-2
+DESCRIPTION:Jornada 13\nGrupo: Group C\nEstadio: Fisht Stadium\, Sochi\nDe
+ scanso: 0-1\nFinal: 0-2
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

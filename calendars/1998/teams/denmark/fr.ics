@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇦 Arabie saoudite 0-1 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19980612
 DTEND;VALUE=DATE:19980613
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-31f34a8d9126@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group C\nStade: Stade Félix Bollaert
- \, Lens\nRésultat: 0-1
+ \, Lens\nFin du match: 0-1
 LOCATION:Stade Félix Bollaert\, Lens
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇿🇦 Afrique du Sud 1-1 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19980618
 DTEND;VALUE=DATE:19980619
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-e0fc35cb2ce3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group C\nStade: Stade de Toulouse\, T
- oulouse\nRésultat: 1-1
+ oulouse\nFin du match: 1-1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-1 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19980624
 DTEND;VALUE=DATE:19980625
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-de9c3f8033f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group C\nStade: Stade Gerland\, Lyon\
- nRésultat: 2-1
+ nFin du match: 2-1
 LOCATION:Stade Gerland\, Lyon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇬 Nigeria 1-4 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19980628
 DTEND;VALUE=DATE:19980629
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-3240a461b808@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Stade de France\, Saint-Denis\nRésu
- ltat: 1-4
+DESCRIPTION:1/8ème de finale\nStade: Stade de France\, Saint-Denis\nFin d
+ u match: 1-4
 LOCATION:Stade de France\, Saint-Denis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 3-2 🇩🇰 Danemark
 DTSTART;VALUE=DATE:19980703
 DTEND;VALUE=DATE:19980704
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-523959b2907a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Stade de la Beaujoire\, Nantes\nRésult
- at: 3-2
+DESCRIPTION:Quarter-finals\nStade: Stade de la Beaujoire\, Nantes\nFin du 
+ match: 3-2
 LOCATION:Stade de la Beaujoire\, Nantes
 STATUS:CONFIRMED
 TRANSP:OPAQUE

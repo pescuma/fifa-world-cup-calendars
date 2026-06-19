@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russie 5-0 🇸🇦 Arabie saoudite
 DTSTART:20180614T150000Z
 DTEND:20180614T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-825c5a014391@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group A\nStade: Luzhniki Stadium\, Mo
- scow\nRésultat: 5-0
+ scow\nMi-temps: 2-0\nFin du match: 5-0
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇺 Russie 3-1 🇪🇬 Égypte
 DTSTART:20180619T180000Z
 DTEND:20180619T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-310ebf37e625@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 6\nGroupe: Group A\nStade: Saint Petersburg Stad
- ium\, Saint Petersburg\nRésultat: 3-1
+ ium\, Saint Petersburg\nMi-temps: 0-0\nFin du match: 3-1
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇾 Uruguay 3-0 🇷🇺 Russie
 DTSTART:20180625T140000Z
 DTEND:20180625T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-1c7431d958de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group A\nStade: Samara Arena\, Samar
- a\nRésultat: 3-0
+ a\nMi-temps: 2-0\nFin du match: 3-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1-1 🇷🇺 Russie
+SUMMARY:🇪🇸 Espagne 1+1[3]-[4]1+1 🇷🇺 Russie
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Luzhniki Stadium\, Moscow\nRésultat
- : 1-1
+DESCRIPTION:1/8ème de finale\nStade: Luzhniki Stadium\, Moscow\nMi-temps:
+  1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-4
 LOCATION:Luzhniki Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,14 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Russie 1-1 🇭🇷 Croatie
+SUMMARY:🇷🇺 Russie 1+2[3]-[4]2+1 🇭🇷 Croatie
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Fisht Stadium\, Sochi\nRésultat: 1-1
+DESCRIPTION:Quarter-finals\nStade: Fisht Stadium\, Sochi\nMi-temps: 1-1\nF
+ in du match: 1-1\nProlongation: 2-2\nTirs au but: 3-4
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE

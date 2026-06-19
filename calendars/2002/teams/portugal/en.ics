@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 3-2 🇵🇹 Portugal
 DTSTART;VALUE=DATE:20020605
 DTEND;VALUE=DATE:20020606
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-3e18af9651b9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group D\nVenue: Suwon World Cup Stadium\, S
- uwon\nResult: 3-2
+ uwon\nFull-time: 3-2
 LOCATION:Suwon World Cup Stadium\, Suwon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 4-0 🇵🇱 Poland
 DTSTART;VALUE=DATE:20020610
 DTEND;VALUE=DATE:20020611
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-86fb3e968356@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group D\nVenue: Jeonju World Cup Stadium\, 
- Jeonju\nResult: 4-0
+ Jeonju\nFull-time: 4-0
 LOCATION:Jeonju World Cup Stadium\, Jeonju
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 0-1 🇰🇷 South Korea
 DTSTART;VALUE=DATE:20020614
 DTEND;VALUE=DATE:20020615
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T145642Z
 UID:fifa-wc-2002-afb9c33f5ed8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group D\nVenue: Incheon Munhak Stadium\, In
- cheon\nResult: 0-1
+ cheon\nFull-time: 0-1
 LOCATION:Incheon Munhak Stadium\, Incheon
 STATUS:CONFIRMED
 TRANSP:OPAQUE

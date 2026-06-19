@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 3-0 🇵🇦 Panama
 DTSTART:20180618T150000Z
 DTEND:20180618T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9f0d787ac135@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 5\nGroupe: Group G\nStade: Fisht Stadium\, Sochi
- \nRésultat: 3-0
+ \nMi-temps: 0-0\nFin du match: 3-0
 LOCATION:Fisht Stadium\, Sochi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 5-2 🇹🇳 Tunisie
 DTSTART:20180623T120000Z
 DTEND:20180623T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d0e225fe8c19@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 10\nGroupe: Group G\nStade: Spartak Stadium\, Mo
- scow\nRésultat: 5-2
+ scow\nMi-temps: 3-1\nFin du match: 5-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0-1 🇧🇪 Belgique
 DTSTART:20180628T180000Z
 DTEND:20180628T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-a731a660ece1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 15\nGroupe: Group G\nStade: Kaliningrad Stadium\
- , Kaliningrad\nRésultat: 0-1
+ , Kaliningrad\nMi-temps: 0-0\nFin du match: 0-1
 LOCATION:Kaliningrad Stadium\, Kaliningrad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 3-2 🇯🇵 Japon
 DTSTART:20180702T180000Z
 DTEND:20180702T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d9edfbc25ce9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Rostov Arena\, Rostov-on-Don\nRésul
- tat: 3-2
+DESCRIPTION:1/8ème de finale\nStade: Rostov Arena\, Rostov-on-Don\nMi-tem
+ ps: 0-0\nFin du match: 3-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-2 🇧🇪 Belgique
 DTSTART:20180706T180000Z
 DTEND:20180706T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-27423777a99d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Kazan Arena\, Kazan\nRésultat: 1-2
+DESCRIPTION:Quarter-finals\nStade: Kazan Arena\, Kazan\nMi-temps: 0-2\nFin
+  du match: 1-2
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,12 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 1-0 🇧🇪 Belgique
 DTSTART:20180710T180000Z
 DTEND:20180710T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-9a49177435f6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nStade: Saint Petersburg Stadium\, St. Petersburg\
- nRésultat: 1-0
+ nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 2-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180714T140000Z
 DTEND:20180714T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-f9ee57e56f7e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Match pour la 3ème place\nStade: Saint Petersburg Stadium\, S
- t. Petersburg\nRésultat: 2-0
+ t. Petersburg\nMi-temps: 1-0\nFin du match: 2-0
 LOCATION:Saint Petersburg Stadium\, St. Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE

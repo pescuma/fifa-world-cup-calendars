@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇪 Emiratos Árabes Unidos 0-2 🇨🇴 Colombia
 DTSTART;VALUE=DATE:19900609
 DTEND;VALUE=DATE:19900610
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-fee0313166a2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group D\nEstadio: Stadio Renato Dall'Ara\, B
- ologna\nResultado: 0-2
+ ologna\nFinal: 0-2
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania Occidental 5-1 🇦🇪 Emiratos Árabes Unidos
 DTSTART;VALUE=DATE:19900615
 DTEND;VALUE=DATE:19900616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-ed8b50fc2105@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 2\nGrupo: Group D\nEstadio: San Siro\, Milan\nResultad
- o: 5-1
+DESCRIPTION:Jornada 2\nGrupo: Group D\nEstadio: San Siro\, Milan\nFinal: 5
+ -1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Yugoslavia 4-1 🇦🇪 Emiratos Árabes Unidos
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d14f93e2ea63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group D\nEstadio: Stadio Renato Dall'Ara\, B
- ologna\nResultado: 4-1
+ ologna\nFinal: 4-1
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE

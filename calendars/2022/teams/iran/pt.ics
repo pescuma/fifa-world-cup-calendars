@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-2 🇮🇷 Irã
 DTSTART:20221121T160000Z
 DTEND:20221121T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-ef37bc342d49@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group B\nEstádio: Khalifa International Stad
- ium\, Al Rayyan\nResultado: 6-2
+ ium\, Al Rayyan\nIntervalo: 3-0\nFinal: 6-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales 0-2 🇮🇷 Irã
 DTSTART:20221125T130000Z
 DTEND:20221125T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-44b4bb405d13@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 6\nGrupo: Group B\nEstádio: Ahmad bin Ali Stadium\, Al
-  Rayyan\nResultado: 0-2
+  Rayyan\nIntervalo: 0-0\nFinal: 0-2
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Irã 0-1 🇺🇸 Estados Unidos
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5f6ec45ed700@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 10\nGrupo: Group B\nEstádio: Al Thumama Stadium\, Doha
- \nResultado: 0-1
+ \nIntervalo: 0-1\nFinal: 0-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE

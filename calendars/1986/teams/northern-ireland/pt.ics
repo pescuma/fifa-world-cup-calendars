@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇿 Argélia 1-1 Irlanda do Norte
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-dc75ca6f3771@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 1\nGrupo: Group D\nEstádio: Estadio Tres de Marzo\, Gu
- adalajara\nResultado: 1-1
+ adalajara\nFinal: 1-1
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:Irlanda do Norte 1-2 🇪🇸 Espanha
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-668f86300d99@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group D\nEstádio: Estadio Tres de Marzo\, Gu
- adalajara\nResultado: 1-2
+ adalajara\nFinal: 1-2
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:Irlanda do Norte 0-3 🇧🇷 Brasil
 DTSTART;VALUE=DATE:19860612
 DTEND;VALUE=DATE:19860613
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-7ec486dcc0de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group D\nEstádio: Estadio Jalisco\, Guadalaj
- ara\nResultado: 0-3
+ ara\nFinal: 0-3
 LOCATION:Estadio Jalisco\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

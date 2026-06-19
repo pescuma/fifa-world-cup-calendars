@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇰 Danemark 0-0 🇹🇳 Tunisie
 DTSTART:20221122T160000Z
 DTEND:20221122T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-4c42a4f59f5a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Education City Stadiu
- m\, Al Rayyan\nRésultat: 0-0
+ m\, Al Rayyan\nFin du match: 0-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-1 🇩🇰 Danemark
 DTSTART:20221126T190000Z
 DTEND:20221126T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-de478cb342f1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 7\nGroupe: Group D\nStade: Stadium 974\, Doha\nR
- ésultat: 2-1
+DESCRIPTION:Jour de match 7\nGroupe: Group D\nStade: Stadium 974\, Doha\nM
+ i-temps: 0-0\nFin du match: 2-1
 LOCATION:Stadium 974\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 1-0 🇩🇰 Danemark
 DTSTART:20221130T180000Z
 DTEND:20221130T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-924d296c03de@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 11\nGroupe: Group D\nStade: Al Janoub Stadium\, 
- Al Wakrah\nRésultat: 1-0
+ Al Wakrah\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

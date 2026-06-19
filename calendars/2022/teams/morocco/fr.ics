@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Maroc 0-0 🇭🇷 Croatie
 DTSTART:20221123T130000Z
 DTEND:20221123T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eb2ab8c7201f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group F\nStade: Al Bayt Stadium\, Al 
- Khor\nRésultat: 0-0
+ Khor\nFin du match: 0-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgique 0-2 🇲🇦 Maroc
 DTSTART:20221127T160000Z
 DTEND:20221127T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-c8d638d21a1d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group F\nStade: Al Thumama Stadium\, 
- Doha\nRésultat: 0-2
+ Doha\nMi-temps: 0-0\nFin du match: 0-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-2 🇲🇦 Maroc
 DTSTART:20221201T180000Z
 DTEND:20221201T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-8396fc7fc2cf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group F\nStade: Al Thumama Stadium\,
-  Doha\nRésultat: 1-2
+  Doha\nMi-temps: 1-2\nFin du match: 1-2
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Maroc 0-0 🇪🇸 Espagne
+SUMMARY:🇲🇦 Maroc 0+0[3]-[0]0+0 🇪🇸 Espagne
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Education City Stadium\, Al Rayyan\n
- Résultat: 0-0
+ Mi-temps: 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 3-0
 LOCATION:Education City Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇦 Maroc 1-0 🇵🇹 Portugal
 DTSTART:20221210T180000Z
 DTEND:20221210T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b90e10cc33c1@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Al Thumama Stadium\, Doha\nRésultat: 1
- -0
+DESCRIPTION:Quarter-finals\nStade: Al Thumama Stadium\, Doha\nMi-temps: 1-
+ 0\nFin du match: 1-0
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -106,11 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇫🇷 France 2-0 🇲🇦 Maroc
 DTSTART:20221214T220000Z
 DTEND:20221215T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9740fb87a50f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nStade: Al Bayt Stadium\, Al Khor\nRésultat: 2-0
+DESCRIPTION:Semi-finals\nStade: Al Bayt Stadium\, Al Khor\nMi-temps: 1-0\n
+ Fin du match: 2-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -124,12 +125,12 @@ BEGIN:VEVENT
 SUMMARY:🇭🇷 Croatie 2-1 🇲🇦 Maroc
 DTSTART:20221217T180000Z
 DTEND:20221217T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-2b68a6c6f639@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Match pour la 3ème place\nStade: Khalifa International Stadiu
- m\, Al Rayyan\nRésultat: 2-1
+ m\, Al Rayyan\nMi-temps: 2-1\nFin du match: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

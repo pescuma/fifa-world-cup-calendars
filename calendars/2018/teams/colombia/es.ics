@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-2 🇯🇵 Japón
 DTSTART:20180619T120000Z
 DTEND:20180619T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-08d971a4d6ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Mordovia Arena\, Saransk\n
- Resultado: 1-2
+ Descanso: 1-1\nFinal: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Polonia 0-3 🇨🇴 Colombia
 DTSTART:20180624T180000Z
 DTEND:20180624T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-055e8604f531@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Kazan Arena\, Kazan\nResu
- ltado: 0-3
+DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Kazan Arena\, Kazan\nDesc
+ anso: 0-1\nFinal: 0-3
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇸🇳 Senegal 0-1 🇨🇴 Colombia
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-edaec702745d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Samara Arena\, Samara\nRe
- sultado: 0-1
+DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Samara Arena\, Samara\nDe
+ scanso: 0-1\nFinal: 0-1
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombia 1-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇨🇴 Colombia 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingla
+ terra
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nResultado
- : 1-1
+DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nDescanso:
+  0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE

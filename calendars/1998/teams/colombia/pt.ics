@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇴 Romênia 1-0 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19980615
 DTEND;VALUE=DATE:19980616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-60c3bdfe8aed@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Stade Gerland\, Lyon\nResu
- ltado: 1-0
+DESCRIPTION:Rodada 1\nGrupo: Group G\nEstádio: Stade Gerland\, Lyon\nFina
+ l: 1-0
 LOCATION:Stade Gerland\, Lyon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colômbia 1-0 🇹🇳 Tunísia
 DTSTART;VALUE=DATE:19980622
 DTEND;VALUE=DATE:19980623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-a1d75c421f93@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 2\nGrupo: Group G\nEstádio: Stade de la Mosson\, Montp
- ellier\nResultado: 1-0
+ ellier\nFinal: 1-0
 LOCATION:Stade de la Mosson\, Montpellier
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colômbia 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART;VALUE=DATE:19980626
 DTEND;VALUE=DATE:19980627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-fc0d0cd7901f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group G\nEstádio: Stade Félix Bollaert\, Le
- ns\nResultado: 0-2
+ ns\nFinal: 0-2
 LOCATION:Stade Félix Bollaert\, Lens
 STATUS:CONFIRMED
 TRANSP:OPAQUE

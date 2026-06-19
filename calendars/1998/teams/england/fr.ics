@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 2-0 🇹🇳 Tunisie
 DTSTART;VALUE=DATE:19980615
 DTEND;VALUE=DATE:19980616
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-2afcd4382466@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 1\nGroupe: Group G\nStade: Stade Vélodrome\, Ma
- rseille\nRésultat: 2-0
+ rseille\nFin du match: 2-0
 LOCATION:Stade Vélodrome\, Marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,12 +31,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇴 Roumanie 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:19980622
 DTEND;VALUE=DATE:19980623
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-82587bdfd2b6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group G\nStade: Stade de Toulouse\, T
- oulouse\nRésultat: 2-1
+ oulouse\nFin du match: 2-1
 LOCATION:Stade de Toulouse\, Toulouse
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -50,12 +50,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombie 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART;VALUE=DATE:19980626
 DTEND;VALUE=DATE:19980627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-fc0d0cd7901f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group G\nStade: Stade Félix Bollaert
- \, Lens\nRésultat: 0-2
+ \, Lens\nFin du match: 0-2
 LOCATION:Stade Félix Bollaert\, Lens
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -66,15 +66,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 2-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇦🇷 Argentine 2+2[4]-[3]2+2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angl
+ eterre
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145641Z
 UID:fifa-wc-1998-1922eaba9100@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Stade Geoffroy-Guichard\, Saint-Éti
- enne\nRésultat: 2-2
+ enne\nFin du match: 2-2\nProlongation: 2-2\nTirs au but: 4-3
 LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
 STATUS:CONFIRMED
 TRANSP:OPAQUE

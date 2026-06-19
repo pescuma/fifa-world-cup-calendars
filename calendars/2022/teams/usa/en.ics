@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 United States 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
 DTSTART:20221121T220000Z
 DTEND:20221122T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-eaa8297f26be@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Ahmad bin Ali Stadium\, Al 
- Rayyan\nResult: 1-1
+ Rayyan\nHalf-time: 1-0\nFull-time: 1-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0-0 🇺🇸 United States
 DTSTART:20221125T220000Z
 DTEND:20221126T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-f06ca107ca89@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 6\nGroup: Group B\nVenue: Al Bayt Stadium\, Al Khor\n
- Result: 0-0
+ Full-time: 0-0
 LOCATION:Al Bayt Stadium\, Al Khor
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇷 Iran 0-1 🇺🇸 United States
 DTSTART:20221129T220000Z
 DTEND:20221130T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5f6ec45ed700@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 10\nGroup: Group B\nVenue: Al Thumama Stadium\, Doha\
- nResult: 0-1
+ nHalf-time: 0-1\nFull-time: 0-1
 LOCATION:Al Thumama Stadium\, Doha
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇳🇱 Netherlands 3-1 🇺🇸 United States
 DTSTART:20221203T180000Z
 DTEND:20221203T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-9a8c9002c42b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Khalifa International Stadium\, Al Rayyan\
- nResult: 3-1
+ nHalf-time: 2-0\nFull-time: 3-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

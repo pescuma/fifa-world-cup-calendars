@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇨🇴 Colombia 1-2 🇯🇵 Japón
 DTSTART:20180619T120000Z
 DTEND:20180619T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-08d971a4d6ea@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 6\nGrupo: Group H\nEstadio: Mordovia Arena\, Saransk\n
- Resultado: 1-2
+ Descanso: 1-1\nFinal: 1-2
 LOCATION:Mordovia Arena\, Saransk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 2-2 🇸🇳 Senegal
 DTSTART:20180624T150000Z
 DTEND:20180624T170000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-76b198e058c6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 11\nGrupo: Group H\nEstadio: Ekaterinburg Arena\, Ekat
- erinburg\nResultado: 2-2
+ erinburg\nDescanso: 1-1\nFinal: 2-2
 LOCATION:Ekaterinburg Arena\, Ekaterinburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japón 0-1 🇵🇱 Polonia
 DTSTART:20180628T140000Z
 DTEND:20180628T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-26c67f1c3c48@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 15\nGrupo: Group H\nEstadio: Volgograd Arena\, Volgogr
- ad\nResultado: 0-1
+ ad\nDescanso: 0-1\nFinal: 0-1
 LOCATION:Volgograd Arena\, Volgograd
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-2 🇯🇵 Japón
 DTSTART:20180702T180000Z
 DTEND:20180702T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-d9edfbc25ce9@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nResul
- tado: 3-2
+DESCRIPTION:Octavos de Final\nEstadio: Rostov Arena\, Rostov-on-Don\nDesca
+ nso: 0-0\nFinal: 3-2
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE

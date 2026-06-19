@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Belgium 1-2 🇲🇽 Mexico
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5e9812a0e4b4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group B\nVenue: Estadio Azteca\, Mexico Cit
- y\nResult: 1-2
+ y\nFull-time: 1-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Iraq 1-2 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860608
 DTEND;VALUE=DATE:19860609
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-f008d87774b3@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group B\nVenue: Estadio Nemesio Díez\, Tol
- uca\nResult: 1-2
+ uca\nFull-time: 1-2
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 2-2 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-166fdb4c6f3e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group B\nVenue: Estadio Nemesio Díez\, Tol
- uca\nResult: 2-2
+ uca\nFull-time: 2-2
 LOCATION:Estadio Nemesio Díez\, Toluca
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇺 Soviet Union 2-2 🇧🇪 Belgium
+SUMMARY:🇸🇺 Soviet Union 2+3-4+2 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-6fa0ad20af54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 16\nVenue: Estadio Nou Camp\, León\nResult: 2-2
+DESCRIPTION:Round of 16\nVenue: Estadio Nou Camp\, León\nFull-time: 2-2\n
+ Extra time: 3-4
 LOCATION:Estadio Nou Camp\, León
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -83,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Spain 1-1 🇧🇪 Belgium
+SUMMARY:🇪🇸 Spain 1+1[4]-[5]1+1 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-8d11d187cf26@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nVenue: Estadio Cuauhtémoc\, Puebla\nResult: 1
- -1
+DESCRIPTION:Quarter-finals\nVenue: Estadio Cuauhtémoc\, Puebla\nFull-time
+ : 1-1\nExtra time: 1-1\nPenalties: 4-5
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,11 +106,12 @@ BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-0 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860625
 DTEND;VALUE=DATE:19860626
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-184110389620@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Semi-finals\nVenue: Estadio Azteca\, Mexico City\nResult: 2-0
+DESCRIPTION:Semi-finals\nVenue: Estadio Azteca\, Mexico City\nFull-time: 2
+ -0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -120,15 +122,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 France 2-2 🇧🇪 Belgium
+SUMMARY:🇫🇷 France 2+4-2+2 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19860628
 DTEND;VALUE=DATE:19860629
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3736a0b375e8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Third place match\nVenue: Estadio Cuauhtémoc\, Puebla\nResult
- : 2-2
+DESCRIPTION:Third place match\nVenue: Estadio Cuauhtémoc\, Puebla\nFull-t
+ ime: 2-2\nExtra time: 4-2
 LOCATION:Estadio Cuauhtémoc\, Puebla
 STATUS:CONFIRMED
 TRANSP:OPAQUE

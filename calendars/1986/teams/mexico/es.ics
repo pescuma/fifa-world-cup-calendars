@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 1-2 🇲🇽 México
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5e9812a0e4b4@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 1\nGrupo: Group B\nEstadio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-2
+ ty\nFinal: 1-2
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 1-1 🇵🇾 Paraguay
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d6eaa8d52b76@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 2\nGrupo: Group B\nEstadio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 1-1
+ ty\nFinal: 1-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇮🇶 Irak 0-1 🇲🇽 México
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-5cd2bf0c7ec5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 3\nGrupo: Group B\nEstadio: Estadio Azteca\, Mexico Ci
- ty\nResultado: 0-1
+ ty\nFinal: 0-1
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇲🇽 México 2-0 🇧🇬 Bulgaria
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-d96b946ffb7a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Octavos de Final\nEstadio: Estadio Azteca\, Mexico City\nResul
- tado: 2-0
+DESCRIPTION:Octavos de Final\nEstadio: Estadio Azteca\, Mexico City\nFinal
+ : 2-0
 LOCATION:Estadio Azteca\, Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania Occidental 0-0 🇲🇽 México
+SUMMARY:🇩🇪 Alemania Occidental 0+0[4]-[1]0+0 🇲🇽 México
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-3f3302a672c2@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstadio: Estadio Universitario\, Monterrey\nRe
- sultado: 0-0
+DESCRIPTION:Quarter-finals\nEstadio: Estadio Universitario\, Monterrey\nFi
+ nal: 0-0\nPrórroga: 0-0\nPenaltis: 4-1
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE

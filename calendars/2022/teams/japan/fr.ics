@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne 1-2 🇯🇵 Japon
 DTSTART:20221123T160000Z
 DTEND:20221123T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-abdb323efea6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 4\nGroupe: Group E\nStade: Khalifa International
-  Stadium\, Al Rayyan\nRésultat: 1-2
+  Stadium\, Al Rayyan\nMi-temps: 1-0\nFin du match: 1-2
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japon 0-1 🇨🇷 Costa Rica
 DTSTART:20221127T130000Z
 DTEND:20221127T150000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-1691092f6459@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 8\nGroupe: Group E\nStade: Ahmad bin Ali Stadium
- \, Al Rayyan\nRésultat: 0-1
+ \, Al Rayyan\nMi-temps: 0-0\nFin du match: 0-1
 LOCATION:Ahmad bin Ali Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇯🇵 Japon 2-1 🇪🇸 Espagne
 DTSTART:20221201T220000Z
 DTEND:20221202T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-b67df2625a0b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 12\nGroupe: Group E\nStade: Khalifa Internationa
- l Stadium\, Al Rayyan\nRésultat: 2-1
+ l Stadium\, Al Rayyan\nMi-temps: 0-0\nFin du match: 2-1
 LOCATION:Khalifa International Stadium\, Al Rayyan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japon 1-1 🇭🇷 Croatie
+SUMMARY:🇯🇵 Japon 1+1[1]-[3]1+1 🇭🇷 Croatie
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/8ème de finale\nStade: Al Janoub Stadium\, Al Wakrah\nRésu
- ltat: 1-1
+DESCRIPTION:1/8ème de finale\nStade: Al Janoub Stadium\, Al Wakrah\nMi-te
+ mps: 1-0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 1-3
 LOCATION:Al Janoub Stadium\, Al Wakrah
 STATUS:CONFIRMED
 TRANSP:OPAQUE

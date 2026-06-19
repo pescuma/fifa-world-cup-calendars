@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-1 🇨🇭 Suíça
 DTSTART:20180617T180000Z
 DTEND:20180617T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-02492be6080a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 4\nGrupo: Group E\nEstádio: Rostov Arena\, Rostov-on-D
- on\nResultado: 1-1
+ on\nIntervalo: 1-0\nFinal: 1-1
 LOCATION:Rostov Arena\, Rostov-on-Don
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇨🇷 Costa Rica
 DTSTART:20180622T120000Z
 DTEND:20180622T140000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-64946d609187@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group E\nEstádio: Saint Petersburg Stadium\,
-  Saint Petersburg\nResultado: 2-0
+  Saint Petersburg\nIntervalo: 0-0\nFinal: 2-0
 LOCATION:Saint Petersburg Stadium\, Saint Petersburg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸 Sérvia 0-2 🇧🇷 Brasil
 DTSTART:20180627T180000Z
 DTEND:20180627T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-66db2ed7bbda@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 14\nGrupo: Group E\nEstádio: Spartak Stadium\, Moscow\
- nResultado: 0-2
+ nIntervalo: 0-1\nFinal: 0-2
 LOCATION:Spartak Stadium\, Moscow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,12 +68,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 2-0 🇲🇽 México
 DTSTART:20180702T140000Z
 DTEND:20180702T160000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-2259972fb3a6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Oitavas de Final\nEstádio: Samara Arena\, Samara\nResultado: 
- 2-0
+DESCRIPTION:Oitavas de Final\nEstádio: Samara Arena\, Samara\nIntervalo: 
+ 0-0\nFinal: 2-0
 LOCATION:Samara Arena\, Samara
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -87,11 +87,12 @@ BEGIN:VEVENT
 SUMMARY:🇧🇷 Brasil 1-2 🇧🇪 Bélgica
 DTSTART:20180706T180000Z
 DTEND:20180706T200000Z
-DTSTAMP:20260618T153632Z
+DTSTAMP:20260619T145644Z
 UID:fifa-wc-2018-27423777a99d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nEstádio: Kazan Arena\, Kazan\nResultado: 1-2
+DESCRIPTION:Quarter-finals\nEstádio: Kazan Arena\, Kazan\nIntervalo: 0-2\
+ nFinal: 1-2
 LOCATION:Kazan Arena\, Kazan
 STATUS:CONFIRMED
 TRANSP:OPAQUE

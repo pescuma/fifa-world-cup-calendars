@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇩🇪 Allemagne de l'Ouest 4-1 🇷🇸🇲🇪 Yougoslavie
 DTSTART;VALUE=DATE:19900610
 DTEND;VALUE=DATE:19900611
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-fca959c49da8@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: San Siro\, Milan\nRé
- sultat: 4-1
+DESCRIPTION:Jour de match 1\nGroupe: Group D\nStade: San Siro\, Milan\nFin
+  du match: 4-1
 LOCATION:San Siro\, Milan
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Yougoslavie 1-0 🇨🇴 Colombie
 DTSTART;VALUE=DATE:19900614
 DTEND;VALUE=DATE:19900615
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-34e4bf1e0fdf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 2\nGroupe: Group D\nStade: Stadio Renato Dall'Ar
- a\, Bologna\nRésultat: 1-0
+ a\, Bologna\nFin du match: 1-0
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Yougoslavie 4-1 🇦🇪 Émirats arabes unis
 DTSTART;VALUE=DATE:19900619
 DTEND;VALUE=DATE:19900620
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-d14f93e2ea63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 3\nGroupe: Group D\nStade: Stadio Renato Dall'Ar
- a\, Bologna\nRésultat: 4-1
+ a\, Bologna\nFin du match: 4-1
 LOCATION:Stadio Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -65,15 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1-1 🇷🇸🇲🇪 Yougoslavie
+SUMMARY:🇪🇸 Espagne 1+1-2+1 🇷🇸🇲🇪 Yougoslavie
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-4368897c34cd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Stadio Marc'Antonio Bentegodi\, Vero
- na\nRésultat: 1-1
+ na\nFin du match: 1-1\nProlongation: 1-2
 LOCATION:Stadio Marc'Antonio Bentegodi\, Verona
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,15 +84,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇸🇲🇪 Yougoslavie 0-0 🇦🇷 Argentine
+SUMMARY:🇷🇸🇲🇪 Yougoslavie 0+0[2]-[3]0+0 🇦🇷 Argentine
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T141304Z
+DTSTAMP:20260619T145640Z
 UID:fifa-wc-1990-c0883f1c1d24@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Quarter-finals\nStade: Stadio Artemio Franchi\, Florence\nRés
- ultat: 0-0
+DESCRIPTION:Quarter-finals\nStade: Stadio Artemio Franchi\, Florence\nFin 
+ du match: 0-0\nProlongation: 0-0\nTirs au but: 2-3
 LOCATION:Stadio Artemio Franchi\, Florence
 STATUS:CONFIRMED
 TRANSP:OPAQUE

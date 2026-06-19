@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-0 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 DTSTART;VALUE=DATE:19860603
 DTEND;VALUE=DATE:19860604
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-e195831a7f32@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 1\nGroup: Group F\nVenue: Estadio Tecnológico\, Mont
- errey\nResult: 1-0
+ errey\nFull-time: 1-0
 LOCATION:Estadio Tecnológico\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,12 +30,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇱 Poland 1-0 🇵🇹 Portugal
 DTSTART;VALUE=DATE:19860607
 DTEND;VALUE=DATE:19860608
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b0f8cdc7980b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 2\nGroup: Group F\nVenue: Estadio Universitario\, Mon
- terrey\nResult: 1-0
+ terrey\nFull-time: 1-0
 LOCATION:Estadio Universitario\, Monterrey
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-3 🇲🇦 Morocco
 DTSTART;VALUE=DATE:19860611
 DTEND;VALUE=DATE:19860612
-DTSTAMP:20260619T141303Z
+DTSTAMP:20260619T145639Z
 UID:fifa-wc-1986-b373ee91c48b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 3\nGroup: Group F\nVenue: Estadio Tres de Marzo\, Gua
- dalajara\nResult: 1-3
+ dalajara\nFull-time: 1-3
 LOCATION:Estadio Tres de Marzo\, Guadalajara
 STATUS:CONFIRMED
 TRANSP:OPAQUE

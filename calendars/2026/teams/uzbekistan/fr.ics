@@ -11,12 +11,12 @@ BEGIN:VEVENT
 SUMMARY:🇺🇿 Ouzbékistan 1-3 🇨🇴 Colombie
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T145645Z
 UID:fifa-wc-2026-961435d8626c@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 7\nGroupe: Group K\nStade: Mexico City\nRésulta
- t: 1-3
+DESCRIPTION:Jour de match 7\nGroupe: Group K\nStade: Mexico City\nMi-temps
+ : 0-1\nFin du match: 1-3
 LOCATION:Mexico City
 STATUS:CONFIRMED
 TRANSP:OPAQUE
