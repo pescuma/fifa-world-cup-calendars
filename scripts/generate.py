@@ -4,6 +4,8 @@
 import json
 import hashlib
 import re
+from unittest import result
+
 import unicodedata
 import urllib.request
 from datetime import datetime, date, timedelta, timezone
@@ -54,8 +56,11 @@ LANGUAGES = {
         "group": "Group",
         "venue": "Venue",
         "vs": "vs",
-        "result": "Result",
         "reminder": "Match starts in 30 minutes",
+        "half_time": "Half-time",
+        "full_time": "Full-time",
+        "extra_time": "Extra time",
+        "penalties": "Penalties",
     },
     "es": {
         "calendar_name": "Copa Mundial de la FIFA {year}",
@@ -85,8 +90,11 @@ LANGUAGES = {
         "group": "Grupo",
         "venue": "Estadio",
         "vs": "vs",
-        "result": "Resultado",
         "reminder": "El partido comienza en 30 minutos",
+        "half_time": "Descanso",
+        "full_time": "Final",
+        "extra_time": "Prórroga",
+        "penalties": "Penaltis",
     },
     "pt": {
         "calendar_name": "Copa do Mundo FIFA {year}",
@@ -117,8 +125,11 @@ LANGUAGES = {
         "group": "Grupo",
         "venue": "Estádio",
         "vs": "x",
-        "result": "Resultado",
         "reminder": "A partida começa em 30 minutos",
+        "half_time": "Intervalo",
+        "full_time": "Final",
+        "extra_time": "Prorrogação",
+        "penalties": "Pênaltis",
     },
     "fr": {
         "calendar_name": "Coupe du Monde FIFA {year}",
@@ -148,8 +159,11 @@ LANGUAGES = {
         "group": "Groupe",
         "venue": "Stade",
         "vs": "vs",
-        "result": "Résultat",
         "reminder": "Match commence dans 30 minutes",
+        "half_time": "Mi-temps",
+        "full_time": "Fin du match",
+        "extra_time": "Prolongation",
+        "penalties": "Tirs au but",
     },
 }
 
@@ -696,15 +710,64 @@ def localize_team(team: str, lang: str) -> str:
     return name
 
 
-def format_score(match: dict) -> str | None:
+def format_score_summary(t, match: dict) -> str | None:
     """Extract full-time score if available."""
     score = match.get("score")
     if not score:
         return None
+
+    l = ""
+    r = ""
+
     ft = score.get("ft")
     if ft and len(ft) == 2:
-        return f"{ft[0]}-{ft[1]}"
-    return None
+        l = ft[0]
+        r = ft[1]
+
+    et = score.get("et")
+    if et and len(et) == 2:
+        l = f"{l}+{et[0]}"
+        r = f"{et[1]}+{r}"
+
+    p = score.get("p")
+    if p and len(p) == 2:
+        l = f"{l}[{p[0]}]"
+        r = f"[{p[1]}]{r}"
+
+    if l == "" and r == "":
+        return None
+
+    return f"{l}-{r}"
+
+
+def format_score(t, match: dict) -> str | None:
+    """Extract full-time score if available."""
+    score = match.get("score")
+    if not score:
+        return None
+
+    result = []
+
+    ht = score.get("ht")
+    if ht:
+        result.append(f"{t['half_time']}: {ht[0]}-{ht[1]}")
+
+    ft = score.get("ft")
+    if ft:
+        result.append(f"{t['full_time']}: {ft[0]}-{ft[1]}")
+
+    et = score.get("et")
+    if et:
+        result.append(f"{t['extra_time']}: {et[0]}-{et[1]}")
+
+    p = score.get("p")
+    if p:
+        result.append(f"{t['penalties']}: {p[0]}-{p[1]}")
+
+    if len(result) == 0:
+        return None
+
+    return "\n".join(result)
 
 
 def event_content_hash(
@@ -754,19 +817,19 @@ def create_event(year: int, match: dict, lang: str, state: dict, now: datetime) 
     phase_localized = localize_phase(phase_key, lang)
     group = match.get("group")
     venue = match.get("ground", "TBD")
-    score = format_score(match)
+    vs = format_score_summary(t, match)
+    if not vs:
+        vs = t['vs']
 
-    if score:
-        summary = f"{team1} {score} {team2}"
-    else:
-        summary = f"{team1} {t['vs']} {team2}"
+    summary = f"{team1} {vs} {team2}"
 
     desc_lines = [phase_localized]
     if group:
         desc_lines.append(f"{t['group']}: {group}")
     desc_lines.append(f"{t['venue']}: {venue}")
+    score = format_score(t, match)
     if score:
-        desc_lines.append(f"{t['result']}: {score}")
+        desc_lines.append(score)
     description = "\n".join(desc_lines)
 
     content_hash = event_content_hash(
