@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <strong>2002 to 2026</strong><br>
+  <strong>1986 to 2026</strong><br>
   Subscribe once. Every match, kickoff time, and result synced straight to your calendar.
 </p>
 
