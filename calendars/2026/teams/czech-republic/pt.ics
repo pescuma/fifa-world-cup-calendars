@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 — 🇨🇿 Tch
- équia matches only
-X-WR-CALNAME:🇨🇿 Tchéquia — Copa do Mundo FIFA 2026
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 - 🇨🇿 Tché
+ quia matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2026 - 🇨🇿 Tchéquia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇰🇷 Coreia do Sul 2-1 🇨🇿 Tchéquia
@@ -27,14 +27,14 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇿 Tchéquia x 🇿🇦 África do Sul
+SUMMARY:🇨🇿 Tchéquia 1-1 🇿🇦 África do Sul
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 8\nGrupo: Group A\nEstádio: Atlanta
+DESCRIPTION:Rodada 8\nGrupo: Group A\nEstádio: Atlanta\nResultado: 1-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

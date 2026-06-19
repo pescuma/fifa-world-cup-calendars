@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 — 🇳🇱 
- Pays-Bas matches only
-X-WR-CALNAME:🇳🇱 Pays-Bas — Coupe du Monde FIFA 2006
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 - 🇳🇱 Pa
+ ys-Bas matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2006 - 🇳🇱 Pays-Bas
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇷🇸🇲🇪 Serbie-et-Monténégro 0-1 🇳🇱 Pays-Bas

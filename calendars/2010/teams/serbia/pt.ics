@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2010 — 🇷🇸 Sé
- rvia matches only
-X-WR-CALNAME:🇷🇸 Sérvia — Copa do Mundo FIFA 2010
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2010 - 🇷🇸 Sérv
+ ia matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2010 - 🇷🇸 Sérvia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇷🇸 Sérvia 0-1 🇬🇭 Gana

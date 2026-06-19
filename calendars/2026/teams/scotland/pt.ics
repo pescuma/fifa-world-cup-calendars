@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 — 🏴󠁧󠁢
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 - 🏴󠁧󠁢
  󠁳󠁣󠁴󠁿 Escócia matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia — Copa do Mundo FIFA 
- 2026
+X-WR-CALNAME:Copa do Mundo FIFA 2026 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escóc
+ ia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia

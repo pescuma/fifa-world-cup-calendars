@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2026 — 🇧🇦 Bosnia & 
- Herzegovina matches only
-X-WR-CALNAME:🇧🇦 Bosnia & Herzegovina — FIFA World Cup 2026
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 - 🇧🇦 Bosnia & He
+ rzegovina matches only
+X-WR-CALNAME:FIFA World Cup 2026 - 🇧🇦 Bosnia & Herzegovina
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇨🇦 Canada 1-1 🇧🇦 Bosnia & Herzegovina
@@ -26,14 +26,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Switzerland vs 🇧🇦 Bosnia & Herzegovina
+SUMMARY:🇨🇭 Switzerland 4-1 🇧🇦 Bosnia & Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-28e5beab171a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)
+DESCRIPTION:Matchday 8\nGroup: Group B\nVenue: Los Angeles (Inglewood)\nRe
+ sult: 4-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

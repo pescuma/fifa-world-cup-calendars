@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 — 
- 🇨🇩 República Democrática del Congo matches only
-X-WR-CALNAME:🇨🇩 República Democrática del Congo — Copa Mundial d
- e la FIFA 2026
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 - 🇨
+ 🇩 República Democrática del Congo matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2026 - 🇨🇩 República Democráti
+ ca del Congo
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-1 🇨🇩 República Democrática del Congo

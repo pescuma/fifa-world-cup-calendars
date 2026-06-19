@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2018 — 🇵🇹 
- Portugal matches only
-X-WR-CALNAME:🇵🇹 Portugal — Coupe du Monde FIFA 2018
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2018 - 🇵🇹 Po
+ rtugal matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2018 - 🇵🇹 Portugal
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 3-3 🇪🇸 Espagne

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2002 — 🇷🇺 
- Russie matches only
-X-WR-CALNAME:🇷🇺 Russie — Coupe du Monde FIFA 2002
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2002 - 🇷🇺 Ru
+ ssie matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2002 - 🇷🇺 Russie
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇷🇺 Russie 2-0 🇹🇳 Tunisie

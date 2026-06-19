@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2002 — 🇮🇪 Ireland m
- atches only
-X-WR-CALNAME:🇮🇪 Ireland — FIFA World Cup 2002
+X-WR-CALDESC:All matches of the FIFA World Cup 2002 - 🇮🇪 Ireland mat
+ ches only
+X-WR-CALNAME:FIFA World Cup 2002 - 🇮🇪 Ireland
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇮🇪 Ireland 1-1 🇨🇲 Cameroon

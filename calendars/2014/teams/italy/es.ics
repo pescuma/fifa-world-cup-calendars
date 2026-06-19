@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2014 — 
- 🇮🇹 Italia matches only
-X-WR-CALNAME:🇮🇹 Italia — Copa Mundial de la FIFA 2014
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2014 - 🇮
+ 🇹 Italia matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2014 - 🇮🇹 Italia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇮🇹 Italia

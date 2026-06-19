@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2018 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2018 — 🇵🇦 Pan
- amá matches only
-X-WR-CALNAME:🇵🇦 Panamá — Copa do Mundo FIFA 2018
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2018 - 🇵🇦 Panam
+ á matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2018 - 🇵🇦 Panamá
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇧🇪 Bélgica 3-0 🇵🇦 Panamá

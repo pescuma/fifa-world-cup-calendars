@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🇶🇦 
- Qatar matches only
-X-WR-CALNAME:🇶🇦 Qatar — Coupe du Monde FIFA 2026
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 - 🇶🇦 Qa
+ tar matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2026 - 🇶🇦 Qatar
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇶🇦 Qatar 1-1 🇨🇭 Suisse
@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇦 Canada vs 🇶🇦 Qatar
+SUMMARY:🇨🇦 Canada 6-0 🇶🇦 Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-106797924277@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 8\nGroupe: Group B\nStade: Vancouver
+DESCRIPTION:Jour de match 8\nGroupe: Group B\nStade: Vancouver\nRésultat:
+  6-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE

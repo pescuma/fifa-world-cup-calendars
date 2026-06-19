@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 — 🏴󠁧󠁢
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 - 🏴󠁧󠁢
  󠁥󠁮󠁧󠁿 Inglaterra matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa do Mundo FIF
- A 2022
+X-WR-CALNAME:Copa do Mundo FIFA 2022 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglat
+ erra
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 6-2 🇮🇷 Irã

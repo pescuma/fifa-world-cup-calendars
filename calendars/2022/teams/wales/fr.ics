@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🏴󠁧
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 - 🏴󠁧
  󠁢󠁷󠁬󠁳󠁿 Pays de Galles matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Galles — Coupe du Mond
- e FIFA 2022
+X-WR-CALNAME:Coupe du Monde FIFA 2022 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays 
+ de Galles
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇺🇸 États-Unis 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Pays de Gall

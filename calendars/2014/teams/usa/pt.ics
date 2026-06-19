@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2014 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2014 — 🇺🇸 Est
- ados Unidos matches only
-X-WR-CALNAME:🇺🇸 Estados Unidos — Copa do Mundo FIFA 2014
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2014 - 🇺🇸 Estad
+ os Unidos matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2014 - 🇺🇸 Estados Unidos
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇬🇭 Gana 1-2 🇺🇸 Estados Unidos

@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 — 🏴󠁧󠁢
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2022 - 🏴󠁧󠁢
  󠁷󠁬󠁳󠁿 País de Gales matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de Gales — Copa do Mundo
-  FIFA 2022
+X-WR-CALNAME:Copa do Mundo FIFA 2022 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 País 
+ de Gales
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇺🇸 Estados Unidos 1-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿 País de 

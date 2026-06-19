@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2006 — 🇦🇷 Arg
- entina matches only
-X-WR-CALNAME:🇦🇷 Argentina — Copa do Mundo FIFA 2006
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2006 - 🇦🇷 Argen
+ tina matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2006 - 🇦🇷 Argentina
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇦🇷 Argentina 2-1 🇨🇮 Costa do Marfim
@@ -46,12 +46,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Baixos 0-0 🇦🇷 Argentina
+SUMMARY:🇳🇱 Holanda 0-0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060621
 DTEND;VALUE=DATE:20060622
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T135148Z
 UID:fifa-wc-2006-aff9fc967487@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 13\nGrupo: Group C\nEstádio: Commerzbank-Arena\, Frank
  furt\nResultado: 0-0

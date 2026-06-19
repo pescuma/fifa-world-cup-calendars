@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🇵🇱 
- Pologne matches only
-X-WR-CALNAME:🇵🇱 Pologne — Coupe du Monde FIFA 2022
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 - 🇵🇱 Po
+ logne matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2022 - 🇵🇱 Pologne
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 0-0 🇵🇱 Pologne

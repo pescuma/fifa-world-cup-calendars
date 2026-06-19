@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 — 
- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Copa Mundial de l
- a FIFA 2026
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 - 🏴
+ 󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2026 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I
+ nglaterra
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 🇭🇷 Croacia

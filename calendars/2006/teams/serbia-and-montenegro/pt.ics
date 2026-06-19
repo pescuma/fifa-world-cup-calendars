@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2006 — 🇷🇸🇲
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2006 - 🇷🇸🇲
  🇪 Sérvia e Montenegro matches only
-X-WR-CALNAME:🇷🇸🇲🇪 Sérvia e Montenegro — Copa do Mundo FIFA 
- 2006
+X-WR-CALNAME:Copa do Mundo FIFA 2006 - 🇷🇸🇲🇪 Sérvia e Monteneg
+ ro
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🇷🇸🇲🇪 Sérvia e Montenegro 0-1 🇳🇱 Países Baixos
+SUMMARY:🇷🇸🇲🇪 Sérvia e Montenegro 0-1 🇳🇱 Holanda
 DTSTART;VALUE=DATE:20060611
 DTEND;VALUE=DATE:20060612
-DTSTAMP:20260618T153630Z
+DTSTAMP:20260619T135148Z
 UID:fifa-wc-2006-33b97ac73c08@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 3\nGrupo: Group C\nEstádio: Zentralstadion\, Leipzig\n
  Resultado: 0-1

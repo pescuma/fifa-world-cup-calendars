@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2010 — 🇮🇹 Italy mat
- ches only
-X-WR-CALNAME:🇮🇹 Italy — FIFA World Cup 2010
+X-WR-CALDESC:All matches of the FIFA World Cup 2010 - 🇮🇹 Italy match
+ es only
+X-WR-CALNAME:FIFA World Cup 2010 - 🇮🇹 Italy
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Italy 1-1 🇵🇾 Paraguay

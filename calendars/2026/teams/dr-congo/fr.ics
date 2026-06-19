@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🇨🇩 
- Congo-Kinshasa matches only
-X-WR-CALNAME:🇨🇩 Congo-Kinshasa — Coupe du Monde FIFA 2026
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 - 🇨🇩 Co
+ ngo-Kinshasa matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2026 - 🇨🇩 Congo-Kinshasa
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇵🇹 Portugal 1-1 🇨🇩 Congo-Kinshasa

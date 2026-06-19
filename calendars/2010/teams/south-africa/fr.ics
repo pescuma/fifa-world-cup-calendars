@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2010 — 🇿🇦 
- Afrique du Sud matches only
-X-WR-CALNAME:🇿🇦 Afrique du Sud — Coupe du Monde FIFA 2010
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2010 - 🇿🇦 Af
+ rique du Sud matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2010 - 🇿🇦 Afrique du Sud
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇿🇦 Afrique du Sud 1-1 🇲🇽 Mexique

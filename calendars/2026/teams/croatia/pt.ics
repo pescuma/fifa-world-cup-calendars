@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 PT//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 — 🇭🇷 Cro
- ácia matches only
-X-WR-CALNAME:🇭🇷 Croácia — Copa do Mundo FIFA 2026
+X-WR-CALDESC:Todas as partidas da Copa do Mundo FIFA 2026 - 🇭🇷 Croá
+ cia matches only
+X-WR-CALNAME:Copa do Mundo FIFA 2026 - 🇭🇷 Croácia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 🇭🇷 Croácia

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2006 — 🇹🇹 Trinidad 
- & Tobago matches only
-X-WR-CALNAME:🇹🇹 Trinidad & Tobago — FIFA World Cup 2006
+X-WR-CALDESC:All matches of the FIFA World Cup 2006 - 🇹🇹 Trinidad & 
+ Tobago matches only
+X-WR-CALNAME:FIFA World Cup 2006 - 🇹🇹 Trinidad & Tobago
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇹🇹 Trinidad & Tobago 0-0 🇸🇪 Sweden

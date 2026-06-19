@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2002 — 🇿🇦 
- Afrique du Sud matches only
-X-WR-CALNAME:🇿🇦 Afrique du Sud — Coupe du Monde FIFA 2002
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2002 - 🇿🇦 Af
+ rique du Sud matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2002 - 🇿🇦 Afrique du Sud
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇵🇾 Paraguay 2-2 🇿🇦 Afrique du Sud

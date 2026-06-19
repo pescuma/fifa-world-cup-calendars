@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 — 
- 🇮🇹 Italia matches only
-X-WR-CALNAME:🇮🇹 Italia — Copa Mundial de la FIFA 2006
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2006 - 🇮
+ 🇹 Italia matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2006 - 🇮🇹 Italia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Italia 2-0 🇬🇭 Ghana

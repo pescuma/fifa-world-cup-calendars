@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 — 
- 🇸🇪 Suecia matches only
-X-WR-CALNAME:🇸🇪 Suecia — Copa Mundial de la FIFA 2002
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 - 🇸
+ 🇪 Suecia matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2002 - 🇸🇪 Suecia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-1 🇸🇪 Suecia

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2026 — 🏴󠁧󠁢󠁳
- 󠁣󠁴󠁿 Scotland matches only
-X-WR-CALNAME:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland — FIFA World Cup 2026
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 - 🏴󠁧󠁢󠁳󠁣
+ 󠁴󠁿 Scotland matches only
+X-WR-CALNAME:FIFA World Cup 2026 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇭🇹 Haiti 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland

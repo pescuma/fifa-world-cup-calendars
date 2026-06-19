@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 — 
- 🇨🇦 Canadá matches only
-X-WR-CALNAME:🇨🇦 Canadá — Copa Mundial de la FIFA 2026
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 - 🇨
+ 🇦 Canadá matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2026 - 🇨🇦 Canadá
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇨🇦 Canadá 1-1 🇧🇦 Bosnia y Herzegovina
@@ -26,14 +26,14 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇦 Canadá vs 🇶🇦 Catar
+SUMMARY:🇨🇦 Canadá 6-0 🇶🇦 Catar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-106797924277@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group B\nEstadio: Vancouver
+DESCRIPTION:Jornada 8\nGrupo: Group B\nEstadio: Vancouver\nResultado: 6-0
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE

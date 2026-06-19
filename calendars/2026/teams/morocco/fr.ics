@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🇲🇦 
- Maroc matches only
-X-WR-CALNAME:🇲🇦 Maroc — Coupe du Monde FIFA 2026
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 - 🇲🇦 Ma
+ roc matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2026 - 🇲🇦 Maroc
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇧🇷 Brésil 1-1 🇲🇦 Maroc

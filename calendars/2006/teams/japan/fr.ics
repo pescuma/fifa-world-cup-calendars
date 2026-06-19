@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 — 🇯🇵 
- Japon matches only
-X-WR-CALNAME:🇯🇵 Japon — Coupe du Monde FIFA 2006
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 - 🇯🇵 Ja
+ pon matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2006 - 🇯🇵 Japon
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇦🇺 Australie 3-1 🇯🇵 Japon

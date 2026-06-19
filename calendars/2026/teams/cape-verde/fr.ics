@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🇨🇻 
- Cap-Vert matches only
-X-WR-CALNAME:🇨🇻 Cap-Vert — Coupe du Monde FIFA 2026
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 - 🇨🇻 Ca
+ p-Vert matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2026 - 🇨🇻 Cap-Vert
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇪🇸 Espagne 0-0 🇨🇻 Cap-Vert

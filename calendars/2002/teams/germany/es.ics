@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2002 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 — 
- 🇩🇪 Alemania matches only
-X-WR-CALNAME:🇩🇪 Alemania — Copa Mundial de la FIFA 2002
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2002 - 🇩
+ 🇪 Alemania matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2002 - 🇩🇪 Alemania
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇩🇪 Alemania 8-0 🇸🇦 Arabia Saudí

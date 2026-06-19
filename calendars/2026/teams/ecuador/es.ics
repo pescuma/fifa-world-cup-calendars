@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 — 
- 🇪🇨 Ecuador matches only
-X-WR-CALNAME:🇪🇨 Ecuador — Copa Mundial de la FIFA 2026
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 - 🇪
+ 🇨 Ecuador matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2026 - 🇪🇨 Ecuador
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇨🇮 Côte d’Ivoire 1-0 🇪🇨 Ecuador

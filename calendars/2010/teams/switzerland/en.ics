@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2010 — 🇨🇭 Switzerla
- nd matches only
-X-WR-CALNAME:🇨🇭 Switzerland — FIFA World Cup 2010
+X-WR-CALDESC:All matches of the FIFA World Cup 2010 - 🇨🇭 Switzerland
+  matches only
+X-WR-CALNAME:FIFA World Cup 2010 - 🇨🇭 Switzerland
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇪🇸 Spain 0-1 🇨🇭 Switzerland

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 ES//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 — 
- 🇲🇽 México matches only
-X-WR-CALNAME:🇲🇽 México — Copa Mundial de la FIFA 2026
+X-WR-CALDESC:Todos los partidos de la Copa Mundial de la FIFA 2026 - 🇲
+ 🇽 México matches only
+X-WR-CALNAME:Copa Mundial de la FIFA 2026 - 🇲🇽 México
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇲🇽 México 2-0 🇿🇦 Sudáfrica
@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇽 México vs 🇰🇷 Corea del Sur
+SUMMARY:🇲🇽 México 1-0 🇰🇷 Corea del Sur
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-7e2495985fc6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 8\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)
+DESCRIPTION:Jornada 8\nGrupo: Group A\nEstadio: Guadalajara (Zapopan)\nRes
+ ultado: 1-0
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2006 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 — 🇵🇾 
- Paraguay matches only
-X-WR-CALNAME:🇵🇾 Paraguay — Coupe du Monde FIFA 2006
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2006 - 🇵🇾 Pa
+ raguay matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2006 - 🇵🇾 Paraguay
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 1-0 🇵🇾 Paraguay

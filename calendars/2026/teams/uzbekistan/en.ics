@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2026 — 🇺🇿 Uzbekista
- n matches only
-X-WR-CALNAME:🇺🇿 Uzbekistan — FIFA World Cup 2026
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 - 🇺🇿 Uzbekistan 
+ matches only
+X-WR-CALNAME:FIFA World Cup 2026 - 🇺🇿 Uzbekistan
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇺🇿 Uzbekistan 1-3 🇨🇴 Colombia

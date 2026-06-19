@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 — 🇿🇦 
- Afrique du Sud matches only
-X-WR-CALNAME:🇿🇦 Afrique du Sud — Coupe du Monde FIFA 2026
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2026 - 🇿🇦 Af
+ rique du Sud matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2026 - 🇿🇦 Afrique du Sud
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇲🇽 Mexique 2-0 🇿🇦 Afrique du Sud
@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇿 Tchéquie vs 🇿🇦 Afrique du Sud
+SUMMARY:🇨🇿 Tchéquie 1-1 🇿🇦 Afrique du Sud
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260619T135150Z
 UID:fifa-wc-2026-e8aa08edb6ad@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 8\nGroupe: Group A\nStade: Atlanta
+DESCRIPTION:Jour de match 8\nGroupe: Group A\nStade: Atlanta\nRésultat: 1
+ -1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2026 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2026 — 🇭🇷 Croatia m
- atches only
-X-WR-CALNAME:🇭🇷 Croatia — FIFA World Cup 2026
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 - 🇭🇷 Croatia mat
+ ches only
+X-WR-CALNAME:FIFA World Cup 2026 - 🇭🇷 Croatia
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 4-2 🇭🇷 Croatia

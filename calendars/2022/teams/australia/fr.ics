@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2022 FR//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 — 🇦🇺 
- Australie matches only
-X-WR-CALNAME:🇦🇺 Australie — Coupe du Monde FIFA 2022
+X-WR-CALDESC:Tous les matches de la Coupe du Monde FIFA 2022 - 🇦🇺 Au
+ stralie matches only
+X-WR-CALNAME:Coupe du Monde FIFA 2022 - 🇦🇺 Australie
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🇫🇷 France 4-1 🇦🇺 Australie

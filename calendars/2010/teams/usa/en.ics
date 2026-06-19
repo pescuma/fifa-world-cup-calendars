@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//worldcup-calendar//FIFA WORLD CUP 2010 EN//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All matches of the FIFA World Cup 2010 — 🇺🇸 United St
- ates matches only
-X-WR-CALNAME:🇺🇸 United States — FIFA World Cup 2010
+X-WR-CALDESC:All matches of the FIFA World Cup 2010 - 🇺🇸 United Stat
+ es matches only
+X-WR-CALNAME:FIFA World Cup 2010 - 🇺🇸 United States
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-1 🇺🇸 United States
