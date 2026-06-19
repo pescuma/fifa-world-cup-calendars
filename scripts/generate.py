@@ -15,7 +15,7 @@ from icalendar import Alarm, Calendar, Event, vText
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-YEARS = [2002, 2006, 2010, 2014, 2018, 2022, 2026]
+YEARS = [1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026]
 DATA_URL = "https://raw.githubusercontent.com/openfootball/worldcup.json/master/{year}/worldcup.json"
 STATE_DIR = Path("state")
 OUTPUT_DIR = Path("calendars")
@@ -34,8 +34,13 @@ LANGUAGES = {
         "countries": {
             "CS": "Serbia and Montenegro",
             "ENG": "England",
+            "NIR": "Northern Ireland",
             "SCT": "Scotland",
+            "SU": "Soviet Union",
+            "WG": "West Germany",
             "WLS": "Wales",
+            "CSK": "Czechoslovakia",
+            "YU": "Yugoslavia",
         },
         "phase": {
             "Matchday": "Matchday",
@@ -60,8 +65,13 @@ LANGUAGES = {
         "countries": {
             "CS": "Serbia y Montenegro",
             "ENG": "Inglaterra",
+            "NIR": "Irlanda del Norte",
             "SCT": "Escocia",
+            "SU": "Unión Soviética",
+            "WG": "Alemania Occidental",
             "WLS": "Gales",
+            "CSK": "Checoslovaquia",
+            "YU": "Yugoslavia",
         },
         "phase": {
             "Matchday": "Jornada",
@@ -84,11 +94,16 @@ LANGUAGES = {
             "Todas as partidas da Copa do Mundo FIFA {year}"
         ),
         "countries": {
-            "NL": "Holanda",
             "CS": "Sérvia e Montenegro",
             "ENG": "Inglaterra",
+            "NIR": "Irlanda do Norte",
+            "NL": "Holanda",
             "SCT": "Escócia",
+            "SU": "União Soviética",
+            "WG": "Alemanha Ocidental",
             "WLS": "País de Gales",
+            "CSK": "Tchecoslováquia",
+            "YU": "Iugoslávia",
         },
         "phase": {
             "Matchday": "Rodada",
@@ -113,8 +128,13 @@ LANGUAGES = {
         "countries": {
             "CS": "Serbie-et-Monténégro",
             "ENG": "Angleterre",
+            "NIR": "Irlande du Nord",
             "SCT": "Écosse",
+            "SU": "Union soviétique",
+            "WG": "Allemagne de l'Ouest",
             "WLS": "Pays de Galles",
+            "CSK": "Tchécoslovaquie",
+            "YU": "Yougoslavie",
         },
         "phase": {
             "Matchday": "Jour de match",
@@ -179,6 +199,7 @@ COUNTRY_CODES = {
     "Curaçao": "CW",
     "Cyprus": "CY",
     "Czech Republic": "CZ",
+    "Czechoslovakia": "CSK",
     "Côte d'Ivoire": "CI",
     "DR Congo": "CD",
     "Denmark": "DK",
@@ -210,6 +231,7 @@ COUNTRY_CODES = {
     "Guyana": "GY",
     "Haiti": "HT",
     "Honduras": "HN",
+    "Hungary": "HU",
     "Iceland": "IS",
     "India": "IN",
     "Indonesia": "ID",
@@ -265,6 +287,7 @@ COUNTRY_CODES = {
     "Nigeria": "NG",
     "North Korea": "KP",
     "North Macedonia": "MK",
+    "Northern Ireland": "NIR",
     "Norway": "NO",
     "Oman": "OM",
     "Pakistan": "PK",
@@ -302,6 +325,7 @@ COUNTRY_CODES = {
     "South Africa": "ZA",
     "South Korea": "KR",
     "South Sudan": "SS",
+    "Soviet Union": "SU",
     "Spain": "ES",
     "Sri Lanka": "LK",
     "Sudan": "SD",
@@ -324,6 +348,7 @@ COUNTRY_CODES = {
     "Ukraine": "UA",
     "United Arab Emirates": "AE",
     "United Kingdom": "GB",
+    "United States": "US",
     "Uruguay": "UY",
     "Uzbekistan": "UZ",
     "Vanuatu": "VU",
@@ -331,7 +356,9 @@ COUNTRY_CODES = {
     "Venezuela": "VE",
     "Vietnam": "VN",
     "Wales": "WLS",
+    "West Germany": "WG",
     "Yemen": "YE",
+    "Yugoslavia": "YU",
     "Zambia": "ZM",
     "Zimbabwe": "ZW",
 }
@@ -377,6 +404,7 @@ COUNTRY_FLAGS = {
     "CO": "🇨🇴",
     "CR": "🇨🇷",
     "CS": "🇷🇸🇲🇪",
+    "CSK": "🇨🇿🇸🇰",
     "CV": "🇨🇻",
     "CW": "🇨🇼",
     "CY": "🇨🇾",
@@ -413,6 +441,7 @@ COUNTRY_FLAGS = {
     "HN": "🇭🇳",
     "HR": "🇭🇷",
     "HT": "🇭🇹",
+    "HU": "🇭🇺",
     "ID": "🇮🇩",
     "IE": "🇮🇪",
     "IL": "🇮🇱",
@@ -504,6 +533,7 @@ COUNTRY_FLAGS = {
     "SR": "🇸🇷",
     "SS": "🇸🇸",
     "ST": "🇸🇹",
+    "SU": "🇸🇺",
     "SV": "🇸🇻",
     "SY": "🇸🇾",
     "SZ": "🇸🇿",
@@ -528,13 +558,16 @@ COUNTRY_FLAGS = {
     "VE": "🇻🇪",
     "VN": "🇻🇳",
     "VU": "🇻🇺",
+    "WG": "🇩🇪",
     "WLS": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
     "WS": "🇼🇸",
     "XK": "🇽🇰",
     "YE": "🇾🇪",
+    "YU": "🇷🇸🇲🇪",
     "ZA": "🇿🇦",
     "ZM": "🇿🇲",
     "ZW": "🇿🇼",
+    "NIR": None,
 }
 
 
@@ -656,7 +689,10 @@ def localize_team(team: str, lang: str) -> str:
         print(f"[WARN] Unknown flag: {code}")
         return name
 
-    name = f"{COUNTRY_FLAGS[code]} {name}"
+    flag = COUNTRY_FLAGS[code]
+    if flag:
+        name = f"{COUNTRY_FLAGS[code]} {name}"
+
     return name
 
 
