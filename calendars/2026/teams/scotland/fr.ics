@@ -28,14 +28,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse vs 🇲🇦 Maroc
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse 0-1 🇲🇦 Maroc
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 9\nGroupe: Group C\nStade: Boston (Foxborough)
+DESCRIPTION:Jour de match 9\nGroupe: Group C\nStade: Boston (Foxborough)\n
+ Mi-temps: 0-1\nFin du match: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

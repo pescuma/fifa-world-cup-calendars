@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 États-Unis vs 🇦🇺 Australie
+SUMMARY:🇺🇸 États-Unis 2-0 🇦🇺 Australie
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-8ff270051ebe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 9\nGroupe: Group D\nStade: Seattle
+DESCRIPTION:Jour de match 9\nGroupe: Group D\nStade: Seattle\nMi-temps: 2-
+ 0\nFin du match: 2-0
 LOCATION:Seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE

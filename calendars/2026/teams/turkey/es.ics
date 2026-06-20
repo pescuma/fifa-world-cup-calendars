@@ -27,15 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇹🇷 Turquía vs 🇵🇾 Paraguay
+SUMMARY:🇹🇷 Turquía 0-1 🇵🇾 Paraguay
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-dfb31b509dd6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: San Francisco Bay Area (Sa
- nta Clara)
+ nta Clara)\nDescanso: 0-1\nFinal: 0-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

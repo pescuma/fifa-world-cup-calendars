@@ -269,14 +269,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia x 🇲🇦 Marrocos
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia 0-1 🇲🇦 Marrocos
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 9\nGrupo: Group C\nEstádio: Boston (Foxborough)
+DESCRIPTION:Rodada 9\nGrupo: Group C\nEstádio: Boston (Foxborough)\nInter
+ valo: 0-1\nFinal: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -287,14 +288,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil x 🇭🇹 Haiti
+SUMMARY:🇧🇷 Brasil 3-0 🇭🇹 Haiti
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-35b03107e97b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 9\nGrupo: Group C\nEstádio: Philadelphia
+DESCRIPTION:Rodada 9\nGrupo: Group C\nEstádio: Philadelphia\nIntervalo: 3
+ -0\nFinal: 3-0
 LOCATION:Philadelphia
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -379,14 +381,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 Estados Unidos x 🇦🇺 Austrália
+SUMMARY:🇺🇸 Estados Unidos 2-0 🇦🇺 Austrália
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-8ff270051ebe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 9\nGrupo: Group D\nEstádio: Seattle
+DESCRIPTION:Rodada 9\nGrupo: Group D\nEstádio: Seattle\nIntervalo: 2-0\nF
+ inal: 2-0
 LOCATION:Seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -397,15 +400,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇹🇷 Turquia x 🇵🇾 Paraguai
+SUMMARY:🇹🇷 Turquia 0-1 🇵🇾 Paraguai
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-dfb31b509dd6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 9\nGrupo: Group D\nEstádio: San Francisco Bay Area (Sa
- nta Clara)
+ nta Clara)\nIntervalo: 0-1\nFinal: 0-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -269,14 +269,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia 0-1 🇲🇦 Marruecos
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Boston (Foxborough)
+DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Boston (Foxborough)\nDesca
+ nso: 0-1\nFinal: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -287,14 +288,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil vs 🇭🇹 Haití
+SUMMARY:🇧🇷 Brasil 3-0 🇭🇹 Haití
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-35b03107e97b@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Philadelphia
+DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Philadelphia\nDescanso: 3-
+ 0\nFinal: 3-0
 LOCATION:Philadelphia
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -379,14 +381,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 Estados Unidos vs 🇦🇺 Australia
+SUMMARY:🇺🇸 Estados Unidos 2-0 🇦🇺 Australia
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-8ff270051ebe@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Seattle
+DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: Seattle\nDescanso: 2-0\nFi
+ nal: 2-0
 LOCATION:Seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -397,15 +400,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇹🇷 Turquía vs 🇵🇾 Paraguay
+SUMMARY:🇹🇷 Turquía 0-1 🇵🇾 Paraguay
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-dfb31b509dd6@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jornada 9\nGrupo: Group D\nEstadio: San Francisco Bay Area (Sa
- nta Clara)
+ nta Clara)\nDescanso: 0-1\nFinal: 0-1
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -28,14 +28,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia 0-1 🇲🇦 Marruecos
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260620T054500Z
 UID:fifa-wc-2026-f93686d79d46@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Boston (Foxborough)
+DESCRIPTION:Jornada 9\nGrupo: Group C\nEstadio: Boston (Foxborough)\nDesca
+ nso: 0-1\nFinal: 0-1
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
