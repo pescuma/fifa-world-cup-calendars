@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne vs 🇨🇮 Côte d’Ivoire
+SUMMARY:🇩🇪 Allemagne 2-1 🇨🇮 Côte d’Ivoire
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260621T003010Z
 UID:fifa-wc-2026-04adb35cd696@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 10\nGroupe: Group E\nStade: Toronto
+DESCRIPTION:Jour de match 10\nGroupe: Group E\nStade: Toronto\nMi-temps: 0
+ -1\nFin du match: 2-1
 LOCATION:Toronto
 STATUS:CONFIRMED
 TRANSP:OPAQUE
