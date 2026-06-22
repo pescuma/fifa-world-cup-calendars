@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇾 Uruguay vs 🇨🇻 Cape Verde
+SUMMARY:🇺🇾 Uruguay 2-2 🇨🇻 Cape Verde
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260622T060810Z
 UID:fifa-wc-2026-a06b3652712e@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Miami (Miami Gardens)
+DESCRIPTION:Matchday 11\nGroup: Group H\nVenue: Miami (Miami Gardens)\nHal
+ f-time: 2-1\nFull-time: 2-2
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

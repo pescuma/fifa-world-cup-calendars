@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Bélgica vs 🇮🇷 Irán
+SUMMARY:🇧🇪 Bélgica 0-0 🇮🇷 Irán
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260622T060810Z
 UID:fifa-wc-2026-0b5f46aa9cfd@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Los Angeles (Inglewood)
+DESCRIPTION:Jornada 11\nGrupo: Group G\nEstadio: Los Angeles (Inglewood)\n
+ Descanso: 0-0\nFinal: 0-0
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
