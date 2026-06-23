@@ -27,15 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇴 Jordânia x 🇩🇿 Argélia
+SUMMARY:🇯🇴 Jordânia 1-2 🇩🇿 Argélia
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260623T053946Z
 UID:fifa-wc-2026-41edcc085fe5@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 12\nGrupo: Group J\nEstádio: San Francisco Bay Area (S
- anta Clara)
+ anta Clara)\nIntervalo: 1-0\nFinal: 1-2
 LOCATION:San Francisco Bay Area (Santa Clara)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

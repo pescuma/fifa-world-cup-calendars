@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina x 🇦🇹 Áustria
+SUMMARY:🇦🇷 Argentina 2-0 🇦🇹 Áustria
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260623T053946Z
 UID:fifa-wc-2026-61198cde6a1a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 12\nGrupo: Group J\nEstádio: Dallas (Arlington)
+DESCRIPTION:Rodada 12\nGrupo: Group J\nEstádio: Dallas (Arlington)\nInter
+ valo: 1-0\nFinal: 2-0
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

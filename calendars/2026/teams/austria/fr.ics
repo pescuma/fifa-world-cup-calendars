@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine vs 🇦🇹 Autriche
+SUMMARY:🇦🇷 Argentine 2-0 🇦🇹 Autriche
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260623T053946Z
 UID:fifa-wc-2026-61198cde6a1a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 12\nGroupe: Group J\nStade: Dallas (Arlington)
+DESCRIPTION:Jour de match 12\nGroupe: Group J\nStade: Dallas (Arlington)\n
+ Mi-temps: 1-0\nFin du match: 2-0
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
