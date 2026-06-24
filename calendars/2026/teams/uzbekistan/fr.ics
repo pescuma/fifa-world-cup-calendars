@@ -27,14 +27,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇹 Portugal vs 🇺🇿 Ouzbékistan
+SUMMARY:🇵🇹 Portugal 5-0 🇺🇿 Ouzbékistan
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260624T053920Z
 UID:fifa-wc-2026-1bc3f4be2e36@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 13\nGroupe: Group K\nStade: Houston
+DESCRIPTION:Jour de match 13\nGroupe: Group K\nStade: Houston\nMi-temps: 3
+ -0\nFin du match: 5-0
 LOCATION:Houston
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -28,14 +28,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇬🇭 Ghana
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0-0 🇬🇭 Ghana
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260624T053920Z
 UID:fifa-wc-2026-0d9bbef5c913@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 13\nGrupo: Group L\nEstadio: Boston (Foxborough)
+DESCRIPTION:Jornada 13\nGrupo: Group L\nEstadio: Boston (Foxborough)\nDesc
+ anso: 0-0\nFinal: 0-0
 LOCATION:Boston (Foxborough)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
