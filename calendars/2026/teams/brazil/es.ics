@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇧🇷 Brasil
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia 0-3 🇧🇷 Brasil
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260625T053951Z
 UID:fifa-wc-2026-9b6ddb137374@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 14\nGrupo: Group C\nEstadio: Miami (Miami Gardens)
+DESCRIPTION:Jornada 14\nGrupo: Group C\nEstadio: Miami (Miami Gardens)\nDe
+ scanso: 0-2\nFinal: 0-3
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

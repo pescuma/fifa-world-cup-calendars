@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 Sudáfrica vs 🇰🇷 Corea del Sur
+SUMMARY:🇿🇦 Sudáfrica 1-0 🇰🇷 Corea del Sur
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260625T053951Z
 UID:fifa-wc-2026-f21ab750b07d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 14\nGrupo: Group A\nEstadio: Monterrey (Guadalupe)
+DESCRIPTION:Jornada 14\nGrupo: Group A\nEstadio: Monterrey (Guadalupe)\nDe
+ scanso: 0-0\nFinal: 1-0
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

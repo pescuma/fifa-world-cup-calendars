@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 África do Sul x 🇰🇷 Coreia do Sul
+SUMMARY:🇿🇦 África do Sul 1-0 🇰🇷 Coreia do Sul
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260625T053951Z
 UID:fifa-wc-2026-f21ab750b07d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 14\nGrupo: Group A\nEstádio: Monterrey (Guadalupe)
+DESCRIPTION:Rodada 14\nGrupo: Group A\nEstádio: Monterrey (Guadalupe)\nIn
+ tervalo: 0-0\nFinal: 1-0
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

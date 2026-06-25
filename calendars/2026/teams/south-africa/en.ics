@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 South Africa vs 🇰🇷 South Korea
+SUMMARY:🇿🇦 South Africa 1-0 🇰🇷 South Korea
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260625T053951Z
 UID:fifa-wc-2026-f21ab750b07d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 14\nGroup: Group A\nVenue: Monterrey (Guadalupe)
+DESCRIPTION:Matchday 14\nGroup: Group A\nVenue: Monterrey (Guadalupe)\nHal
+ f-time: 0-0\nFull-time: 1-0
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

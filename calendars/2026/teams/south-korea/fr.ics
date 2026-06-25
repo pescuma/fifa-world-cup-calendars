@@ -46,15 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 Afrique du Sud vs 🇰🇷 Corée du Sud
+SUMMARY:🇿🇦 Afrique du Sud 1-0 🇰🇷 Corée du Sud
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260625T053951Z
 UID:fifa-wc-2026-f21ab750b07d@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 14\nGroupe: Group A\nStade: Monterrey (Guadalupe
- )
+ )\nMi-temps: 0-0\nFin du match: 1-0
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
