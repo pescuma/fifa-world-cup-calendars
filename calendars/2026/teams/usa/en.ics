@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇹🇷 Türkiye vs 🇺🇸 United States
+SUMMARY:🇹🇷 Türkiye 3-2 🇺🇸 United States
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260626T054126Z
 UID:fifa-wc-2026-4f14fe6a7480@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 15\nGroup: Group D\nVenue: Los Angeles (Inglewood)
+DESCRIPTION:Matchday 15\nGroup: Group D\nVenue: Los Angeles (Inglewood)\nH
+ alf-time: 2-1\nFull-time: 3-2
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

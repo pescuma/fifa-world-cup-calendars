@@ -46,15 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇨 Equador x 🇩🇪 Alemanha
+SUMMARY:🇪🇨 Equador 2-1 🇩🇪 Alemanha
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260626T054126Z
 UID:fifa-wc-2026-bd2418c0d719@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 15\nGrupo: Group E\nEstádio: New York/New Jersey (East
-  Rutherford)
+  Rutherford)\nIntervalo: 1-1\nFinal: 2-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

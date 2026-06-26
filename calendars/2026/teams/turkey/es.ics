@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇹🇷 Turquía vs 🇺🇸 Estados Unidos
+SUMMARY:🇹🇷 Turquía 3-2 🇺🇸 Estados Unidos
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260626T054126Z
 UID:fifa-wc-2026-4f14fe6a7480@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 15\nGrupo: Group D\nEstadio: Los Angeles (Inglewood)
+DESCRIPTION:Jornada 15\nGrupo: Group D\nEstadio: Los Angeles (Inglewood)\n
+ Descanso: 2-1\nFinal: 3-2
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

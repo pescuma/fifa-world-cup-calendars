@@ -46,15 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇨 Ecuador vs 🇩🇪 Germany
+SUMMARY:🇪🇨 Ecuador 2-1 🇩🇪 Germany
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260626T054126Z
 UID:fifa-wc-2026-bd2418c0d719@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Matchday 15\nGroup: Group E\nVenue: New York/New Jersey (East 
- Rutherford)
+ Rutherford)\nHalf-time: 1-1\nFull-time: 2-1
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japon vs 🇸🇪 Suède
+SUMMARY:🇯🇵 Japon 1-1 🇸🇪 Suède
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260626T054126Z
 UID:fifa-wc-2026-82b095ff1da0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 15\nGroupe: Group F\nStade: Dallas (Arlington)
+DESCRIPTION:Jour de match 15\nGroupe: Group F\nStade: Dallas (Arlington)\n
+ Mi-temps: 0-0\nFin du match: 1-1
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
