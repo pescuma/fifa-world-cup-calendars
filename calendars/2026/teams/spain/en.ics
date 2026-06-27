@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇾 Uruguay vs 🇪🇸 Spain
+SUMMARY:🇺🇾 Uruguay 0-1 🇪🇸 Spain
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260627T053517Z
 UID:fifa-wc-2026-3ae6a791ad0a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 16\nGroup: Group H\nVenue: Guadalajara (Zapopan)
+DESCRIPTION:Matchday 16\nGroup: Group H\nVenue: Guadalajara (Zapopan)\nHal
+ f-time: 0-1\nFull-time: 0-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

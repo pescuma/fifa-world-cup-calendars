@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇾 Uruguai x 🇪🇸 Espanha
+SUMMARY:🇺🇾 Uruguai 0-1 🇪🇸 Espanha
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260627T053517Z
 UID:fifa-wc-2026-3ae6a791ad0a@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Rodada 16\nGrupo: Group H\nEstádio: Guadalajara (Zapopan)
+DESCRIPTION:Rodada 16\nGrupo: Group H\nEstádio: Guadalajara (Zapopan)\nIn
+ tervalo: 0-1\nFinal: 0-1
 LOCATION:Guadalajara (Zapopan)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

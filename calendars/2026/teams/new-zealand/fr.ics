@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇿 Nouvelle-Zélande vs 🇧🇪 Belgique
+SUMMARY:🇳🇿 Nouvelle-Zélande 1-5 🇧🇪 Belgique
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260627T053517Z
 UID:fifa-wc-2026-b388a214fccb@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jour de match 16\nGroupe: Group G\nStade: Vancouver
+DESCRIPTION:Jour de match 16\nGroupe: Group G\nStade: Vancouver\nMi-temps:
+  0-1\nFin du match: 1-5
 LOCATION:Vancouver
 STATUS:CONFIRMED
 TRANSP:OPAQUE
