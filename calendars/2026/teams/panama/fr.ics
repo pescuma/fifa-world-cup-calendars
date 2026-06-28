@@ -46,15 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇵🇦 Panama 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260628T054553Z
 UID:fifa-wc-2026-e855fd4f1a2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Jour de match 17\nGroupe: Group L\nStade: New York/New Jersey 
- (East Rutherford)
+ (East Rutherford)\nMi-temps: 0-0\nFin du match: 0-2
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

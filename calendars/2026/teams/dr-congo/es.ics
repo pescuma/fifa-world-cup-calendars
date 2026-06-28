@@ -47,14 +47,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇩 República Democrática del Congo vs 🇺🇿 Uzbekistán
+SUMMARY:🇨🇩 República Democrática del Congo 3-1 🇺🇿 Uzbekistá
+ n
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260628T054553Z
 UID:fifa-wc-2026-bc692e901fbf@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Jornada 17\nGrupo: Group K\nEstadio: Atlanta
+DESCRIPTION:Jornada 17\nGrupo: Group K\nEstadio: Atlanta\nDescanso: 0-1\nF
+ inal: 3-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

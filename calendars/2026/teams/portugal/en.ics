@@ -46,14 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombia vs 🇵🇹 Portugal
+SUMMARY:🇨🇴 Colombia 0-0 🇵🇹 Portugal
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260628T054553Z
 UID:fifa-wc-2026-da13fe28ac54@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Matchday 17\nGroup: Group K\nVenue: Miami (Miami Gardens)
+DESCRIPTION:Matchday 17\nGroup: Group K\nVenue: Miami (Miami Gardens)\nHal
+ f-time: 0-0\nFull-time: 0-0
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

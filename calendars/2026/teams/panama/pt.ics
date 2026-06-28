@@ -46,15 +46,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇵🇦 Panamá x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇵🇦 Panamá 0-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260618T153633Z
+DTSTAMP:20260628T054553Z
 UID:fifa-wc-2026-e855fd4f1a2f@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Rodada 17\nGrupo: Group L\nEstádio: New York/New Jersey (East
-  Rutherford)
+  Rutherford)\nIntervalo: 0-0\nFinal: 0-2
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
