@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 Sudáfrica vs 🇨🇦 Canadá
+SUMMARY:🇿🇦 Sudáfrica 0-1 🇨🇦 Canadá
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260626T054126Z
+DTSTAMP:20260629T055351Z
 UID:fifa-wc-2026-1e776111ce63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Dieciseisavos de Final\nEstadio: Los Angeles (Inglewood)
+DESCRIPTION:Dieciseisavos de Final\nEstadio: Los Angeles (Inglewood)\nDesc
+ anso: 0-0\nFinal: 0-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

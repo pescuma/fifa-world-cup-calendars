@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇿🇦 Afrique du Sud vs 🇨🇦 Canada
+SUMMARY:🇿🇦 Afrique du Sud 0-1 🇨🇦 Canada
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260626T054126Z
+DTSTAMP:20260629T055351Z
 UID:fifa-wc-2026-1e776111ce63@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/16ème de finale\nStade: Los Angeles (Inglewood)
+DESCRIPTION:1/16ème de finale\nStade: Los Angeles (Inglewood)\nMi-temps: 
+ 0-0\nFin du match: 0-1
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
