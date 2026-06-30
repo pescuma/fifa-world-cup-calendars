@@ -1451,15 +1451,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 França x 🇸🇪 Suécia
+SUMMARY:🇫🇷 França 3-0 🇸🇪 Suécia
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260630T234213Z
 UID:fifa-wc-2026-4f740fef287b@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Dezesseis-avos de Final\nEstádio: New York/New Jersey (East R
- utherford)
+ utherford)\nIntervalo: 1-0\nFinal: 3-0
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

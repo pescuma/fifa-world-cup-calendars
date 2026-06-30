@@ -1450,14 +1450,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 France vs 🇸🇪 Sweden
+SUMMARY:🇫🇷 France 3-0 🇸🇪 Sweden
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260630T234213Z
 UID:fifa-wc-2026-4f740fef287b@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 32\nVenue: New York/New Jersey (East Rutherford)
+DESCRIPTION:Round of 32\nVenue: New York/New Jersey (East Rutherford)\nHal
+ f-time: 1-0\nFull-time: 3-0
 LOCATION:New York/New Jersey (East Rutherford)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
