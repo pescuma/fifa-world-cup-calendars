@@ -66,13 +66,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombia 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingla
- terra
+SUMMARY:🇨🇴 Colombia 1[3]-[4]1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterr
+ a
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nDescanso:
   0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
@@ -105,12 +105,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇭🇷 Croacia 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Luzhniki Stadium\, Moscow\nDescanso: 0-1
  \nFinal: 1-1\nPrórroga: 2-1

@@ -996,12 +996,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japan 1+1[1]-[3]1+1 🇭🇷 Croatia
+SUMMARY:🇯🇵 Japan 1[1]-[3]1 🇭🇷 Croatia
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Al Janoub Stadium\, Al Wakrah\nHalf-time: 
  1-0\nFull-time: 1-1\nExtra time: 1-1\nPenalties: 1-3
@@ -1034,12 +1034,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Morocco 0+0[3]-[0]0+0 🇪🇸 Spain
+SUMMARY:🇲🇦 Morocco 0[3]-[0]0 🇪🇸 Spain
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nHalf-t
  ime: 0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 3-0
@@ -1072,12 +1072,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatia 0+1[4]-[2]1+0 🇧🇷 Brazil
+SUMMARY:🇭🇷 Croatia 1[4]-[2]1 🇧🇷 Brazil
 DTSTART:20221209T180000Z
 DTEND:20221209T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-459a33c9e8f8@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Education City Stadium\, Al Rayyan\nHal
  f-time: 0-0\nFull-time: 0-0\nExtra time: 1-1\nPenalties: 4-2
@@ -1091,12 +1091,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 2+2[3]-[4]2+2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Netherlands 2[3]-[4]2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-ti
  me: 1-0\nFull-time: 2-2\nExtra time: 2-2\nPenalties: 3-4
@@ -1205,12 +1205,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2+3[4]-[2]3+2 🇫🇷 France
+SUMMARY:🇦🇷 Argentina 3[4]-[2]3 🇫🇷 France
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Final\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-time: 2-0\n
  Full-time: 2-2\nExtra time: 3-3\nPenalties: 4-2

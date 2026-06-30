@@ -940,12 +940,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 1+2-1+1 🇲🇽 Mexique
+SUMMARY:🇦🇷 Argentine 2-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Zentralstadion\, Leipzig\nMi-temps: 
  1-1\nFin du match: 1-1\nProlongation: 2-1
@@ -1016,12 +1016,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Suisse 0+0[0]-[3]0+0 🇺🇦 Ukraine
+SUMMARY:🇨🇭 Suisse 0[0]-[3]0 🇺🇦 Ukraine
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-c4f921f1b83a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: RheinEnergieStadion\, Köln\nFin du 
  match: 0-0\nProlongation: 0-0\nTirs au but: 0-3
@@ -1073,12 +1073,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 1+1[4]-[2]1+1 🇦🇷 Argentine
+SUMMARY:🇩🇪 Allemagne 1[4]-[2]1 🇦🇷 Argentine
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nStade: Olympiastadion\, Berlin\nMi-temps: 0-0\n
  Fin du match: 1-1\nProlongation: 1-1\nTirs au but: 4-2
@@ -1111,13 +1111,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0+0[1]-[3]0+0 🇵🇹 Por
- tugal
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre 0[1]-[3]0 🇵🇹 Portuga
+ l
 DTSTART;VALUE=DATE:20060701
 DTEND;VALUE=DATE:20060702
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-3ac5d681efe9@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nStade: Veltins-Arena\, Gelsenkirchen\nFin du ma
  tch: 0-0\nProlongation: 0-0\nTirs au but: 1-3
@@ -1150,12 +1150,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0+0-2+0 🇮🇹 Italie
+SUMMARY:🇩🇪 Allemagne 0-2 🇮🇹 Italie
 DTSTART;VALUE=DATE:20060704
 DTEND;VALUE=DATE:20060705
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-09105b3bbc0d@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semifinals\nStade: Signal Iduna Park\, Dortmund\nFin du match:
   0-0\nProlongation: 0-2
@@ -1207,12 +1207,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italie 1+1[5]-[3]1+1 🇫🇷 France
+SUMMARY:🇮🇹 Italie 1[5]-[3]1 🇫🇷 France
 DTSTART;VALUE=DATE:20060709
 DTEND;VALUE=DATE:20060710
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-f953a3cf4325@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Finale\nStade: Olympiastadion\, Berlin\nMi-temps: 1-1\nFin du 
  match: 1-1\nProlongation: 1-1\nTirs au but: 5-3

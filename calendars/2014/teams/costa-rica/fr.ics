@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Grèce
+SUMMARY:🇨🇷 Costa Rica 1[5]-[3]1 🇬🇷 Grèce
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena Pernambuco\, Recife\nMi-temps:
   0-0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 5-3
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0+0[4]-[3]0+0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Pays-Bas 0[4]-[3]0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Arena Fonte Nova\, Salvador\nMi-temps: 
  0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 4-3

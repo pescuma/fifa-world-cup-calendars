@@ -957,12 +957,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 España 1+1[3]-[4]1+1 🇷🇺 Rusia
+SUMMARY:🇪🇸 España 1[3]-[4]1 🇷🇺 Rusia
 DTSTART:20180701T140000Z
 DTEND:20180701T160000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-b684e498c228@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Luzhniki Stadium\, Moscow\nDescanso
  : 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
@@ -976,12 +976,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1+1[3]-[2]1+1 🇩🇰 Dinamarca
+SUMMARY:🇭🇷 Croacia 1[3]-[2]1 🇩🇰 Dinamarca
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Nizhny Novgorod Stadium\, Nizhny No
  vgorod\nDescanso: 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-2
@@ -1052,13 +1052,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombia 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingla
- terra
+SUMMARY:🇨🇴 Colombia 1[3]-[4]1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterr
+ a
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Spartak Stadium\, Moscow\nDescanso:
   0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-4
@@ -1129,12 +1129,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Rusia 1+2[3]-[4]2+1 🇭🇷 Croacia
+SUMMARY:🇷🇺 Rusia 2[3]-[4]2 🇭🇷 Croacia
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Fisht Stadium\, Sochi\nDescanso: 1-1\
  nFinal: 1-1\nPrórroga: 2-2\nPenaltis: 3-4
@@ -1167,12 +1167,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇭🇷 Croacia 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Luzhniki Stadium\, Moscow\nDescanso: 0-1
  \nFinal: 1-1\nPrórroga: 2-1

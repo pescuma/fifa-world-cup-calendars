@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇲 Camarões 0+2-1+0 🇨🇴 Colômbia
+SUMMARY:🇨🇲 Camarões 2-1 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-bc43e75399e1@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Paolo\, Naples\nFinal: 
  0-0\nProrrogação: 2-1
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2+3-2+2 🇨🇲 Camarões
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-2 🇨🇲 Camarões
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Stadio San Paolo\, Naples\nFinal: 2-
  2\nProrrogação: 3-2

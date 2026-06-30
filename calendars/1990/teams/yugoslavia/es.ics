@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 España 1+1-2+1 🇷🇸🇲🇪 Yugoslavia
+SUMMARY:🇪🇸 España 1-2 🇷🇸🇲🇪 Yugoslavia
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-4368897c34cd@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Stadio Marc'Antonio Bentegodi\, Ver
  ona\nFinal: 1-1\nPrórroga: 1-2
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇸🇲🇪 Yugoslavia 0+0[2]-[3]0+0 🇦🇷 Argentina
+SUMMARY:🇷🇸🇲🇪 Yugoslavia 0[2]-[3]0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-c0883f1c1d24@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Stadio Artemio Franchi\, Florence\nFi
  nal: 0-0\nPrórroga: 0-0\nPenaltis: 2-3

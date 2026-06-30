@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne de l'Ouest 0+0[4]-[1]0+0 🇲🇽 Mexique
+SUMMARY:🇩🇪 Allemagne de l'Ouest 0[4]-[1]0 🇲🇽 Mexique
 DTSTART;VALUE=DATE:19860621
 DTEND;VALUE=DATE:19860622
-DTSTAMP:20260619T145639Z
+DTSTAMP:20260630T141423Z
 UID:fifa-wc-1986-3f3302a672c2@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Estadio Universitario\, Monterrey\nFin 
  du match: 0-0\nProlongation: 0-0\nTirs au but: 4-1

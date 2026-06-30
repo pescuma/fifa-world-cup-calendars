@@ -65,13 +65,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 2+2[4]-[3]2+2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angl
- eterre
+SUMMARY:🇦🇷 Argentine 2[4]-[3]2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleter
+ re
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980701
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-1922eaba9100@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Stade Geoffroy-Guichard\, Saint-Éti
  enne\nFin du match: 2-2\nProlongation: 2-2\nTirs au but: 4-3

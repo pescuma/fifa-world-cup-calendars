@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇺🇸 États-Unis 1+1-2+1 🇬🇭 Ghana
+SUMMARY:🇺🇸 États-Unis 1-2 🇬🇭 Ghana
 DTSTART:20100626T203000Z
 DTEND:20100626T223000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2010-de26bd94a443@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Royal Bafokeng Stadium\, Rustenburg\
  nFin du match: 1-1\nProlongation: 1-2

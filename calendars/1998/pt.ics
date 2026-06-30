@@ -976,12 +976,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 França 0+1-0+0 🇵🇾 Paraguai
+SUMMARY:🇫🇷 França 1-0 🇵🇾 Paraguai
 DTSTART;VALUE=DATE:19980628
 DTEND;VALUE=DATE:19980629
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-205fb5da3970@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stade Félix Bollaert\, Lens\nFina
  l: 0-0\nProrrogação: 1-0
@@ -1033,13 +1033,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2+2[4]-[3]2+2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingl
- aterra
+SUMMARY:🇦🇷 Argentina 2[4]-[3]2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglater
+ ra
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980701
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-1922eaba9100@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stade Geoffroy-Guichard\, Saint-É
  tienne\nFinal: 2-2\nProrrogação: 2-2\nPênaltis: 4-3
@@ -1072,12 +1072,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Itália 0+0[3]-[4]0+0 🇫🇷 França
+SUMMARY:🇮🇹 Itália 0[3]-[4]0 🇫🇷 França
 DTSTART;VALUE=DATE:19980703
 DTEND;VALUE=DATE:19980704
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-e45c5bdeb93d@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Stade de France\, Saint-Denis\nFinal
  : 0-0\nProrrogação: 0-0\nPênaltis: 3-4
@@ -1147,12 +1147,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brasil 1+1[4]-[2]1+1 🇳🇱 Holanda
+SUMMARY:🇧🇷 Brasil 1[4]-[2]1 🇳🇱 Holanda
 DTSTART;VALUE=DATE:19980707
 DTEND;VALUE=DATE:19980708
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-f6b2fb019a2c@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstádio: Stade Vélodrome\, Marseille\nFinal: 1-
  1\nProrrogação: 1-1\nPênaltis: 4-2

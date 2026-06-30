@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 0+1[4]-[2]1+0 🇧🇷 Brésil
+SUMMARY:🇭🇷 Croatie 1[4]-[2]1 🇧🇷 Brésil
 DTSTART:20221209T180000Z
 DTEND:20221209T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-459a33c9e8f8@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Education City Stadium\, Al Rayyan\nMi-
  temps: 0-0\nFin du match: 0-0\nProlongation: 1-1\nTirs au but: 4-2

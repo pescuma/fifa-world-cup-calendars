@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇸🇺 Union soviétique 2+3-4+2 🇧🇪 Belgique
+SUMMARY:🇸🇺 Union soviétique 3-4 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19860615
 DTEND;VALUE=DATE:19860616
-DTSTAMP:20260619T145639Z
+DTSTAMP:20260630T141423Z
 UID:fifa-wc-1986-6fa0ad20af54@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estadio Nou Camp\, León\nFin du mat
  ch: 2-2\nProlongation: 3-4
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1+1[4]-[5]1+1 🇧🇪 Belgique
+SUMMARY:🇪🇸 Espagne 1[4]-[5]1 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19860622
 DTEND;VALUE=DATE:19860623
-DTSTAMP:20260619T145639Z
+DTSTAMP:20260630T141423Z
 UID:fifa-wc-1986-8d11d187cf26@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Estadio Cuauhtémoc\, Puebla\nFin du ma
  tch: 1-1\nProlongation: 1-1\nTirs au but: 4-5
@@ -122,12 +122,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 France 2+4-2+2 🇧🇪 Belgique
+SUMMARY:🇫🇷 France 4-2 🇧🇪 Belgique
 DTSTART;VALUE=DATE:19860628
 DTEND;VALUE=DATE:19860629
-DTSTAMP:20260619T145639Z
+DTSTAMP:20260630T141423Z
 UID:fifa-wc-1986-3736a0b375e8@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Third place match\nStade: Estadio Cuauhtémoc\, Puebla\nFin du
   match: 2-2\nProlongation: 4-2

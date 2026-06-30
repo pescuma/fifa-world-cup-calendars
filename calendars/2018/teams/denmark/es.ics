@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croacia 1+1[3]-[2]1+1 🇩🇰 Dinamarca
+SUMMARY:🇭🇷 Croacia 1[3]-[2]1 🇩🇰 Dinamarca
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Nizhny Novgorod Stadium\, Nizhny No
  vgorod\nDescanso: 1-1\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 3-2

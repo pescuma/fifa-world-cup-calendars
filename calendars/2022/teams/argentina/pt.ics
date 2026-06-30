@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Holanda 2+2[3]-[4]2+2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Holanda 2[3]-[4]2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Lusail Iconic Stadium\, Lusail\nInte
  rvalo: 1-0\nFinal: 2-2\nProrrogação: 2-2\nPênaltis: 3-4
@@ -122,12 +122,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2+3[4]-[2]3+2 🇫🇷 França
+SUMMARY:🇦🇷 Argentina 3[4]-[2]3 🇫🇷 França
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Final\nEstádio: Lusail Iconic Stadium\, Lusail\nIntervalo: 2-
  0\nFinal: 2-2\nProrrogação: 3-3\nPênaltis: 4-2

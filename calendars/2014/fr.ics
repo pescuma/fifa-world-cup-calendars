@@ -919,12 +919,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇷 Brésil 1+1[3]-[2]1+1 🇨🇱 Chili
+SUMMARY:🇧🇷 Brésil 1[3]-[2]1 🇨🇱 Chili
 DTSTART:20140628T160000Z
 DTEND:20140628T180000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-259909816609@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estádio Mineirão\, Belo Horizonte\
  nMi-temps: 1-1\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-2
@@ -976,12 +976,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Grèce
+SUMMARY:🇨🇷 Costa Rica 1[5]-[3]1 🇬🇷 Grèce
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena Pernambuco\, Recife\nMi-temps:
   0-0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 5-3
@@ -1014,12 +1014,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0+2-1+0 🇩🇿 Algérie
+SUMMARY:🇩🇪 Allemagne 2-1 🇩🇿 Algérie
 DTSTART:20140630T200000Z
 DTEND:20140630T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-21cd9c47d530@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estádio Beira-Rio\, Porto Alegre\nM
  i-temps: 0-0\nFin du match: 0-0\nProlongation: 2-1
@@ -1033,12 +1033,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 0+1-0+0 🇨🇭 Suisse
+SUMMARY:🇦🇷 Argentine 1-0 🇨🇭 Suisse
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nMi
  -temps: 0-0\nFin du match: 0-0\nProlongation: 1-0
@@ -1052,12 +1052,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Belgique 0+2-1+0 🇺🇸 États-Unis
+SUMMARY:🇧🇪 Belgique 2-1 🇺🇸 États-Unis
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena Fonte Nova\, Salvador\nMi-temp
  s: 0-0\nFin du match: 0-0\nProlongation: 2-1
@@ -1128,12 +1128,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0+0[4]-[3]0+0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Pays-Bas 0[4]-[3]0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nStade: Arena Fonte Nova\, Salvador\nMi-temps: 
  0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 4-3
@@ -1166,12 +1166,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas 0+0[2]-[4]0+0 🇦🇷 Argentine
+SUMMARY:🇳🇱 Pays-Bas 0[2]-[4]0 🇦🇷 Argentine
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nStade: Arena de São Paulo\, São Paulo\nMi-temps
  : 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 2-4
@@ -1204,12 +1204,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0+1-0+0 🇦🇷 Argentine
+SUMMARY:🇩🇪 Allemagne 1-0 🇦🇷 Argentine
 DTSTART:20140713T190000Z
 DTEND:20140713T210000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-c2c7bc84b8ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Finale\nStade: Estádio do Maracanã\, Rio de Janeiro\nMi-temp
  s: 0-0\nFin du match: 0-0\nProlongation: 1-0

@@ -66,13 +66,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 2+2[4]-[3]2+2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingl
- aterra
+SUMMARY:🇦🇷 Argentina 2[4]-[3]2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglater
+ ra
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980701
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-1922eaba9100@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Stade Geoffroy-Guichard\, Saint-Ét
  ienne\nFinal: 2-2\nPrórroga: 2-2\nPenaltis: 4-3

@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 1+1[3]-[4]1+1 🇵🇾 Paraguay
+SUMMARY:🇩🇪 Allemagne 1[3]-[4]1 🇵🇾 Paraguay
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-DTSTAMP:20260630T054035Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2026-2d0a996298e5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/16ème de finale\nStade: Boston (Foxborough)\nMi-temps: 0-1\
  nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-4

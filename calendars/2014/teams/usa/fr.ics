@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Belgique 0+2-1+0 🇺🇸 États-Unis
+SUMMARY:🇧🇪 Belgique 2-1 🇺🇸 États-Unis
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena Fonte Nova\, Salvador\nMi-temp
  s: 0-0\nFin du match: 0-0\nProlongation: 2-1

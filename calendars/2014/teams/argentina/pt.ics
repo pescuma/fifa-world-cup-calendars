@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 0+1-0+0 🇨🇭 Suíça
+SUMMARY:🇦🇷 Argentina 1-0 🇨🇭 Suíça
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Arena de São Paulo\, São Paulo\n
  Intervalo: 0-0\nFinal: 0-0\nProrrogação: 1-0
@@ -103,12 +103,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Holanda 0+0[2]-[4]0+0 🇦🇷 Argentina
+SUMMARY:🇳🇱 Holanda 0[2]-[4]0 🇦🇷 Argentina
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstádio: Arena de São Paulo\, São Paulo\nInter
  valo: 0-0\nFinal: 0-0\nProrrogação: 0-0\nPênaltis: 2-4
@@ -122,12 +122,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha 0+1-0+0 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemanha 1-0 🇦🇷 Argentina
 DTSTART:20140713T190000Z
 DTEND:20140713T210000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-c2c7bc84b8ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Final\nEstádio: Estádio do Maracanã\, Rio de Janeiro\nInter
  valo: 0-0\nFinal: 0-0\nProrrogação: 1-0

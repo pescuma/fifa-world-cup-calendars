@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 0+1-0+0 🇨🇭 Suisse
+SUMMARY:🇦🇷 Argentine 1-0 🇨🇭 Suisse
 DTSTART:20140701T160000Z
 DTEND:20140701T180000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-ca480f16565a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Arena de São Paulo\, São Paulo\nMi
  -temps: 0-0\nFin du match: 0-0\nProlongation: 1-0

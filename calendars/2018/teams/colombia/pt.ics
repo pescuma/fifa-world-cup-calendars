@@ -65,13 +65,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colômbia 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingl
- aterra
+SUMMARY:🇨🇴 Colômbia 1[3]-[4]1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglater
+ ra
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Spartak Stadium\, Moscow\nInterval
  o: 0-0\nFinal: 1-1\nProrrogação: 1-1\nPênaltis: 3-4

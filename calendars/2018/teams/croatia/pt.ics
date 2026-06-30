@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croácia 1+1[3]-[2]1+1 🇩🇰 Dinamarca
+SUMMARY:🇭🇷 Croácia 1[3]-[2]1 🇩🇰 Dinamarca
 DTSTART:20180701T180000Z
 DTEND:20180701T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-6cf00441c3d5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Nizhny Novgorod Stadium\, Nizhny N
  ovgorod\nIntervalo: 1-1\nFinal: 1-1\nProrrogação: 1-1\nPênaltis: 3-2
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇺 Rússia 1+2[3]-[4]2+1 🇭🇷 Croácia
+SUMMARY:🇷🇺 Rússia 2[3]-[4]2 🇭🇷 Croácia
 DTSTART:20180707T180000Z
 DTEND:20180707T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-737589396e84@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Fisht Stadium\, Sochi\nIntervalo: 1-
  1\nFinal: 1-1\nProrrogação: 2-2\nPênaltis: 3-4
@@ -103,12 +103,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croácia 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇭🇷 Croácia 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstádio: Luzhniki Stadium\, Moscow\nIntervalo: 0
  -1\nFinal: 1-1\nProrrogação: 2-1

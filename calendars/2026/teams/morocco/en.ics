@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 1+1[2]-[3]1+1 🇲🇦 Morocco
+SUMMARY:🇳🇱 Netherlands 1[2]-[3]1 🇲🇦 Morocco
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260630T054035Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2026-cf8f93430d95@worldcup-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 32\nVenue: Monterrey (Guadalupe)\nHalf-time: 0-0\nFul
  l-time: 1-1\nExtra time: 1-1\nPenalties: 2-3

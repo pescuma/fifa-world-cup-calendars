@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 0+0[4]-[3]0+0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Países Bajos 0[4]-[3]0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Arena Fonte Nova\, Salvador\nDescanso
  : 0-0\nFinal: 0-0\nPrórroga: 0-0\nPenaltis: 4-3
@@ -103,12 +103,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 0+0[2]-[4]0+0 🇦🇷 Argentina
+SUMMARY:🇳🇱 Países Bajos 0[2]-[4]0 🇦🇷 Argentina
 DTSTART:20140709T200000Z
 DTEND:20140709T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-1e9405e1ee58@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Arena de São Paulo\, São Paulo\nDescan
  so: 0-0\nFinal: 0-0\nPrórroga: 0-0\nPenaltis: 2-4

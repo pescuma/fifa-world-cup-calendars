@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 1+1[2]-[3]1+1 🇲🇦 Marruecos
+SUMMARY:🇳🇱 Países Bajos 1[2]-[3]1 🇲🇦 Marruecos
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260630T054035Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2026-cf8f93430d95@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Dieciseisavos de Final\nEstadio: Monterrey (Guadalupe)\nDescan
  so: 0-0\nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 2-3

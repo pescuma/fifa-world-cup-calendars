@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇯🇵 Japão 1+1[1]-[3]1+1 🇭🇷 Croácia
+SUMMARY:🇯🇵 Japão 1[1]-[3]1 🇭🇷 Croácia
 DTSTART:20221205T180000Z
 DTEND:20221205T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-5e5998b06e42@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Al Janoub Stadium\, Al Wakrah\nInt
  ervalo: 1-0\nFinal: 1-1\nProrrogação: 1-1\nPênaltis: 1-3
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croácia 0+1[4]-[2]1+0 🇧🇷 Brasil
+SUMMARY:🇭🇷 Croácia 1[4]-[2]1 🇧🇷 Brasil
 DTSTART:20221209T180000Z
 DTEND:20221209T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-459a33c9e8f8@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Education City Stadium\, Al Rayyan\n
  Intervalo: 0-0\nFinal: 0-0\nProrrogação: 1-1\nPênaltis: 4-2

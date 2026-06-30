@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Países Bajos 2+2[3]-[4]2+2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Países Bajos 2[3]-[4]2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Lusail Iconic Stadium\, Lusail\nDesca
  nso: 1-0\nFinal: 2-2\nPrórroga: 2-2\nPenaltis: 3-4

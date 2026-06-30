@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Allemagne 0+2-1+0 🇩🇿 Algérie
+SUMMARY:🇩🇪 Allemagne 2-1 🇩🇿 Algérie
 DTSTART:20140630T200000Z
 DTEND:20140630T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-21cd9c47d530@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Estádio Beira-Rio\, Porto Alegre\nM
  i-temps: 0-0\nFin du match: 0-0\nProlongation: 2-1

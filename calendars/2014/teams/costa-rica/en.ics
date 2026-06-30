@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇷 Costa Rica 1+1[5]-[3]1+1 🇬🇷 Greece
+SUMMARY:🇨🇷 Costa Rica 1[5]-[3]1 🇬🇷 Greece
 DTSTART:20140629T200000Z
 DTEND:20140629T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-565b87160dbe@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Arena Pernambuco\, Recife\nHalf-time: 0-0\
  nFull-time: 1-1\nExtra time: 1-1\nPenalties: 5-3
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 0+0[4]-[3]0+0 🇨🇷 Costa Rica
+SUMMARY:🇳🇱 Netherlands 0[4]-[3]0 🇨🇷 Costa Rica
 DTSTART:20140705T200000Z
 DTEND:20140705T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-f2e0050c68ea@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Arena Fonte Nova\, Salvador\nHalf-time:
   0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 4-3

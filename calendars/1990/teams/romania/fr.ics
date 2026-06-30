@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇪 Irlande 0+0[5]-[4]0+0 🇷🇴 Roumanie
+SUMMARY:🇮🇪 Irlande 0[5]-[4]0 🇷🇴 Roumanie
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-f403f8a64eb1@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Stadio Luigi Ferraris\, Genoa\nFin d
  u match: 0-0\nProlongation: 0-0\nTirs au but: 5-4

@@ -691,12 +691,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇲 Camarões 0+2-1+0 🇨🇴 Colômbia
+SUMMARY:🇨🇲 Camarões 2-1 🇨🇴 Colômbia
 DTSTART;VALUE=DATE:19900623
 DTEND;VALUE=DATE:19900624
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-bc43e75399e1@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio San Paolo\, Naples\nFinal: 
  0-0\nProrrogação: 2-1
@@ -766,12 +766,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇪 Irlanda 0+0[5]-[4]0+0 🇷🇴 Romênia
+SUMMARY:🇮🇪 Irlanda 0[5]-[4]0 🇷🇴 Romênia
 DTSTART;VALUE=DATE:19900625
 DTEND;VALUE=DATE:19900626
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-f403f8a64eb1@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio Luigi Ferraris\, Genoa\nFin
  al: 0-0\nProrrogação: 0-0\nPênaltis: 5-4
@@ -803,12 +803,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha 1+1-2+1 🇷🇸🇲🇪 Iugoslávia
+SUMMARY:🇪🇸 Espanha 1-2 🇷🇸🇲🇪 Iugoslávia
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-4368897c34cd@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio Marc'Antonio Bentegodi\, Ve
  rona\nFinal: 1-1\nProrrogação: 1-2
@@ -822,12 +822,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+1-0+0 🇧🇪 Bélgica
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Stadio Renato Dall'Ara\, Bologna\n
  Final: 0-0\nProrrogação: 1-0
@@ -841,12 +841,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇷🇸🇲🇪 Iugoslávia 0+0[2]-[3]0+0 🇦🇷 Argentina
+SUMMARY:🇷🇸🇲🇪 Iugoslávia 0[2]-[3]0 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900630
 DTEND;VALUE=DATE:19900701
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-c0883f1c1d24@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Stadio Artemio Franchi\, Florence\nF
  inal: 0-0\nProrrogação: 0-0\nPênaltis: 2-3
@@ -896,12 +896,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2+3-2+2 🇨🇲 Camarões
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-2 🇨🇲 Camarões
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstádio: Stadio San Paolo\, Naples\nFinal: 2-
  2\nProrrogação: 3-2
@@ -915,12 +915,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Itália 1+1[3]-[4]1+1 🇦🇷 Argentina
+SUMMARY:🇮🇹 Itália 1[3]-[4]1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:19900703
 DTEND;VALUE=DATE:19900704
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-bc1e7a76a756@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstádio: Stadio San Paolo\, Naples\nFinal: 1-1\n
  Prorrogação: 1-1\nPênaltis: 3-4
@@ -934,13 +934,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemanha Ocidental 1+1[4]-[3]1+1 🏴󠁧󠁢󠁥󠁮󠁧
- 󠁿 Inglaterra
+SUMMARY:🇩🇪 Alemanha Ocidental 1[4]-[3]1 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  Inglaterra
 DTSTART;VALUE=DATE:19900704
 DTEND;VALUE=DATE:19900705
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-6756c39edd07@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstádio: Stadio delle Alpi\, Turin\nFinal: 1-1\n
  Prorrogação: 1-1\nPênaltis: 4-3

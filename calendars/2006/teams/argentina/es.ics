@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentina 1+2-1+1 🇲🇽 México
+SUMMARY:🇦🇷 Argentina 2-1 🇲🇽 México
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Zentralstadion\, Leipzig\nDescanso:
   1-1\nFinal: 1-1\nPrórroga: 2-1
@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania 1+1[4]-[2]1+1 🇦🇷 Argentina
+SUMMARY:🇩🇪 Alemania 1[4]-[2]1 🇦🇷 Argentina
 DTSTART;VALUE=DATE:20060630
 DTEND;VALUE=DATE:20060701
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-5f3d299b44d5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarterfinals\nEstadio: Olympiastadion\, Berlin\nDescanso: 0-0
  \nFinal: 1-1\nPrórroga: 1-1\nPenaltis: 4-2

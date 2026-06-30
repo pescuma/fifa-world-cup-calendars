@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Netherlands 2+2[3]-[4]2+2 🇦🇷 Argentina
+SUMMARY:🇳🇱 Netherlands 2[3]-[4]2 🇦🇷 Argentina
 DTSTART:20221209T220000Z
 DTEND:20221210T000000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-d2931a53c4b3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nVenue: Lusail Iconic Stadium\, Lusail\nHalf-ti
  me: 1-0\nFull-time: 2-2\nExtra time: 2-2\nPenalties: 3-4

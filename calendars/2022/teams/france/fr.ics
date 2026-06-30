@@ -122,12 +122,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 2+3[4]-[2]3+2 🇫🇷 France
+SUMMARY:🇦🇷 Argentine 3[4]-[2]3 🇫🇷 France
 DTSTART:20221218T180000Z
 DTEND:20221218T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-34577768497f@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Finale\nStade: Lusail Iconic Stadium\, Lusail\nMi-temps: 2-0\n
  Fin du match: 2-2\nProlongation: 3-3\nTirs au but: 4-2

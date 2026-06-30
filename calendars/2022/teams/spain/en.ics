@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Morocco 0+0[3]-[0]0+0 🇪🇸 Spain
+SUMMARY:🇲🇦 Morocco 0[3]-[0]0 🇪🇸 Spain
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Education City Stadium\, Al Rayyan\nHalf-t
  ime: 0-0\nFull-time: 0-0\nExtra time: 0-0\nPenalties: 3-0

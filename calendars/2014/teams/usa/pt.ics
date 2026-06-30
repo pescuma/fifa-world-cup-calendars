@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇧🇪 Bélgica 0+2-1+0 🇺🇸 Estados Unidos
+SUMMARY:🇧🇪 Bélgica 2-1 🇺🇸 Estados Unidos
 DTSTART:20140701T200000Z
 DTEND:20140701T220000Z
-DTSTAMP:20260619T145643Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2014-48ebee68d232@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Oitavas de Final\nEstádio: Arena Fonte Nova\, Salvador\nInter
  valo: 0-0\nFinal: 0-0\nProrrogação: 2-1

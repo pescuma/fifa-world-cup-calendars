@@ -84,12 +84,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Italia 0+0[3]-[4]0+0 🇫🇷 Francia
+SUMMARY:🇮🇹 Italia 0[3]-[4]0 🇫🇷 Francia
 DTSTART;VALUE=DATE:19980703
 DTEND;VALUE=DATE:19980704
-DTSTAMP:20260619T145641Z
+DTSTAMP:20260630T141425Z
 UID:fifa-wc-1998-e45c5bdeb93d@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Stade de France\, Saint-Denis\nFinal:
   0-0\nPrórroga: 0-0\nPenaltis: 3-4

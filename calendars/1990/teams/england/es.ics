@@ -66,12 +66,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 0+1-0+0 🇧🇪 Bélgica
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-0 🇧🇪 Bélgica
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Octavos de Final\nEstadio: Stadio Renato Dall'Ara\, Bologna\nF
  inal: 0-0\nPrórroga: 1-0
@@ -85,12 +85,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2+3-2+2 🇨🇲 Camerún
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 3-2 🇨🇲 Camerún
 DTSTART;VALUE=DATE:19900701
 DTEND;VALUE=DATE:19900702
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-1ed642387ab5@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Quarter-finals\nEstadio: Stadio San Paolo\, Naples\nFinal: 2-2
  \nPrórroga: 3-2
@@ -104,13 +104,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇩🇪 Alemania Occidental 1+1[4]-[3]1+1 🏴󠁧󠁢󠁥󠁮
- 󠁧󠁿 Inglaterra
+SUMMARY:🇩🇪 Alemania Occidental 1[4]-[3]1 🏴󠁧󠁢󠁥󠁮󠁧
+ 󠁿 Inglaterra
 DTSTART;VALUE=DATE:19900704
 DTEND;VALUE=DATE:19900705
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-6756c39edd07@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nEstadio: Stadio delle Alpi\, Turin\nFinal: 1-1\nP
  rórroga: 1-1\nPenaltis: 4-3

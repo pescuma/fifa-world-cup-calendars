@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espagne 1+1-2+1 🇷🇸🇲🇪 Yougoslavie
+SUMMARY:🇪🇸 Espagne 1-2 🇷🇸🇲🇪 Yougoslavie
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-4368897c34cd@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Stadio Marc'Antonio Bentegodi\, Vero
  na\nFin du match: 1-1\nProlongation: 1-2

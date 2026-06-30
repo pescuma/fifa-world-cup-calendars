@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇷 Argentine 1+2-1+1 🇲🇽 Mexique
+SUMMARY:🇦🇷 Argentine 2-1 🇲🇽 Mexique
 DTSTART;VALUE=DATE:20060624
 DTEND;VALUE=DATE:20060625
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-2fe61d4873ba@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Zentralstadion\, Leipzig\nMi-temps: 
  1-1\nFin du match: 1-1\nProlongation: 2-1

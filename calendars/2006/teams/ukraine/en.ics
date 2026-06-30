@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇭 Switzerland 0+0[0]-[3]0+0 🇺🇦 Ukraine
+SUMMARY:🇨🇭 Switzerland 0[0]-[3]0 🇺🇦 Ukraine
 DTSTART;VALUE=DATE:20060626
 DTEND;VALUE=DATE:20060627
-DTSTAMP:20260619T145642Z
+DTSTAMP:20260630T141426Z
 UID:fifa-wc-2006-c4f921f1b83a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: RheinEnergieStadion\, Köln\nFull-time: 0-
  0\nExtra time: 0-0\nPenalties: 0-3

@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇲🇦 Maroc 0+0[3]-[0]0+0 🇪🇸 Espagne
+SUMMARY:🇲🇦 Maroc 0[3]-[0]0 🇪🇸 Espagne
 DTSTART:20221206T180000Z
 DTEND:20221206T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141428Z
 UID:fifa-wc-2022-82a16d487fa6@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Education City Stadium\, Al Rayyan\n
  Mi-temps: 0-0\nFin du match: 0-0\nProlongation: 0-0\nTirs au but: 3-0

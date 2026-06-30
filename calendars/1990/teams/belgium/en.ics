@@ -65,12 +65,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0+1-0+0 🇧🇪 Belgium
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 1-0 🇧🇪 Belgium
 DTSTART;VALUE=DATE:19900626
 DTEND;VALUE=DATE:19900627
-DTSTAMP:20260619T145640Z
+DTSTAMP:20260630T141424Z
 UID:fifa-wc-1990-b37683b6ad4a@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Round of 16\nVenue: Stadio Renato Dall'Ara\, Bologna\nFull-tim
  e: 0-0\nExtra time: 1-0

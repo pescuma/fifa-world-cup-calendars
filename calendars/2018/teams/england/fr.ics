@@ -66,13 +66,13 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇴 Colombie 1+1[3]-[4]1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angle
- terre
+SUMMARY:🇨🇴 Colombie 1[3]-[4]1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterr
+ e
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-49d106457a9c@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:1/8ème de finale\nStade: Spartak Stadium\, Moscow\nMi-temps: 
  0-0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 3-4
@@ -105,12 +105,12 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇭🇷 Croatie 1+2-1+1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇭🇷 Croatie 2-1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20180711T180000Z
 DTEND:20180711T200000Z
-DTSTAMP:20260619T145644Z
+DTSTAMP:20260630T141427Z
 UID:fifa-wc-2018-f1a7968eaad3@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
 DESCRIPTION:Semi-finals\nStade: Luzhniki Stadium\, Moscow\nMi-temps: 0-1\n
  Fin du match: 1-1\nProlongation: 2-1
