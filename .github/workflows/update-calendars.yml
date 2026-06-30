@@ -2,8 +2,7 @@ name: Update World Cup Calendars
 
 on:
   schedule:
-    # Daily at 04:17 UTC (off-peak to avoid GitHub Actions queuing delays)
-    - cron: '17 4 * * *'
+    - cron: '14 * * * *'
   workflow_dispatch:
 
 concurrency:
