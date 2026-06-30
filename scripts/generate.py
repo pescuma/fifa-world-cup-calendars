@@ -720,14 +720,14 @@ def format_score_summary(t, match: dict) -> str | None:
     r = ""
 
     ft = score.get("ft")
-    if ft and len(ft) == 2:
-        l = ft[0]
-        r = ft[1]
 
     et = score.get("et")
     if et and len(et) == 2:
-        l = f"{l}+{et[0]}"
-        r = f"{et[1]}+{r}"
+        l = et[0]
+        r = et[1]
+    elif ft and len(ft) == 2:
+        l = ft[0]
+        r = ft[1]
 
     p = score.get("p")
     if p and len(p) == 2:
