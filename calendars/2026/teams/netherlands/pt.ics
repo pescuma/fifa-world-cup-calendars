@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Holanda x 🇲🇦 Marrocos
+SUMMARY:🇳🇱 Holanda 1+1[2]-[3]1+1 🇲🇦 Marrocos
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260627T053517Z
+DTSTAMP:20260630T054035Z
 UID:fifa-wc-2026-cf8f93430d95@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Dezesseis-avos de Final\nEstádio: Monterrey (Guadalupe)
+DESCRIPTION:Dezesseis-avos de Final\nEstádio: Monterrey (Guadalupe)\nInte
+ rvalo: 0-0\nFinal: 1-1\nProrrogação: 1-1\nPênaltis: 2-3
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

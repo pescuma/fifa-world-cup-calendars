@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇱 Pays-Bas vs 🇲🇦 Maroc
+SUMMARY:🇳🇱 Pays-Bas 1+1[2]-[3]1+1 🇲🇦 Maroc
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260627T053517Z
+DTSTAMP:20260630T054035Z
 UID:fifa-wc-2026-cf8f93430d95@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/16ème de finale\nStade: Monterrey (Guadalupe)
+DESCRIPTION:1/16ème de finale\nStade: Monterrey (Guadalupe)\nMi-temps: 0-
+ 0\nFin du match: 1-1\nProlongation: 1-1\nTirs au but: 2-3
 LOCATION:Monterrey (Guadalupe)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
