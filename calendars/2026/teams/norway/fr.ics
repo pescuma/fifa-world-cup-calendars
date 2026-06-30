@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇮 Côte d’Ivoire vs 🇳🇴 Norvège
+SUMMARY:🇨🇮 Côte d’Ivoire 1-2 🇳🇴 Norvège
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260630T195542Z
 UID:fifa-wc-2026-921b9ac0b401@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/16ème de finale\nStade: Dallas (Arlington)
+DESCRIPTION:1/16ème de finale\nStade: Dallas (Arlington)\nMi-temps: 0-1\n
+ Fin du match: 1-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

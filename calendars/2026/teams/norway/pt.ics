@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇨🇮 Costa do Marfim x 🇳🇴 Noruega
+SUMMARY:🇨🇮 Costa do Marfim 1-2 🇳🇴 Noruega
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260630T195542Z
 UID:fifa-wc-2026-921b9ac0b401@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Dezesseis-avos de Final\nEstádio: Dallas (Arlington)
+DESCRIPTION:Dezesseis-avos de Final\nEstádio: Dallas (Arlington)\nInterva
+ lo: 0-1\nFinal: 1-2
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
