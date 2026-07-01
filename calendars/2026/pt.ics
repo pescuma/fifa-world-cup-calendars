@@ -1508,15 +1508,16 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra x 🇨🇩 Congo - Kinshas
- a
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-1 🇨🇩 Congo - Kinsh
+ asa
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260701T185654Z
 UID:fifa-wc-2026-64d381f99150@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Dezesseis-avos de Final\nEstádio: Atlanta
+DESCRIPTION:Dezesseis-avos de Final\nEstádio: Atlanta\nIntervalo: 0-1\nFi
+ nal: 2-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE

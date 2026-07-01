@@ -1507,14 +1507,14 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 Congo - Kinshasa
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 2-1 🇨🇩 Congo - Kinshasa
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260701T185654Z
 UID:fifa-wc-2026-64d381f99150@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Round of 32\nVenue: Atlanta
+DESCRIPTION:Round of 32\nVenue: Atlanta\nHalf-time: 0-1\nFull-time: 2-1
 LOCATION:Atlanta
 STATUS:CONFIRMED
 TRANSP:OPAQUE
